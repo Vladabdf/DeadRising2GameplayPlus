@@ -1,0 +1,270 @@
+cItemPlacement grinder
+{
+	ItemName = "BHPit"
+	Location = "0,-2.260,3.643"
+	NonInteractableProp = "true"
+	PropState = "4"
+	Rotation = "0,0,0,1"
+}
+
+cItemPlacement JackpotTarget
+{
+	ItemName = "MinigameTarget"
+	Location = "-1.600,8.140,3.643"
+	Rotation = "0,0,0,1"
+}
+
+cItemPlacement JackpotTargetMechanism
+{
+	ItemName = "BHTarget"
+	Location = "0.030,6.950,3.653"
+	Rotation = "0,0,0,1"
+}
+
+cItemPlacement preload_flower
+{
+	FixedOnInitialPlacement = "true"
+	ItemName = "lwn_flower"
+	Location = "0,-5,0"
+	Rotation = "0,0,0,1"
+}
+
+
+cPolygonLarge L_Arena
+{
+	Height = "50"
+	NumVertex = "8"
+	Vertex0 = "-93.630,-4.999,94.444"
+	Vertex1 = "-62.356,-4.999,130.415"
+	Vertex2 = "52.363,-4.999,128.838"
+	Vertex3 = "87.449,-4.999,97.758"
+	Vertex4 = "88.708,-4.999,-103.395"
+	Vertex5 = "56.206,-4.999,-136.869"
+	Vertex6 = "-60.088,-4.999,-138.523"
+	Vertex7 = "-93.866,-4.999,-104.083"
+}
+
+cLightContextVolume LC_Arena
+{
+	ContextFileName = "/arena_stadium.csv"
+	QuadName = "L_Arena"
+}
+
+
+cSpawnPoint Start
+{
+	CameraHeading = "-20.074"
+	CameraHeading1 = "159.729"
+	CameraHeading2 = "-157.240"
+	CameraHeading3 = "20.120"
+	CameraPitch = "-21.007"
+	CameraPitch1 = "-19.572"
+	CameraPitch2 = "-20.148"
+	CameraPitch3 = "-17.698"
+	Location0 = "11.129,6.679,-28.657"
+	Location1 = "-11.098,6.679,35.416"
+	Location2 = "10.907,6.679,35.500"
+	Location3 = "-11.271,6.679,-28.903"
+	Rotation0 = "-0.655"
+	Rotation1 = "2.802"
+	Rotation2 = "-2.852"
+	Rotation3 = "0.371"
+}
+
+
+cItemPlacement p1_blocker_1
+{
+	IsStatic = ""
+	ItemName = "BHBlocker"
+	Location = "12.900,6.338,-27.028"
+	Rotation = "0.000,-0.939,0.000,0.320"
+}
+
+cItemPlacement p1_blocker_2
+{
+	IsStatic = ""
+	ItemName = "BHBlocker"
+	Location = "10.252,6.338,-26.744"
+	Rotation = "0.000,0.983,0.000,0.212"
+}
+
+cItemPlacement p1_blocker_3
+{
+	IsStatic = ""
+	ItemName = "BHBlocker"
+	Location = "8.774,6.338,-28.958"
+	Rotation = "0.000,0.721,0.000,0.690"
+}
+
+cItemPlacement p1_rail_2
+{
+	IsStatic = ""
+	ItemName = "BHBlockerRail"
+	Location = "10.252,5.680,-26.744"
+	Rotation = "0.000,0.983,0.000,0.212"
+}
+
+cItemPlacement p1_rail_3
+{
+	IsStatic = ""
+	ItemName = "BHBlockerRail"
+	Location = "8.774,5.680,-28.958"
+	Rotation = "0.000,0.721,0.000,0.690"
+}
+
+cItemPlacement p1_rail_1
+{
+	IsStatic = ""
+	ItemName = "BHBlockerRail"
+	Location = "12.900,5.680,-27.028"
+	Rotation = "0.000,-0.939,0.000,0.320"
+}
+
+
+cItemPlacement p2_blocker_1
+{
+	IsStatic = ""
+	ItemName = "BHBlocker"
+	Location = "-12.809,6.338,34.012"
+	Rotation = "0.000,0.296,0.000,0.935"
+}
+
+cItemPlacement p2_blocker_2
+{
+	IsStatic = ""
+	ItemName = "BHBlocker"
+	Location = "-10.176,6.338,33.785"
+	Rotation = "0.000,0.222,0.000,-0.972"
+}
+
+cItemPlacement p2_blocker_3
+{
+	IsStatic = ""
+	ItemName = "BHBlocker"
+	Location = "-8.732,6.338,35.995"
+	Rotation = "0.000,0.735,0.000,-0.765"
+}
+
+cItemPlacement p2_rail_3
+{
+	IsStatic = ""
+	ItemName = "BHBlockerRail"
+	Location = "-8.732,5.680,35.995"
+	Rotation = "0.000,0.735,0.000,-0.765"
+}
+
+cItemPlacement p2_rail_2
+{
+	IsStatic = ""
+	ItemName = "BHBlockerRail"
+	Location = "-10.176,5.680,33.785"
+	Rotation = "0.000,0.222,0.000,-0.972"
+}
+
+cItemPlacement p2_rail_1
+{
+	IsStatic = ""
+	ItemName = "BHBlockerRail"
+	Location = "-12.809,5.680,34.012"
+	Rotation = "0.000,0.296,0.000,0.935"
+}
+
+
+cItemPlacement p3_blocker_1
+{
+	IsStatic = ""
+	ItemName = "BHBlocker"
+	Location = "8.796,6.338,35.850"
+	Rotation = "0.002,-0.670,-0.002,-0.732"
+}
+
+cItemPlacement p3_blocker_2
+{
+	IsStatic = ""
+	ItemName = "BHBlocker"
+	Location = "10.375,6.338,33.711"
+	Rotation = "0.000,0.195,0.002,0.988"
+}
+
+cItemPlacement p3_blocker_3
+{
+	IsStatic = ""
+	ItemName = "BHBlocker"
+	Location = "13.019,6.338,34.126"
+	Rotation = "0.000,-0.344,0.002,0.935"
+}
+
+cItemPlacement p3_rail_1
+{
+	IsStatic = ""
+	ItemName = "BHBlockerRail"
+	Location = "8.800,5.68,35.850"
+	Rotation = "0.002,-0.670,-0.002,-0.732"
+}
+
+cItemPlacement p3_rail_3
+{
+	IsStatic = ""
+	ItemName = "BHBlockerRail"
+	Location = "13.023,5.68,34.126"
+	Rotation = "0.000,-0.344,0.002,0.935"
+}
+
+cItemPlacement p3_rail_2
+{
+	IsStatic = ""
+	ItemName = "BHBlockerRail"
+	Location = "10.379,5.68,33.711"
+	Rotation = "0.000,0.195,0.002,0.988"
+}
+
+
+cItemPlacement p4_blocker_1
+{
+	IsStatic = ""
+	ItemName = "BHBlocker"
+	Location = "-8.759,6.338,-28.833"
+	Rotation = "0.000,-0.728,0.000,0.657"
+}
+
+cItemPlacement p4_blocker_2
+{
+	IsStatic = ""
+	ItemName = "BHBlocker"
+	Location = "-10.320,6.338,-26.701"
+	Rotation = "0.000,0.979,0.000,-0.197"
+}
+
+cItemPlacement p4_blocker_3
+{
+	IsStatic = ""
+	ItemName = "BHBlocker"
+	Location = "-12.938,6.338,-27.067"
+	Rotation = "0.000,1.000,0.000,0.353"
+}
+
+cItemPlacement p4_rail_3
+{
+	IsStatic = ""
+	ItemName = "BHBlockerRail"
+	Location = "-12.938,5.680,-27.067"
+	Rotation = "0.000,1.000,0.000,0.353"
+}
+
+cItemPlacement p4_rail_2
+{
+	IsStatic = ""
+	ItemName = "BHBlockerRail"
+	Location = "-10.320,5.680,-26.701"
+	Rotation = "0.000,0.979,0.000,-0.197"
+}
+
+cItemPlacement p4_rail_1
+{
+	IsStatic = ""
+	ItemName = "BHBlockerRail"
+	Location = "-8.759,5.680,-28.833"
+	Rotation = "0.000,-0.728,0.000,0.657"
+}
+
+

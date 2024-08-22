@@ -1,0 +1,54 @@
+------------------------------------------------------------------------
+r13 | rick | 2011-10-26 18:59:53 +0000 (Wed, 26 Oct 2011) | 1 line
+
+Update license files.
+------------------------------------------------------------------------
+r12 | rick | 2011-10-26 18:53:21 +0000 (Wed, 26 Oct 2011) | 2 lines
+
+- Replace Gibbed.Helpers with Gibbed.IO.
+- Use NDesk.Options from new repository.
+------------------------------------------------------------------------
+r11 | rick | 2010-10-10 22:07:44 +0000 (Sun, 10 Oct 2010) | 1 line
+
+Debug mode notes.
+------------------------------------------------------------------------
+r10 | rick | 2010-10-10 16:54:58 +0000 (Sun, 10 Oct 2010) | 1 line
+
+Those tabs weren't there, honest.
+------------------------------------------------------------------------
+r9 | rick | 2010-10-10 16:54:06 +0000 (Sun, 10 Oct 2010) | 1 line
+
+
+------------------------------------------------------------------------
+r8 | rick | 2010-10-08 21:19:44 +0000 (Fri, 08 Oct 2010) | 1 line
+
+No longer breaks with .big archives that have files with compression scheme of 2 (Case Zero .big archives), but we can't uncompress those anyway. :(
+------------------------------------------------------------------------
+r7 | rick | 2010-09-29 22:20:30 +0000 (Wed, 29 Sep 2010) | 1 line
+
+Decrease some buffer sizes.
+------------------------------------------------------------------------
+r6 | rick | 2010-09-29 21:42:36 +0000 (Wed, 29 Sep 2010) | 1 line
+
+Fixed compression. Turns out Dead Rising 2 uses MAX_WBITS=12 rather than the default MAX_WBITS=15 for zlib, and this was causing the game to barf when loading compressed data. Built a custom version of SharpZipLib with MAX_WBITS=8 to use.
+------------------------------------------------------------------------
+r5 | rick | 2010-09-29 14:15:18 +0000 (Wed, 29 Sep 2010) | 1 line
+
+Force compression off while packing for now, since that's broken.
+------------------------------------------------------------------------
+r4 | rick | 2010-09-29 14:02:35 +0000 (Wed, 29 Sep 2010) | 1 line
+
+Preliminary pack code. Untested with DR2 itself.
+------------------------------------------------------------------------
+r3 | rick | 2010-09-29 11:58:27 +0000 (Wed, 29 Sep 2010) | 1 line
+
+And now for a proper commit.
+------------------------------------------------------------------------
+r2 | rick | 2010-09-29 08:44:37 +0000 (Wed, 29 Sep 2010) | 1 line
+
+
+------------------------------------------------------------------------
+r1 | rick | 2010-09-29 08:30:13 +0000 (Wed, 29 Sep 2010) | 1 line
+
+Initial directory structure.
+------------------------------------------------------------------------

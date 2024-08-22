@@ -1,0 +1,148 @@
+cBossNode DivaBattleSpace
+{
+	Boss = "boss_diva"
+	Location = "-57.58, -1.23, -131.56"
+	Name = "DivaBattleSpace"
+	Rotation = "0, 0.785398163, 0"
+	Type = "8"
+}
+
+cBossNode DivaBattleRelocation0
+{
+	Boss = "boss_diva"
+	Location = "-3.25, 0.1, 0.25"
+	Name = "DivaBattleRelocation0"
+	Type = "10"
+}
+
+cBossNode DivaBattleRelocation1
+{
+	Boss = "boss_diva"
+	Location = "3.25, 0.1, 0.25"
+	Name = "DivaBattleRelocation1"
+	Type = "10"
+}
+
+cBossNode DivaBattleRelocation2
+{
+	Boss = "boss_diva"
+	Location = "-2.5, 0.1, -3.3"
+	Name = "DivaBattleRelocation2"
+	Type = "10"
+}
+
+cBossNode DivaBattleRelocation3
+{
+	Boss = "boss_diva"
+	Location = "2.5, 0.1, -3.3"
+	Name = "DivaBattleRelocation3"
+	Type = "10"
+}
+
+
+cBossNode DivaPlayerStart1
+{
+	Boss = "boss_diva"
+	Location = "-64.8, -1.12, -128.9"
+	Name = "DivaPlayerStart1"
+	Rotation = "0, -2.03531, 0"
+	Type = "9"
+}
+
+cBossNode DivaPlayerStart2
+{
+	Boss = "boss_diva"
+	Location = "-66.1, -1.1, -129.8"
+	Name = "DivaPlayerStart2"
+	Rotation = "0, -2.4712, 0"
+	Type = "9"
+}
+
+cItemPlacement Diva
+{
+	ItemName = "boss_diva"
+	Location = "-56.0, -1.23, -130.1"
+	Rotation = "1.0,0.0,0.0,1.0"
+}
+
+cBossNode Smoke0
+{
+	Boss = "boss_diva"
+	Location = "-3.25, 0.1, 0.25"
+	Name = "Smoke0"
+	Type = "4"
+}
+
+cBossNode Smoke1
+{
+	Boss = "boss_diva"
+	Location = "3.25, 0.1, 0.25"
+	Name = "Smoke1"
+	Type = "4"
+}
+
+cBossNode FireworksA0
+{
+	Boss = "boss_diva"
+	Location = "2.5, 0.1, -3.3"
+	Name = "FireworksA0"
+	Type = "0"
+}
+
+cBossNode FireworksA1
+{
+	Boss = "boss_diva"
+	Location = "-2.5, 0.1, -3.3"
+	Name = "FireworksA1"
+	Type = "0"
+}
+
+cBossNode FireworksX0
+{
+	Boss = "boss_diva"
+	Location = "3.5, 0.1, 0.6"
+	Name = "FireworksX0"
+	Type = "1"
+}
+
+cBossNode FireworksX1
+{
+	Boss = "boss_diva"
+	Location = "-3.5, 0.1, 0.6"
+	Name = "FireworksX1"
+	Type = "1"
+}
+
+cBossNode FireworksY0
+{
+	Boss = "boss_diva"
+	Location = "1.0, 0.1, 4.4"
+	Name = "FireworksY0"
+	Type = "2"
+}
+
+cBossNode FireworksY1
+{
+	Boss = "boss_diva"
+	Location = "-1.0, 0.1, 4.4"
+	Name = "FireworksY1"
+	Type = "2"
+}
+
+cBossNode Player1Interact
+{
+	Boss = "boss_diva"
+	Location = "-7.0, 0.1, -2.5"
+	Name = "Player1Interact"
+	Type = "5"
+}
+
+cBossNode Player2Interact
+{
+	Boss = "boss_diva"
+	Location = "-7.0, 0.1, -3.2"
+	Name = "Player2Interact"
+	Type = "5"
+}
+
+

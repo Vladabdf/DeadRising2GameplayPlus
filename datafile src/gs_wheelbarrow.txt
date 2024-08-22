@@ -1,0 +1,228 @@
+cItemPlacement furnace_blocker_1
+{
+	ItemName = "wall_long_invis_player_zombies_only"
+	Location = "0,-2,16.2"
+	Rotation = "0,0,0,1"
+	SpawnPropFromCategory = "3"
+}
+
+cItemPlacement wheelbarrow_Red
+{
+	ItemName = "IndustrialCart"
+	Location = "6.000,0,-25.000"
+	Rotation = "0,0,0,1"
+}
+
+cItemPlacement wheelbarrow_Blue
+{
+	ItemName = "IndustrialCart"
+	Location = "2.000,0,-25"
+	Rotation = "0,0,0,1"
+}
+
+cItemPlacement wheelbarrow_Green
+{
+	ItemName = "IndustrialCart"
+	Location = "-2.000,0,-25"
+	Rotation = "0,0,0,1"
+}
+
+cItemPlacement wheelbarrow_Yellow
+{
+	ItemName = "IndustrialCart"
+	Location = "-6.000,0,-25"
+	Rotation = "0,0,0,1"
+}
+
+cItemPlacement furnace_line
+{
+	ItemName = "wall_long_blocking"
+	Location = "0.000,-3.100,16"
+	Rotation = "0,0,0,1"
+}
+
+cItemPlacement gate_Yellow
+{
+	ItemName = "starting_gate"
+	Location = "-6,-2.48,-23"
+	PropState = "4"
+	Rotation = "0.000,0.966,-0.259,0.000"
+}
+
+cItemPlacement gate_Red
+{
+	ItemName = "starting_gate"
+	Location = "6,-2.48,-23"
+	PropState = "4"
+	Rotation = "0.000,0.966,-0.259,0.000"
+}
+
+cItemPlacement gate_Blue
+{
+	ItemName = "starting_gate"
+	Location = "2,-2.48,-23"
+	PropState = "4"
+	Rotation = "0.000,0.966,-0.259,0.000"
+}
+
+cItemPlacement gate_Green
+{
+	ItemName = "starting_gate"
+	Location = "-2,-2.48,-23"
+	PropState = "4"
+	Rotation = "0.000,0.966,-0.259,0.000"
+}
+
+
+cPolygonLarge L_Arena
+{
+	Height = "50"
+	NumVertex = "8"
+	Vertex0 = "-93.630,-4.999,94.444"
+	Vertex1 = "-62.356,-4.999,130.415"
+	Vertex2 = "52.363,-4.999,128.838"
+	Vertex3 = "87.449,-4.999,97.758"
+	Vertex4 = "88.708,-4.999,-103.395"
+	Vertex5 = "56.206,-4.999,-136.869"
+	Vertex6 = "-60.088,-4.999,-138.523"
+	Vertex7 = "-93.866,-4.999,-104.083"
+}
+
+cLightContextVolume LC_Arena
+{
+	ContextFileName = "/arena_stadium.csv"
+	QuadName = "L_Arena"
+}
+
+
+cSpawnPoint Start
+{
+	CameraHeading = "0"
+	CameraHeading1 = "0"
+	CameraHeading2 = "0"
+	CameraHeading3 = "0"
+	CameraPitch = "-20"
+	CameraPitch1 = "-20"
+	CameraPitch2 = "-20"
+	CameraPitch3 = "-20"
+	Location0 = "6,-2,-26.5"
+	Location1 = "2,-2,-26.5"
+	Location2 = "-2,-2,-26.5"
+	Location3 = "-6,-2,-26.5"
+	Rotation0 = "0"
+	Rotation1 = "0"
+	Rotation2 = "0"
+	Rotation3 = "1.4"
+}
+
+
+cZombieWarehouse Headache_warehouse
+{
+	cLineSegment zombies_4
+	{
+		Height = "2.0"
+		LineSegment = "True"
+		Location = "19.855,1.556,35.377"
+		Vertex1 = "-10.000,-2.000,-3.500"
+		Vertex2 = "10.000,-2.000,-3.500"
+		Vertex3 = "10.000,-2.000,-3.000"
+		Vertex4 = "-10.000,-2.000,-3.000"
+		Vertex5 = "17.379,-2.300,38.282"
+		Vertex6 = "22.327,6.574,38.442"
+		Vertex7 = "22.431,6.574,35.244"
+		Vertex8 = "17.483,-2.300,35.084"
+	}
+
+	cLineSegment zombies_5
+	{
+		Height = "2.0"
+		LineSegment = "True"
+		Location = "19.855,1.556,35.377"
+		Vertex1 = "-10.000,-2.000,-6.500"
+		Vertex2 = "10.000,-2.000,-6.500"
+		Vertex3 = "10.000,-2.000,-6.000"
+		Vertex4 = "-10.000,-2.000,-6.000"
+		Vertex5 = "17.379,-2.300,38.282"
+		Vertex6 = "22.327,6.574,38.442"
+		Vertex7 = "22.431,6.574,35.244"
+		Vertex8 = "17.483,-2.300,35.084"
+	}
+
+	cLineSegment zombies_6
+	{
+		Height = "2.0"
+		LineSegment = "True"
+		Location = "19.855,1.556,35.377"
+		Vertex1 = "-10.000,-2.000,-9.500"
+		Vertex2 = "10.000,-2.000,-9.500"
+		Vertex3 = "10.000,-2.000,-9.000"
+		Vertex4 = "-10.000,-2.000,-9.000"
+		Vertex5 = "17.379,-2.300,38.282"
+		Vertex6 = "22.327,6.574,38.442"
+		Vertex7 = "22.431,6.574,35.244"
+		Vertex8 = "17.483,-2.300,35.084"
+	}
+
+	cLineSegment zombies_7
+	{
+		Height = "2.0"
+		LineSegment = "True"
+		Location = "19.855,1.556,35.377"
+		Vertex1 = "-10.000,-2.000,-12.500"
+		Vertex2 = "10.000,-2.000,-12.500"
+		Vertex3 = "10.000,-2.000,-12.000"
+		Vertex4 = "-10.000,-2.000,-12.000"
+		Vertex5 = "17.379,-2.300,38.282"
+		Vertex6 = "22.327,6.574,38.442"
+		Vertex7 = "22.431,6.574,35.244"
+		Vertex8 = "17.483,-2.300,35.084"
+	}
+
+	cLineSegment zombies_8
+	{
+		Height = "2.0"
+		LineSegment = "True"
+		Location = "19.855,1.556,35.377"
+		Vertex1 = "-10.000,-2.000,-15.500"
+		Vertex2 = "10.000,-2.000,-15.500"
+		Vertex3 = "10.000,-2.000,-15.000"
+		Vertex4 = "-10.000,-2.000,-15.000"
+		Vertex5 = "17.379,-2.300,38.282"
+		Vertex6 = "22.327,6.574,38.442"
+		Vertex7 = "22.431,6.574,35.244"
+		Vertex8 = "17.483,-2.300,35.084"
+	}
+
+	cLineSegment zombies_3
+	{
+		Height = "2.0"
+		LineSegment = "True"
+		Location = "19.855,1.556,35.377"
+		Vertex1 = "-10.000,-2.000,-0.500"
+		Vertex2 = "10.000,-2.000,-0.500"
+		Vertex3 = "10.000,-2.000,0"
+		Vertex4 = "-10.000,-2.000,0"
+		Vertex5 = "17.379,-2.300,38.282"
+		Vertex6 = "22.327,6.574,38.442"
+		Vertex7 = "22.431,6.574,35.244"
+		Vertex8 = "17.483,-2.300,35.084"
+	}
+
+	cLineSegment zombies_2
+	{
+		Height = "2.0"
+		LineSegment = "True"
+		Location = "19.855,1.556,35.377"
+		Vertex1 = "-10.000,-2.000,2.500"
+		Vertex2 = "10.000,-2.000,2.500"
+		Vertex3 = "10.000,-2.000,3.000"
+		Vertex4 = "-10.000,-2.000,3.000"
+		Vertex5 = "17.379,-2.300,38.282"
+		Vertex6 = "22.327,6.574,38.442"
+		Vertex7 = "22.431,6.574,35.244"
+		Vertex8 = "17.483,-2.300,35.084"
+	}
+
+}
+
+

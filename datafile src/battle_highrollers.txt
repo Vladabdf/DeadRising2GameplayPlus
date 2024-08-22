@@ -1,0 +1,983 @@
+cBossNode BattleStartPosition
+{
+	Boss = "boss_magician2"
+	Location = "63, 2.25, 46.8"
+	Rotation = "0.0, 0.0, 0.0"
+	Type = "8"
+}
+
+cBossNode MagiciansPlayerStart0
+{
+	Location = "48.0, 1.5, 40.6"
+	Name = "MagiciansPlayerStart0"
+	Rotation = "0.0, 0.0, 0.0"
+	Type = "9"
+}
+
+cBossNode MagiciansPlayerStart1
+{
+	Location = "49.9, 1.5, 40.0"
+	Name = "MagiciansPlayerStart1"
+	Rotation = "0.0, 0.3, 0.0"
+	Type = "9"
+}
+
+cItemPlacement HighBomber
+{
+	ItemName = "boss_magician1"
+	Location = "54.985,1.428,48.275"
+	Rotation = "0.000,-2.245,0.000,1.000"
+}
+
+cItemPlacement HighChaser
+{
+	ItemName = "boss_magician2"
+	Location = "52.777,1.429,46.130"
+	Rotation = "0.000,-2.400,0.000,1.000"
+}
+
+cItemPlacement HighBomberWeapon
+{
+	DisablePhysicsOnInitialPlacement = "true"
+	ItemName = "FireworksBazooka_Bomber"
+	Location = "54.985,1.428,48.275"
+	Rotation = "0.0, -0.9, 0.0"
+}
+
+cItemPlacement HighChaserKnife1
+{
+	DisablePhysicsOnInitialPlacement = "true"
+	ItemName = "RightBlade"
+	Location = "52.783,1.429,46.130"
+	Rotation = "0, 6.2832, 0"
+}
+
+cItemPlacement HighChaserKnife2
+{
+	DisablePhysicsOnInitialPlacement = "true"
+	ItemName = "LeftBlade"
+	Location = "52.779,1.429,46.127"
+	Rotation = "0, 6.2832, 0"
+}
+
+cBossNode HighBomberRetreat000
+{
+	Boss = "boss_magician1"
+	Location = "14.8, 0.0, 3.0"
+	Name = "HighBomberRetreat000"
+	Type = "6"
+}
+
+cBossNode HighBomberRetreat001
+{
+	Boss = "boss_magician1"
+	Location = "6.2, 0.0, 13.0"
+	Name = "HighBomberRetreat001"
+	Type = "6"
+}
+
+cBossNode HighBomberRetreat002
+{
+	Boss = "boss_magician1"
+	Location = "2.8, 0.0, 10.0"
+	Name = "HighBomberRetreat002"
+	Type = "6"
+}
+
+cBossNode HighBomberRetreat003
+{
+	Boss = "boss_magician1"
+	Location = "8.5, 0.0, 0.6"
+	Name = "HighBomberRetreat003"
+	Type = "6"
+}
+
+cBossNode HighBomberRetreat004
+{
+	Boss = "boss_magician1"
+	Location = "10.5, 0.0, 7.6"
+	Name = "HighBomberRetreat004"
+	Type = "6"
+}
+
+cBossNode HighChaserZone000
+{
+	Boss = "boss_magician2"
+	Location = "-24.94,-0.69,-0.19"
+	Name = "HighChaserZone000"
+	Type = "4"
+}
+
+cBossNode HighChaserZone001
+{
+	Boss = "boss_magician2"
+	Location = "-22.99,-0.75,-1.03"
+	Name = "HighChaserZone001"
+	Type = "4"
+}
+
+cBossNode HighChaserZone002
+{
+	Boss = "boss_magician2"
+	Location = "-20.0,-0.75, -7.0"
+	Name = "HighChaserZone002"
+	Type = "4"
+}
+
+cBossNode HighChaserZone006
+{
+	Boss = "boss_magician2"
+	Location = "-25.55,-0.50,-20.58"
+	Name = "HighChaserZone006"
+	Type = "4"
+}
+
+cBossNode HighChaserZone007
+{
+	Boss = "boss_magician2"
+	Location = "-23.91,-0.73,-27.21"
+	Name = "HighChaserZone007"
+	Type = "4"
+}
+
+cBossNode HighChaserZone008
+{
+	Boss = "boss_magician2"
+	Location = "-24.10,-0.73,-32.30"
+	Name = "HighChaserZone008"
+	Type = "4"
+}
+
+cBossNode HighChaserZone009
+{
+	Boss = "boss_magician2"
+	Location = "-18.04,-0.73,-34.03"
+	Name = "HighChaserZone009"
+	Type = "4"
+}
+
+cBossNode HighChaserZone010
+{
+	Boss = "boss_magician2"
+	Location = "-14.84,-0.73,-36.82"
+	Name = "HighChaserZone010"
+	Type = "4"
+}
+
+cBossNode HighChaserZone011
+{
+	Boss = "boss_magician2"
+	Location = "-8.11,-0.70,-38.86"
+	Name = "HighChaserZone011"
+	Type = "4"
+}
+
+cBossNode HighChaserZone012
+{
+	Boss = "boss_magician2"
+	Location = "-5.95,-0.70,-42.53"
+	Name = "HighChaserZone012"
+	Type = "4"
+}
+
+cBossNode HighChaserZone013
+{
+	Boss = "boss_magician2"
+	Location = "0.69,-0.70,-42.68"
+	Name = "HighChaserZone013"
+	Type = "4"
+}
+
+cBossNode HighChaserZone014
+{
+	Boss = "boss_magician2"
+	Location = "8.52,-0.70,-41.10"
+	Name = "HighChaserZone014"
+	Type = "4"
+}
+
+cBossNode HighChaserZone015
+{
+	Boss = "boss_magician2"
+	Location = "16.24,-0.70,-40.73"
+	Name = "HighChaserZone015"
+	Type = "4"
+}
+
+cBossNode HighChaserZone016
+{
+	Boss = "boss_magician2"
+	Location = "19.75,-0.70,-34.50"
+	Name = "HighChaserZone016"
+	Type = "4"
+}
+
+cBossNode HighChaserZone017
+{
+	Boss = "boss_magician2"
+	Location = "20.08,-0.70,-27.90"
+	Name = "HighChaserZone017"
+	Type = "4"
+}
+
+cBossNode HighChaserZone018
+{
+	Boss = "boss_magician2"
+	Location = "18.38,-0.70,-23.16"
+	Name = "HighChaserZone018"
+	Type = "4"
+}
+
+cBossNode HighChaserZone019
+{
+	Boss = "boss_magician2"
+	Location = "12.86,-0.70,-15.02"
+	Name = "HighChaserZone019"
+	Type = "4"
+}
+
+cBossNode HighChaserZone020
+{
+	Boss = "boss_magician2"
+	Location = "11.46,-0.72,-10.43"
+	Name = "HighChaserZone020"
+	Type = "4"
+}
+
+cBossNode HighChaserZone021
+{
+	Boss = "boss_magician2"
+	Location = "4.18,-0.69,-11.25"
+	Name = "HighChaserZone021"
+	Type = "4"
+}
+
+cBossNode HighChaserZone022
+{
+	Boss = "boss_magician2"
+	Location = "0.35,-0.69,-10.55"
+	Name = "HighChaserZone022"
+	Type = "4"
+}
+
+cBossNode HighChaserZone023
+{
+	Boss = "boss_magician2"
+	Location = "-2.73,-0.69,-8.82"
+	Name = "HighChaserZone023"
+	Type = "4"
+}
+
+cBossNode HighChaserZone024
+{
+	Boss = "boss_magician2"
+	Location = "-7.19,-0.69,-4.18"
+	Name = "HighChaserZone024"
+	Type = "4"
+}
+
+cBossNode HighChaserZone025
+{
+	Boss = "boss_magician2"
+	Location = "-8.97,-0.69,2.46"
+	Name = "HighChaserZone025"
+	Type = "4"
+}
+
+cBossNode HighChaserZone026
+{
+	Boss = "boss_magician2"
+	Location = "-9.4,-0.69,4.7"
+	Name = "HighChaserZone026"
+	Type = "4"
+}
+
+cBossNode HighChaserZone027
+{
+	Boss = "boss_magician2"
+	Location = "-15.6,-0.69,7.9"
+	Name = "HighChaserZone027"
+	Type = "4"
+}
+
+cBossNode HighChaserZone028
+{
+	Boss = "boss_magician2"
+	Location = "-20.4,-0.69,13.5"
+	Name = "HighChaserZone028"
+	Type = "4"
+}
+
+cBossNode HighChaserZone029
+{
+	Boss = "boss_magician2"
+	Location = "-26.0,-0.69,15.5"
+	Name = "HighChaserZone029"
+	Type = "4"
+}
+
+cBossNode HighChaserZone030
+{
+	Boss = "boss_magician2"
+	Location = "-35.6,-0.69,14.3"
+	Name = "HighChaserZone030"
+	Type = "4"
+}
+
+cBossNode HighChaserZone032
+{
+	Boss = "boss_magician2"
+	Location = "-38.1,-0.69,-0.7"
+	Name = "HighChaserZone032"
+	Type = "4"
+}
+
+cBossNode HighChaserZone033
+{
+	Boss = "boss_magician2"
+	Location = "-31.1,-0.69, 2.1"
+	Name = "HighChaserZone033"
+	Type = "4"
+}
+
+cBossNode HighBomberOutOfZone000
+{
+	Boss = "boss_magician1"
+	Location = "-2.15,-0.82,-7.7"
+	Name = "HighBomberOutOfZone000"
+	Type = "2"
+}
+
+cBossNode HighChaserAmbush0
+{
+	Boss = "boss_magician2"
+	Location = "-12.25, -0.82, -8.1"
+	Name = "HighChaserAmbush0"
+	Type = "1"
+}
+
+cBossNode HighChaserAmbush1
+{
+	Boss = "boss_magician2"
+	Location = "-10.25, -0.82, -10.5"
+	Name = "HighChaserAmbush1"
+	Type = "1"
+}
+
+cBossNode HighChaserAmbush2
+{
+	Boss = "boss_magician2"
+	Location = "-15.90, -0.82, -10.4"
+	Name = "HighChaserAmbush2"
+	Type = "1"
+}
+
+cBossNode HighChaserAmbush3
+{
+	Boss = "boss_magician2"
+	Location = "-14.10, -0.82, -13.3"
+	Name = "HighChaserAmbush3"
+	Type = "1"
+}
+
+cBossNode HighChaserAmbush4
+{
+	Boss = "boss_magician2"
+	Location = "-10.90, -0.82, -13.85"
+	Name = "HighChaserAmbush4"
+	Type = "1"
+}
+
+cBossNode HighChaserAmbush5
+{
+	Boss = "boss_magician2"
+	Location = "-15.40, -0.82, -7.35"
+	Name = "HighChaserAmbush5"
+	Type = "1"
+}
+
+cBossNode HighChaserAmbush6
+{
+	Boss = "boss_magician2"
+	Location = "-18.4, -0.82, -13.3"
+	Name = "HighChaserAmbush6"
+	Type = "1"
+}
+
+cBossNode HighChaserAmbush6a
+{
+	Boss = "boss_magician2"
+	Location = "-15.25, -0.82, -13.7"
+	Name = "HighChaserAmbush6a"
+	Type = "1"
+}
+
+cBossNode HighChaserAmbush6b
+{
+	Boss = "boss_magician2"
+	Location = "-14.06, -0.82, -14.8"
+	Name = "HighChaserAmbush6b"
+	Type = "1"
+}
+
+cBossNode HighChaserAmbush7
+{
+	Boss = "boss_magician2"
+	Location = "-17.5, -0.82, -17.8"
+	Name = "HighChaserAmbush7"
+	Type = "1"
+}
+
+cBossNode HighChaserAmbush7a
+{
+	Boss = "boss_magician2"
+	Location = "-18.6, -0.82, -16.0"
+	Name = "HighChaserAmbush7a"
+	Type = "1"
+}
+
+cBossNode HighChaserAmbush8
+{
+	Boss = "boss_magician2"
+	Location = "-14.6, -0.82, -17.80"
+	Name = "HighChaserAmbush8"
+	Type = "1"
+}
+
+cBossNode HighChaserAmbush10
+{
+	Boss = "boss_magician2"
+	Location = "-20.3, -0.82, -20.6"
+	Name = "HighChaserAmbush10"
+	Type = "1"
+}
+
+cBossNode HighChaserAmbush10a
+{
+	Boss = "boss_magician2"
+	Location = "-17.4, -0.82, -20.2"
+	Name = "HighChaserAmbush10a"
+	Type = "1"
+}
+
+cBossNode HighChaserAmbush10b
+{
+	Boss = "boss_magician2"
+	Location = "-14.6, -0.82, -22.3"
+	Name = "HighChaserAmbush105"
+	Type = "1"
+}
+
+cBossNode HighChaserAmbush10c
+{
+	Boss = "boss_magician2"
+	Location = "-16.6, -0.82, -25.15"
+	Name = "HighChaserAmbush10c"
+	Type = "1"
+}
+
+cBossNode HighChaserAmbush11
+{
+	Boss = "boss_magician2"
+	Location = "-20.5, -0.77, -24.0"
+	Name = "HighChaserAmbush11"
+	Type = "1"
+}
+
+cBossNode HighChaserAmbush12
+{
+	Boss = "boss_magician2"
+	Location = "-18.59, -0.82, -25.81"
+	Name = "HighChaserAmbush12"
+	Type = "1"
+}
+
+cBossNode HighChaserAmbush13
+{
+	Boss = "boss_magician2"
+	Location = "-17.92, -0.82, -23.52"
+	Name = "HighChaserAmbush13"
+	Type = "1"
+}
+
+cBossNode HighChaserAmbush14
+{
+	Boss = "boss_magician2"
+	Location = "-14.6, -0.82, -26.7"
+	Name = "HighChaserAmbush14"
+	Type = "1"
+}
+
+cBossNode HighChaserAmbush15
+{
+	Boss = "boss_magician2"
+	Location = "-14.0, -0.82, -29.56"
+	Name = "HighChaserAmbush15"
+	Type = "1"
+}
+
+cBossNode HighChaserAmbush16
+{
+	Boss = "boss_magician2"
+	Location = "-11.5, -0.82, -31.27"
+	Name = "HighChaserAmbush16"
+	Type = "1"
+}
+
+cBossNode HighChaserAmbush17
+{
+	Boss = "boss_magician2"
+	Location = "-8.4, -0.82, -30.2"
+	Name = "HighChaserAmbush17"
+	Type = "1"
+}
+
+cBossNode HighChaserAmbush18
+{
+	Boss = "boss_magician2"
+	Location = "-9.68, -0.82, -27.90"
+	Name = "HighChaserAmbush18"
+	Type = "1"
+}
+
+cBossNode HighChaserAmbush19
+{
+	Boss = "boss_magician2"
+	Location = "-12.36, -0.82, -25.94"
+	Name = "HighChaserAmbush19"
+	Type = "1"
+}
+
+cBossNode HighChaserAmbush20
+{
+	Boss = "boss_magician2"
+	Location = "-6.89, -0.82, -33.03"
+	Name = "HighChaserAmbush20"
+	Type = "1"
+}
+
+cBossNode HighChaserAmbush21
+{
+	Boss = "boss_magician2"
+	Location = "-2.59, -0.82, -33.43"
+	Name = "HighChaserAmbush21"
+	Type = "1"
+}
+
+cBossNode HighChaserAmbush22
+{
+	Boss = "boss_magician2"
+	Location = "-4.39, -0.82, -29.82"
+	Name = "HighChaserAmbush22"
+	Type = "1"
+}
+
+cBossNode HighChaserAmbush23
+{
+	Boss = "boss_magician2"
+	Location = "0.74, -0.82, -33.04"
+	Name = "HighChaserAmbush23"
+	Type = "1"
+}
+
+cBossNode HighChaserAmbush24
+{
+	Boss = "boss_magician2"
+	Location = "2.41, -0.82, -35.74"
+	Name = "HighChaserAmbush24"
+	Type = "1"
+}
+
+cBossNode HighChaserAmbush25
+{
+	Boss = "boss_magician2"
+	Location = "4.30, -0.82, -33.64"
+	Name = "HighChaserAmbush25"
+	Type = "1"
+}
+
+cBossNode HighChaserAmbush26
+{
+	Boss = "boss_magician2"
+	Location = "3.24, -0.82, -30.72"
+	Name = "HighChaserAmbush26"
+	Type = "1"
+}
+
+cBossNode HighChaserAmbush27
+{
+	Boss = "boss_magician2"
+	Location = "3.55, -0.81, -39.00"
+	Name = "HighChaserAmbush27"
+	Type = "1"
+}
+
+cBossNode HighChaserAmbush28
+{
+	Boss = "boss_magician2"
+	Location = "6.68, -0.81, -39.60"
+	Name = "HighChaserAmbush28"
+	Type = "1"
+}
+
+cBossNode HighChaserAmbush29
+{
+	Boss = "boss_magician2"
+	Location = "8.25, -0.81, -37.09"
+	Name = "HighChaserAmbush29"
+	Type = "1"
+}
+
+cBossNode HighChaserAmbush30
+{
+	Boss = "boss_magician2"
+	Location = "5.29, -0.81, -36.64"
+	Name = "HighChaserAmbush30"
+	Type = "1"
+}
+
+cBossNode HighChaserAmbush31
+{
+	Boss = "boss_magician2"
+	Location = "11.11, -0.81, -37.13"
+	Name = "HighChaserAmbush31"
+	Type = "1"
+}
+
+cBossNode HighChaserAmbush32
+{
+	Boss = "boss_magician2"
+	Location = "12.32, -0.81, -39.32"
+	Name = "HighChaserAmbush32"
+	Type = "1"
+}
+
+cBossNode HighChaserAmbush33
+{
+	Boss = "boss_magician2"
+	Location = "15.15, -0.82, -39.06"
+	Name = "HighChaserAmbush33"
+	Type = "1"
+}
+
+cBossNode HighChaserAmbush34
+{
+	Boss = "boss_magician2"
+	Location = "14.06, -0.82, -36.33"
+	Name = "HighChaserAmbush34"
+	Type = "1"
+}
+
+cBossNode HighChaserAmbush35
+{
+	Boss = "boss_magician2"
+	Location = "17.24, -0.82, -31.00"
+	Name = "HighChaserAmbush35"
+	Type = "1"
+}
+
+cBossNode HighChaserAmbush36
+{
+	Boss = "boss_magician2"
+	Location = "16.48, -0.82, -27.31"
+	Name = "HighChaserAmbush36"
+	Type = "1"
+}
+
+cBossNode HighChaserAmbush37
+{
+	Boss = "boss_magician2"
+	Location = "13.70, -0.82, -30.02"
+	Name = "HighChaserAmbush37"
+	Type = "1"
+}
+
+cBossNode HighChaserAmbush38
+{
+	Boss = "boss_magician2"
+	Location = "12.66, -0.82, -20.56"
+	Name = "HighChaserAmbush38"
+	Type = "1"
+}
+
+cBossNode HighChaserAmbush39
+{
+	Boss = "boss_magician2"
+	Location = "10.50, -0.82, -17.86"
+	Name = "HighChaserAmbush39"
+	Type = "1"
+}
+
+cBossNode HighChaserAmbush40
+{
+	Boss = "boss_magician2"
+	Location = "9.05, -0.82, -21.33"
+	Name = "HighChaserAmbush40"
+	Type = "1"
+}
+
+cBossNode HighChaserAmbush41
+{
+	Boss = "boss_magician2"
+	Location = "5.87, -0.80, -20.03"
+	Name = "HighChaserAmbush41"
+	Type = "1"
+}
+
+cBossNode HighChaserAmbush42
+{
+	Boss = "boss_magician2"
+	Location = "4.17, -0.80, -17.19"
+	Name = "HighChaserAmbush42"
+	Type = "1"
+}
+
+cBossNode HighChaserAmbush43
+{
+	Boss = "boss_magician2"
+	Location = "2.32, -0.82, -19.64"
+	Name = "HighChaserAmbush43"
+	Type = "1"
+}
+
+cBossNode HighChaserAmbush44
+{
+	Boss = "boss_magician2"
+	Location = "3.75, -0.82, -22.64"
+	Name = "HighChaserAmbush44"
+	Type = "1"
+}
+
+cBossNode HighChaserAmbush45
+{
+	Boss = "boss_magician2"
+	Location = "-1.22, -0.77, -16.23"
+	Name = "HighChaserAmbush45"
+	Type = "1"
+}
+
+cBossNode HighChaserAmbush46
+{
+	Boss = "boss_magician2"
+	Location = "-3.58, -0.82, -18.40"
+	Name = "HighChaserAmbush46"
+	Type = "1"
+}
+
+cBossNode HighChaserAmbush47
+{
+	Boss = "boss_magician2"
+	Location = "-3.08, -0.82, -21.64"
+	Name = "HighChaserAmbush47"
+	Type = "1"
+}
+
+cBossNode HighChaserAmbush48
+{
+	Boss = "boss_magician2"
+	Location = "-0.55, -0.82, -19.91"
+	Name = "HighChaserAmbush48"
+	Type = "1"
+}
+
+cBossNode HighChaserAmbush49
+{
+	Boss = "boss_magician2"
+	Location = "-5.89, -0.82, -14.28"
+	Name = "HighChaserAmbush49"
+	Type = "1"
+}
+
+cBossNode HighChaserAmbush50
+{
+	Boss = "boss_magician2"
+	Location = "-8.72, -0.82, -15.49"
+	Name = "HighChaserAmbush50"
+	Type = "1"
+}
+
+cBossNode HighChaserAmbush51
+{
+	Boss = "boss_magician2"
+	Location = "-8.78, -0.82, -19.05"
+	Name = "HighChaserAmbush51"
+	Type = "1"
+}
+
+cBossNode HighChaserAmbush52
+{
+	Boss = "boss_magician2"
+	Location = "-6.12, -0.82, -17.69"
+	Name = "HighChaserAmbush52"
+	Type = "1"
+}
+
+cBossNode HighChaserAmbush53
+{
+	Boss = "boss_magician2"
+	Location = "-12.78, -0.82, -20.73"
+	Name = "HighChaserAmbush53"
+	Type = "1"
+}
+
+cBossNode HighChaserAmbush54
+{
+	Boss = "boss_magician2"
+	Location = "-11.61, -0.82, -23.91"
+	Name = "HighChaserAmbush54"
+	Type = "1"
+}
+
+cBossNode HighChaserAmbush55
+{
+	Boss = "boss_magician2"
+	Location = "-8.52, -0.82, -25.66"
+	Name = "HighChaserAmbush5"
+	Type = "1"
+}
+
+cBossNode HighChaserAmbush56
+{
+	Boss = "boss_magician2"
+	Location = "-5.25, -0.82, -25.4"
+	Name = "HighChaserAmbush56"
+	Type = "1"
+}
+
+cBossNode HighChaserAmbush57
+{
+	Boss = "boss_magician2"
+	Location = "-5.9, -0.82, -22.0"
+	Name = "HighChaserAmbush57"
+	Type = "1"
+}
+
+cBossNode HighChaserAmbush58
+{
+	Boss = "boss_magician2"
+	Location = "-5.51, -0.82, -20.70"
+	Name = "HighChaserAmbush58"
+	Type = "1"
+}
+
+cBossNode HighChaserAmbush59
+{
+	Boss = "boss_magician2"
+	Location = "-3.34, -0.82, -25.64"
+	Name = "HighChaserAmbush59"
+	Type = "1"
+}
+
+cBossNode HighChaserAmbush60
+{
+	Boss = "boss_magician2"
+	Location = "-1.29, -0.82, -28.20"
+	Name = "HighChaserAmbush60"
+	Type = "1"
+}
+
+cBossNode HighChaserAmbush61
+{
+	Boss = "boss_magician2"
+	Location = "2.08, -0.82, -27.12"
+	Name = "HighChaserAmbush61"
+	Type = "1"
+}
+
+cBossNode HighChaserAmbush62
+{
+	Boss = "boss_magician2"
+	Location = "-0.06, -0.82, -24.67"
+	Name = "HighChaserAmbush62"
+	Type = "1"
+}
+
+cBossNode HighChaserAmbush63
+{
+	Boss = "boss_magician2"
+	Location = "-11.6, -0.82, -21.6"
+	Name = "HighChaserAmbush63"
+	Type = "1"
+}
+
+cBossNode HighChaserAmbush64
+{
+	Boss = "boss_magician2"
+	Location = "6.52, -0.82, -28.66"
+	Name = "HighChaserAmbush64"
+	Type = "1"
+}
+
+cBossNode HighChaserAmbush64a
+{
+	Boss = "boss_magician2"
+	Location = "4.8, -0.82, -27.05"
+	Name = "HighChaserAmbush64a"
+	Type = "1"
+}
+
+cBossNode HighChaserAmbush65
+{
+	Boss = "boss_magician2"
+	Location = "10.14, -0.82, -28.16"
+	Name = "HighChaserAmbush65"
+	Type = "1"
+}
+
+cBossNode HighChaserAmbush66
+{
+	Boss = "boss_magician2"
+	Location = "11.52, -0.82, -26.23"
+	Name = "HighChaserAmbush66"
+	Type = "1"
+}
+
+cBossNode HighChaserAmbush67
+{
+	Boss = "boss_magician2"
+	Location = "9.53, -0.82, -24.51"
+	Name = "HighChaserAmbush67"
+	Type = "1"
+}
+
+cBossNode HighChaserAmbush68
+{
+	Boss = "boss_magician2"
+	Location = "6.03, -0.82, -24.99"
+	Name = "HighChaserAmbush68"
+	Type = "1"
+}
+
+cBossNode HighChaserAmbush69
+{
+	Boss = "boss_magician2"
+	Location = "8.63, -0.82, -32.76"
+	Name = "HighChaserAmbush69"
+	Type = "1"
+}
+
+cBossNode HighChaserAmbush70
+{
+	Boss = "boss_magician2"
+	Location = "10.33, -0.82, -34.58"
+	Name = "HighChaserAmbush70"
+	Type = "1"
+}
+
+cBossNode HighChaserAmbush71
+{
+	Boss = "boss_magician2"
+	Location = "11.89, -0.82, -32.41"
+	Name = "HighChaserAmbush71"
+	Type = "1"
+}
+
+cBossNode HighChaserAmbush72
+{
+	Boss = "boss_magician2"
+	Location = "9.83, -0.82, -30.79"
+	Name = "HighChaserAmbush72"
+	Type = "1"
+}
+
+

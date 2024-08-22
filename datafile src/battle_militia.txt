@@ -1,0 +1,426 @@
+cItemPlacement Militia1
+{
+	ItemName = "boss_militiamen1"
+	Location = "-200.434,4.341,-1.723"
+	Rotation = "0,0,0,1"
+}
+
+cItemPlacement Militia2
+{
+	ItemName = "boss_militiamen4"
+	Location = "-67.9, 14.6, -57.9"
+	Rotation = "0,0,0,1"
+}
+
+cItemPlacement Militia3
+{
+	ItemName = "boss_militiamen3"
+	Location = "-160.9, -0.7, 24.9"
+	Rotation = "0,0,0,1"
+}
+
+cItemPlacement Militia4
+{
+	ItemName = "boss_militiamen2"
+	Location = "-18.8, 13.2, 10.6"
+	Rotation = "0,0,0,1"
+}
+
+cItemPlacement MilitiaSniperRifle1
+{
+	DisablePhysicsOnInitialPlacement = "true"
+	ItemName = "MilitiaSniperRifle"
+	Location = "-160.4, -0.7, 24.1"
+}
+
+cItemPlacement MilitiaSniperRifle2
+{
+	DisablePhysicsOnInitialPlacement = "true"
+	ItemName = "MilitiaSniperRifle"
+	Location = "-67.9, 14.6, -57.9"
+}
+
+cItemPlacement MilitiaSniperRifle3
+{
+	DisablePhysicsOnInitialPlacement = "true"
+	ItemName = "MilitiaSniperRifle"
+	Location = "-199.8, 4.34, -1.1"
+}
+
+cItemPlacement MilitiaSniperRifle4
+{
+	DisablePhysicsOnInitialPlacement = "true"
+	ItemName = "MilitiaSniperRifle"
+	Location = "-18.8, 13.2, 10.6"
+}
+
+cItemPlacement MilitiaMachete
+{
+	DisablePhysicsOnInitialPlacement = "true"
+	ItemName = "MilitiaMachete"
+	Location = "-160.4, -0.7, 24.1"
+}
+
+cBossNode MilitiaLosNode1
+{
+	Boss = "boss_militia"
+	Location = "-160.9, -0.7, 24.9"
+	Name = "MilitiaLosNode1"
+	Rotation = "-0.9, 2.4689, 0.8"
+	Type = "0"
+}
+
+cBossNode MilitiaLosNode2
+{
+	Boss = "boss_militia"
+	Location = "-67.9, 14.6, -57.9"
+	Name = "MilitiaLosNode2"
+	Rotation = "-0.9, 0.38, 0.9"
+	Type = "0"
+}
+
+cBossNode MilitiaLosNode3
+{
+	Boss = "boss_militia"
+	Location = "-200.434,4.341,-1.723"
+	Name = "MilitiaLosNode3"
+	Rotation = "-0.9, 0.408, 0.9"
+	Type = "0"
+}
+
+cBossNode MilitiaLosNode4
+{
+	Boss = "boss_militia"
+	Location = "-18.8, 13.2, 10.6"
+	Name = "MilitiaLosNode4"
+	Rotation = "-0.9, -2.096, 0.9"
+	Type = "0"
+}
+
+cBossNode MilitiaDropNode1
+{
+	Boss = "boss_militia"
+	Location = "-173.9, -0.7, 23.9"
+	Name = "MilitiaDropNode1"
+	Rotation = "-1.0, -1.6821, 0.4"
+	Type = "5"
+}
+
+cBossNode MilitiaDropNode2
+{
+	Boss = "boss_militia"
+	Location = "-66.000,14.600,-55.400"
+	Name = "MilitiaDropNode2"
+	Rotation = "-0.9, 0.38, 0.9"
+	Type = "5"
+}
+
+cBossNode MilitiaDropNode3
+{
+	Boss = "boss_militia"
+	Location = "-198.400,4.340,-0.700"
+	Name = "MilitiaDropNode3"
+	Rotation = "-0.9, 1.158, 0.9"
+	Type = "5"
+}
+
+cBossNode MilitiaDropNode4
+{
+	Boss = "boss_militia"
+	Location = "-22.000,13.200,7.080"
+	Name = "MilitiaDropNode4"
+	Rotation = "-0.9, -1.6737, 0.9"
+	Type = "5"
+}
+
+cBossNode MilitiaBattleSpace
+{
+	Boss = "boss_militia"
+	Location = "0, 0, 0"
+	Name = "MilitiaBattleSpace"
+	Rotation = "0, 0, 0"
+	Type = "8"
+}
+
+cBossNode MilitiaPlayerStart
+{
+	Boss = "boss_militia"
+	Location = "-130, -0.5, 43"
+	Name = "MilitiaPlayerStart"
+	Rotation = "0, 1.8797, 0"
+	Type = "9"
+}
+
+cBossNode BossZone000
+{
+	Boss = "boss_militia"
+	Location = "-157.56,-0.59,25.55"
+	Name = "BossNode000"
+	Type = "4"
+}
+
+cBossNode BossZone001
+{
+	Boss = "boss_militia"
+	Location = "-161.68,-0.59,21.29"
+	Name = "BossNode001"
+	Type = "4"
+}
+
+cBossNode BossZone002
+{
+	Boss = "boss_militia"
+	Location = "-171.30,-0.59,21.26"
+	Name = "BossNode002"
+	Type = "4"
+}
+
+cBossNode BossZone003
+{
+	Boss = "boss_militia"
+	Location = "-171.30,-0.59,22.23"
+	Name = "BossNode003"
+	Type = "4"
+}
+
+cBossNode BossZone004
+{
+	Boss = "boss_militia"
+	Location = "-180.51,-0.59,22.26"
+	Name = "BossNode004"
+	Type = "4"
+}
+
+cBossNode BossZone005
+{
+	Boss = "boss_militia"
+	Location = "-186.05,-0.59,27.51"
+	Name = "BossNode005"
+	Type = "4"
+}
+
+cBossNode BossZone006
+{
+	Boss = "boss_militia"
+	Location = "-196.26,-0.59,27.79"
+	Name = "BossNode006"
+	Type = "4"
+}
+
+cBossNode BossZone007
+{
+	Boss = "boss_militia"
+	Location = "-196.26,-0.59,28.50"
+	Name = "BossNode007"
+	Type = "4"
+}
+
+cBossNode BossZone008
+{
+	Boss = "boss_militia"
+	Location = "-197.00,-0.59,28.50"
+	Name = "BossNode008"
+	Type = "4"
+}
+
+cBossNode BossZone009
+{
+	Boss = "boss_militia"
+	Location = "-197.00,-0.59,32.00"
+	Name = "BossNode009"
+	Type = "4"
+}
+
+cBossNode BossZone010
+{
+	Boss = "boss_militia"
+	Location = "-184.33,-0.59,31.87"
+	Name = "BossNode010"
+	Type = "4"
+}
+
+cBossNode BossZone011
+{
+	Boss = "boss_militia"
+	Location = "-173.95,-0.59,28.09"
+	Name = "BossNode011"
+	Type = "4"
+}
+
+cBossNode BossZone012
+{
+	Boss = "boss_militia"
+	Location = "-162.01,-0.59,27.95"
+	Name = "BossNode012"
+	Type = "4"
+}
+
+cWaypoint BossWaypoint000
+{
+	Location = "-160.37,-0.72,23.96"
+	Name = "BossWaypoint000"
+	Type = "1"
+}
+
+cWaypoint BossWaypoint001
+{
+	Location = "-165.04,-0.72,22.03"
+	Name = "BossWaypoint001"
+	Type = "1"
+}
+
+cWaypoint BossWaypoint002
+{
+	Location = "-173.64,-0.72,27.85"
+	Name = "BossWaypoint002"
+	Type = "1"
+}
+
+cWaypoint BossWaypoint003
+{
+	Location = "-173.68,-0.72,26.07"
+	Name = "BossWaypoint003"
+	Type = "1"
+}
+
+cWaypoint BossWaypoint004
+{
+	Location = "-173.42,-0.72,22.60"
+	Name = "BossWaypoint004"
+	Type = "1"
+}
+
+cWaypoint BossWaypoint005
+{
+	Location = "-173.31,-0.72,24.09"
+	Name = "BossWaypoint005"
+	Type = "1"
+}
+
+cWaypoint BossWaypoint006
+{
+	Location = "-162.08,-0.72,27.81"
+	Name = "BossWaypoint006"
+	Type = "1"
+}
+
+cWaypoint BossWaypoint007
+{
+	Location = "-158.86,-0.72,25.88"
+	Name = "BossWaypoint007"
+	Type = "1"
+}
+
+cWaypoint BossWaypoint008
+{
+	Location = "-161.73,-0.72,21.82"
+	Name = "BossWaypoint008"
+	Type = "1"
+}
+
+cWaypoint BossWaypoint009
+{
+	Location = "-166.03,-0.72,24.93"
+	Name = "BossWaypoint009"
+	Type = "1"
+}
+
+cWaypoint BossWaypoint010
+{
+	Location = "-180.09,-0.72,24.58"
+	Name = "BossWaypoint010"
+	Type = "1"
+}
+
+cWaypoint BossWaypoint011
+{
+	Location = "-179.00,-0.72,26.19"
+	Name = "BossWaypoint011"
+	Type = "1"
+}
+
+cWaypoint BossWaypoint012
+{
+	Location = "-180.76,-0.72,22.70"
+	Name = "BossWaypoint012"
+	Type = "1"
+}
+
+cWaypoint BossWaypoint013
+{
+	Location = "-182.74,-0.72,27.50"
+	Name = "BossWaypoint013"
+	Type = "1"
+}
+
+cWaypoint BossWaypoint014
+{
+	Location = "-181.390,-0.720,24.240"
+	Name = "BossWaypoint014"
+	Type = "1"
+}
+
+cWaypoint BossWaypoint015
+{
+	Location = "-180.85,-0.72,23.45"
+	Name = "BossWaypoint015"
+	Type = "1"
+}
+
+cWaypoint BossWaypoint016
+{
+	Location = "-185.86,-0.72,28.25"
+	Name = "BossWaypoint016"
+	Type = "1"
+}
+
+cWaypoint BossWaypoint017
+{
+	Location = "-184.44,-0.72,31.44"
+	Name = "BossWaypoint017"
+	Type = "1"
+}
+
+cWaypoint BossWaypoint018
+{
+	Location = "-185.34,-0.72,29.55"
+	Name = "BossWaypoint018"
+	Type = "1"
+}
+
+cWaypoint BossWaypoint019
+{
+	Location = "-193.25,-0.72,29.83"
+	Name = "BossWaypoint019"
+	Type = "1"
+}
+
+cWaypoint BossWaypoint020
+{
+	Location = "-195.67,-0.72,28.24"
+	Name = "BossWaypoint020"
+	Type = "1"
+}
+
+cWaypoint BossWaypoint021
+{
+	Location = "-196.55,-0.72,29.44"
+	Name = "BossWaypoint021"
+	Type = "1"
+}
+
+cWaypoint BossWaypoint022
+{
+	Location = "-196.53,-0.72,31.49"
+	Name = "BossWaypoint022"
+	Type = "1"
+}
+
+cWaypoint BossWaypoint023
+{
+	Location = "-188.51,-0.72,29.62"
+	Name = "BossWaypoint023"
+	Type = "1"
+}
+
+

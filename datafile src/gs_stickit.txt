@@ -1,0 +1,383 @@
+cItemPlacement tutu_disp1
+{
+	ItemName = "PaintingDispenser"
+	Location = "11.778,-2.489,10.729"
+	PropState = "3"
+	Rotation = "0.000,0.390,0.000,0.921"
+}
+
+cItemPlacement flower_disp1
+{
+	ItemName = "ServBotHeadDispenser"
+	Location = "-0.091,-2.489,17.326"
+	PropState = "3"
+	Rotation = "0,0,0,1"
+}
+
+cItemPlacement unicorn_disp1
+{
+	ItemName = "StickPonyDispenser"
+	Location = "12.195,-2.489,-2.739"
+	PropState = "3"
+	Rotation = "0.000,-0.436,0.000,0.900"
+}
+
+cItemPlacement tutu_disp2
+{
+	ItemName = "PaintingDispenser"
+	Location = "-12.073,-2.489,-3.117"
+	PropState = "3"
+	Rotation = "0.000,0.390,0.000,0.921"
+}
+
+cItemPlacement flower_disp2
+{
+	ItemName = "ServBotHeadDispenser"
+	Location = "-0.055,-2.489,-9.970"
+	PropState = "3"
+	Rotation = "0.000,-1.001,0.000,-0.031"
+}
+
+cItemPlacement unicorn_disp2
+{
+	ItemName = "StickPonyDispenser"
+	Location = "-11.810,-2.489,10.889"
+	PropState = "3"
+	Rotation = "0.000,-0.436,0.000,0.900"
+}
+
+cItemPlacement cage
+{
+	ItemName = "hattrick_cage"
+	Location = "0.000,-2.30,3.580"
+	Rotation = "0,0,0,1"
+}
+
+
+cPolygonLarge L_Arena
+{
+	Height = "50"
+	NumVertex = "8"
+	Vertex0 = "-93.630,-4.999,94.444"
+	Vertex1 = "-62.356,-4.999,130.415"
+	Vertex2 = "52.363,-4.999,128.838"
+	Vertex3 = "87.449,-4.999,97.758"
+	Vertex4 = "88.708,-4.999,-103.395"
+	Vertex5 = "56.206,-4.999,-136.869"
+	Vertex6 = "-60.088,-4.999,-138.523"
+	Vertex7 = "-93.866,-4.999,-104.083"
+}
+
+cLightContextVolume LC_Arena
+{
+	ContextFileName = "/arena_stadium.csv"
+	QuadName = "L_Arena"
+}
+
+
+cLineSegment zombiescenter
+{
+	Height = "2.0"
+	Location = "10.513,0.918,48.198"
+	Vertex1 = "-37.226,0.000,-9.374"
+	Vertex2 = "-37.173,0.100,-6.930"
+	Vertex3 = "-35.173,0.100,-6.974"
+	Vertex4 = "-35.226,0.000,-9.418"
+	Vertex5 = "-37.226,1.000,-9.374"
+	Vertex6 = "-37.173,1.100,-6.930"
+	Vertex7 = "-35.173,1.100,-6.974"
+	Vertex8 = "-35.226,1.000,-9.418"
+}
+
+
+cItemPlacement tutured
+{
+	ItemName = "stickin_painting"
+	Location = "0.049,-13.572,-0.624"
+	Rotation = "-0.111,-0.213,-0.077,0.968"
+	TextureSubType = "1"
+}
+
+cItemPlacement tutudmgred
+{
+	ItemName = "stickin_painting_dmg"
+	Location = "-0.604,-13.279,-0.196"
+	Rotation = "-0.149,-0.165,0.191,0.956"
+	TextureSubType = "1"
+}
+
+cItemPlacement unicornred
+{
+	ItemName = "StickIt_PonyOnStick"
+	Location = "1.522,-13.702,-0.130"
+	Rotation = "0.135,-0.747,-0.631,-0.159"
+	TextureSubType = "1"
+}
+
+cItemPlacement flowerred
+{
+	ItemName = "stickit_ServbotMask"
+	Location = "-0.254,-13.601,0.420"
+	Rotation = "0.413,0.515,0.528,0.534"
+	TextureSubType = "1"
+}
+
+cItemPlacement flowerdmgred
+{
+	ItemName = "stickit_ServbotMask_dmg"
+	Location = "-0.517,-13.413,0.584"
+	Rotation = "0.532,-0.075,0.658,0.527"
+	TextureSubType = "1"
+}
+
+cItemPlacement tutublue
+{
+	ItemName = "stickin_painting"
+	Location = "-2.103,-13.531,-3.272"
+	Rotation = "0.847,0.113,-0.515,0.066"
+}
+
+cItemPlacement tutudmgblue
+{
+	ItemName = "stickin_painting_dmg"
+	Location = "1.748,-13.472,-0.575"
+	Rotation = "-0.273,0.093,-0.953,-0.091"
+}
+
+cItemPlacement unicornblue
+{
+	ItemName = "StickIt_PonyOnStick"
+	Location = "1.853,-13.695,-0.273"
+	Rotation = "0.566,0.339,0.318,0.681"
+}
+
+cItemPlacement flowerblue
+{
+	ItemName = "stickit_ServbotMask"
+	Location = "0.499,-13.588,0.417"
+	Rotation = "0.415,-0.269,-0.580,0.648"
+}
+
+cItemPlacement flowerdmgblue
+{
+	ItemName = "stickit_ServbotMask_dmg"
+	Location = "0.772,-13.584,0.169"
+	Rotation = "-0.199,-0.569,-0.793,-0.083"
+}
+
+cItemPlacement tutugreen
+{
+	ItemName = "stickin_painting"
+	Location = "0.913,-13.531,-1.166"
+	Rotation = "-0.916,-0.013,-0.378,-0.131"
+	TextureSubType = "2"
+}
+
+cItemPlacement tutudmggreen
+{
+	ItemName = "stickin_painting_dmg"
+	Location = "-1.421,-13.527,-0.814"
+	Rotation = "-0.121,0.215,-0.017,0.969"
+	TextureSubType = "2"
+}
+
+cItemPlacement unicorngreen
+{
+	ItemName = "StickIt_PonyOnStick"
+	Location = "-1.897,-13.697,-7.727"
+	Rotation = "-0.025,0.180,0.660,-0.729"
+	TextureSubType = "2"
+}
+
+cItemPlacement flowergreen
+{
+	ItemName = "stickit_ServbotMask"
+	Location = "-0.508,-13.583,1.871"
+	Rotation = "0.011,-0.035,0.772,-0.635"
+	TextureSubType = "2"
+}
+
+cItemPlacement flowerdmggreen
+{
+	ItemName = "stickit_ServbotMask_dmg"
+	Location = "-1.217,-13.533,1.366"
+	Rotation = "0.450,0.431,-0.174,0.762"
+	TextureSubType = "2"
+}
+
+cItemPlacement tutuyellow
+{
+	ItemName = "stickin_painting"
+	Location = "1.524,-13.531,-1.728"
+	Rotation = "-0.976,-0.082,0.177,-0.100"
+	TextureSubType = "3"
+}
+
+cItemPlacement tutudmgyellow
+{
+	ItemName = "stickin_painting_dmg"
+	Location = "-0.351,-13.528,-1.471"
+	Rotation = "-0.111,-0.088,-0.052,0.989"
+	TextureSubType = "3"
+}
+
+cItemPlacement unicornyellow
+{
+	ItemName = "StickIt_PonyOnStick"
+	Location = "-6.546,-13.696,7.611"
+	Rotation = "0.366,-0.282,0.550,-0.696"
+	TextureSubType = "3"
+}
+
+cItemPlacement floweryellow
+{
+	ItemName = "stickit_ServbotMask"
+	Location = "0.403,-13.552,-0.097"
+	Rotation = "0.418,0.079,-0.344,0.837"
+	TextureSubType = "3"
+}
+
+cItemPlacement flowerdmgyellow
+{
+	ItemName = "stickit_ServbotMask_dmg"
+	Location = "-0.357,-13.538,-0.172"
+	Rotation = "0.478,0.271,0.166,0.819"
+	TextureSubType = "3"
+}
+
+
+cSpawnPoint Start
+{
+	CameraHeading = "-90.043"
+	CameraHeading1 = "89.807"
+	CameraHeading2 = "-179.204"
+	CameraHeading3 = "0.115"
+	CameraPitch = "-19"
+	CameraPitch1 = "-19"
+	CameraPitch2 = "-19"
+	CameraPitch3 = "-19"
+	Location0 = "-1.060,-2.362,3.464"
+	Location1 = "1.215,-2.362,3.601"
+	Location2 = "-0.090,-2.362,1.999"
+	Location3 = "0.016,-2.362,5.180"
+	Rotation0 = "-1.801"
+	Rotation1 = "1.474"
+	Rotation2 = "3.126"
+	Rotation3 = "0.160"
+}
+
+
+cZombieLoadSet zombie_preload_info
+{
+	cZombieLoadSetEntry entry_a
+	{
+		ZombieBodyType = "ZOMBIEBODYTYPE_AVERAGE"
+	}
+
+	cZombieLoadSetEntry entry_b
+	{
+		ZombieBodyType = "ZOMBIEBODYTYPE_ROMANO"
+	}
+
+	cZombieLoadSetEntry entry_c
+	{
+		ZombieBodyType = "ZOMBIEBODYTYPE_COCKTAILDRESS"
+	}
+
+	cZombieLoadSetEntry entry_d
+	{
+		ZombieBodyType = "ZOMBIEBODYTYPE_CHERRY"
+	}
+
+	cZombieLoadSetEntry entry_e
+	{
+		ZombieBodyType = "ZOMBIEBODYTYPE_FRANK"
+	}
+
+	cZombieLoadSetEntry entry_f
+	{
+		ZombieBodyType = "ZOMBIEBODYTYPE_GRADY"
+	}
+
+	cZombieLoadSetEntry entry_g
+	{
+		ZombieBodyType = "ZOMBIEBODYTYPE_JAMAL"
+	}
+
+	cZombieLoadSetEntry entry_h
+	{
+		ZombieBodyType = "ZOMBIEBODYTYPE_JAMES"
+	}
+
+	cZombieLoadSetEntry entry_i
+	{
+		ZombieBodyType = "ZOMBIEBODYTYPE_JEREMY"
+	}
+
+}
+
+cZombieWarehouse stickit_warehouse
+{
+	cLineSegment zombies_01
+	{
+		Height = "2.0"
+		LineSegment = "True"
+		Location = "19.855,1.556,35.377"
+		Vertex1 = "14,-2.400,6.5"
+		Vertex2 = "-14.000,-2.400,6.5"
+		Vertex3 = "-8.000,-2.400,17.000"
+		Vertex4 = "8.000,-2.400,17.000"
+		Vertex5 = "17.379,-2.300,38.282"
+		Vertex6 = "22.327,6.574,38.442"
+		Vertex7 = "22.431,6.574,35.244"
+		Vertex8 = "17.483,-2.300,35.084"
+	}
+
+	cLineSegment zombies_3
+	{
+		Height = "2.0"
+		LineSegment = "True"
+		Location = "19.855,1.556,35.377"
+		Vertex1 = "-3.000,-2.400,0.500"
+		Vertex2 = "-3.000,-2.400,6.5"
+		Vertex3 = "-14.000,-2.400,6.5"
+		Vertex4 = "-14.000,-2.400,0.5"
+		Vertex5 = "17.379,-2.300,38.282"
+		Vertex6 = "22.327,6.574,38.442"
+		Vertex7 = "22.431,6.574,35.244"
+		Vertex8 = "17.483,-2.300,35.084"
+	}
+
+	cLineSegment zombies_4
+	{
+		Height = "2.0"
+		LineSegment = "True"
+		Location = "19.855,1.556,35.377"
+		Vertex1 = "3,-2.4,0.5"
+		Vertex2 = "3,-2.400,6.400"
+		Vertex3 = "14,-2.400,6.5"
+		Vertex4 = "14,-2.400,0.5"
+		Vertex5 = "17.379,-2.300,38.282"
+		Vertex6 = "22.327,6.574,38.442"
+		Vertex7 = "22.431,6.574,35.244"
+		Vertex8 = "17.483,-2.300,35.084"
+	}
+
+	cLineSegment zombies_2
+	{
+		Height = "2.0"
+		LineSegment = "True"
+		Location = "19.855,1.556,35.377"
+		Vertex1 = "14.000,-2.400,0.500"
+		Vertex2 = "-14.000,-2.400,0.500"
+		Vertex3 = "-8.000,-2.400,-10.000"
+		Vertex4 = "8.000,-2.400,-10.000"
+		Vertex5 = "17.379,-2.300,38.282"
+		Vertex6 = "22.327,6.574,38.442"
+		Vertex7 = "22.431,6.574,35.244"
+		Vertex8 = "17.483,-2.300,35.084"
+	}
+
+}
+
+

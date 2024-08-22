@@ -1,0 +1,385 @@
+cDoorPlacement YucElevatorL
+{
+	CustomInteractionText = "50455"
+	InitialState = "8"
+	InteractionIconLocation = "185.507,29.693,-178.731"
+	IsStatic = ""
+	ItemName = "door_elevator"
+	Location = "178.660,28.843,-171.425"
+	MovementStyle = "1"
+	Rotation = "0.000,-0.921,0.000,0.392"
+	SiblingDoorName = "YucElevatorR"
+}
+
+cDoorPlacement YucElevatorR
+{
+	CustomInteractionText = "50455"
+	InitialState = "7"
+	InteractionIconLocation = "185.507,30.203,-178.731"
+	IsStatic = ""
+	ItemName = "door_elevator"
+	Location = "176.710,28.843,-169.413"
+	MovementStyle = "1"
+	NonInteractableProp = "true"
+	Rotation = "0.000,0.389,0.000,0.923"
+	SiblingDoorName = "YucElevatorL"
+}
+
+cItemPlacement ElevatorPanel
+{
+	ItemName = "ElevatorPanel"
+	Location = "176.342,29.411,-169.654"
+	Rotation = "0.000,0.377,0.000,0.929"
+}
+
+
+cItemPlacement Vodka
+{
+	ItemName = "Vodka"
+	Location = "169.362,29.274,-178.790"
+	Rotation = "-0.000,-0.000,-0.000,1.000"
+}
+
+cItemPlacement Vodka1
+{
+	ItemName = "Vodka"
+	Location = "169.584,29.276,-178.891"
+	Rotation = "0.002,-0.997,-0.000,-0.077"
+}
+
+cItemPlacement Vodka2
+{
+	ItemName = "Vodka"
+	Location = "170.117,29.138,-179.574"
+	Rotation = "0.117,0.160,0.697,-0.689"
+}
+
+cItemPlacement Sushi
+{
+	ItemName = "Sushi"
+	Location = "154.287,28.921,-187.030"
+	Rotation = "0.001,-0.612,0.000,0.791"
+}
+
+cItemPlacement Wine
+{
+	ItemName = "Wine"
+	Location = "154.023,29.110,-187.481"
+	Rotation = "0.001,0.100,-0.000,0.995"
+}
+
+cItemPlacement Pasta
+{
+	ItemName = "Pasta"
+	Location = "154.716,28.882,-200.157"
+	Rotation = "-0.000,-0.027,-0.000,1.000"
+}
+
+cItemPlacement DrinkCocktail
+{
+	ItemName = "DrinkCocktail"
+	Location = "154.483,29.118,-199.895"
+	Rotation = "-0.000,0.297,0.000,0.955"
+}
+
+cItemPlacement CashRegister
+{
+	ItemName = "CashRegister"
+	Location = "167.156,29.296,-184.382"
+	Rotation = "0.001,-0.920,0.001,-0.393"
+}
+
+cItemPlacement CashRegister1
+{
+	ItemName = "CashRegister"
+	Location = "163.599,29.294,-181.224"
+	Rotation = "-0.000,0.365,0.000,-0.931"
+}
+
+cItemPlacement MeatCleaver
+{
+	ItemName = "MeatCleaver"
+	Location = "171.380,29.103,-177.945"
+	Rotation = "0.276,0.326,-0.579,-0.694"
+}
+
+cItemPlacement PottedPlant_8
+{
+	ItemName = "PottedPlant_6"
+	Location = "175.730,28.730,-182.682"
+	Rotation = "-0.000,-0.017,0.001,1.000"
+}
+
+cItemPlacement PottedPlant_7
+{
+	ItemName = "PottedPlant_6"
+	Location = "162.915,28.740,-175.247"
+	Rotation = "0.049,-0.070,0.003,0.996"
+}
+
+cItemPlacement PottedPlant_9
+{
+	ItemName = "PottedPlant_6"
+	Location = "172.991,28.730,-185.248"
+	Rotation = "0.000,-0.018,-0.000,1.000"
+}
+
+cItemPlacement Wine1
+{
+	ItemName = "Wine"
+	Location = "158.608,28.139,-209.949"
+	Rotation = "-0.450,-0.112,0.545,0.698"
+}
+
+cItemPlacement Painting3
+{
+	ItemName = "Painting3"
+	Location = "161.050,29.632,-212.215"
+	PropState = "4"
+	Rotation = "0.000,-0.370,0.000,0.928"
+}
+
+cItemPlacement PottedPlant_6
+{
+	ItemName = "PottedPlant_6"
+	Location = "165.674,28.732,-172.464"
+	Rotation = "-0.008,-0.029,-0.000,1.000"
+}
+
+cItemPlacement Painting2
+{
+	ItemName = "Painting2"
+	Location = "136.201,29.357,-187.214"
+	Rotation = "0.289,0.934,-0.066,0.211"
+}
+
+cItemPlacement HandBag
+{
+	ItemName = "HandBag"
+	Location = "140.981,28.144,-184.522"
+	Rotation = "0.457,-0.515,0.609,0.393"
+}
+
+cItemPlacement HandBag1
+{
+	ItemName = "HandBag"
+	Location = "149.925,28.643,-174.134"
+	Rotation = "0.227,-0.617,0.724,0.206"
+}
+
+cItemPlacement LcdMonitor
+{
+	ItemName = "LcdMonitor"
+	Location = "165.314,29.089,-186.412"
+	Rotation = "-0.000,0.000,-0.000,1.000"
+}
+
+cItemPlacement LcdMonitor1
+{
+	ItemName = "LcdMonitor"
+	Location = "163.203,28.184,-183.139"
+	Rotation = "0.667,-0.316,0.376,0.560"
+}
+
+cItemPlacement BeachBall
+{
+	ItemName = "BeachBall"
+	Location = "143.591,28.328,-182.611"
+	Rotation = "0.785,-0.044,0.473,0.398"
+}
+
+cItemPlacement BeachBall1
+{
+	ItemName = "BeachBall"
+	Location = "160.725,27.328,-201.225"
+	Rotation = "0.000,0.000,-0.000,1.000"
+}
+
+cItemPlacement Plates
+{
+	ItemName = "Plates"
+	Location = "170.137,29.115,-176.267"
+	Rotation = "0.001,-0.001,-0.003,1.000"
+}
+
+cItemPlacement Beer
+{
+	ItemName = "Beer"
+	Location = "167.994,29.241,-183.733"
+	Rotation = "-0.000,-0.050,-0.000,0.999"
+}
+
+cItemPlacement OrangeJuice
+{
+	ItemName = "OrangeJuice"
+	Location = "171.609,29.222,-179.910"
+	Rotation = "0.001,-0.148,-0.000,0.989"
+}
+
+cItemPlacement Sushi1
+{
+	ItemName = "Sushi"
+	Location = "170.737,29.602,-177.372"
+	Rotation = "0.000,-0.050,0.000,0.999"
+}
+
+cItemPlacement PottedPlant_10
+{
+	ItemName = "PottedPlant_6"
+	Location = "157.002,28.730,-193.433"
+	Rotation = "-0.000,0.372,0.001,0.928"
+}
+
+cItemPlacement PottedPlant_11
+{
+	ItemName = "PottedPlant_6"
+	Location = "152.327,28.728,-193.604"
+	Rotation = "-0.000,0.372,-0.000,0.928"
+}
+
+cItemPlacement PlasticBin
+{
+	ItemName = "PlasticBin"
+	Location = "134.871,29.829,-207.319"
+	Rotation = "0.000,0.101,-0.000,0.995"
+}
+
+cItemPlacement GarbageBag
+{
+	ItemName = "GarbageBag"
+	Location = "134.249,29.367,-207.509"
+	Rotation = "0.013,-0.052,0.013,0.998"
+}
+
+cItemPlacement GarbageBag1
+{
+	ItemName = "GarbageBag"
+	Location = "134.283,29.340,-206.673"
+	Rotation = "0.449,-0.343,0.507,0.651"
+}
+
+cItemPlacement Keg
+{
+	ItemName = "Keg"
+	Location = "165.165,29.319,-179.330"
+	Rotation = "0.001,-0.198,-0.001,0.980"
+}
+
+cItemPlacement FireExtinguisher
+{
+	ItemName = "FireExtinguisher"
+	Location = "165.399,28.183,-180.161"
+	Rotation = "0.076,0.585,0.682,-0.433"
+}
+
+cItemPlacement Duffelbag
+{
+	IsStatic = "true"
+	ItemName = "dufflebag"
+	Location = "159.161,38.247,-184.843"
+	NonInteractableProp = "true"
+	PropState = "4"
+	Rotation = "0.000,-0.350,0.000,0.935"
+}
+
+
+cSpawnPoint Start
+{
+	CameraHeading = "-134.421"
+	CameraPitch = "-8.442"
+	Location0 = "176.813,28.851,-171.544"
+	Rotation0 = "-2.422"
+}
+
+cSpawnPoint StartSulliFight
+{
+	CameraHeading = "41.798"
+	CameraHeading1 = "41.798"
+	CameraPitch = "-3.843"
+	CameraPitch1 = "-3.844"
+	Location0 = "144.513,35.096,-203.424"
+	Location1 = "140.558,35.096,-207.841"
+	Rotation0 = "0.744"
+	Rotation1 = "0.762"
+}
+
+
+cZombieWarehouse Facts
+{
+	cPolygonSmall ZombiePoly01
+	{
+		Height = "2.0"
+		NumVertex = "6"
+		Vertex0 = "183.225,28.082,-185.958"
+		Vertex1 = "178.487,28.082,-180.662"
+		Vertex2 = "171.294,28.073,-187.812"
+		Vertex3 = "168.543,28.073,-184.145"
+		Vertex4 = "163.986,28.073,-188.659"
+		Vertex5 = "171.040,28.077,-198.009"
+	}
+
+	cPolygonLarge ZombiePoly2
+	{
+		Height = "2.0"
+		NumVertex = "16"
+		Vertex0 = "172.149,28.078,-197.316"
+		Vertex1 = "170.967,28.077,-198.293"
+		Vertex10 = "161.856,28.073,-165.194"
+		Vertex11 = "151.108,28.073,-176.093"
+		Vertex12 = "149.944,28.073,-175.016"
+		Vertex13 = "147.602,28.073,-177.799"
+		Vertex14 = "171.436,28.079,-199.821"
+		Vertex15 = "173.440,28.078,-198.177"
+		Vertex2 = "163.691,28.073,-188.420"
+		Vertex3 = "159.503,28.073,-184.099"
+		Vertex4 = "164.008,28.073,-179.486"
+		Vertex5 = "162.890,28.073,-178.570"
+		Vertex6 = "162.182,28.073,-178.570"
+		Vertex7 = "160.532,28.073,-176.729"
+		Vertex8 = "162.378,28.073,-175.006"
+		Vertex9 = "167.162,28.073,-170.258"
+	}
+
+	cPolygonLarge ZombiePoly3
+	{
+		Height = "2.0"
+		NumVertex = "16"
+		Vertex0 = "171.276,28.079,-199.825"
+		Vertex1 = "160.986,28.075,-210.345"
+		Vertex10 = "138.250,28.073,-187.290"
+		Vertex11 = "147.470,28.073,-177.884"
+		Vertex12 = "155.106,28.073,-184.931"
+		Vertex13 = "145.761,28.073,-194.354"
+		Vertex14 = "153.964,28.073,-202.396"
+		Vertex15 = "163.513,28.073,-192.645"
+		Vertex2 = "161.672,28.074,-211.242"
+		Vertex3 = "159.758,28.073,-213.318"
+		Vertex4 = "158.290,28.073,-211.858"
+		Vertex5 = "157.590,28.073,-212.516"
+		Vertex6 = "135.559,28.073,-190.640"
+		Vertex7 = "136.409,28.073,-189.882"
+		Vertex8 = "134.955,28.073,-188.568"
+		Vertex9 = "137.150,28.073,-186.278"
+	}
+
+	cPolygonSmall ZombiePoly4
+	{
+		Height = "2.0"
+		NumVertex = "12"
+		Vertex0 = "159.216,28.073,-196.425"
+		Vertex1 = "157.463,28.073,-198.276"
+		Vertex10 = "160.645,28.073,-190.173"
+		Vertex11 = "156.792,28.073,-194.042"
+		Vertex2 = "154.773,28.073,-195.773"
+		Vertex3 = "151.142,28.073,-199.469"
+		Vertex4 = "148.710,28.073,-196.930"
+		Vertex5 = "152.469,28.073,-193.131"
+		Vertex6 = "149.719,28.073,-190.511"
+		Vertex7 = "151.698,28.073,-188.756"
+		Vertex8 = "154.399,28.073,-191.399"
+		Vertex9 = "158.025,28.073,-187.564"
+	}
+
+}
+
+

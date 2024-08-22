@@ -1,0 +1,106 @@
+cZombieLoadSet battle_pharmacy
+{
+	cZombieLoadSetEntry e0
+	{
+		end = "0"
+		number = "1"
+		start = "0"
+		type0 = "looter"
+	}
+
+}
+
+cBossNode Start1
+{
+	Boss = "boss_thug"
+	Location = "-99.648,-1.558,-69.749"
+	Name = "Start1"
+	Rotation = "0, 1.06, 0"
+	Type = "9"
+}
+
+cBossNode Start2
+{
+	Boss = "boss_thug"
+	Location = "-102.447,-1.558,-69.049"
+	Name = "Start2"
+	Rotation = "0, 1.68, 0"
+	Type = "9"
+}
+
+cBossNode Enemy1
+{
+	Boss = "boss_thug"
+	Location = "-106.634,-1.558,-96.779"
+	Name = "Enemy1"
+	Rotation = "0, 0.539, 0"
+	Type = "5"
+	SubID = "0"
+}
+
+cBossNode Enemy2
+{
+	Boss = "boss_thug"
+	Location = "-108.840,-1.558,-94.276"
+	Name = "Enemy2"
+	Rotation = "0, 1.116, 0"
+	Type = "5"
+	SubID = "0"
+}
+
+cBossNode Enemy3
+{
+	Boss = "boss_thug"
+	Location = "-108.134,-1.543,-96.033"
+	Name = "Enemy3"
+	Rotation = "-108.140,-1.543,-96.035"
+	Type = "5"
+	SubID = "0"
+}
+
+cMarkedZone PharmacyBattleZone
+{
+	Boss = "boss_thug"
+	Height = "4.000"
+	Name = "PharmacyBattleZone"
+	Point0 = "-105.399,-1.600,-77.184"
+	Point1 = "-118.759,-1.600,-89.327"
+	Point2 = "-98.836,-1.600,-109.661"
+	Point3 = "-87.936,-1.600,-94.587"
+	Type = "0"
+}
+
+cMarkedZone PharmacyBattleZone1
+{
+	Boss = "boss_thug"
+	Height = "4.000"
+	Name = "PharmacyBattleZone1"
+	Point0 = "-121.246,-1.600,-98.246"
+	Point1 = "-115.630,-1.600,-92.318"
+	Point2 = "-100.925,-1.600,-107.536"
+	Point3 = "-106.498,-1.600,-112.626"
+	Type = "0"
+}
+
+cMarkedZone PharmacyNoChaseZone0
+{
+	Boss = "boss_thug"
+	CircleRadius = "3.0"
+	Height = "4.000"
+	Name = "PharmacyNoChaseZone0"
+	Point0 = "-101.6,-1.600,-81.5"	
+	Type = "1"
+}
+
+
+cMarkedZone PharmacyNoChaseZone1
+{
+	Boss = "boss_thug"
+	CircleRadius = "3.0"
+	Height = "4.000"
+	Name = "PharmacyNoChaseZone1"
+	Point0 = "-90.7,-1.600,-92.00"	
+	Type = "1"
+}
+
+

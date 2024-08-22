@@ -1,0 +1,46 @@
+cTriggerVolume savepoint
+{
+	ActionPoint = "-37.819,0.030,-117.010"
+	ActionType = "4"
+	AnimationChooser = "0"
+	Height = "2.0"
+	InteractButton = "true"
+	InteractionRadius = "1.5"
+	ItemName = "Save"
+	Location = "-38.076,1.030,-117.074"
+	Radius = "3"
+	Rotation = "0,0,0,1"
+	Vertex1 = "-1,0,1"
+	Vertex2 = "1,0,1"
+	Vertex3 = "1,0,-1"
+	Vertex4 = "-1,0,-1"
+}
+
+cTriggerVolume savepoint1
+{
+	ActionActorRotation = "9.5"
+	ActionPoint = "-34.011,0.035,-140.432"
+	ActionType = "4"
+	AnimationChooser = "0"
+	Height = "2.0"
+	InteractButton = "true"
+	InteractionRadius = "1.5"
+	ItemName = "Save"
+	Location = "-34.443,1.035,-141.500"
+	Radius = "3"
+	Rotation = "0,0,0,1"
+	Vertex1 = "-1,0,1"
+	Vertex2 = "1,0,1"
+	Vertex3 = "1,0,-1"
+	Vertex4 = "-1,0,-1"
+}
+
+
+cWaypoint SURV313
+{
+	Location = "-87.90,6.38,-47.81"
+	Name = "SURV"
+	Type = "0"
+}
+
+

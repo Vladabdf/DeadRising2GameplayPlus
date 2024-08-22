@@ -1,0 +1,146 @@
+cZombieLoadSet battle_army
+{
+	cZombieLoadSetEntry e0
+	{
+		end = "0"
+		number = "1"
+		start = "0"
+		type0 = "mercenary"
+	}
+
+}
+
+cItemPlacement army_ac130
+{
+	DisablePhysicsOnInitialPlacement = "true"
+	ItemName = "GunshipAsFirearm"
+	Location = "0.0, 0.0, 0.0"
+	PropState = "4"
+	Rotation = "0,0,0,1"
+}
+
+cItemPlacement boss_army_helicopter_1
+{
+	ItemName = "boss_army_helicopter_1"
+	Location = "0.0, 0.0, 0.0"
+	Rotation = "0,0,0,1"
+}
+
+cItemPlacement boss_army_helicopter_2
+{
+	ItemName = "boss_army_helicopter_2"
+	Location = "0.0, 0.0, 0.0"
+	Rotation = "0,0,0,1"
+}
+
+cItemPlacement boss_army_helicopter_3
+{
+	ItemName = "boss_army_helicopter_3"
+	Location = "0.0, 0.0, 0.0"
+	Rotation = "0,0,0,1"
+}
+
+cItemPlacement ArmyHelicopter1
+{
+	DisablePhysicsOnInitialPlacement = "true"
+	ItemName = "ArmyHelicopter"
+	Location = "0,0,0"
+	Rotation = "0,0,0,1"
+}
+
+cItemPlacement ArmyHelicopter2
+{
+	DisablePhysicsOnInitialPlacement = "true"
+	ItemName = "ArmyHelicopter"
+	Location = "0,0,0"
+	Rotation = "0,0,0,1"
+}
+
+cItemPlacement ArmyHelicopter3
+{
+	DisablePhysicsOnInitialPlacement = "true"
+	ItemName = "ArmyHelicopter"
+	Location = "0,0,0"
+	Rotation = "0,0,0,1"
+}
+
+cItemPlacement HelicopterMiniGun1
+{
+	DisablePhysicsOnInitialPlacement = "true"
+	ItemName = "HelicopterMiniGun_PROLOG"
+	Location = "0,0,0"
+	Rotation = "0,0,0,1"
+}
+
+cItemPlacement HelicopterMiniGun2
+{
+	DisablePhysicsOnInitialPlacement = "true"
+	ItemName = "HelicopterMiniGun_PROLOG"
+	Location = "0,0,0"
+	Rotation = "0,0,0,1"
+}
+
+cItemPlacement HelicopterMiniGun3
+{
+	DisablePhysicsOnInitialPlacement = "true"
+	ItemName = "HelicopterMiniGun_PROLOG"
+	Location = "0,0,0"
+	Rotation = "0,0,0,1"
+}
+
+cBossNode HelicopterHover1
+{
+	Boss = "boss_army_1"
+	Location = "-54.278,-8.676,-215.232"
+	Name = "HelicopterHover1"
+	Rotation = "0.0, -1.8, 0.0"
+	Type = "3"
+}
+
+cBossNode HelicopterHover2
+{
+	Boss = "boss_army_1"
+	Location = "-182.621,-1.519,-236.752"
+	Name = "HelicopterHover2"
+	Rotation = "0.0, 0.0, 0.0"
+	Type = "3"
+}
+
+cBossNode HelicopterHover3
+{
+	Boss = "boss_army_1"
+	Location = "-53.4,7.0,-112.8"
+	Name = "HelicopterHover3"
+	Rotation = "0.0, -1.9, 0.0"
+	Type = "3"
+}
+
+cBossNode EndLoc
+{
+	Boss = "boss_army_1"
+	Location = "-108.982,3.149,-405.980"
+	Name = "EndLoc"
+	Radius = "14"
+	SubID = "4"
+	Type = "5"
+}
+
+cBossNode Start1
+{
+	Boss = "boss_army_1"
+	Location = "-129.6, 3.24, -71.8"
+	Name = "Start1"
+	Rotation = "0, 2.18, 0"
+	Type = "9"
+}
+
+cBossNode Start2
+{
+	Boss = "boss_army_1"
+	Location = "-128.6, 3.24, -70.8"
+	Name = "Start2"
+	Rotation = "0, 2.18, 0"
+	Type = "9"
+}
+
+

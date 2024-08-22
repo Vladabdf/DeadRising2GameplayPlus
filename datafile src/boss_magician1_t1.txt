@@ -1,0 +1,154 @@
+bossdef boss_magician1_t1
+{
+	statedef Taunt
+	{
+		min_delay = 5.0
+	}
+	statedef GetBetterPosition
+	{
+		min_delay = 2.0
+	}
+	statedef Melee
+	{
+		min_delay = 0.2
+	}
+	statedef MeleeSpecial
+	{
+		min_delay = 5.0
+	}
+	statedef Shoot
+	{
+		min_delay = 3.5
+		min_dist = 6.0
+		max_dist = 25.0
+		max_angle = 20.0
+	}
+	statedef Clearout
+	{
+		min_delay = 5.0
+		min_dist = 0.0
+		max_dist = 2.0
+	}
+	
+	locodef
+	{
+		name       = "magicians_bomber_locomotion_idle"
+		id         = 0
+		in_speed   = 0.0
+		in_angle   = 0.0
+		out_speed  = 0.0
+		out_angle  = 0.0
+		turn_angle = 0.0
+	}
+	
+	locodef
+	{
+		name       = "magicians_bomber_locomotion_idle_to_walk_0"
+		id         = 1
+		in_speed   = 0.0
+		in_angle   = 0.0
+		out_speed  = 0.6
+		out_angle  = 0.0
+		turn_angle = 0.0
+	}
+	
+	locodef
+	{
+		name       = "magicians_bomber_locomotion_idle_to_walk_90"
+		id         = 2
+		in_speed   = 0.0
+		in_angle   = 0.0
+		out_speed  = 0.6
+		out_angle  = 0.0
+		turn_angle = -90.0
+	}
+	
+	locodef
+	{
+		name       = "magicians_bomber_locomotion_idle_to_walk_90neg"
+		id         = 3
+		in_speed   = 0.0
+		in_angle   = 0.0
+		out_speed  = 0.6
+		out_angle  = 0.0
+		turn_angle = 90.0
+	}
+	
+	locodef
+	{
+		name       = "magicians_bomber_locomotion_idle_to_walk_180"
+		id         = 4
+		in_speed   = 0.0
+		in_angle   = 0.0
+		out_speed  = 0.6
+		out_angle  = 0.0
+		turn_angle = -180.0
+	}
+	
+	locodef
+	{
+		name       = "magicians_bomber_locomotion_idle_to_walk_180"
+		id         = 5
+		in_speed   = 0.0
+		in_angle   = 0.0
+		out_speed  = 0.6
+		out_angle  = 0.0
+		turn_angle = 180.0
+	}
+	
+	locodef
+	{
+		name       = "magicians_bomber_locomotion_pivot_90"
+		id         = 6
+		in_speed   = 0.0
+		in_angle   = 0.0
+		out_speed  = 0.0
+		out_angle  = 0.0
+		turn_angle = -90.0
+	}
+	
+	locodef
+	{
+		name       = "magicians_bomber_locomotion_pivot_90neg"
+		id         = 7
+		in_speed   = 0.0
+		in_angle   = 0.0
+		out_speed  = 0.0
+		out_angle  = 0.0
+		turn_angle = 90.0
+	}
+	
+	locodef
+	{
+		name       = "magicians_bomber_locomotion_pivot_180"
+		id         = 8
+		in_speed   = 0.0
+		in_angle   = 0.0
+		out_speed  = 0.0
+		out_angle  = 0.0
+		turn_angle = -180.0
+	}
+	
+	locodef
+	{
+		name       = "magicians_bomber_locomotion_walk"
+		id         = 9
+		in_speed   = 0.6
+		in_angle   = 0.0
+		out_speed  = 0.6
+		out_angle  = 0.0
+		turn_angle = 0.0
+	}
+	
+	locodef
+	{
+		name       = "magicians_bomber_locomotion_walk_to_idle"
+		id         = 10
+		in_speed   = 0.0
+		in_angle   = 0.0
+		out_speed  = 0.0
+		out_angle  = 0.0
+		turn_angle = 0.0
+	}
+	
+}

@@ -1,0 +1,11 @@
+bossdef boss_train
+{
+	statedef Shoot
+	{
+		min_delay = 3.0
+		min_time  = 0.8
+		max_time  = 3.0
+		max_dist  = 20.0
+		max_angle = 25.0
+	}
+}

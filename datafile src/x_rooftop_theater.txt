@@ -1,0 +1,123 @@
+cItemPlacement Beer
+{
+	ItemName = "Beer"
+	Location = "-204.921,5.530,-8.268"
+	Rotation = "0.000,-0.000,-0.000,1.000"
+}
+
+cItemPlacement Beer1
+{
+	ItemName = "Beer"
+	Location = "-205.232,5.530,-8.427"
+	Rotation = "-0.002,-0.002,0.003,1.000"
+}
+
+cItemPlacement Beer2
+{
+	ItemName = "Beer"
+	Location = "-204.528,5.529,-8.201"
+	Rotation = "-0.000,0.000,0.002,1.000"
+}
+
+
+cItemPlacement CardboardBox
+{
+	ItemName = "CardboardBox"
+	Location = "-205.103,5.575,-9.208"
+	Rotation = "-0.000,-0.933,-0.000,0.359"
+	SpawnPropFromCategory = "60"
+}
+
+cItemPlacement CardboardBox1
+{
+	ItemName = "CardboardBox"
+	Location = "-206.396,4.542,-9.458"
+	Rotation = "0.000,-0.608,0.000,0.794"
+	SpawnPropFromCategory = "60"
+}
+
+cItemPlacement CardboardBox2
+{
+	ItemName = "CardboardBox"
+	Location = "-206.365,4.542,-8.631"
+	Rotation = "0.000,-0.928,0.001,-0.372"
+	SpawnPropFromCategory = "60"
+}
+
+cItemPlacement Crowbar
+{
+	ItemName = "Crowbar"
+	Location = "-206.641,4.345,-10.440"
+	Rotation = "0.459,0.458,0.537,0.539"
+}
+
+cItemPlacement Pylon
+{
+	ItemName = "Pylon"
+	Location = "-218.831,4.540,-15.392"
+	Rotation = "0.179,0.599,-0.768,0.135"
+}
+
+cItemPlacement Pylon1
+{
+	ItemName = "Pylon"
+	Location = "-218.587,4.542,-19.585"
+	Rotation = "-0.054,0.613,-0.787,-0.043"
+}
+
+cItemPlacement CardboardBox3
+{
+	ItemName = "CardboardBox"
+	Location = "-206.875,5.541,-20.878"
+	Rotation = "-0.000,-0.649,0.000,0.761"
+	SpawnPropFromCategory = "60"
+}
+
+cItemPlacement CardboardBox4
+{
+	ItemName = "CardboardBox"
+	Location = "-203.714,5.541,-15.949"
+	Rotation = "-0.001,-0.649,-0.000,0.761"
+	SpawnPropFromCategory = "60"
+}
+
+cItemPlacement CardboardBox5
+{
+	ItemName = "CardboardBox"
+	Location = "-203.559,5.541,-16.865"
+	Rotation = "0.000,-0.855,-0.000,0.519"
+	SpawnPropFromCategory = "60"
+}
+
+cItemPlacement GasolineCanister
+{
+	ItemName = "GasolineCanister"
+	Location = "-210.616,5.405,-15.846"
+	Rotation = "-0.049,0.042,-0.705,0.706"
+}
+
+cItemPlacement GasolineCanister1
+{
+	ItemName = "GasolineCanister"
+	Location = "-210.837,5.434,-16.389"
+	Rotation = "0.001,0.000,0.002,1.000"
+}
+
+
+cSpawnPoint TheatreRoof
+{
+	CameraHeading = "81.605"
+	CameraPitch = "-15.813"
+	Location0 = "-216.849,4.346,-17.652"
+	Rotation0 = "1.146"
+}
+
+cSpawnPoint Start
+{
+	CameraHeading = "81.605"
+	CameraPitch = "-15.813"
+	Location0 = "-216.849,4.346,-17.652"
+	Rotation0 = "1.146"
+}
+
+

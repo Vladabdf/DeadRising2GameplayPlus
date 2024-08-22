@@ -1,0 +1,515 @@
+cItemPlacement ChainsawBike4
+{
+	ItemName = "TIRBike"
+	Location = "1.820,-1.377,-40.098"
+	PropState = "-2"
+	Rotation = "0.00,0.000,0,1"
+}
+
+cItemPlacement ChainsawBike3
+{
+	ItemName = "TIRBike"
+	Location = "-1.710,-1.377,-40.098"
+	PropState = "-2"
+	Rotation = "0.00,0.000,0,1"
+}
+
+cItemPlacement ChainsawBike2
+{
+	ItemName = "TIRBike"
+	Location = "5.400,-1.377,-40.098"
+	PropState = "-2"
+	Rotation = "0.00,0.000,0,1"
+}
+
+cItemPlacement ChainsawBike1
+{
+	ItemName = "TIRBike"
+	Location = "-5.327,-1.377,-40.098"
+	PropState = "-2"
+	Rotation = "0.00,0.000,0,1"
+}
+
+cItemPlacement gate1
+{
+	ItemName = "starting_gate"
+	Location = "5.376,-2.641,-38.565"
+	Rotation = "0.324,0.000,0.000,0.952"
+}
+
+cItemPlacement gate2
+{
+	ItemName = "starting_gate"
+	Location = "1.776,-2.641,-38.565"
+	Rotation = "0.324,0.000,0.000,0.952"
+}
+
+cItemPlacement gate3
+{
+	ItemName = "starting_gate"
+	Location = "-1.794,-2.641,-38.565"
+	Rotation = "0.324,0.000,0.000,0.952"
+}
+
+cItemPlacement gate4
+{
+	ItemName = "starting_gate"
+	Location = "-5.394,-2.641,-38.565"
+	Rotation = "0.324,0.000,0.000,0.952"
+}
+
+cItemPlacement preload_flower
+{
+	FixedOnInitialPlacement = "true"
+	ItemName = "lwn_flower"
+	Location = "0,-13,0"
+	Rotation = "0,0,0,1"
+}
+
+
+cPolygonLarge L_Arena
+{
+	Height = "50"
+	NumVertex = "8"
+	Vertex0 = "-93.630,-2.999,94.444"
+	Vertex1 = "-62.356,-2.999,130.415"
+	Vertex2 = "52.363,-2.999,128.838"
+	Vertex3 = "87.449,-2.999,97.758"
+	Vertex4 = "88.708,-2.999,-103.395"
+	Vertex5 = "56.206,-2.999,-136.869"
+	Vertex6 = "-60.088,-2.999,-138.523"
+	Vertex7 = "-93.866,-2.999,-104.083"
+}
+
+cLightContextVolume LC_Arena
+{
+	ContextFileName = "/arena_stadium.csv"
+	QuadName = "L_Arena"
+}
+
+cPolygonLarge L_BikeShop
+{
+	Height = "7.7"
+	NumVertex = "4"
+	Vertex0 = "19.447,-10.000,-76.256"
+	Vertex1 = "-101.226,-10.000,-80.374"
+	Vertex2 = "-101.465,-10.000,37.302"
+	Vertex3 = "24.804,-10.000,21.811"
+}
+
+cLightContextVolume LC_BikeShop
+{
+	ContextFileName = "/bike_shop.csv"
+	QuadName = "L_BikeShop"
+}
+
+
+cLineSegment zombies_02
+{
+	Height = "2.0"
+	LineSegment = "True"
+	Location = "38.047,13.691,42.763"
+	Vertex1 = "25.132,0.001,-7.169"
+	Vertex2 = "35.118,0.001,-8.037"
+	Vertex3 = "33.162,0.001,10.246"
+	Vertex4 = "25.002,0.001,11.783"
+	Vertex5 = "39.910,1.308,41.801"
+	Vertex6 = "16.552,1.246,41.996"
+	Vertex7 = "16.580,1.246,45.396"
+	Vertex8 = "39.938,1.308,45.201"
+}
+
+cLineSegment zombies_03
+{
+	Height = "2.0"
+	LineSegment = "True"
+	Location = "38.047,13.691,42.763"
+	Vertex1 = "-38.262,0.047,-44.030"
+	Vertex2 = "-26.175,0.001,-43.514"
+	Vertex3 = "-25.845,0.001,-20.618"
+	Vertex4 = "-37.780,0.001,-26.195"
+	Vertex5 = "1.000000,0.600000,-3.597000"
+	Vertex6 = "0.000000,-0.707000,0.000000"
+	Vertex7 = "0.708000,59104696.000000,4631953529928148900000000000.000000"
+	Vertex8 = "4422574338038515300000000000000.000000,308539223631331040000000000000000.000000,0.000000"
+}
+
+cLineSegment zombies_04
+{
+	Height = "2.0"
+	LineSegment = "True"
+	Location = "38.047,13.691,42.763"
+	Vertex1 = "-15.084,0.016,-2.169"
+	Vertex2 = "14.952,0.001,-2.009"
+	Vertex3 = "14.935,0.001,-34.999"
+	Vertex4 = "-14.846,0.023,-35.124"
+	Vertex5 = "1.000000,0.600000,5.243000"
+	Vertex6 = "0.000000,-0.707000,0.000000"
+	Vertex7 = "0.708000,59104696.000000,4631953529928148900000000000.000000"
+	Vertex8 = "4422574338038515300000000000000.000000,308539223631331040000000000000000.000000,0.000000"
+}
+
+cLineSegment zombies_05
+{
+	Height = "2.0"
+	LineSegment = "True"
+	Location = "38.047,13.691,42.763"
+	Vertex1 = "-14.968,0.001,34.999"
+	Vertex2 = "14.979,0.001,34.993"
+	Vertex3 = "15.013,0.003,-35.012"
+	Vertex4 = "-14.984,0.001,-34.978"
+	Vertex5 = "1.000000,1.076000,17.124001"
+	Vertex6 = "0.000000,0.000000,0.000000"
+	Vertex7 = "1.000000,59104696.000000,4631953529928148900000000000.000000"
+	Vertex8 = "4422574338038515300000000000000.000000,308539223631331040000000000000000.000000,0.000000"
+}
+
+
+cItemPlacement zombiedropper00
+{
+	ItemName = "ZombieDropper2"
+	Location = "-9.0,4.0,-28.0"
+	PropState = "3"
+	Rotation = "0,0,0,1"
+}
+
+cItemPlacement zombiedropper01
+{
+	ItemName = "ZombieDropper2"
+	Location = "-9.0,4.0,-21.0"
+	PropState = "3"
+	Rotation = "0,0,0,1"
+}
+
+cItemPlacement zombiedropper02
+{
+	ItemName = "ZombieDropper2"
+	Location = "-9.0,4.0,-14.0"
+	PropState = "3"
+	Rotation = "0,0,0,1"
+}
+
+cItemPlacement zombiedropper03
+{
+	ItemName = "ZombieDropper2"
+	Location = "-9.0,4.0,-7.0"
+	PropState = "3"
+	Rotation = "0,0,0,1"
+}
+
+cItemPlacement zombiedropper04
+{
+	ItemName = "ZombieDropper2"
+	Location = "-9.0,4.0,0.0"
+	PropState = "3"
+	Rotation = "0,0,0,1"
+}
+
+cItemPlacement zombiedropper05
+{
+	ItemName = "ZombieDropper2"
+	Location = "-9.0,4.0,7.0"
+	PropState = "3"
+	Rotation = "0,0,0,1"
+}
+
+cItemPlacement zombiedropper06
+{
+	ItemName = "ZombieDropper2"
+	Location = "-9.0,4.0,14.0"
+	PropState = "3"
+	Rotation = "0,0,0,1"
+}
+
+cItemPlacement zombiedropper07
+{
+	ItemName = "ZombieDropper2"
+	Location = "-9.0,4.0,21.0"
+	PropState = "3"
+	Rotation = "0,0,0,1"
+}
+
+cItemPlacement zombiedropper08
+{
+	ItemName = "ZombieDropper2"
+	Location = "-9.0,4.0,28.0"
+	PropState = "3"
+	Rotation = "0,0,0,1"
+}
+
+cItemPlacement zombiedropper09
+{
+	ItemName = "ZombieDropper2"
+	Location = "-3.0,4.0,-28.0"
+	PropState = "3"
+	Rotation = "0,0,0,1"
+}
+
+cItemPlacement zombiedropper10
+{
+	ItemName = "ZombieDropper2"
+	Location = "-3.0,4.0,-21.0"
+	PropState = "3"
+	Rotation = "0,0,0,1"
+}
+
+cItemPlacement zombiedropper11
+{
+	ItemName = "ZombieDropper2"
+	Location = "-3.0,4.0,-14.0"
+	PropState = "3"
+	Rotation = "0,0,0,1"
+}
+
+cItemPlacement zombiedropper12
+{
+	ItemName = "ZombieDropper2"
+	Location = "-3.0,4.0,-7.0"
+	PropState = "3"
+	Rotation = "0,0,0,1"
+}
+
+cItemPlacement zombiedropper13
+{
+	ItemName = "ZombieDropper2"
+	Location = "-3.0,4.0,0.0"
+	PropState = "3"
+	Rotation = "0,0,0,1"
+}
+
+cItemPlacement zombiedropper14
+{
+	ItemName = "ZombieDropper2"
+	Location = "-3.0,4.0,7.0"
+	PropState = "3"
+	Rotation = "0,0,0,1"
+}
+
+cItemPlacement zombiedropper15
+{
+	ItemName = "ZombieDropper2"
+	Location = "-3.0,4.0,14.0"
+	PropState = "3"
+	Rotation = "0,0,0,1"
+}
+
+cItemPlacement zombiedropper16
+{
+	ItemName = "ZombieDropper2"
+	Location = "-3.0,4.0,21.0"
+	PropState = "3"
+	Rotation = "0,0,0,1"
+}
+
+cItemPlacement zombiedropper17
+{
+	ItemName = "ZombieDropper2"
+	Location = "-3.0,4.0,28.0"
+	PropState = "3"
+	Rotation = "0,0,0,1"
+}
+
+cItemPlacement zombiedropper18
+{
+	ItemName = "ZombieDropper2"
+	Location = "3.0,4.0,-28.0"
+	PropState = "3"
+	Rotation = "0,0,0,1"
+}
+
+cItemPlacement zombiedropper19
+{
+	ItemName = "ZombieDropper2"
+	Location = "3.0,4.0,-21.0"
+	PropState = "3"
+	Rotation = "0,0,0,1"
+}
+
+cItemPlacement zombiedropper20
+{
+	ItemName = "ZombieDropper2"
+	Location = "3.0,4.0,-14.0"
+	PropState = "3"
+	Rotation = "0,0,0,1"
+}
+
+cItemPlacement zombiedropper21
+{
+	ItemName = "ZombieDropper2"
+	Location = "3.0,4.0,-7.0"
+	PropState = "3"
+	Rotation = "0,0,0,1"
+}
+
+cItemPlacement zombiedropper22
+{
+	ItemName = "ZombieDropper2"
+	Location = "3.0,4.0,0.0"
+	PropState = "3"
+	Rotation = "0,0,0,1"
+}
+
+cItemPlacement zombiedropper23
+{
+	ItemName = "ZombieDropper2"
+	Location = "3.0,4.0,7.0"
+	PropState = "3"
+	Rotation = "0,0,0,1"
+}
+
+cItemPlacement zombiedropper24
+{
+	ItemName = "ZombieDropper2"
+	Location = "3.0,4.0,14.0"
+	PropState = "3"
+	Rotation = "0,0,0,1"
+}
+
+cItemPlacement zombiedropper25
+{
+	ItemName = "ZombieDropper2"
+	Location = "3.0,4.0,21.0"
+	PropState = "3"
+	Rotation = "0,0,0,1"
+}
+
+cItemPlacement zombiedropper26
+{
+	ItemName = "ZombieDropper2"
+	Location = "3.0,4.0,28.0"
+	PropState = "3"
+	Rotation = "0,0,0,1"
+}
+
+cItemPlacement zombiedropper27
+{
+	ItemName = "ZombieDropper2"
+	Location = "9.0,4.0,-28.0"
+	PropState = "3"
+	Rotation = "0,0,0,1"
+}
+
+cItemPlacement zombiedropper28
+{
+	ItemName = "ZombieDropper2"
+	Location = "9.0,4.0,-21.0"
+	PropState = "3"
+	Rotation = "0,0,0,1"
+}
+
+cItemPlacement zombiedropper29
+{
+	ItemName = "ZombieDropper2"
+	Location = "9.0,4.0,-14.0"
+	PropState = "3"
+	Rotation = "0,0,0,1"
+}
+
+cItemPlacement zombiedropper30
+{
+	ItemName = "ZombieDropper2"
+	Location = "9.0,4.0,-7.0"
+	PropState = "3"
+	Rotation = "0,0,0,1"
+}
+
+cItemPlacement zombiedropper31
+{
+	ItemName = "ZombieDropper2"
+	Location = "9.0,4.0,0.0"
+	PropState = "3"
+	Rotation = "0,0,0,1"
+}
+
+cItemPlacement zombiedropper32
+{
+	ItemName = "ZombieDropper2"
+	Location = "9.0,4.0,7.0"
+	PropState = "3"
+	Rotation = "0,0,0,1"
+}
+
+cItemPlacement zombiedropper33
+{
+	ItemName = "ZombieDropper2"
+	Location = "9.0,4.0,14.0"
+	PropState = "3"
+	Rotation = "0,0,0,1"
+}
+
+cItemPlacement zombiedropper34
+{
+	ItemName = "ZombieDropper2"
+	Location = "9.0,4.0,21.0"
+	PropState = "3"
+	Rotation = "0,0,0,1"
+}
+
+cItemPlacement zombiedropper35
+{
+	ItemName = "ZombieDropper2"
+	Location = "9.0,4.0,28.0"
+	PropState = "3"
+	Rotation = "0,0,0,1"
+}
+
+
+cZombieWarehouse Lawnmower_Warehouse
+{
+	cLineSegment zombies_06
+	{
+		Height = "2.000"
+		LineSegment = "True"
+		Location = "38.047,13.691,42.763"
+		Vertex1 = "-12.688,-2.350,41.537"
+		Vertex2 = "12.334,-2.350,41.472"
+		Vertex3 = "12.236,-2.350,-34.547"
+		Vertex4 = "-11.986,-2.350,-34.963"
+		Vertex5 = "1.000000,1.076000,17.124001"
+		Vertex6 = "0.000000,0.000000,0.000000"
+		Vertex7 = "1.000000,59104696.000000,4631953529928148900000000000.000000"
+		Vertex8 = "4422574338038515300000000000000.000000,308539223631331040000000000000000.000000,0.000000"
+	}
+
+}
+
+cZombieWarehouse Bike_Elevator
+{
+	cPolygonLarge Horde
+	{
+		Height = "2.0"
+		NumVertex = "8"
+		Vertex0 = "-8.049,-6.884,-41.772"
+		Vertex1 = "-7.782,-6.883,-28.658"
+		Vertex2 = "8.201,-6.883,-28.853"
+		Vertex3 = "8.941,-6.883,-40.004"
+		Vertex4 = "15.546,-6.883,-40.646"
+		Vertex5 = "14.347,-6.883,-21.591"
+		Vertex6 = "-12.357,-6.883,-21.211"
+		Vertex7 = "-12.610,-6.883,-41.466"
+	}
+
+}
+
+
+cSpawnPoint Start
+{
+	CameraHeading = "-5.762"
+	CameraHeading1 = "-7.207"
+	CameraHeading2 = "-5.596"
+	CameraHeading3 = "6.543"
+	CameraPitch = "-7.196"
+	CameraPitch1 = "-2.824"
+	CameraPitch2 = "-6.670"
+	CameraPitch3 = "-3.939"
+	Location0 = "6.713,-1.924,-40.023"
+	Location1 = "2.743,-1.943,-39.873"
+	Location2 = "-1.031,-1.918,-40.064"
+	Location3 = "-4.685,-1.923,-40.029"
+	Rotation0 = "-0.232"
+	Rotation1 = "-0.053"
+	Rotation2 = "-0.156"
+	Rotation3 = "-0.289"
+}
+
+

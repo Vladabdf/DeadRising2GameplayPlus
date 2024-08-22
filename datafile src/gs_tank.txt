@@ -1,0 +1,244 @@
+cItemPlacement zombiedropper00
+{
+	ItemName = "ZombieDropper2"
+	Location = "7.500,8.000,18.000"
+	PropState = "3"
+	Rotation = "0,0,0,1"
+}
+
+cItemPlacement zombiedropper01
+{
+	ItemName = "ZombieDropper2"
+	Location = "0.000,8.000,18.000"
+	PropState = "3"
+	Rotation = "0,0,0,1"
+}
+
+cItemPlacement zombiedropper02
+{
+	ItemName = "ZombieDropper2"
+	Location = "-7.500,8.000,18.000"
+	PropState = "3"
+	Rotation = "0,0,0,1"
+}
+
+cItemPlacement zombiedropper03
+{
+	ItemName = "ZombieDropper2"
+	Location = "7.500,8.000,10.700"
+	PropState = "3"
+	Rotation = "0,0,0,1"
+}
+
+cItemPlacement zombiedropper04
+{
+	ItemName = "ZombieDropper2"
+	Location = "0.000,8.000,10.700"
+	PropState = "3"
+	Rotation = "0,0,0,1"
+}
+
+cItemPlacement zombiedropper05
+{
+	ItemName = "ZombieDropper2"
+	Location = "-7.500,8.000,10.700"
+	PropState = "3"
+	Rotation = "0,0,0,1"
+}
+
+cItemPlacement zombiedropper06
+{
+	ItemName = "ZombieDropper2"
+	Location = "7.500,8.000,3.500"
+	PropState = "3"
+	Rotation = "0,0,0,1"
+}
+
+cItemPlacement zombiedropper07
+{
+	ItemName = "ZombieDropper2"
+	Location = "0.000,8.000,3.500"
+	PropState = "3"
+	Rotation = "0,0,0,1"
+}
+
+cItemPlacement zombiedropper08
+{
+	ItemName = "ZombieDropper2"
+	Location = "-7.500,8.000,3.500"
+	PropState = "3"
+	Rotation = "0,0,0,1"
+}
+
+cItemPlacement zombiedropper09
+{
+	ItemName = "ZombieDropper2"
+	Location = "7.500,8.000,-3.500"
+	PropState = "3"
+	Rotation = "0,0,0,1"
+}
+
+cItemPlacement zombiedropper10
+{
+	ItemName = "ZombieDropper2"
+	Location = "0.000,8.000,-3.500"
+	PropState = "3"
+	Rotation = "0,0,0,1"
+}
+
+cItemPlacement zombiedropper11
+{
+	ItemName = "ZombieDropper2"
+	Location = "-7.500,8.000,-3.500"
+	PropState = "3"
+	Rotation = "0,0,0,1"
+}
+
+
+cItemPlacement Tank_Red
+{
+	ItemName = "MinigameZombieTank"
+	Location = "10,-0.954,-12"
+	Rotation = "0.014,-0.268,0.004,0.963"
+}
+
+cItemPlacement Tank_Blue
+{
+	ItemName = "MinigameZombieTank"
+	Location = "-10.000,-0.954,20"
+	Rotation = "0.003,0.950,-0.007,0.318"
+}
+
+cItemPlacement Tank_Green
+{
+	ItemName = "MinigameZombieTank"
+	Location = "-10,-0.954,-12"
+	Rotation = "0.007,0.281,-0.001,0.959"
+}
+
+cItemPlacement Tank_Yellow
+{
+	ItemName = "MinigameZombieTank"
+	Location = "10,-0.954,20"
+	Rotation = "-0.003,0.968,-0.007,-0.250"
+}
+
+cItemPlacement target_1
+{
+	ItemName = "ZTTarget"
+	Location = "-0.015,-0.756,-15.740"
+	Rotation = "0,0,0,1"
+}
+
+cItemPlacement target_2
+{
+	ItemName = "ZTTarget"
+	Location = "-0.015,-0.756,23.520"
+	Rotation = "0.000,1,0.000,0"
+}
+
+cItemPlacement target_3
+{
+	ItemName = "ZTTarget"
+	Location = "12.950,-0.756,3.500"
+	Rotation = "0.000,-0.707,0.000,0.707"
+}
+
+cItemPlacement target_4
+{
+	ItemName = "ZTTarget"
+	Location = "-12.840,-0.756,3.500"
+	Rotation = "0.000,0.707,0.000,0.707"
+}
+
+cItemPlacement target_body_1
+{
+	ItemName = "ZTTargetBody"
+	Location = "-0.015,-0.756,-15.740"
+	Rotation = "0,0,0,1"
+}
+
+cItemPlacement target_body_2
+{
+	ItemName = "ZTTargetBody"
+	Location = "-0.015,-0.756,23.520"
+	Rotation = "0.000,1,0.000,0"
+}
+
+cItemPlacement target_body_3
+{
+	ItemName = "ZTTargetBody"
+	Location = "12.950,-0.756,3.500"
+	Rotation = "0.000,-0.707,0.000,0.707"
+}
+
+cItemPlacement target_body_4
+{
+	ItemName = "ZTTargetBody"
+	Location = "-12.840,-0.756,3.500"
+	Rotation = "0.000,0.707,0.000,0.707"
+}
+
+
+cPolygonLarge L_Arena
+{
+	Height = "50"
+	NumVertex = "8"
+	Vertex0 = "-93.630,-4.999,94.444"
+	Vertex1 = "-62.356,-4.999,130.415"
+	Vertex2 = "52.363,-4.999,128.838"
+	Vertex3 = "87.449,-4.999,97.758"
+	Vertex4 = "88.708,-4.999,-103.395"
+	Vertex5 = "56.206,-4.999,-136.869"
+	Vertex6 = "-60.088,-4.999,-138.523"
+	Vertex7 = "-93.866,-4.999,-104.083"
+}
+
+cLightContextVolume LC_Arena
+{
+	ContextFileName = "/arena_stadium.csv"
+	QuadName = "L_Arena"
+}
+
+
+cSpawnPoint Start
+{
+	CameraHeading = "-29.099"
+	CameraHeading1 = "146.762"
+	CameraHeading2 = "31.363"
+	CameraHeading3 = "-148.503"
+	CameraPitch = "-19.358"
+	CameraPitch1 = "-15.364"
+	CameraPitch2 = "-18.008"
+	CameraPitch3 = "-16.660"
+	Location0 = "7.103,-2.36,-12.050"
+	Location1 = "-6.934,-2.362,20.703"
+	Location2 = "-7.259,-2.360,-11.750"
+	Location3 = "7.547,-2.362,20.202"
+	Rotation0 = "1.4"
+	Rotation1 = "1.4"
+	Rotation2 = "0.435"
+	Rotation3 = "1.4"
+}
+
+
+cZombieWarehouse ramster_warehouse
+{
+	cLineSegment zombies_01
+	{
+		Height = "2.0"
+		LineSegment = "True"
+		Location = "19.855,1.556,35.377"
+		Vertex1 = "-10,-2.4,13"
+		Vertex2 = "-10,-2.4,-5"
+		Vertex3 = "10,-2.4,-5"
+		Vertex4 = "10,-2.4,13"
+		Vertex5 = "17.379,-2.300,38.282"
+		Vertex6 = "22.327,6.574,38.442"
+		Vertex7 = "22.431,6.574,35.244"
+		Vertex8 = "17.483,-2.300,35.084"
+	}
+
+}
+
+

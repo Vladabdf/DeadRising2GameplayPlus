@@ -1,0 +1,6 @@
+BaseballBat
+BowieKnife
+DonkeyLamp
+HandGun
+PowerDrill
+Shotgun

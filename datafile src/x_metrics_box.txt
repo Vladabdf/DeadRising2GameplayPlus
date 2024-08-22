@@ -1,0 +1,48 @@
+cQuad Lighting
+{
+	BottomRight = "-35.609,-2.971,77.022"
+	TopLeft = "166.814,21.863,-55.141"
+}
+
+cLightContextVolume Lighting1
+{
+	ContextFileName = "/table_indoors.csv"
+	QuadName = "Lighting"
+}
+
+
+cZombieWarehouse zombies_main_room
+{
+	cPolygonSmall a
+	{
+		Height = "2.0"
+		NumVertex = "4"
+		Vertex0 = "-8.427,0.001,-7.823"
+		Vertex1 = "-8.897,0.001,-0.855"
+		Vertex2 = "-4.934,0.001,-0.964"
+		Vertex3 = "-3.138,0.001,-8.362"
+	}
+
+	cPolygonSmall b
+	{
+		Height = "2.0"
+		NumVertex = "4"
+		Vertex0 = "5.510,0.001,-8.293"
+		Vertex1 = "4.559,0.001,-0.579"
+		Vertex2 = "8.588,0.001,-0.934"
+		Vertex3 = "11.992,0.001,-9.893"
+	}
+
+}
+
+
+cSpawnPoint Start
+{
+	CameraHeading = "3.834"
+	CameraPitch = "-12.217"
+	Location = "-18.303,1.664,6.508"
+	Location0 = "-0.3, 0.0, 4.4"
+	Rotation = "0.497,0.420,-0.537,0.537"
+}
+
+

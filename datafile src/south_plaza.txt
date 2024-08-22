@@ -1,0 +1,4432 @@
+cItemPlacement Coffee
+{
+	ItemName = "Coffee"
+	Location = "-159.342,-5.565,62.550"
+	Rotation = "-0.001,0.000,0.004,1.000"
+}
+
+cItemPlacement Fries3
+{
+	ItemName = "Fries"
+	Location = "-164.007,-5.658,65.292"
+	Rotation = "-0.647,-0.242,-0.226,0.687"
+}
+
+cItemPlacement Hamburger3
+{
+	ItemName = "Hamburger"
+	Location = "-164.267,-5.631,65.241"
+	Rotation = "-0.672,0.671,-0.222,0.222"
+}
+
+cItemPlacement LargeSoda4
+{
+	ItemName = "LargeSoda"
+	Location = "-164.291,-5.576,65.642"
+	Rotation = "-0.001,-0.008,0.000,1.000"
+}
+
+cItemPlacement CoffeeCreamer
+{
+	ItemName = "CoffeeCreamer"
+	Location = "-158.689,-6.370,63.407"
+	Rotation = "0.612,-0.184,-0.354,-0.683"
+}
+
+
+cItemPlacement Magazine_Stunt_Devils
+{
+	ItemName = "Magazine_Stunt_Devils"
+	Location = "-173.252,-5.796,52.375"
+	Rotation = "-0.053,0.052,0.705,-0.705"
+}
+
+
+cItemPlacement LCDMonitor
+{
+	ItemName = "LcdMonitor"
+	Location = "-162.199,-5.314,63.376"
+	PropState = "-2"
+	Rotation = "0.617,0.381,-0.455,0.516"
+}
+
+cItemPlacement LCDMonitor1
+{
+	FixedOnInitialPlacement = "true"
+	ItemName = "LcdMonitor"
+	Location = "-156.776,-5.429,61.351"
+	PropState = "-2"
+	Rotation = "-0.001,0.156,-0.000,0.988"
+}
+
+cItemPlacement ComputerCase
+{
+	ItemName = "ComputerCase"
+	Location = "-162.015,-6.372,63.843"
+	PropState = "-2"
+	Rotation = "0.000,0.258,-0.001,0.966"
+	TextureSubType = "2"
+}
+
+cItemPlacement Keyboard
+{
+	ItemName = "Keyboard"
+	Location = "-161.595,-5.692,63.628"
+	PropState = "-2"
+	Rotation = "-0.002,0.375,0.001,0.925"
+}
+
+cItemPlacement ComputerCase1
+{
+	ItemName = "ComputerCase"
+	Location = "-155.752,-6.362,61.710"
+	PropState = "-2"
+	Rotation = "0.000,-0.018,-0.001,1.000"
+	TextureSubType = "2"
+}
+
+cItemPlacement Keyboard1
+{
+	ItemName = "Keyboard"
+	Location = "-156.371,-5.701,61.693"
+	PropState = "-2"
+	Rotation = "-0.001,0.003,0.000,1.000"
+}
+
+cItemPlacement WaterCooler
+{
+	ItemName = "WaterCooler"
+	Location = "-148.057,-6.422,56.089"
+	Rotation = "0.000,-0.524,-0.000,0.852"
+}
+
+cItemPlacement PottedPlant_7
+{
+	ItemName = "PottedPlant_6"
+	Location = "-147.044,-4.793,52.694"
+	PropState = "-1"
+	Rotation = "-0.002,-0.562,0.000,0.825"
+}
+
+cItemPlacement PottedPlant_8
+{
+	FixedOnInitialPlacement = "false"
+	ItemName = "PottedPlant_6"
+	Location = "-152.772,-4.803,42.669"
+	PropState = "-1"
+	Rotation = "-0.002,-0.562,0.000,0.825"
+}
+
+cItemPlacement PottedPlant_10
+{
+	ItemName = "PottedPlant_6"
+	Location = "-163.514,-4.813,45.097"
+	PropState = "-1"
+	Rotation = "-0.002,-0.562,0.000,0.825"
+}
+
+cItemPlacement Vase2
+{
+	FixedOnInitialPlacement = "true"
+	ItemName = "Vase2"
+	Location = "-143.198,-4.970,51.509"
+	PropState = "-1"
+	Rotation = "0.000,0.000,0.000,1.000"
+}
+
+cItemPlacement PottedPlant_13
+{
+	ItemName = "PottedPlant_6"
+	Location = "-169.961,-6.178,49.628"
+	PropState = "-1"
+	Rotation = "0.626,-0.170,0.138,0.749"
+}
+
+cItemPlacement PottedPlant_14
+{
+	ItemName = "PottedPlant_6"
+	Location = "-174.787,-4.773,41.547"
+	PropState = "-1"
+	Rotation = "-0.002,-0.978,0.000,0.188"
+}
+
+cItemPlacement PottedPlant_15
+{
+	ItemName = "PottedPlant_6"
+	Location = "-171.960,-4.773,46.442"
+	PropState = "-1"
+	Rotation = "-0.002,-0.707,0.000,0.709"
+}
+
+cItemPlacement PottedPlant_16
+{
+	ItemName = "PottedPlant_6"
+	Location = "-167.882,-4.773,37.578"
+	PropState = "-1"
+	Rotation = "-0.002,-0.978,0.000,0.188"
+}
+
+cItemPlacement PottedPlant_17
+{
+	ItemName = "PottedPlant_6"
+	Location = "-165.151,-4.773,42.539"
+	PropState = "-1"
+	Rotation = "-0.002,-0.707,0.000,0.709"
+}
+
+cItemPlacement PottedPlant_21
+{
+	ItemName = "PottedPlant_6"
+	Location = "-150.307,-4.803,62.533"
+	PropState = "-1"
+	Rotation = "-0.002,-0.562,0.000,0.825"
+}
+
+cItemPlacement Vase3
+{
+	ItemName = "Vase2"
+	Location = "-151.266,-6.295,41.550"
+	PropState = "-1"
+	Rotation = "-0.505,0.406,0.378,0.661"
+}
+
+cItemPlacement PottedPlant_32
+{
+	FixedOnInitialPlacement = "true"
+	ItemName = "PottedPlant_3"
+	Location = "-165.568,-5.232,56.574"
+	Rotation = "0.001,-0.001,-0.001,1.000"
+}
+
+cItemPlacement PottedPlant_31
+{
+	ItemName = "PottedPlant_3"
+	Location = "-159.604,-5.236,53.661"
+	Rotation = "-0.000,-0.001,0.002,1.000"
+}
+
+cItemPlacement WheelChair
+{
+	ItemName = "WheelChair"
+	Location = "-172.221,-5.979,60.395"
+	Rotation = "0.226,-0.226,-0.670,0.670"
+}
+
+cItemPlacement Scissors
+{
+	ItemName = "Scissors"
+	Location = "-165.297,-5.687,66.310"
+	PropState = "-2"
+	Rotation = "-0.118,0.132,-0.698,0.694"
+}
+
+cItemPlacement SmallSuitcase
+{
+	ItemName = "SmallSuitcase"
+	Location = "-159.845,-6.228,61.015"
+	Rotation = "-0.001,-0.344,-0.000,0.939"
+	SpawnPropFromCategory = "65"
+}
+
+cItemPlacement SmallSuitcase1
+{
+	ItemName = "SmallSuitcase"
+	Location = "-171.140,-6.264,37.364"
+	Rotation = "-0.359,-0.609,0.610,-0.358"
+	SpawnPropFromCategory = "65"
+}
+
+cItemPlacement Painting7
+{
+	ItemName = "Painting3"
+	Location = "-167.298,-4.5,31.731"
+	PropState = "-2"
+	Rotation = "0.000,-0.488,0.000,0.867"
+}
+
+cItemPlacement Painting8
+{
+	ItemName = "Painting3"
+	Location = "-168.369,-4.5,29.885"
+	PropState = "-2"
+	Rotation = "0.000,1.852,0.000,-3.143"
+}
+
+cItemPlacement Painting5
+{
+	ItemName = "Painting3"
+	Location = "-140.232,-4.5,49.609"
+	PropState = "-2"
+	Rotation = "0.000,-0.959,0.000,0.277"
+}
+
+cItemPlacement Painting6
+{
+	ItemName = "Painting3"
+	Location = "-138.380,-4.5,48.541"
+	PropState = "-2"
+	Rotation = "0.000,3.528,0.000,-0.914"
+}
+
+cItemPlacement Vase5
+{
+	ItemName = "Vase2"
+	Location = "-173.068,-6.296,45.095"
+	PropState = "-1"
+	Rotation = "-0.485,-0.753,-0.421,-0.142"
+}
+
+cItemPlacement Vase4
+{
+	FixedOnInitialPlacement = "true"
+	ItemName = "Vase2"
+	Location = "-165.329,-4.970,39.986"
+	PropState = "-1"
+	Rotation = "0.000,0.000,0.000,1.000"
+}
+
+cItemPlacement FireExtinguisher
+{
+	ItemName = "FireExtinguisher"
+	Location = "-163.005,-6.135,64.616"
+	Rotation = "0,0,0,1"
+}
+
+cItemPlacement GarbageCan_2
+{
+	ItemName = "GarbageCan_2"
+	Location = "-143.897,-5.890,37.301"
+	Rotation = "0.000,-0.190,-0.001,0.982"
+	SpawnPropFromCategory = "62"
+}
+
+cItemPlacement GarbageCan_3
+{
+	ItemName = "GarbageCan_2"
+	Location = "-137.650,-5.890,47.646"
+	Rotation = "0.000,-0.882,-0.001,0.469"
+	SpawnPropFromCategory = "62"
+}
+
+cItemPlacement GarbageCan_4
+{
+	ItemName = "GarbageCan_2"
+	Location = "-156.013,-5.885,43.037"
+	Rotation = "-0.000,-0.542,0.001,0.840"
+	SpawnPropFromCategory = "62"
+}
+
+cItemPlacement GarbageCan_5
+{
+	ItemName = "GarbageCan_2"
+	Location = "-175.817,-5.890,54.892"
+	Rotation = "0.001,-0.833,-0.000,-0.553"
+	SpawnPropFromCategory = "62"
+}
+
+cItemPlacement SquareSign
+{
+	ItemName = "SquareSign"
+	Location = "-174.706,-6.152,62.265"
+	Rotation = "-0.701,-0.701,-0.094,-0.096"
+	TextureSubType = "1"
+}
+
+cItemPlacement PottedPlant_3
+{
+	ItemName = "PottedPlant_3"
+	Location = "-166.674,-5.213,66.766"
+	Rotation = "-0.001,-0.002,0.002,1.000"
+}
+
+cItemPlacement PottedPlant_4
+{
+	FixedOnInitialPlacement = "true"
+	ItemName = "PottedPlant_3"
+	Location = "-158.377,-5.213,61.572"
+	Rotation = "-0.001,-0.002,0.002,1.000"
+}
+
+cItemPlacement PottedPlant_5
+{
+	ItemName = "PottedPlant_3"
+	Location = "-153.248,-5.213,62.093"
+	Rotation = "-0.001,-0.002,0.002,1.000"
+}
+
+cItemPlacement Lamp
+{
+	FixedOnInitialPlacement = "true"
+	ItemName = "HotelLamp"
+	Location = "-165.606,-4.951,65.947"
+	Rotation = "0.001,-0.000,-0.002,1.000"
+}
+
+cItemPlacement Lamp1
+{
+	FixedOnInitialPlacement = "true"
+	ItemName = "HotelLamp"
+	Location = "-163.109,-6.273,63.058"
+	Rotation = "0.641,0.600,-0.301,0.373"
+}
+
+cItemPlacement Lamp2
+{
+	ItemName = "HotelLamp"
+	Location = "-164.444,-5.277,64.819"
+	Rotation = "0.400,0.246,0.583,0.663"
+}
+
+cItemPlacement Lamp3
+{
+	FixedOnInitialPlacement = "true"
+	ItemName = "HotelLamp"
+	Location = "-160.913,-4.951,62.799"
+	Rotation = "0.001,-0.000,-0.002,1.000"
+}
+
+cItemPlacement Lamp4
+{
+	FixedOnInitialPlacement = "true"
+	ItemName = "HotelLamp"
+	Location = "-159.288,-4.951,62.004"
+	Rotation = "0.001,-0.000,-0.002,1.000"
+}
+
+cItemPlacement Lamp5
+{
+	FixedOnInitialPlacement = "true"
+	ItemName = "HotelLamp"
+	Location = "-157.617,-4.951,61.457"
+	Rotation = "0.001,-0.000,-0.002,1.000"
+}
+
+cItemPlacement Lamp6
+{
+	FixedOnInitialPlacement = "true"
+	ItemName = "HotelLamp"
+	Location = "-155.772,-4.951,61.358"
+	Rotation = "0.001,-0.000,-0.002,1.000"
+}
+
+cItemPlacement Lamp7
+{
+	FixedOnInitialPlacement = "true"
+	ItemName = "HotelLamp"
+	Location = "-154.112,-4.951,61.766"
+	Rotation = "0.001,-0.000,-0.002,1.000"
+}
+
+cItemPlacement GarbageCan_6
+{
+	ItemName = "GarbageCan_2"
+	Location = "-175.985,-5.887,31.808"
+	Rotation = "-0.001,-0.207,0.003,-0.978"
+	SpawnPropFromCategory = "62"
+}
+
+cItemPlacement WaterCooler1
+{
+	ItemName = "WaterCooler"
+	Location = "-176.229,-6.421,54.513"
+	Rotation = "0.000,-0.867,0.001,-0.498"
+}
+
+cItemPlacement WaterCooler2
+{
+	ItemName = "WaterCooler"
+	Location = "-163.071,-6.422,43.786"
+	Rotation = "-0.000,-0.261,-0.000,-0.965"
+}
+
+cItemPlacement GarbageCan_7
+{
+	FixedOnInitialPlacement = "true"
+	ItemName = "GarbageCan_2"
+	Location = "-168.341,-6.159,64.699"
+	Rotation = "-0.581,0.524,0.361,0.507"
+	SpawnPropFromCategory = "62"
+}
+
+cItemPlacement Painting9
+{
+	ItemName = "Painting3"
+	Location = "-177.192,-4.5,53.452"
+	PropState = "-2"
+	Rotation = "0.000,0.879,0.000,0.476"
+}
+
+cItemPlacement SmallSuitcase2
+{
+	ItemName = "SmallSuitcase"
+	Location = "-176.838,-5.735,51.933"
+	Rotation = "-0.547,-0.453,0.455,-0.545"
+	SpawnPropFromCategory = "65"
+}
+
+cItemPlacement SquareSign1
+{
+	ItemName = "SquareSign"
+	Location = "-177.068,-5.691,59.498"
+	Rotation = "-0.001,-0.778,0.000,0.626"
+	TextureSubType = "1"
+}
+
+cItemWithAttachedPropsPlacement VelvetRope2
+{
+	AttachedProp0 = "VelvetPole"
+	AttachedProp1 = "VelvetPole"
+	FixedOnInitialPlacement = "true"
+	ItemName = "VelvetRope"
+	Location = "-155.880,-5.530,60.053"
+	PropState = "-1"
+	Rotation = "0.000,-0.717,0.000,0.698"
+}
+
+cItemWithAttachedPropsPlacement VelvetRope4
+{
+	AttachedProp0 = "VelvetPole"
+	AttachedProp1 = "VelvetPole"
+	FixedOnInitialPlacement = "true"
+	ItemName = "VelvetRope"
+	Location = "-161.776,-5.537,61.923"
+	PropState = "-1"
+	Rotation = "0.000,-0.548,0.000,0.836"
+}
+
+cItemPlacement HandGun3
+{
+	ItemName = "HandGun"
+	Location = "-159.616,-6.345,62.676"
+	PropState = "-2"
+	Rotation = "0.364,0.366,-0.609,-0.602"
+}
+
+cItemPlacement Pole1
+{
+	FixedOnInitialPlacement = "true"
+	ItemName = "VelvetPole"
+	Location = "-164.958,-6.243,62.455"
+	Rotation = "0.438,-0.240,-0.603,0.622"
+}
+
+cItemPlacement Pole2
+{
+	FixedOnInitialPlacement = "true"
+	ItemName = "VelvetPole"
+	Location = "-164.804,-6.244,64.469"
+	Rotation = "0.715,0.577,-0.207,-0.336"
+}
+
+cItemPlacement Pole3
+{
+	ItemName = "VelvetPole"
+	Location = "-158.253,-6.246,60.976"
+	Rotation = "0.070,0.629,-0.742,0.221"
+}
+
+cItemPlacement Pole4
+{
+	ItemName = "VelvetPole"
+	Location = "-159.146,-6.246,59.902"
+	Rotation = "0.610,-0.625,-0.428,0.233"
+}
+
+cItemPlacement VelvetRope_1
+{
+	ItemName = "VelvetRope"
+	Location = "-158.884,-6.388,60.945"
+	PropState = "-1"
+	Rotation = "0.679,0.191,0.190,-0.683"
+}
+
+cItemPlacement LongStick
+{
+	IsDispenser = "true"
+	ItemName = "LongStick"
+	Location = "-179.971,-5.536,35.618"
+	PropState = "2"
+	Rotation = "0.000,0.000,0.000,1.000"
+}
+
+cItemPlacement LongStick2
+{
+	IsDispenser = "true"
+	ItemName = "LongStick"
+	Location = "-169.378,-5.106,29.464"
+	PropState = "2"
+	Rotation = "0.000,-0.295,0.000,0.955"
+}
+
+cItemPlacement LongStick3
+{
+	IsDispenser = "true"
+	ItemName = "LongStick"
+	Location = "-167.495,-5.106,32.854"
+	PropState = "2"
+	Rotation = "0.000,0.000,0.000,1.000"
+}
+
+cItemPlacement LongStick4
+{
+	IsDispenser = "true"
+	ItemName = "LongStick"
+	Location = "-155.413,-5.231,44.334"
+	PropState = "2"
+	Rotation = "0.000,0.000,0.000,1.000"
+}
+
+cItemPlacement LongStick5
+{
+	IsDispenser = "true"
+	ItemName = "LongStick"
+	Location = "-149.695,-5.231,54.107"
+	PropState = "2"
+	Rotation = "0.000,0.000,0.000,1.000"
+}
+
+cItemPlacement LongStick1
+{
+	IsDispenser = "true"
+	ItemName = "LongStick"
+	Location = "-174.552,-5.181,56.467"
+	PropState = "-2"
+	Rotation = "0.000,0.000,0.000,1.000"
+}
+
+cItemPlacement Vase31
+{
+	FixedOnInitialPlacement = "true"
+	ItemName = "Vase3"
+	Location = "-174.509,-4.788,44.016"
+	Rotation = "-0.005,-0.010,-0.026,1.000"
+}
+
+cItemPlacement Vase32
+{
+	FixedOnInitialPlacement = "true"
+	ItemName = "Vase3"
+	Location = "-165.959,-4.791,39.119"
+	Rotation = "0,0,0,1"
+}
+
+cItemPlacement Vase33
+{
+	FixedOnInitialPlacement = "true"
+	ItemName = "Vase3"
+	Location = "-150.725,-4.801,40.535"
+	PropState = "-1"
+	Rotation = "0,0,0,1"
+}
+
+cItemPlacement Vase34
+{
+	FixedOnInitialPlacement = "true"
+	ItemName = "Vase3"
+	Location = "-144.000,-4.811,52.097"
+	PropState = "-1"
+	Rotation = "0,0,0,1"
+}
+
+cItemPlacement Vase6
+{
+	FixedOnInitialPlacement = "true"
+	ItemName = "Vase2"
+	Location = "-160.545,-4.821,41.649"
+	PropState = "-1"
+	Rotation = "0.000,0.000,0.000,1.000"
+}
+
+cItemPlacement Vase7
+{
+	FixedOnInitialPlacement = "true"
+	ItemName = "Vase2"
+	Location = "-155.969,-4.821,41.156"
+	PropState = "-1"
+	Rotation = "0.000,0.000,0.000,1.000"
+}
+
+cItemPlacement Vase8
+{
+	FixedOnInitialPlacement = "true"
+	ItemName = "Vase2"
+	Location = "-158.265,-4.821,40.303"
+	PropState = "-1"
+	Rotation = "0.000,0.000,0.000,1.000"
+}
+
+
+cDoorPlacement CR12_Left
+{
+	AudioEnvVolume = "Wing1_ComboRoom1_Door"
+	InitialState = "0"
+	ItemName = "door_pushbarL"
+	KeyItem = "85019"
+	Location = "-224.6677,-7.4239,56.1069"
+	LockedMessage = "50407"
+	NonInteractableProp = "true"
+	Rotation = "0,0.866,0,0.5"
+	SiblingDoorName = "CR12_Right"
+	TextureSubType = "1"
+}
+
+cDoorPlacement CR12_Right
+{
+	AudioEnvVolume = "Wing1_ComboRoom1_Door"
+	InitialState = "0"
+	InteractionIconLocation = "-225.477,-6.4,54.918"
+	ItemName = "door_pushbarR"
+	KeyItem = "85019"
+	Location = "-226.0677,-7.4239,53.682"
+	LockedMessage = "50407"
+	NonInteractableProp = "false"
+	Rotation = "0,-0.5,0,0.866"
+	SiblingDoorName = "CR12_Left"
+	TextureSubType = "1"
+}
+
+cDoorPlacement UndergroundDoor
+{
+	CustomInteractionText = "1541"
+	InitialState = "0"
+	ItemName = "door_standardknob"
+	KeyItem = "85017"
+	Level = "UNDERGROUND"
+	LevelSpawnPoint = "EntrySouthPlaza"
+	Location = "-305.975,-7.434,106.964"
+	LockedMessage = "50407"
+	Rotation = "0,-0.3085,0,0.9512"
+	TeleportOnUse = "true"
+	TextureSubType = "9"
+}
+
+cDoorPlacement HotelDoor
+{
+	AudioEnvVolume = "Wing1_Main1_Door4"
+	InitialState = "1"
+	ItemName = "door_glasshandle"
+	Location = "-178.2982,-6.4314,60.0836"
+	Rotation = "0,-0.5,0,0.866"
+	SiblingDoorName = "HotelDoor1"
+}
+
+cDoorPlacement HotelDoor1
+{
+	AudioEnvVolume = "Wing1_Main1_Door3"
+	InitialState = "1"
+	ItemName = "door_glasshandle"
+	Location = "-176.8983,-6.4314,62.5085"
+	Rotation = "0,-0.866,0,-0.5"
+	SiblingDoorName = "HotelDoor"
+}
+
+cDoorPlacement HotelElevator1
+{
+	AudioEnvVolume = "Hotel_Elevator2_Door"
+	InitialState = "0"
+	InteractionIconLocation = "-177.070,-5.021,31.984"
+	ItemName = "door_elevator"
+	Location = "-177.5437,-6.4315,31.9156"
+	LockedMessage = "50407"
+	MovementStyle = "1"
+	NonInteractableProp = "true"
+	PrerequisiteMission = "Case5-2Elevators"
+	Rotation = "0,0.9659,0,-0.2588"
+	SiblingDoorName = "HotelElevator2"
+	TextureSubType = "2"
+}
+
+cDoorPlacement HotelElevator2
+{
+	AudioEnvVolume = "Hotel_Elevator2_Door"
+	InitialState = "0"
+	ItemName = "door_elevator"
+	Location = "-179.9686,-6.4315,33.3156"
+	LockedMessage = "50407"
+	MovementStyle = "1"
+	NonInteractable = "true"
+	NonInteractableProp = "true"
+	PrerequisiteMission = "Case5-2Elevators"
+	Rotation = "0,0.2588,0,0.9659"
+	SiblingDoorName = "HotelElevator1"
+	TextureSubType = "2"
+}
+
+cDoorPlacement HotelElevator3
+{
+	AudioEnvVolume = "Hotel_Elevator1_Door"
+	InitialState = "0"
+	InteractionIconLocation = "-172.096,-5.031,29.116"
+	IsStatic = ""
+	ItemName = "door_elevator"
+	Location = "-174.9889,-6.4315,30.4406"
+	LockedMessage = "50407"
+	MovementStyle = "1"
+	NonInteractableProp = "true"
+	Rotation = "0,0.2588,0,0.9659"
+	SiblingDoorName = "HotelElevator4"
+	TextureSubType = "2"
+}
+
+cDoorPlacement HotelElevator4
+{
+	AudioEnvVolume = "Hotel_Elevator1_Door"
+	InitialState = "0"
+	IsStatic = ""
+	ItemName = "door_elevator"
+	Location = "-172.564,-6.4315,29.0406"
+	LockedMessage = "50407"
+	MovementStyle = "1"
+	NonInteractable = "true"
+	NonInteractableProp = "true"
+	Rotation = "0,0.9659,0,-0.2588"
+	SiblingDoorName = "HotelElevator3"
+	TextureSubType = "2"
+}
+
+cDoorPlacement CR15_Left
+{
+	AudioEnvVolume = "Wing3_ComboRoom1_Door"
+	InitialState = "0"
+	ItemName = "door_pushbarL"
+	KeyItem = "85019"
+	Location = "-352.2943,-7.4754,129.5855"
+	LockedMessage = "50407"
+	NonInteractableProp = "true"
+	Rotation = "0,-0.866,0,-0.5"
+	SiblingDoorName = "CR15_Right"
+	TextureSubType = "1"
+}
+
+cDoorPlacement CR15_Right
+{
+	AudioEnvVolume = "Wing3_ComboRoom1_Door"
+	InitialState = "0"
+	InteractionIconLocation = "-353.038,-6.4,128.349"
+	ItemName = "door_pushbarR"
+	KeyItem = "85019"
+	Location = "-353.6943,-7.4754,127.1606"
+	LockedMessage = "50407"
+	NonInteractableProp = "false"
+	Rotation = "0,-0.5,0,0.866"
+	SiblingDoorName = "CR15_Left"
+	TextureSubType = "1"
+}
+
+cDoorPlacement CR14_Left
+{
+	AudioEnvVolume = "Wing2_ComboRoom1_Door"
+	InitialState = "0"
+	ItemName = "door_pushbarL"
+	KeyItem = "85019"
+	Location = "-303.445,-7.4471,206.5141"
+	LockedMessage = "50407"
+	NonInteractableProp = "true"
+	Rotation = "0,0.5373,0,0.8434"
+	SiblingDoorName = "CR14_Right"
+	TextureSubType = "1"
+}
+
+cDoorPlacement CR14_Right
+{
+	AudioEnvVolume = "Wing2_ComboRoom1_Door"
+	InitialState = "0"
+	InteractionIconLocation = "-303.064,-6.425,205.176"
+	ItemName = "door_pushbarR"
+	KeyItem = "85019"
+	Location = "-302.2616,-7.4471,203.9764"
+	LockedMessage = "50407"
+	NonInteractableProp = "false"
+	Rotation = "0,0.8434,0,-0.5373"
+	SiblingDoorName = "CR14_Left"
+	TextureSubType = "1"
+}
+
+cDoorPlacement CR13_Left
+{
+	AudioEnvVolume = "Wing1_ComboRoom2_Door"
+	InitialState = "0"
+	ItemName = "door_pushbarL"
+	KeyItem = "85019"
+	Location = "-234.8081,-7.4424,127.2014"
+	LockedMessage = "50407"
+	NonInteractableProp = "true"
+	Rotation = "0,0.2588,0,0.9659"
+	SiblingDoorName = "CR13_Right"
+	TextureSubType = "1"
+}
+
+cDoorPlacement CR13_Right
+{
+	AudioEnvVolume = "Wing1_ComboRoom2_Door"
+	InitialState = "0"
+	InteractionIconLocation = "-233.596,-6.4,126.559"
+	ItemName = "door_pushbarR"
+	KeyItem = "85019"
+	Location = "-232.3832,-7.4424,125.8014"
+	LockedMessage = "50407"
+	NonInteractableProp = "false"
+	Rotation = "0,0.9659,0,-0.2588"
+	SiblingDoorName = "CR13_Left"
+	TextureSubType = "1"
+}
+
+
+cPolygonLarge Hotel_Box
+{
+	Height = "8"
+	LevelRegionText = "885"
+	NumVertex = "26"
+	Vertex0 = "-143.571,-6.910,36.461"
+	Vertex1 = "-153.761,-6.910,42.290"
+	Vertex10 = "-176.605,-6.910,39.559"
+	Vertex11 = "-171.615,-6.910,48.190"
+	Vertex12 = "-178.135,-6.910,51.918"
+	Vertex13 = "-176.145,-6.910,55.399"
+	Vertex14 = "-176.869,-6.910,58.049"
+	Vertex15 = "-179.022,-6.910,59.338"
+	Vertex16 = "-174.657,-6.910,66.846"
+	Vertex17 = "-172.517,-6.910,65.603"
+	Vertex18 = "-169.830,-6.910,66.343"
+	Vertex19 = "-166.303,-6.910,72.419"
+	Vertex2 = "-156.310,-6.910,41.598"
+	Vertex20 = "-145.426,-6.910,60.380"
+	Vertex21 = "-148.185,-6.910,55.593"
+	Vertex22 = "-146.563,-6.910,53.073"
+	Vertex23 = "-137.137,-6.910,47.650"
+	Vertex24 = "-137.353,-6.910,46.296"
+	Vertex25 = "-142.728,-6.910,37.109"
+	Vertex3 = "-157.298,-6.910,39.880"
+	Vertex4 = "-163.798,-6.910,43.635"
+	Vertex5 = "-168.734,-6.910,35.042"
+	Vertex6 = "-166.154,-6.910,33.531"
+	Vertex7 = "-169.713,-6.910,27.378"
+	Vertex8 = "-182.740,-6.910,34.963"
+	Vertex9 = "-179.195,-6.910,41.043"
+}
+
+cPolygonSmall SouthPlaza_Box
+{
+	Height = "30.0"
+	LevelRegionText = "879"
+	NumVertex = "11"
+	Vertex0 = "-217.819,-7.874,43.894"
+	Vertex1 = "-178.930,-7.874,60.092"
+	Vertex10 = "-402.917,-7.874,85.975"
+	Vertex2 = "-173.795,-7.874,68.888"
+	Vertex3 = "-174.319,-7.874,122.792"
+	Vertex4 = "-198.369,-7.874,137.213"
+	Vertex5 = "-252.344,-7.874,172.240"
+	Vertex6 = "-300.888,-7.874,218.434"
+	Vertex7 = "-323.379,-7.874,221.395"
+	Vertex8 = "-378.674,-7.874,202.232"
+	Vertex9 = "-431.618,-7.874,97.246"
+}
+
+cPolygonSmall ComboRoom12_Box
+{
+	Height = "5.0"
+	NumVertex = "4"
+	Text = "928"
+	Vertex0 = "-216.750,-7.5,53.440"
+	Vertex1 = "-223.790,-7.5,57.558"
+	Vertex2 = "-226.910,-7.5,52.209"
+	Vertex3 = "-219.819,-7.5,48.077"
+}
+
+cPolygonSmall ComboRoom13_Box
+{
+	Height = "5.0"
+	NumVertex = "4"
+	Text = "928"
+	Vertex0 = "-230.950,-8,125.029"
+	Vertex1 = "-226.862,-8,132.074"
+	Vertex2 = "-232.181,-8,135.053"
+	Vertex3 = "-236.198,-8,128.020"
+}
+
+cPolygonSmall ComboRoom14_Box
+{
+	Height = "5.0"
+	NumVertex = "4"
+	Text = "928"
+	Vertex0 = "-301.579,-8,202.487"
+	Vertex1 = "-294.047,-8,205.964"
+	Vertex2 = "-296.893,-8,211.544"
+	Vertex3 = "-304.226,-8,208.032"
+}
+
+cPolygonSmall ComboRoom15_Box
+{
+	Height = "5.0"
+	NumVertex = "4"
+	Text = "928"
+	Vertex0 = "-354.481,-8,125.710"
+	Vertex1 = "-347.430,-8,121.580"
+	Vertex2 = "-344.327,-8,126.938"
+	Vertex3 = "-351.371,-8,131.049"
+}
+
+
+cItemPlacement GasVent
+{
+	ItemName = "GasVent"
+	Location = "-151.368,-6.411,48.316"
+	Rotation = "0.000,-0.487,0.000,0.877"
+}
+
+cItemPlacement GasVent1
+{
+	ItemName = "GasVent"
+	Location = "-170.177,-6.411,59.356"
+	Rotation = "0.000,-0.483,0.000,0.878"
+}
+
+cItemPlacement GasVent2
+{
+	ItemName = "GasVent"
+	Location = "-202.794,-7.421,77.486"
+	Rotation = "0.000,-0.500,0.000,0.868"
+}
+
+cItemPlacement GasVent3
+{
+	ItemName = "GasVent"
+	Location = "-227.394,-7.421,93.404"
+	Rotation = "0.000,-0.509,0.000,0.863"
+}
+
+cItemPlacement GasVent4
+{
+	ItemName = "GasVent"
+	Location = "-250.483,-7.421,105.866"
+	Rotation = "0.000,-0.509,0.000,0.863"
+}
+
+cItemPlacement GasVent5
+{
+	ItemName = "GasVent"
+	Location = "-274.472,-7.427,121.221"
+	Rotation = "0.000,-0.319,0.000,0.948"
+}
+
+cItemPlacement GasVent6
+{
+	ItemName = "GasVent"
+	Location = "-293.229,-7.427,141.797"
+	Rotation = "0.000,-0.319,0.000,0.948"
+}
+
+cItemPlacement GasVent7
+{
+	ItemName = "GasVent"
+	Location = "-304.879,-7.427,117.637"
+	Rotation = "0.000,-0.319,0.000,0.948"
+}
+
+cItemPlacement GasVent8
+{
+	ItemName = "GasVent"
+	Location = "-313.006,-7.424,156.968"
+	Rotation = "0.000,-0.491,0.000,0.869"
+}
+
+cItemPlacement GasVent9
+{
+	ItemName = "GasVent"
+	Location = "-334.298,-7.427,170.133"
+	Rotation = "0.000,-0.491,0.000,0.869"
+}
+
+cItemPlacement GasVent10
+{
+	ItemName = "GasVent"
+	Location = "-359.969,-7.427,184.791"
+	Rotation = "0.000,-0.508,0.000,0.859"
+}
+
+cItemPlacement GasVent11
+{
+	ItemName = "GasVent"
+	Location = "-358.718,-7.427,154.005"
+	Rotation = "0.000,-0.508,0.000,0.859"
+}
+
+cItemPlacement GasVent12
+{
+	ItemName = "GasVent"
+	Location = "-388.164,-7.428,134.004"
+	Rotation = "0.000,-0.793,0.000,0.603"
+}
+
+
+cPolygonLarge L_SouthPlaza
+{
+	Height = "36"
+	NumVertex = "16"
+	Vertex0 = "-172.087,-9.999,71.088"
+	Vertex1 = "-180.125,-9.999,57.431"
+	Vertex10 = "-276.544,-9.999,125.908"
+	Vertex11 = "-251.638,-9.999,142.439"
+	Vertex12 = "-237.074,-9.999,128.910"
+	Vertex13 = "-228.171,-9.999,123.989"
+	Vertex14 = "-203.877,-9.999,109.561"
+	Vertex15 = "-192.485,-9.999,102.871"
+	Vertex2 = "-214.550,-9.999,54.337"
+	Vertex3 = "-223.425,-9.999,57.610"
+	Vertex4 = "-227.177,-9.999,51.229"
+	Vertex5 = "-237.924,-9.999,57.233"
+	Vertex6 = "-233.309,-9.999,66.178"
+	Vertex7 = "-279.110,-9.999,93.370"
+	Vertex8 = "-274.450,-9.999,101.713"
+	Vertex9 = "-282.318,-9.999,106.383"
+}
+
+cPolygonLarge L_Hotel
+{
+	Height = "15"
+	NumVertex = "4"
+	Vertex0 = "-194.395,-8.999,36.370"
+	Vertex1 = "-157.225,-8.999,95.747"
+	Vertex2 = "-106.656,-8.999,54.367"
+	Vertex3 = "-157.466,-8.999,14.820"
+}
+
+cLightContextVolume LC_Hotel
+{
+	ContextFileName = "/hotel.csv"
+	QuadName = "L_Hotel"
+}
+
+cLightContextVolume LC_SouthPlaza
+{
+	ContextFileName = "/south_plaza.csv"
+	QuadName = "L_SouthPlaza"
+}
+
+cLightContextVolume LC_Bathroom
+{
+	ContextFileName = "/hotel.csv"
+	QuadName = "L_Bathroom"
+}
+
+cLightContextVolume LC_Arena
+{
+	ContextFileName = "/hotel.csv"
+	QuadName = "L_Arena"
+}
+
+cPolygonLarge L_Bathroom
+{
+	Height = "6"
+	NumVertex = "6"
+	Vertex0 = "-196.264,-7.999,101.249"
+	Vertex1 = "-203.826,-7.999,105.737"
+	Vertex2 = "-208.141,-7.999,125.393"
+	Vertex3 = "-198.128,-7.999,137.113"
+	Vertex4 = "-173.769,-7.999,122.197"
+	Vertex5 = "-186.197,-7.999,102.883"
+}
+
+cPolygonLarge L_Arena
+{
+	Height = "18"
+	NumVertex = "6"
+	Vertex0 = "-386.870,-8.999,141.198"
+	Vertex1 = "-382.725,-8.999,124.381"
+	Vertex2 = "-393.280,-8.999,87.245"
+	Vertex3 = "-419.395,-8.999,88.676"
+	Vertex4 = "-432.065,-8.999,112.303"
+	Vertex5 = "-408.149,-8.999,140.732"
+}
+
+cPolygonLarge L_Combo1
+{
+	Height = "7"
+	NumVertex = "8"
+	Vertex0 = "-318.868,-8.999,135.626"
+	Vertex1 = "-347.796,-8.999,120.072"
+	Vertex2 = "-355.512,-8.999,124.727"
+	Vertex3 = "-351.452,-8.999,131.391"
+	Vertex4 = "-345.722,-8.999,128.341"
+	Vertex5 = "-338.554,-8.999,140.643"
+	Vertex6 = "-336.346,-8.999,144.528"
+	Vertex7 = "-318.369,-8.999,139.691"
+}
+
+cPolygonLarge L_Combo2
+{
+	Height = "6"
+	NumVertex = "7"
+	Vertex0 = "-329.458,-7.999,207.105"
+	Vertex1 = "-323.904,-7.999,217.521"
+	Vertex2 = "-297.101,-7.999,213.026"
+	Vertex3 = "-274.061,-7.999,188.906"
+	Vertex4 = "-292.585,-7.999,173.140"
+	Vertex5 = "-300.534,-7.999,177.643"
+	Vertex6 = "-320.789,-7.999,202.234"
+}
+
+cPolygonLarge L_Combo3
+{
+	Height = "6"
+	NumVertex = "4"
+	Vertex0 = "-230.455,-7.999,124.594"
+	Vertex1 = "-236.351,-7.999,128.062"
+	Vertex2 = "-232.544,-7.999,136.551"
+	Vertex3 = "-225.121,-7.999,132.075"
+}
+
+cPolygonLarge L_Combo4
+{
+	Height = "6"
+	NumVertex = "4"
+	Vertex0 = "-223.685,-7.999,58.117"
+	Vertex1 = "-215.044,-7.999,53.903"
+	Vertex2 = "-218.972,-7.999,46.543"
+	Vertex3 = "-227.088,-7.999,52.181"
+}
+
+cLightContextVolume LC_Combo1
+{
+	ContextFileName = "/south_plaza_utility.csv"
+	QuadName = "L_Combo1"
+}
+
+cLightContextVolume LC_Combo2
+{
+	ContextFileName = "/south_plaza_utility.csv"
+	QuadName = "L_Combo2"
+}
+
+cLightContextVolume LC_Combo3
+{
+	ContextFileName = "/south_plaza_utility.csv"
+	QuadName = "L_Combo3"
+}
+
+cLightContextVolume LC_Combo4
+{
+	ContextFileName = "/south_plaza_utility.csv"
+	QuadName = "L_Combo4"
+}
+
+cLightContextVolume LC_Combo5
+{
+	ContextFileName = "/south_plaza_utility.csv"
+	QuadName = "L_Combo5"
+}
+
+cPolygonLarge L_Combo5
+{
+	Height = "10"
+	NumVertex = "8"
+	Vertex0 = "-234.473,-9.999,61.616"
+	Vertex1 = "-236.503,-9.999,58.015"
+	Vertex2 = "-289.138,-9.999,86.599"
+	Vertex3 = "-277.496,-9.999,103.925"
+	Vertex4 = "-274.822,-9.999,102.291"
+	Vertex5 = "-273.999,-9.999,90.865"
+	Vertex6 = "-257.162,-9.999,80.122"
+	Vertex7 = "-243.617,-9.999,72.465"
+}
+
+cPolygonLarge L_SouthPlaza2
+{
+	Height = "36"
+	NumVertex = "8"
+	Vertex0 = "-280.375,-9.999,104.266"
+	Vertex1 = "-262.218,-9.999,123.072"
+	Vertex2 = "-257.498,-9.999,125.173"
+	Vertex3 = "-236.080,-9.999,156.033"
+	Vertex4 = "-250.277,-9.999,176.308"
+	Vertex5 = "-291.995,-9.999,173.196"
+	Vertex6 = "-330.469,-9.999,108.073"
+	Vertex7 = "-317.342,-9.999,88.881"
+}
+
+cPolygonLarge L_SouthPlaza3
+{
+	Height = "36"
+	NumVertex = "16"
+	Vertex0 = "-388.991,-9.999,143.086"
+	Vertex1 = "-380.619,-9.999,112.561"
+	Vertex10 = "-280.510,-9.999,168.963"
+	Vertex11 = "-300.236,-9.999,179.058"
+	Vertex12 = "-321.530,-9.999,204.039"
+	Vertex13 = "-336.776,-9.999,212.721"
+	Vertex14 = "-376.974,-9.999,214.433"
+	Vertex15 = "-386.927,-9.999,189.762"
+	Vertex2 = "-354.484,-9.999,124.669"
+	Vertex3 = "-350.925,-9.999,130.888"
+	Vertex4 = "-344.537,-9.999,128.771"
+	Vertex5 = "-334.971,-9.999,146.137"
+	Vertex6 = "-320.877,-9.999,140.063"
+	Vertex7 = "-318.979,-9.999,139.592"
+	Vertex8 = "-320.119,-9.999,131.374"
+	Vertex9 = "-302.941,-9.999,128.772"
+}
+
+cLightContextVolume LC_SouthPlaza2
+{
+	ContextFileName = "/south_plaza.csv"
+	QuadName = "L_SouthPlaza2"
+}
+
+cLightContextVolume LC_SouthPlaza3
+{
+	ContextFileName = "/south_plaza.csv"
+	QuadName = "L_SouthPlaza3"
+}
+
+
+cZombieWarehouse SouthPlaza_Mall
+{
+	cPolygonSmall Hall1
+	{
+		Height = "2.0"
+		NumVertex = "4"
+		Vertex0 = "-185.744,-7.430,64.663"
+		Vertex1 = "-182.688,-7.430,70.141"
+		Vertex2 = "-197.869,-7.374,78.416"
+		Vertex3 = "-201.143,-7.374,72.401"
+	}
+
+	cPolygonLarge Plaza1_Centurion
+	{
+		Height = "2.0"
+		NumVertex = "30"
+		Vertex0 = "-199.351,-7.440,78.162"
+		Vertex1 = "-207.814,-7.441,82.766"
+		Vertex10 = "-216.803,-7.374,71.674"
+		Vertex11 = "-223.662,-7.374,75.439"
+		Vertex12 = "-225.349,-7.374,76.744"
+		Vertex13 = "-226.098,-7.374,78.192"
+		Vertex14 = "-225.069,-7.374,80.248"
+		Vertex15 = "-221.176,-7.374,81.237"
+		Vertex16 = "-220.528,-7.374,77.926"
+		Vertex17 = "-219.327,-7.374,79.154"
+		Vertex18 = "-220.520,-7.374,85.072"
+		Vertex19 = "-220.331,-7.374,87.063"
+		Vertex2 = "-209.924,-7.441,79.896"
+		Vertex20 = "-223.516,-7.374,87.364"
+		Vertex21 = "-224.724,-7.374,84.453"
+		Vertex22 = "-227.351,-7.374,82.918"
+		Vertex23 = "-228.242,-7.374,84.218"
+		Vertex24 = "-229.473,-7.374,86.008"
+		Vertex25 = "-229.939,-7.374,89.268"
+		Vertex26 = "-231.783,-7.374,88.376"
+		Vertex27 = "-228.224,-7.374,73.012"
+		Vertex28 = "-217.116,-7.374,67.734"
+		Vertex29 = "-202.051,-7.374,72.470"
+		Vertex3 = "-205.802,-7.374,77.397"
+		Vertex4 = "-206.977,-7.374,75.233"
+		Vertex5 = "-210.620,-7.374,75.367"
+		Vertex6 = "-211.362,-7.441,78.430"
+		Vertex7 = "-214.151,-7.441,77.812"
+		Vertex8 = "-213.622,-7.375,74.476"
+		Vertex9 = "-215.112,-7.374,72.929"
+	}
+
+	cPolygonLarge Hall3
+	{
+		Height = "2.0"
+		NumVertex = "21"
+		Vertex0 = "-287.214,-7.441,142.088"
+		Vertex1 = "-287.544,-7.441,140.291"
+		Vertex10 = "-331.203,-7.441,166.059"
+		Vertex11 = "-328.129,-7.441,171.726"
+		Vertex12 = "-315.081,-7.441,163.108"
+		Vertex13 = "-311.644,-7.441,158.644"
+		Vertex14 = "-307.610,-7.441,156.151"
+		Vertex15 = "-307.143,-7.441,156.804"
+		Vertex16 = "-305.550,-7.441,155.721"
+		Vertex17 = "-302.252,-7.441,154.032"
+		Vertex18 = "-295.498,-7.441,149.862"
+		Vertex19 = "-294.552,-7.441,146.499"
+		Vertex2 = "-290.407,-7.441,137.838"
+		Vertex20 = "-292.949,-7.441,145.155"
+		Vertex3 = "-291.770,-7.441,140.087"
+		Vertex4 = "-298.766,-7.441,142.803"
+		Vertex5 = "-299.834,-7.442,145.042"
+		Vertex6 = "-308.121,-7.441,150.050"
+		Vertex7 = "-314.033,-7.441,151.989"
+		Vertex8 = "-321.562,-7.441,157.337"
+		Vertex9 = "-324.877,-7.441,161.665"
+	}
+
+	cPolygonLarge Plaza3_LionvsMan
+	{
+		Height = "2.0"
+		NumVertex = "18"
+		Vertex0 = "-361.465,-7.446,165.116"
+		Vertex1 = "-348.346,-7.446,158.176"
+		Vertex10 = "-340.705,-7.445,180.720"
+		Vertex11 = "-339.819,-7.445,173.530"
+		Vertex12 = "-346.347,-7.445,168.829"
+		Vertex13 = "-355.774,-7.445,174.996"
+		Vertex14 = "-353.787,-7.445,183.034"
+		Vertex15 = "-360.334,-7.445,184.805"
+		Vertex16 = "-364.000,-7.445,179.672"
+		Vertex17 = "-359.540,-7.445,168.789"
+		Vertex2 = "-346.034,-7.445,160.090"
+		Vertex3 = "-334.104,-7.445,163.578"
+		Vertex4 = "-328.244,-7.445,164.726"
+		Vertex5 = "-318.126,-7.445,158.765"
+		Vertex6 = "-315.443,-7.445,163.366"
+		Vertex7 = "-326.077,-7.445,170.100"
+		Vertex8 = "-329.381,-7.445,173.416"
+		Vertex9 = "-332.561,-7.445,184.790"
+	}
+
+	cPolygonSmall cPolygonSmall1
+	{
+		Height = "2.0"
+		NumVertex = "11"
+		Vertex0 = "-196.625,-7.440,83.154"
+		Vertex1 = "-198.559,-7.441,90.892"
+		Vertex10 = "-201.339,-7.440,85.026"
+		Vertex2 = "-199.731,-7.441,90.564"
+		Vertex3 = "-201.142,-7.442,96.420"
+		Vertex4 = "-206.534,-7.442,98.678"
+		Vertex5 = "-209.106,-7.442,95.814"
+		Vertex6 = "-204.828,-7.442,93.732"
+		Vertex7 = "-203.434,-7.441,91.596"
+		Vertex8 = "-205.779,-7.441,89.345"
+		Vertex9 = "-204.775,-7.440,85.344"
+	}
+
+	cPolygonSmall Entrance_fr_Arena
+	{
+		Height = "2.0"
+		NumVertex = "10"
+		Vertex0 = "-385.311,-7.446,138.445"
+		Vertex1 = "-387.547,-7.446,134.876"
+		Vertex2 = "-383.358,-7.446,131.451"
+		Vertex3 = "-363.607,-7.446,141.898"
+		Vertex4 = "-351.468,-7.446,160.628"
+		Vertex5 = "-336.389,-7.446,163.362"
+		Vertex6 = "-341.754,-7.446,167.562"
+		Vertex7 = "-358.810,-7.446,162.908"
+		Vertex8 = "-372.101,-7.446,146.528"
+		Vertex9 = "-380.986,-7.446,139.787"
+	}
+
+}
+
+cZombieWarehouse South_Plaza_Looters_01
+{
+	cPolygonLarge Looters_1
+	{
+		Height = "2.0"
+		NumVertex = "19"
+		Vertex0 = "-351.884,-7.446,140.413"
+		Vertex1 = "-351.046,-7.445,136.456"
+		Vertex10 = "-338.935,-7.445,157.354"
+		Vertex11 = "-346.328,-7.445,155.334"
+		Vertex12 = "-353.076,-7.445,144.129"
+		Vertex13 = "-349.945,-7.445,143.029"
+		Vertex14 = "-347.470,-7.445,146.662"
+		Vertex15 = "-344.745,-7.445,146.139"
+		Vertex16 = "-344.526,-7.445,144.690"
+		Vertex17 = "-345.510,-7.445,144.487"
+		Vertex18 = "-347.935,-7.445,141.122"
+		Vertex2 = "-346.542,-7.445,132.718"
+		Vertex3 = "-339.445,-7.445,143.067"
+		Vertex4 = "-333.960,-7.445,152.054"
+		Vertex5 = "-336.341,-7.445,153.488"
+		Vertex6 = "-336.567,-7.445,151.841"
+		Vertex7 = "-341.014,-7.445,143.147"
+		Vertex8 = "-343.259,-7.445,143.088"
+		Vertex9 = "-344.217,-7.445,148.014"
+	}
+
+}
+
+cZombieWarehouse SouthPlaza_Hotel
+{
+	cPolygonLarge Hotel_Lobby
+	{
+		Height = "2.0"
+		NumVertex = "26"
+		Vertex0 = "-159.857,-6.431,45.943"
+		Vertex1 = "-161.356,-6.430,50.428"
+		Vertex10 = "-161.331,-6.428,59.485"
+		Vertex11 = "-156.583,-6.428,56.066"
+		Vertex12 = "-152.709,-6.428,58.972"
+		Vertex13 = "-158.559,-6.428,60.960"
+		Vertex14 = "-162.156,-6.428,61.697"
+		Vertex15 = "-167.835,-6.428,65.362"
+		Vertex16 = "-168.861,-6.428,62.048"
+		Vertex17 = "-171.675,-6.428,53.952"
+		Vertex18 = "-171.636,-6.428,52.164"
+		Vertex19 = "-172.819,-6.428,50.787"
+		Vertex2 = "-164.018,-6.428,50.784"
+		Vertex20 = "-171.048,-6.428,49.994"
+		Vertex21 = "-169.447,-6.428,50.463"
+		Vertex22 = "-168.305,-6.428,49.614"
+		Vertex23 = "-175.665,-6.428,37.201"
+		Vertex24 = "-171.358,-6.428,34.287"
+		Vertex25 = "-163.868,-6.428,47.252"
+		Vertex3 = "-165.354,-6.428,51.521"
+		Vertex4 = "-163.904,-6.428,53.250"
+		Vertex5 = "-164.344,-6.428,55.074"
+		Vertex6 = "-166.873,-6.428,54.658"
+		Vertex7 = "-167.035,-6.428,55.916"
+		Vertex8 = "-166.006,-6.428,58.005"
+		Vertex9 = "-163.746,-6.428,59.289"
+	}
+
+}
+
+cZombieWarehouse Density
+{
+	cPolygonSmall Density_Plaza2_1
+	{
+		Height = "2.0"
+		NumVertex = "12"
+		Vertex0 = "-279.393,-5.749,130.525"
+		Vertex1 = "-279.059,-5.749,135.345"
+		Vertex10 = "-280.841,-5.748,126.580"
+		Vertex11 = "-279.026,-5.748,128.012"
+		Vertex2 = "-281.698,-5.749,138.318"
+		Vertex3 = "-285.498,-5.748,138.827"
+		Vertex4 = "-288.550,-5.748,140.019"
+		Vertex5 = "-289.547,-5.748,139.302"
+		Vertex6 = "-288.465,-5.748,135.965"
+		Vertex7 = "-289.230,-5.748,131.913"
+		Vertex8 = "-286.968,-5.748,129.066"
+		Vertex9 = "-282.506,-5.748,128.442"
+	}
+
+	cPolygonSmall Density_Plaza2_2
+	{
+		Height = "2.0"
+		NumVertex = "7"
+		Vertex0 = "-383.304,-7.446,142.888"
+		Vertex1 = "-376.936,-7.446,127.801"
+		Vertex2 = "-361.237,-7.446,135.143"
+		Vertex3 = "-356.240,-7.446,145.137"
+		Vertex4 = "-356.144,-7.446,155.953"
+		Vertex5 = "-363.923,-7.446,156.195"
+		Vertex6 = "-369.142,-7.446,149.458"
+	}
+
+}
+
+cZombieWarehouse SouthPlaza_HotelEntrance
+{
+	cPolygonSmall Hotel_Entrance
+	{
+		Height = "2.0"
+		NumVertex = "11"
+		Vertex0 = "-149.064,-6.431,41.887"
+		Vertex1 = "-151.932,-6.430,46.990"
+		Vertex10 = "-155.707,-6.430,46.040"
+		Vertex2 = "-146.497,-6.430,48.655"
+		Vertex3 = "-145.746,-6.430,50.516"
+		Vertex4 = "-150.422,-6.430,53.289"
+		Vertex5 = "-150.149,-6.430,55.973"
+		Vertex6 = "-153.174,-6.430,57.598"
+		Vertex7 = "-157.060,-6.430,54.788"
+		Vertex8 = "-158.439,-6.430,51.758"
+		Vertex9 = "-157.622,-6.430,45.813"
+	}
+
+}
+
+cZombieWarehouse SouthPlaza_ArenaEntrance
+{
+	cPolygonSmall Arena_Entrance1
+	{
+		BottomRight = "-439.403,-7.890,59.096"
+		Height = "2.0"
+		Location = "-282.271,-7.343,91.209"
+		NumVertex = "6"
+		Rotation = "-0.002,0.407,0.001,0.913"
+		TopLeft = "-181.562,5.274,214.400"
+		Vertex0 = "-387.173,-7.446,129.854"
+		Vertex1 = "-389.467,-7.446,137.917"
+		Vertex2 = "-402.121,-7.446,134.656"
+		Vertex3 = "-399.277,-7.446,132.055"
+		Vertex4 = "-397.499,-7.446,128.847"
+		Vertex5 = "-397.976,-7.446,126.520"
+	}
+
+}
+
+cZombieWarehouse SouthPlaza_Mall_Plaza2
+{
+	cPolygonLarge Plaza2_LeftSide
+	{
+		Height = "2.0"
+		NumVertex = "14"
+		Vertex0 = "-293.465,-7.441,144.572"
+		Vertex1 = "-288.760,-7.441,139.230"
+		Vertex10 = "-263.023,-7.440,148.741"
+		Vertex11 = "-265.041,-7.440,151.426"
+		Vertex12 = "-273.572,-7.440,146.566"
+		Vertex13 = "-289.738,-7.440,145.407"
+		Vertex2 = "-287.202,-7.440,140.366"
+		Vertex3 = "-281.828,-7.440,139.851"
+		Vertex4 = "-279.096,-7.440,139.397"
+		Vertex5 = "-276.808,-7.440,135.579"
+		Vertex6 = "-277.151,-7.440,128.889"
+		Vertex7 = "-273.661,-7.440,123.003"
+		Vertex8 = "-266.580,-7.440,125.520"
+		Vertex9 = "-266.945,-7.440,142.279"
+	}
+
+	cPolygonSmall Plaza2_RightSide
+	{
+		Height = "2.0"
+		NumVertex = "10"
+		Vertex0 = "-277.236,-7.441,120.616"
+		Vertex1 = "-277.485,-7.441,117.519"
+		Vertex2 = "-296.017,-7.441,119.469"
+		Vertex3 = "-303.214,-7.441,114.484"
+		Vertex4 = "-305.620,-7.441,120.041"
+		Vertex5 = "-299.381,-7.441,128.386"
+		Vertex6 = "-298.451,-7.441,141.016"
+		Vertex7 = "-294.764,-7.441,141.898"
+		Vertex8 = "-296.727,-7.441,128.402"
+		Vertex9 = "-289.424,-7.441,120.980"
+	}
+
+}
+
+cZombieWarehouse SouthPlaza_Hall_2
+{
+	cPolygonLarge Hall2
+	{
+		Height = "1.5"
+		NumVertex = "30"
+		Vertex0 = "-212.365,-7.375,101.350"
+		Vertex1 = "-210.296,-7.374,99.629"
+		Vertex10 = "-220.505,-7.374,96.258"
+		Vertex11 = "-225.064,-7.374,94.959"
+		Vertex12 = "-224.021,-7.374,92.133"
+		Vertex13 = "-220.412,-7.374,90.001"
+		Vertex14 = "-220.227,-7.374,88.169"
+		Vertex15 = "-227.520,-7.374,91.342"
+		Vertex16 = "-260.859,-7.374,109.471"
+		Vertex17 = "-275.015,-7.374,117.563"
+		Vertex18 = "-275.159,-7.374,120.700"
+		Vertex19 = "-267.533,-7.374,126.090"
+		Vertex2 = "-209.092,-7.374,97.938"
+		Vertex20 = "-267.115,-7.374,122.611"
+		Vertex21 = "-264.019,-7.374,118.765"
+		Vertex22 = "-264.853,-7.374,116.230"
+		Vertex23 = "-261.458,-7.374,112.205"
+		Vertex24 = "-255.754,-7.374,108.862"
+		Vertex25 = "-250.557,-7.374,110.460"
+		Vertex26 = "-248.501,-7.374,108.770"
+		Vertex27 = "-247.452,-7.374,107.532"
+		Vertex28 = "-227.404,-7.374,96.669"
+		Vertex29 = "-220.832,-7.374,98.098"
+		Vertex3 = "-209.685,-7.374,96.877"
+		Vertex4 = "-211.458,-7.374,97.677"
+		Vertex5 = "-212.408,-7.374,98.239"
+		Vertex6 = "-215.174,-7.374,98.108"
+		Vertex7 = "-215.792,-7.374,96.839"
+		Vertex8 = "-214.864,-7.374,92.238"
+		Vertex9 = "-219.054,-7.374,90.643"
+	}
+
+}
+
+cZombieWarehouse SouthPlaza_Gated
+{
+	cPolygonLarge cPolygon31
+	{
+		Height = "2.0"
+		NumVertex = "6"
+		Vertex0 = "-400.899,-7.448,116.660"
+		Vertex1 = "-408.544,-7.448,119.447"
+		Vertex2 = "-413.751,-6.692,105.361"
+		Vertex3 = "-416.372,-5.684,98.514"
+		Vertex4 = "-411.169,-5.684,96.140"
+		Vertex5 = "-407.088,-6.692,103.862"
+	}
+
+}
+
+cZombieWarehouse South_Plaza_HoteltoExterior
+{
+	cPolygonLarge Exteriorexit
+	{
+		Height = "2.0"
+		NumVertex = "12"
+		Vertex0 = "-144.676,-6.431,50.759"
+		Vertex1 = "-138.049,-6.430,46.477"
+		Vertex10 = "-142.068,-6.430,45.903"
+		Vertex11 = "-146.124,-6.430,47.984"
+		Vertex2 = "-143.445,-6.430,38.280"
+		Vertex3 = "-149.919,-6.430,42.153"
+		Vertex4 = "-148.601,-6.430,44.510"
+		Vertex5 = "-144.557,-6.430,41.883"
+		Vertex6 = "-144.028,-6.430,42.846"
+		Vertex7 = "-147.863,-6.430,45.428"
+		Vertex8 = "-146.751,-6.430,47.389"
+		Vertex9 = "-142.804,-6.430,44.834"
+	}
+
+}
+
+cZombieWarehouse SouthPlaza_Case_1
+{
+	cPolygonLarge Atrium1
+	{
+		Height = "1.5"
+		NumVertex = "6"
+		Vertex0 = "-267.995,-7.441,124.984"
+		Vertex1 = "-273.491,-7.441,122.432"
+		Vertex2 = "-276.652,-7.441,116.702"
+		Vertex3 = "-273.151,-7.440,114.504"
+		Vertex4 = "-268.516,-7.440,115.611"
+		Vertex5 = "-265.916,-7.440,121.056"
+	}
+
+	cPolygonLarge Atrium2
+	{
+		Height = "1.5"
+		NumVertex = "5"
+		Vertex0 = "-350.755,-7.447,156.645"
+		Vertex1 = "-345.389,-7.446,160.181"
+		Vertex2 = "-349.325,-7.446,166.211"
+		Vertex3 = "-359.389,-7.446,168.530"
+		Vertex4 = "-362.153,-7.446,162.157"
+	}
+
+}
+
+
+cSpawnPoint Start
+{
+	CameraHeading = "-61.415"
+	CameraPitch = "-7.976"
+	Location = "0,0,0"
+	Location0 = "-142.967,-6.396,43.697"
+	Rotation0 = "-1.072"
+}
+
+cSpawnPoint EntryFortunePark
+{
+	CameraHeading = "-59.472"
+	CameraPitch = "-4.713"
+	Location = "0,0,0"
+	Location0 = "-142.981,-6.412,43.495"
+	Rotation0 = "-1.010"
+}
+
+cSpawnPoint EntryArena
+{
+	CameraHeading = "66.292"
+	CameraPitch = "-8.708"
+	Location0 = "-402.499,-7.428,126.693"
+	Rotation0 = "1.590"
+}
+
+cSpawnPoint ExitCase1_2
+{
+	CameraHeading = "-41.846"
+	CameraPitch = "-19.089"
+	Location0 = "-165.665,-6.405,50.464"
+	Rotation0 = "-0.683"
+}
+
+cSpawnPoint HotelElevator
+{
+	CameraHeading = "32.311"
+	CameraPitch = "-11.828"
+	Location = "-175.211,-5.346,30.801"
+	Location0 = "-174.052,-6.408,35.592"
+	RegionRadius = "3"
+	Rotation0 = "0.482"
+}
+
+cSpawnPoint BasketSpawn
+{
+	CameraHeading = "106.794"
+	CameraPitch = "-31.459"
+	Location = "-175.211,-5.346,30.801"
+	Location0 = "-160.143,-5.411,63.802"
+	Rotation0 = "1.551"
+}
+
+cSpawnPoint EntryUnderground
+{
+	CameraHeading = "-4.939"
+	CameraPitch = "-6.581"
+	Location0 = "-305.598,-7.422,111.139"
+	Rotation0 = "0.249"
+}
+
+cSpawnPoint HangmanStart
+{
+	CameraHeading = "-67.811"
+	CameraPitch = "-4.996"
+	HoboCam = "-192.833,-5.791,75.570"
+	Location = "0,0,0"
+	Location0 = "-195.740,-7.420,76.760"
+	Rotation0 = "-1.312"
+}
+
+cSpawnPoint HangmanEnd
+{
+	CameraHeading = "32.713"
+	CameraPitch = "-24.765"
+	Location = "0,0,0"
+	Location0 = "-229.856,-7.355,86.653"
+	Rotation0 = "0.746"
+}
+
+cSpawnPoint LooterTeleport
+{
+	CameraHeading = "-143.207"
+	CameraPitch = "-7.773"
+	HoboCam = "-179.461,-5.176,122.465"
+	Location = "0,0,0"
+	Location0 = "-181.940,-7.402,117.330"
+	Rotation0 = "-2.482"
+}
+
+
+cItemPlacement BlueGreyWorkOverallsDispenser
+{
+	ItemName = "BlueGreyWorkOverallsDispenser"
+	Location = "-229.803,-6.889,120.538"
+	PropState = "3"
+	Rotation = "0.000,0.148,0.000,0.989"
+}
+
+cItemPlacement NakedOutfitDispenser
+{
+	ItemName = "NakedOutfitDispenser"
+	Location = "-340.740,-6.148,137.520"
+	PropState = "3"
+	Rotation = "0.000,-0.492,0.000,0.871"
+}
+
+
+cItemPlacement Snack
+{
+	ItemName = "Snack"
+	Location = "-283.018,-6.702,137.541"
+	Rotation = "-0.376,0.512,0.640,0.432"
+}
+
+cItemPlacement Beer
+{
+	ItemName = "Beer"
+	Location = "-267.267,-7.390,151.119"
+	Rotation = "-0.393,0.315,-0.582,0.639"
+}
+
+cItemPlacement Beer1
+{
+	ItemName = "Beer"
+	Location = "-268.444,-6.846,150.935"
+	Rotation = "-0.004,-0.001,-0.008,1.000"
+}
+
+cItemPlacement Beer2
+{
+	ItemName = "Beer"
+	Location = "-267.254,-7.394,150.265"
+	Rotation = "-0.192,-0.195,-0.682,0.679"
+}
+
+cItemPlacement Snack1
+{
+	ItemName = "Snack"
+	Location = "-242.033,-6.375,82.403"
+	Rotation = "-0.369,0.515,0.656,0.411"
+}
+
+cItemPlacement Beer3
+{
+	ItemName = "Beer"
+	Location = "-241.973,-6.265,82.688"
+	Rotation = "-0.001,0.130,-0.001,0.992"
+}
+
+cItemPlacement Beer4
+{
+	ItemName = "Beer"
+	Location = "-223.961,-1.333,99.456"
+	Rotation = "-0.573,-0.708,0.407,0.065"
+}
+
+cItemPlacement Beer6
+{
+	ItemName = "Beer"
+	Location = "-224.349,-1.257,99.188"
+	Rotation = "-0.001,0.130,-0.001,0.992"
+}
+
+cItemPlacement Snack2
+{
+	ItemName = "Snack"
+	Location = "-224.527,-1.340,99.972"
+	Rotation = "-0.368,0.509,0.660,0.412"
+}
+
+cItemPlacement Beer7
+{
+	ItemName = "Beer"
+	Location = "-219.738,-7.396,82.146"
+	Rotation = "-0.523,0.689,0.477,-0.157"
+}
+
+cItemPlacement Fries
+{
+	ItemName = "Fries"
+	Location = "-279.563,-6.699,134.369"
+	Rotation = "0.510,0.380,-0.286,0.717"
+}
+
+cItemPlacement LargeSoda
+{
+	ItemName = "LargeSoda"
+	Location = "-279.514,-6.631,134.948"
+	Rotation = "-0.592,-0.234,-0.251,0.729"
+}
+
+cItemPlacement Fries1
+{
+	ItemName = "Fries"
+	Location = "-281.063,-6.699,136.500"
+	Rotation = "0.542,0.290,-0.223,0.757"
+}
+
+cItemPlacement Hamburger
+{
+	ItemName = "Hamburger"
+	Location = "-280.550,-6.698,136.559"
+	Rotation = "0.000,-0.000,0.707,0.707"
+}
+
+cItemPlacement LargeSoda1
+{
+	ItemName = "LargeSoda"
+	Location = "-278.787,-7.372,136.505"
+	Rotation = "-0.644,-0.246,-0.229,0.687"
+}
+
+cItemPlacement Snack4
+{
+	ItemName = "Snack"
+	Location = "-255.506,-7.325,105.862"
+	Rotation = "0.571,-0.531,0.456,0.430"
+}
+
+cItemPlacement Snack5
+{
+	ItemName = "Snack"
+	Location = "-257.010,-7.324,106.518"
+	Rotation = "-0.753,-0.135,-0.042,0.643"
+}
+
+cItemPlacement Beer5
+{
+	ItemName = "Beer"
+	Location = "-257.988,-6.004,106.121"
+	PropState = "-2"
+	Rotation = "0.000,0.000,0.000,1.000"
+}
+
+cItemPlacement Beer8
+{
+	ItemName = "Beer"
+	Location = "-256.806,-7.289,106.217"
+	Rotation = "0.083,-0.671,0.633,0.377"
+}
+
+cItemPlacement Hamburger1
+{
+	ItemName = "Hamburger"
+	Location = "-329.428,-4.833,162.605"
+	Rotation = "0.002,0.003,-0.703,0.712"
+}
+
+cItemPlacement LargeSoda2
+{
+	ItemName = "LargeSoda"
+	Location = "-328.089,-4.807,162.534"
+	Rotation = "0.001,0.001,0.000,1.000"
+}
+
+cItemPlacement Fries2
+{
+	ItemName = "Fries"
+	Location = "-329.215,-4.842,162.464"
+	Rotation = "0.593,0.029,-0.036,0.804"
+}
+
+cItemPlacement Snack6
+{
+	ItemName = "Snack"
+	Location = "-348.475,-6.703,172.480"
+	Rotation = "0.683,0.128,0.063,0.717"
+}
+
+cItemPlacement LargeSoda3
+{
+	ItemName = "LargeSoda"
+	Location = "-282.045,-2.441,118.888"
+	Rotation = "0,0,0,1"
+}
+
+cItemPlacement Snack7
+{
+	ItemName = "Snack"
+	Location = "-282.189,-2.400,118.300"
+	Rotation = "0.733,0.067,0.080,0.672"
+}
+
+cItemPlacement OrangeJuice
+{
+	ItemName = "OrangeJuice"
+	Location = "-293.588,-2.300,129.542"
+	Rotation = "0.000,-0.001,-0.000,1.000"
+}
+
+cItemPlacement Snack8
+{
+	ItemName = "Snack"
+	Location = "-273.517,-2.393,148.622"
+	Rotation = "-0.732,0.052,0.175,0.656"
+}
+
+cItemPlacement HotDog
+{
+	ItemName = "HotDog"
+	Location = "-273.282,-2.408,148.428"
+	Rotation = "-0.410,-0.410,0.576,0.576"
+}
+
+cItemPlacement Beer9
+{
+	ItemName = "Beer"
+	Location = "-225.497,0.116,88.439"
+	Rotation = "-0.587,0.707,0.392,-0.043"
+}
+
+cItemPlacement OrangeJuice1
+{
+	ItemName = "OrangeJuice"
+	Location = "-344.141,-2.349,193.612"
+	Rotation = "0.704,-0.208,-0.076,0.675"
+}
+
+cItemPlacement OrangeJuice2
+{
+	ItemName = "OrangeJuice"
+	Location = "-216.010,-4.877,81.519"
+	Rotation = "0.705,-0.222,-0.058,0.671"
+}
+
+cItemPlacement Hamburger2
+{
+	ItemName = "Hamburger"
+	Location = "-352.987,-7.391,134.049"
+	Rotation = "0.002,0.000,0.706,0.708"
+}
+
+
+cItemPlacement ZxP_SPlaza_S_01
+{
+	ItemName = "ZombrexPoster"
+	Location = "-257.081,-0.893,145.235"
+	Rotation = "0.670,-0.669,0.224,-0.224"
+}
+
+cItemPlacement ZxP_SPlaza_S_02
+{
+	ItemName = "ZombrexPoster"
+	Location = "-370.239,-5.980,155.886"
+	Rotation = "-0.189,0.188,-0.680,0.681"
+}
+
+cItemPlacement ZxP_SPlaza_S_03
+{
+	ItemName = "ZombrexPoster"
+	Location = "-230.993,-6.010,74.329"
+	Rotation = "0.094,-0.099,-0.703,0.710"
+}
+
+cItemPlacement VFXDust1
+{
+	ForceExplicitSpawnAtStart = "true"
+	ItemName = "Dust_emitter"
+	Location = "-346.176,-3.534,176.155"
+	NonInteractableProp = "true"
+	Rotation = "0,0,0,1"
+}
+
+cItemPlacement VFXDust2
+{
+	ItemName = "Dust_emitter"
+	Location = "-216.073,-3.438,85.448"
+	PropState = "-1"
+	Rotation = "0,0,0,1"
+}
+
+cItemPlacement VFXDust3
+{
+	ForceExplicitSpawnAtStart = "true"
+	ItemName = "Dust_emitter"
+	Location = "-283.748,-3.220,132.492"
+	NonInteractableProp = "true"
+	Rotation = "0,0,0,1"
+}
+
+
+cItemPlacement Mgz_Item_Construction_Jackhammer_Weekly
+{
+	ItemName = "Mgz_Item_Construction_Jackhammer_Weekly"
+	Location = "-314.193,-2.351,153.105"
+	Rotation = "0.363,0.363,-0.609,-0.605"
+}
+
+
+cItemPlacement IndustrialCart
+{
+	ItemName = "IndustrialCart"
+	Location = "-362.666,-6.246,184.531"
+	Rotation = "0.001,0.522,0.002,0.853"
+}
+
+
+cItemPlacement GasolineCanister2
+{
+	ItemName = "GasolineCanister"
+	Location = "-331.344,-7.336,157.513"
+	Rotation = "0.000,0.413,0.001,0.911"
+}
+
+cItemPlacement Pallet
+{
+	ItemName = "Pallet"
+	Location = "-200.285,-7.136,59.540"
+	Rotation = "0.155,0.104,-0.011,0.982"
+}
+
+cItemPlacement CementSaw
+{
+	ItemName = "CementSaw"
+	Location = "-234.958,-7.352,111.478"
+	Rotation = "0.387,-0.592,0.594,0.384"
+}
+
+cItemPlacement TwoByFour4
+{
+	ItemName = "TwoByFour"
+	Location = "-221.169,-7.362,109.141"
+	Rotation = "0.006,0.000,-1.000,-0.005"
+}
+
+cItemPlacement FireworkRockets2
+{
+	ItemName = "FireworkRockets"
+	Location = "-295.996,-2.354,116.788"
+	Rotation = "0.012,-0.003,-0.683,0.730"
+}
+
+cItemPlacement VacuumCleaner1
+{
+	ItemName = "VacuumCleaner"
+	Location = "-323.649,-7.446,200.609"
+	Rotation = "-0.000,-0.440,-0.001,0.898"
+}
+
+cItemPlacement Pallet4
+{
+	ItemName = "Pallet"
+	Location = "-214.115,-7.328,108.376"
+	Rotation = "0.000,0.004,0.000,1.000"
+}
+
+cItemPlacement Pallet3
+{
+	ItemName = "Pallet"
+	Location = "-223.834,-7.378,113.352"
+	Rotation = "-0.002,-0.041,-0.001,0.999"
+}
+
+cItemPlacement Pallet2
+{
+	ItemName = "Pallet"
+	Location = "-222.511,-7.217,110.381"
+	Rotation = "0.042,-0.392,-0.098,0.914"
+}
+
+cItemPlacement Pallet1
+{
+	ItemName = "Pallet"
+	Location = "-223.060,-7.329,109.299"
+	Rotation = "-0.000,0.002,-0.000,1.000"
+}
+
+cItemPlacement Sledgehammer
+{
+	IsStatic = ""
+	ItemName = "SledgeHammer"
+	Location = "-233.704,-7.417,106.003"
+	Rotation = "0.631,-0.645,-0.298,0.311"
+}
+
+cItemPlacement PushBroom
+{
+	ItemName = "PushBroom"
+	Location = "-205.012,-6.842,63.204"
+	Rotation = "0.381,-0.560,0.320,0.662"
+}
+
+cItemPlacement CardboardBox2
+{
+	ItemName = "CardboardBox"
+	Location = "-202.698,-6.651,59.037"
+	Rotation = "-0.085,-0.084,0.699,0.705"
+	SpawnPropFromCategory = "74"
+}
+
+cItemPlacement CardboardBox1
+{
+	ItemName = "CardboardBox"
+	Location = "-203.709,-7.177,58.760"
+	Rotation = "-0.001,-0.811,-0.004,0.586"
+	SpawnPropFromCategory = "74"
+}
+
+cItemPlacement CardboardBox
+{
+	ItemName = "CardboardBox"
+	Location = "-202.778,-7.175,59.042"
+	Rotation = "0.005,-0.001,-0.000,1.000"
+	SpawnPropFromCategory = "74"
+}
+
+cItemPlacement SawBlade
+{
+	ItemName = "SawBlade"
+	Location = "-235.184,-7.422,111.931"
+	Rotation = "0.001,-0.001,0.001,1.000"
+}
+
+cItemPlacement SawBlade1
+{
+	ItemName = "SawBlade"
+	Location = "-235.106,-7.419,111.990"
+	Rotation = "0.001,-0.920,0.001,-0.393"
+}
+
+cItemPlacement CardboardBox3
+{
+	ItemName = "CardboardBox"
+	Location = "-209.836,-7.189,63.316"
+	Rotation = "0.000,0.893,0.001,0.450"
+	SpawnPropFromCategory = "74"
+}
+
+cItemPlacement CardboardBox4
+{
+	ItemName = "CardboardBox"
+	Location = "-210.898,-7.183,62.826"
+	Rotation = "-0.002,0.974,-0.006,-0.227"
+	SpawnPropFromCategory = "74"
+}
+
+cItemPlacement BoxOfNails
+{
+	ItemName = "BoxOfNails"
+	Location = "-225.450,-7.305,110.873"
+	Rotation = "-0.001,0.659,0.000,0.752"
+}
+
+cItemPlacement BoxOfNails1
+{
+	ItemName = "BoxOfNails"
+	Location = "-225.243,-7.305,110.688"
+	Rotation = "-0.002,0.292,-0.000,0.957"
+}
+
+cItemPlacement TwoByFour5
+{
+	ItemName = "TwoByFour"
+	Location = "-238.000,-7.373,123.606"
+	Rotation = "0.002,0.909,-0.001,-0.416"
+}
+
+cItemPlacement BoxOfNails5
+{
+	ItemName = "BoxOfNails"
+	Location = "-226.744,-7.437,115.311"
+	Rotation = "0.000,0.909,-0.000,0.416"
+}
+
+cItemPlacement Bucket
+{
+	ItemName = "Bucket"
+	Location = "-238.054,-7.272,122.702"
+	Rotation = "0.438,-0.555,-0.616,0.346"
+}
+
+cItemPlacement TwoByFour6
+{
+	ItemName = "TwoByFour"
+	Location = "-238.151,-7.400,124.068"
+	Rotation = "-0.138,0.128,-0.721,0.667"
+}
+
+cItemPlacement Dynamite
+{
+	ItemName = "Dynamite"
+	Location = "-245.545,-1.321,108.571"
+	Rotation = "-0.303,0.300,-0.639,0.640"
+}
+
+cItemPlacement Dynamite1
+{
+	ItemName = "Dynamite"
+	Location = "-246.348,-1.316,108.829"
+	Rotation = "-0.496,-0.504,0.504,-0.496"
+}
+
+cItemPlacement CardboardBox5
+{
+	ItemName = "CardboardBox"
+	Location = "-243.563,-1.190,108.384"
+	Rotation = "-0.003,0.002,0.000,1.000"
+	SpawnPropFromCategory = "60"
+}
+
+cItemPlacement GasolineCanister
+{
+	ItemName = "GasolineCanister"
+	Location = "-250.660,-7.327,133.000"
+	Rotation = "0.002,-0.854,0.003,-0.520"
+}
+
+cItemPlacement WrenchLarge2
+{
+	ItemName = "WrenchLarge"
+	Location = "-303.811,-7.414,167.049"
+	Rotation = "-0.984,-0.000,0.176,-0.001"
+}
+
+cItemPlacement LeadPipe11
+{
+	ItemName = "LeadPipe"
+	Location = "-256.077,-2.661,101.637"
+	Rotation = "0.682,0.601,0.091,-0.407"
+}
+
+cItemPlacement SprayPaint
+{
+	ItemName = "Spraypaint"
+	Location = "-293.266,-4.896,134.965"
+	Rotation = "-0.706,-0.027,-0.038,0.707"
+}
+
+cItemPlacement PaintCan2
+{
+	ItemName = "PaintCan"
+	Location = "-279.038,-2.312,115.092"
+	Rotation = "-0.009,-0.001,0.003,1.000"
+}
+
+cItemPlacement Crowbar
+{
+	ItemName = "Crowbar"
+	Location = "-250.980,-4.891,111.856"
+	Rotation = "0.493,-0.502,-0.507,0.497"
+}
+
+cItemPlacement Pallet7
+{
+	ItemName = "Pallet"
+	Location = "-300.911,-7.144,170.149"
+	Rotation = "0.000,0.003,0.000,1.000"
+}
+
+cItemPlacement SprayPaint1
+{
+	ItemName = "Spraypaint"
+	Location = "-279.399,-7.393,138.861"
+	Rotation = "-0.047,0.265,-0.705,0.656"
+}
+
+cItemPlacement LeadPipe
+{
+	ItemName = "LeadPipe"
+	Location = "-277.054,-7.333,105.685"
+	Rotation = "0.668,-0.392,0.210,0.597"
+}
+
+cItemPlacement LeadPipe1
+{
+	ItemName = "LeadPipe"
+	Location = "-277.168,-6.332,104.988"
+	Rotation = "-0.417,-0.430,0.562,-0.570"
+}
+
+cItemPlacement PaintCan3
+{
+	ItemName = "PaintCan"
+	Location = "-292.999,-2.313,128.127"
+	Rotation = "0.000,0.011,-0.004,1.000"
+}
+
+cItemPlacement PickAx
+{
+	ItemName = "MiningPick"
+	Location = "-346.931,-6.724,171.862"
+	Rotation = "0.659,0.666,-0.257,-0.236"
+}
+
+cItemPlacement SprayPaint2
+{
+	ItemName = "Spraypaint"
+	Location = "-193.861,-4.877,79.905"
+	Rotation = "-0.430,-0.151,-0.568,0.686"
+}
+
+cItemPlacement PowerDrill
+{
+	ItemName = "PowerDrill"
+	Location = "-260.789,-7.351,115.591"
+	Rotation = "-0.086,-0.096,0.704,0.699"
+}
+
+cItemPlacement BoxOfNails2
+{
+	ItemName = "BoxOfNails"
+	Location = "-268.845,-7.361,107.648"
+	Rotation = "0.001,-0.060,0.004,-0.998"
+}
+
+cItemPlacement Pylon
+{
+	ItemName = "Pylon"
+	Location = "-187.340,-7.415,72.391"
+	Rotation = "0.001,0.012,0.002,1.000"
+}
+
+cItemPlacement Pylon1
+{
+	ItemName = "Pylon"
+	Location = "-187.250,-7.412,66.313"
+	Rotation = "0.000,-0.355,0.000,0.935"
+}
+
+cItemPlacement Pylon2
+{
+	ItemName = "Pylon"
+	Location = "-188.589,-7.412,68.945"
+	Rotation = "0.000,0.166,-0.000,0.986"
+}
+
+cItemPlacement Pylon3
+{
+	ItemName = "Pylon"
+	Location = "-190.660,-7.206,67.825"
+	Rotation = "0.782,0.084,-0.107,0.608"
+}
+
+cItemPlacement Pylon4
+{
+	ItemName = "Pylon"
+	Location = "-312.842,-2.023,154.531"
+	Rotation = "0.001,-0.009,0.001,1.000"
+}
+
+cItemPlacement Pylon6
+{
+	ItemName = "Pylon"
+	Location = "-379.891,-7.323,125.588"
+	Rotation = "-0.061,-0.005,0.770,0.635"
+}
+
+cItemPlacement Pylon5
+{
+	ItemName = "Pylon"
+	Location = "-309.806,-2.022,156.611"
+	Rotation = "-0.001,-0.008,-0.000,1.000"
+}
+
+cItemPlacement Pylon7
+{
+	ItemName = "Pylon"
+	Location = "-377.891,-7.162,124.089"
+	Rotation = "-0.005,-0.005,0.002,1.000"
+}
+
+cItemPlacement Pylon8
+{
+	ItemName = "Pylon"
+	Location = "-375.157,-7.319,122.430"
+	Rotation = "0.184,0.350,-0.751,0.529"
+}
+
+cItemPlacement CashRegister
+{
+	ItemName = "CashRegister"
+	Location = "-341.664,-6.234,147.254"
+	Rotation = "-0.001,-0.957,-0.000,0.291"
+}
+
+cItemPlacement CashRegister1
+{
+	ItemName = "CashRegister"
+	Location = "-340.293,-6.236,151.821"
+	Rotation = "0.001,-0.004,0.003,1.000"
+}
+
+cItemPlacement CardboardBox6
+{
+	ItemName = "CardboardBox"
+	Location = "-345.163,-7.277,145.678"
+	Rotation = "-0.001,-0.004,-0.000,1.000"
+	SpawnPropFromCategory = "60"
+}
+
+cItemPlacement CardboardBox7
+{
+	ItemName = "CardboardBox"
+	Location = "-334.039,-7.227,152.171"
+	Rotation = "0.000,0.048,0.000,0.999"
+	SpawnPropFromCategory = "60"
+}
+
+cItemPlacement CardboardBox8
+{
+	ItemName = "CardboardBox"
+	Location = "-333.971,-7.278,152.980"
+	Rotation = "-0.000,0.247,0.000,0.969"
+	SpawnPropFromCategory = "60"
+}
+
+cItemPlacement CardboardBox9
+{
+	ItemName = "CardboardBox"
+	Location = "-332.889,-7.163,153.403"
+	Rotation = "0.707,0.016,0.017,-0.707"
+	SpawnPropFromCategory = "60"
+}
+
+cItemPlacement Bucket1
+{
+	ItemName = "Bucket"
+	Location = "-350.517,-7.183,139.674"
+	Rotation = "-0.000,-0.000,1.000,0.003"
+}
+
+cItemPlacement PushBroom1
+{
+	ItemName = "PushBroom"
+	Location = "-349.491,-7.281,139.769"
+	Rotation = "0.200,-0.684,0.671,0.207"
+}
+
+cItemPlacement CardboardBox10
+{
+	ItemName = "CardboardBox"
+	Location = "-340.295,-6.223,147.018"
+	Rotation = "-0.664,0.001,0.748,-0.000"
+	SpawnPropFromCategory = "60"
+}
+
+cItemPlacement PropaneTank
+{
+	ItemName = "PropaneTank"
+	Location = "-213.033,-7.091,102.123"
+	Rotation = "0.023,-0.809,0.004,-0.587"
+}
+
+cItemPlacement ConstructionHat
+{
+	ItemName = "ConstructionHat"
+	Location = "-209.375,-7.297,96.426"
+	Rotation = "-0.001,-0.016,-0.996,0.088"
+}
+
+cItemPlacement PlasticBin
+{
+	ItemName = "PlasticBin"
+	Location = "-228.317,-6.671,66.872"
+	Rotation = "0.000,0.785,0.000,0.620"
+}
+
+cItemPlacement PlasticBin1
+{
+	ItemName = "PlasticBin"
+	Location = "-233.636,-6.585,57.104"
+	Rotation = "0.032,0.308,-0.010,0.951"
+}
+
+cItemPlacement GarbageBag
+{
+	ItemName = "GarbageBag"
+	Location = "-228.137,-7.068,65.811"
+	Rotation = "0.018,0.004,0.014,1.000"
+}
+
+cItemPlacement ConstructionHat1
+{
+	ItemName = "ConstructionHat"
+	Location = "-308.102,-7.391,111.325"
+	Rotation = "0.149,-0.349,0.054,0.924"
+}
+
+cItemPlacement GarbageBag1
+{
+	ItemName = "GarbageBag"
+	Location = "-361.236,-7.152,168.529"
+	Rotation = "0.537,-0.588,-0.164,0.582"
+}
+
+cItemPlacement GarbageBag2
+{
+	ItemName = "GarbageBag"
+	Location = "-361.563,-7.201,169.898"
+	Rotation = "-0.042,0.005,0.028,0.999"
+}
+
+cItemPlacement GarbageBag3
+{
+	ItemName = "GarbageBag"
+	Location = "-236.164,-7.151,109.850"
+	Rotation = "0.017,0.001,0.013,1.000"
+}
+
+cItemPlacement GarbageBag4
+{
+	ItemName = "GarbageBag"
+	Location = "-243.364,-7.145,128.082"
+	Rotation = "-0.024,0.000,-0.039,0.999"
+}
+
+cItemPlacement GarbageBag5
+{
+	ItemName = "GarbageBag"
+	Location = "-243.926,-7.151,128.278"
+	Rotation = "0.011,-0.480,0.017,0.877"
+}
+
+cItemPlacement PlasticBin2
+{
+	ItemName = "PlasticBin"
+	Location = "-243.086,-6.689,128.945"
+	Rotation = "0.002,0.861,-0.001,-0.508"
+}
+
+cItemPlacement ConstructionHat2
+{
+	ItemName = "ConstructionHat"
+	Location = "-268.102,-7.250,150.185"
+	Rotation = "0.231,-0.437,-0.868,-0.034"
+}
+
+cItemPlacement PlasticBin3
+{
+	ItemName = "PlasticBin"
+	Location = "-300.298,-6.688,130.395"
+	Rotation = "0.001,-0.774,0.000,-0.633"
+}
+
+cItemPlacement SprayPaint3
+{
+	ItemName = "Spraypaint"
+	Location = "-280.252,-7.393,137.804"
+	Rotation = "0.447,-0.253,-0.548,0.661"
+}
+
+cItemPlacement Crowbar1
+{
+	ItemName = "Crowbar"
+	Location = "-322.322,-2.424,156.748"
+	Rotation = "-0.513,0.521,0.488,-0.477"
+}
+
+cItemPlacement PaintCan4
+{
+	ItemName = "PaintCan"
+	Location = "-329.660,-4.786,160.575"
+	Rotation = "-0.001,0.003,-0.000,1.000"
+}
+
+cItemPlacement CardboardBox11
+{
+	ItemName = "CardboardBox"
+	Location = "-276.609,-6.165,109.486"
+	Rotation = "-0.001,-0.353,-0.000,0.936"
+	SpawnPropFromCategory = "60"
+}
+
+cItemPlacement GarbageBag7
+{
+	ItemName = "GarbageBag"
+	Location = "-299.091,-7.161,161.316"
+	Rotation = "0.015,0.001,0.014,1.000"
+}
+
+cItemPlacement GarbageBag8
+{
+	ItemName = "GarbageBag"
+	Location = "-298.493,-7.158,161.246"
+	Rotation = "0.018,0.964,-0.006,0.267"
+}
+
+cItemPlacement PowerDrill1
+{
+	ItemName = "PowerDrill"
+	Location = "-351.500,-7.404,191.968"
+	Rotation = "0.257,-0.225,-0.663,0.666"
+}
+
+cItemPlacement BoxOfNails3
+{
+	ItemName = "BoxOfNails"
+	Location = "-358.924,-7.437,198.361"
+	Rotation = "0.002,-0.046,-0.004,-0.999"
+}
+
+cItemPlacement PaintCan5
+{
+	ItemName = "PaintCan"
+	Location = "-352.693,-7.319,190.836"
+	Rotation = "0.000,0.009,0.001,1.000"
+}
+
+cItemPlacement PlasticBin4
+{
+	ItemName = "PlasticBin"
+	Location = "-330.618,-6.688,162.792"
+	Rotation = "0.014,-0.250,0.026,0.968"
+}
+
+cItemPlacement CashRegister2
+{
+	ItemName = "CashRegister"
+	Location = "-207.372,-7.062,58.003"
+	Rotation = "0.003,-0.968,-0.004,0.252"
+}
+
+cItemPlacement CashRegister3
+{
+	ItemName = "CashRegister"
+	Location = "-206.725,-7.175,57.680"
+	Rotation = "-0.001,1.000,0.001,0.014"
+}
+
+cItemPlacement SawBlade8
+{
+	ItemName = "SawBlade"
+	Location = "-226.904,-7.410,60.533"
+	Rotation = "0.000,0.981,-0.001,0.192"
+}
+
+cItemPlacement ConstructionHat3
+{
+	ItemName = "ConstructionHat"
+	Location = "-303.454,-2.394,157.715"
+	Rotation = "0.157,0.051,-0.011,0.986"
+}
+
+cItemPlacement TwoByFour
+{
+	ItemName = "TwoByFour"
+	Location = "-311.011,-2.401,163.509"
+	Rotation = "0.039,0.036,-0.719,-0.693"
+}
+
+cItemPlacement PowerDrill2
+{
+	ItemName = "PowerDrill"
+	Location = "-312.091,-2.401,164.096"
+	Rotation = "0.294,-0.262,-0.645,0.655"
+}
+
+cItemPlacement PlasticBin5
+{
+	ItemName = "PlasticBin"
+	Location = "-293.538,-6.693,151.144"
+	Rotation = "0.002,-0.963,-0.001,0.269"
+}
+
+cItemPlacement BoxOfNails4
+{
+	ItemName = "BoxOfNails"
+	Location = "-293.014,-7.438,146.349"
+	Rotation = "-0.001,-0.811,0.001,-0.585"
+}
+
+cItemPlacement GarbageBag9
+{
+	ItemName = "GarbageBag"
+	Location = "-262.855,-7.168,143.392"
+	Rotation = "0.704,-0.180,0.476,-0.495"
+}
+
+cItemPlacement GarbageBag10
+{
+	ItemName = "GarbageBag"
+	Location = "-263.881,-7.158,142.530"
+	Rotation = "0.024,0.838,-0.003,0.546"
+}
+
+cItemPlacement PaintCan6
+{
+	ItemName = "PaintCan"
+	Location = "-260.496,-2.313,143.398"
+	Rotation = "0.005,-0.309,-0.002,0.951"
+}
+
+cItemPlacement TwoByFour1
+{
+	ItemName = "TwoByFour"
+	Location = "-323.214,-7.380,184.936"
+	Rotation = "-0.000,-0.001,-0.003,1.000"
+}
+
+cItemPlacement Pallet9
+{
+	ItemName = "Pallet"
+	Location = "-315.450,-7.334,180.941"
+	Rotation = "-0.000,0.003,-0.000,1.000"
+}
+
+cItemPlacement Pallet10
+{
+	ItemName = "Pallet"
+	Location = "-312.828,-7.334,180.140"
+	Rotation = "0.000,0.478,0.000,0.878"
+}
+
+cItemPlacement CardboardBox12
+{
+	ItemName = "CardboardBox"
+	Location = "-314.022,-7.279,181.570"
+	Rotation = "-0.001,-0.696,-0.001,0.718"
+	SpawnPropFromCategory = "60"
+}
+
+cItemPlacement SawBlade2
+{
+	ItemName = "SawBlade"
+	Location = "-317.998,-7.390,180.247"
+	Rotation = "-0.468,-0.001,0.884,-0.005"
+}
+
+cItemPlacement SawBlade3
+{
+	ItemName = "SawBlade"
+	Location = "-318.988,-7.390,180.069"
+	Rotation = "-0.001,0.953,-0.003,0.304"
+}
+
+cItemPlacement LeadPipe2
+{
+	ItemName = "LeadPipe"
+	Location = "-319.875,-7.401,182.322"
+	Rotation = "0.673,-0.392,0.192,0.597"
+}
+
+cItemPlacement CashRegister4
+{
+	ItemName = "CashRegister"
+	Location = "-314.320,-7.234,174.993"
+	Rotation = "-0.001,-0.429,0.002,0.903"
+}
+
+cItemPlacement CardboardBox13
+{
+	ItemName = "CardboardBox"
+	Location = "-312.523,-7.162,177.725"
+	Rotation = "0.001,-0.042,-0.004,0.999"
+	SpawnPropFromCategory = "60"
+}
+
+cItemPlacement Pallet11
+{
+	ItemName = "Pallet"
+	Location = "-326.301,-7.422,184.617"
+	Rotation = "-0.001,0.003,0.000,1.000"
+}
+
+cItemPlacement Mannequin_Male
+{
+	ItemName = "Mannequin_Male"
+	Location = "-329.187,-6.533,190.242"
+	Rotation = "0.000,-0.495,0.000,0.869"
+}
+
+cItemPlacement Mannequin_Male1
+{
+	ItemName = "Mannequin_Male"
+	Location = "-328.500,-6.533,191.148"
+	Rotation = "0.001,-0.627,0.001,0.779"
+}
+
+cItemPlacement Mannequin_Female
+{
+	ItemName = "Mannequin_Female"
+	Location = "-342.764,-7.279,198.753"
+	Rotation = "-0.123,-0.676,-0.704,0.179"
+}
+
+cItemPlacement CardboardBox14
+{
+	ItemName = "CardboardBox"
+	Location = "-336.980,-7.276,198.675"
+	Rotation = "-0.001,0.001,-0.000,1.000"
+	SpawnPropFromCategory = "60"
+}
+
+cItemPlacement CardboardBox15
+{
+	ItemName = "CardboardBox"
+	Location = "-337.032,-6.802,198.736"
+	Rotation = "0.004,-0.022,0.001,1.000"
+	SpawnPropFromCategory = "60"
+}
+
+cItemPlacement CardboardBox16
+{
+	ItemName = "CardboardBox"
+	Location = "-336.311,-7.233,199.073"
+	Rotation = "0.000,0.793,0.001,0.609"
+	SpawnPropFromCategory = "60"
+}
+
+cItemPlacement PushBroom2
+{
+	ItemName = "PushBroom"
+	Location = "-329.534,-7.182,197.673"
+	Rotation = "0.095,-0.651,0.115,0.744"
+}
+
+cItemPlacement Bucket2
+{
+	ItemName = "Bucket"
+	Location = "-328.950,-7.369,197.637"
+	Rotation = "-0.001,0.022,0.004,1.000"
+}
+
+cItemPlacement Spraypaint
+{
+	ItemName = "Spraypaint"
+	Location = "-300.048,-7.301,132.051"
+	Rotation = "-0.004,-0.004,0.000,1.000"
+}
+
+cItemPlacement Spraypaint1
+{
+	ItemName = "Spraypaint"
+	Location = "-299.768,-7.407,133.183"
+	Rotation = "-0.589,-0.434,-0.383,0.565"
+}
+
+cItemPlacement Mannequin_Female1
+{
+	ItemName = "Mannequin_Female"
+	Location = "-307.312,-7.278,132.186"
+	Rotation = "-0.712,-0.005,-0.083,0.697"
+}
+
+cItemPlacement Mannequin_Female2
+{
+	ItemName = "Mannequin_Female"
+	Location = "-306.749,-7.278,132.397"
+	Rotation = "-0.715,0.060,-0.006,0.697"
+}
+
+cItemPlacement Mannequin_Female3
+{
+	ItemName = "Mannequin_Female"
+	Location = "-307.816,-7.198,133.137"
+	Rotation = "0.445,-0.587,-0.580,0.348"
+}
+
+cItemPlacement TwoByFour2
+{
+	ItemName = "TwoByFour"
+	Location = "-312.759,-7.401,139.258"
+	Rotation = "0.007,-0.008,-0.704,0.710"
+}
+
+cItemPlacement TwoByFour3
+{
+	ItemName = "TwoByFour"
+	Location = "-313.431,-7.374,139.228"
+	Rotation = "-0.002,-0.342,0.006,0.940"
+}
+
+cItemPlacement BoxOfNails6
+{
+	ItemName = "BoxOfNails"
+	Location = "-314.581,-7.433,141.333"
+	Rotation = "-0.001,0.360,-0.002,0.933"
+}
+
+cItemPlacement BoxOfNails7
+{
+	ItemName = "BoxOfNails"
+	Location = "-314.709,-7.433,140.278"
+	Rotation = "-0.001,-0.551,-0.002,0.834"
+}
+
+cItemPlacement GarbageBag11
+{
+	ItemName = "GarbageBag"
+	Location = "-305.612,-7.049,139.511"
+	Rotation = "0.438,-0.409,0.451,0.661"
+}
+
+cItemPlacement PlasticBin6
+{
+	ItemName = "PlasticBin"
+	Location = "-305.206,-6.914,137.552"
+	Rotation = "-0.230,-0.685,0.647,-0.243"
+}
+
+cItemPlacement BoxOfNails8
+{
+	ItemName = "BoxOfNails"
+	Location = "-261.253,-7.422,149.816"
+	Rotation = "0.004,0.301,0.006,0.954"
+}
+
+cItemPlacement BoxOfNails9
+{
+	ItemName = "BoxOfNails"
+	Location = "-262.821,-7.422,151.125"
+	Rotation = "0.001,-0.889,0.000,-0.458"
+}
+
+cItemPlacement BoxOfNails10
+{
+	ItemName = "BoxOfNails"
+	Location = "-305.662,-7.330,113.695"
+	Rotation = "0.753,-0.503,0.353,-0.235"
+}
+
+cItemPlacement PaintCan7
+{
+	ItemName = "PaintCan"
+	Location = "-308.936,-7.317,111.557"
+	Rotation = "0.002,-0.111,0.001,0.994"
+}
+
+cItemPlacement SawBlade4
+{
+	ItemName = "SawBlade"
+	Location = "-297.181,-4.920,116.174"
+	Rotation = "-0.002,0.953,-0.003,0.304"
+}
+
+cItemPlacement CardboardBox17
+{
+	ItemName = "CardboardBox"
+	Location = "-312.179,-7.222,118.990"
+	Rotation = "-0.001,0.800,0.000,0.600"
+	SpawnPropFromCategory = "60"
+}
+
+cItemPlacement CardboardBox18
+{
+	ItemName = "CardboardBox"
+	Location = "-312.249,-6.791,119.128"
+	Rotation = "0.001,0.967,0.009,0.254"
+	SpawnPropFromCategory = "60"
+}
+
+cItemPlacement GarbageBag12
+{
+	ItemName = "GarbageBag"
+	Location = "-311.516,-7.139,118.519"
+	Rotation = "-0.070,-0.012,0.042,0.997"
+}
+
+cItemPlacement GarbageBag13
+{
+	ItemName = "GarbageBag"
+	Location = "-311.196,-7.243,117.906"
+	Rotation = "0.521,-0.001,0.110,0.846"
+}
+
+cItemPlacement PlasticBin7
+{
+	ItemName = "PlasticBin"
+	Location = "-311.742,-6.686,116.479"
+	Rotation = "0.000,-0.999,-0.000,-0.033"
+}
+
+cItemPlacement Pallet12
+{
+	ItemName = "Pallet"
+	Location = "-300.415,-7.340,112.295"
+	Rotation = "-0.001,0.482,0.000,0.877"
+}
+
+cItemPlacement Bucket3
+{
+	ItemName = "Bucket"
+	Location = "-308.946,-4.747,115.990"
+	Rotation = "-0.001,0.022,0.004,1.000"
+}
+
+cItemPlacement Sledgehammer1
+{
+	IsStatic = ""
+	ItemName = "SledgeHammer"
+	Location = "-299.876,-7.412,113.246"
+	Rotation = "0.697,-0.717,-0.004,0.002"
+}
+
+cItemPlacement PowerDrill3
+{
+	ItemName = "PowerDrill"
+	Location = "-297.015,-7.386,115.999"
+	Rotation = "0.285,-0.283,-0.648,0.647"
+}
+
+cItemPlacement Chainsaw
+{
+	ItemName = "Chainsaw"
+	Location = "-278.334,-6.177,105.946"
+	Rotation = "-0.001,0.887,0.001,0.462"
+}
+
+cItemPlacement WrenchLarge
+{
+	ItemName = "WrenchLarge"
+	Location = "-282.271,-7.343,91.209"
+	Rotation = "-0.002,0.407,0.001,0.913"
+}
+
+cItemPlacement Chair_9
+{
+	ItemName = "Chair_9"
+	Location = "-267.963,-7.392,151.681"
+	Rotation = "0.031,-0.942,-0.092,-0.322"
+}
+
+cItemPlacement Chair_91
+{
+	ItemName = "Chair_9"
+	Location = "-266.966,-7.380,151.289"
+	Rotation = "-0.348,-0.621,-0.596,0.363"
+}
+
+cItemPlacement AcetyleneTank
+{
+	ItemName = "AcetyleneTank"
+	Location = "-267.107,-6.845,152.070"
+	Rotation = "0,0,0,1"
+}
+
+cItemPlacement CardboardBox19
+{
+	ItemName = "CardboardBox"
+	Location = "-268.634,-7.221,150.991"
+	Rotation = "0.000,0.364,0.000,0.931"
+	SpawnPropFromCategory = "60"
+}
+
+cItemPlacement Chair_92
+{
+	ItemName = "Chair_9"
+	Location = "-266.641,-7.380,150.548"
+	Rotation = "-0.619,-0.317,-0.303,0.645"
+}
+
+cItemPlacement CardboardBox20
+{
+	ItemName = "CardboardBox"
+	Location = "-250.889,-7.160,73.076"
+	Rotation = "-0.000,-0.353,-0.000,0.936"
+	SpawnPropFromCategory = "60"
+}
+
+cItemWithAttachedPropsPlacement Dolly
+{
+	AttachedProp0 = "AcetyleneTank"
+	ItemName = "Dolly"
+	Location = "-364.396,-6.958,162.658"
+	Rotation = "0.005,0.650,-0.005,0.760"
+}
+
+cItemPlacement Dolly1
+{
+	ItemName = "Dolly"
+	Location = "-320.220,-7.175,216.743"
+	Rotation = "0.039,-0.043,0.715,0.697"
+}
+
+cItemPlacement PickAx1
+{
+	ItemName = "MiningPick"
+	Location = "-273.955,-7.411,137.267"
+	Rotation = "0.678,-0.684,-0.200,0.180"
+}
+
+cItemPlacement Brick
+{
+	ItemName = "Brick"
+	Location = "-276.833,-7.403,137.124"
+	Rotation = "-0.342,0.342,-0.618,0.620"
+}
+
+cItemPlacement Brick1
+{
+	ItemName = "Brick"
+	Location = "-277.347,-7.402,136.568"
+	Rotation = "-0.510,0.510,-0.490,0.490"
+}
+
+cItemPlacement Brick2
+{
+	ItemName = "Brick"
+	Location = "-275.801,-7.402,132.584"
+	Rotation = "-0.472,0.467,-0.528,0.529"
+}
+
+cItemPlacement Brick3
+{
+	ItemName = "Brick"
+	Location = "-341.948,-6.715,174.221"
+	Rotation = "-0.461,0.458,-0.538,0.537"
+}
+
+cItemPlacement Brick4
+{
+	ItemName = "Brick"
+	Location = "-340.442,-7.408,173.315"
+	Rotation = "-0.463,0.461,-0.535,0.535"
+}
+
+cItemPlacement Brick5
+{
+	ItemName = "Brick"
+	Location = "-344.872,-7.407,183.720"
+	Rotation = "-0.464,0.463,-0.536,0.533"
+}
+
+cItemPlacement Sledgehammer2
+{
+	IsStatic = ""
+	ItemName = "SledgeHammer"
+	Location = "-198.606,-7.341,60.741"
+	Rotation = "0.272,-0.280,-0.638,0.663"
+}
+
+cItemPlacement ConstructionHat4
+{
+	ItemName = "ConstructionHat"
+	Location = "-199.172,-7.325,61.369"
+	Rotation = "0.089,0.783,-0.120,0.604"
+}
+
+cItemPlacement Pylon9
+{
+	ItemName = "Pylon"
+	Location = "-222.897,0.346,93.456"
+	Rotation = "-0.000,-0.849,-0.001,-0.528"
+}
+
+cItemPlacement Pylon10
+{
+	ItemName = "Pylon"
+	Location = "-222.019,0.346,92.956"
+	Rotation = "0.001,-0.479,0.001,0.878"
+}
+
+cItemPlacement PaintCan8
+{
+	ItemName = "PaintCan"
+	Location = "-227.080,-1.247,98.641"
+	Rotation = "0.006,0.745,0.002,0.667"
+}
+
+cItemPlacement BoxOfNails12
+{
+	ItemName = "BoxOfNails"
+	Location = "-237.925,-7.365,75.910"
+	Rotation = "0.000,0.002,-0.004,1.000"
+}
+
+cItemPlacement ConstructionHat5
+{
+	ItemName = "ConstructionHat"
+	Location = "-224.687,-1.333,99.334"
+	Rotation = "0.098,0.794,-0.120,0.588"
+}
+
+cItemPlacement PowerDrill5
+{
+	ItemName = "PowerDrill"
+	Location = "-237.604,-7.320,75.960"
+	Rotation = "0.277,-0.272,-0.650,0.653"
+}
+
+cItemPlacement CardboardBox21
+{
+	ItemName = "CardboardBox"
+	Location = "-252.324,-7.121,87.305"
+	Rotation = "0.014,0.069,-0.013,0.997"
+	SpawnPropFromCategory = "60"
+}
+
+cItemPlacement CardboardBox22
+{
+	ItemName = "CardboardBox"
+	Location = "-248.338,-7.153,92.071"
+	Rotation = "0.000,-0.895,0.000,-0.446"
+	SpawnPropFromCategory = "60"
+}
+
+cItemPlacement Pallet13
+{
+	ItemName = "Pallet"
+	Location = "-357.362,-7.372,205.450"
+	Rotation = "-0.001,0.481,0.001,0.877"
+}
+
+cItemPlacement CashRegister5
+{
+	ItemName = "CashRegister"
+	Location = "-357.452,-7.100,205.393"
+	Rotation = "0.008,-0.429,-0.001,0.903"
+}
+
+cItemPlacement CardboardBox23
+{
+	ItemName = "CardboardBox"
+	Location = "-361.527,-7.230,204.139"
+	Rotation = "-0.005,-0.735,-0.001,-0.678"
+	SpawnPropFromCategory = "60"
+}
+
+cItemPlacement CardboardBox24
+{
+	ItemName = "CardboardBox"
+	Location = "-357.233,-6.316,204.131"
+	Rotation = "0.000,-0.738,0.000,-0.675"
+	SpawnPropFromCategory = "60"
+}
+
+cItemPlacement PushBroom4
+{
+	ItemName = "PushBroom"
+	Location = "-341.183,-6.922,148.030"
+	Rotation = "0.400,0.355,-0.172,0.827"
+}
+
+cItemPlacement SawBlade6
+{
+	ItemName = "SawBlade"
+	Location = "-211.298,-7.377,60.202"
+	Rotation = "-0.000,0.994,0.001,-0.108"
+}
+
+cItemPlacement CementSaw2
+{
+	ItemName = "CementSaw"
+	Location = "-211.489,-7.296,59.200"
+	Rotation = "-0.686,-0.175,-0.173,0.685"
+}
+
+cItemPlacement SawBlade7
+{
+	ItemName = "SawBlade"
+	Location = "-211.065,-7.349,60.249"
+	Rotation = "0.076,0.955,0.018,0.285"
+}
+
+cItemPlacement PlasticBin8
+{
+	ItemName = "PlasticBin"
+	Location = "-204.268,-6.648,62.822"
+	Rotation = "0.001,-0.999,-0.001,-0.033"
+}
+
+cItemPlacement Chair_10
+{
+	ItemName = "Chair_9"
+	Location = "-210.676,-7.283,63.645"
+	Rotation = "-0.470,0.079,-0.116,0.872"
+}
+
+cItemPlacement Bucket5
+{
+	ItemName = "Bucket"
+	Location = "-247.290,-7.309,87.549"
+	Rotation = "0.956,0.000,-0.292,-0.001"
+}
+
+cItemPlacement Bucket6
+{
+	ItemName = "Bucket"
+	Location = "-248.773,-7.240,79.117"
+	Rotation = "0.865,-0.005,-0.502,0.007"
+}
+
+cItemPlacement TwoByFour7
+{
+	ItemName = "TwoByFour"
+	Location = "-252.289,-7.329,82.968"
+	Rotation = "-0.694,-0.694,0.135,0.135"
+}
+
+cItemPlacement Dolly2
+{
+	ItemName = "Dolly"
+	Location = "-251.010,-6.861,88.168"
+	Rotation = "0.010,0.980,-0.049,0.195"
+}
+
+cItemPlacement ConstructionHat6
+{
+	ItemName = "ConstructionHat"
+	Location = "-254.460,-7.252,82.100"
+	Rotation = "-0.295,-0.307,-0.625,-0.655"
+}
+
+cItemPlacement WrenchLarge1
+{
+	ItemName = "WrenchLarge"
+	Location = "-254.228,-7.344,82.458"
+	Rotation = "-0.912,-0.000,0.410,-0.001"
+}
+
+cItemPlacement Chair_93
+{
+	ItemName = "Chair_9"
+	Location = "-254.341,-7.311,83.024"
+	Rotation = "0.019,0.940,0.049,-0.338"
+}
+
+cItemPlacement Chair_94
+{
+	ItemName = "Chair_9"
+	Location = "-224.203,-1.328,100.074"
+	Rotation = "-0.604,-0.347,-0.334,0.635"
+}
+
+cItemPlacement HandGun
+{
+	ItemName = "HandGun"
+	Location = "-224.034,-1.348,99.122"
+	Rotation = "0.236,0.224,0.671,0.666"
+}
+
+cItemPlacement GarbageBag14
+{
+	ItemName = "GarbageBag"
+	Location = "-199.241,-7.080,93.504"
+	Rotation = "0.097,-0.923,-0.094,-0.361"
+}
+
+cItemPlacement GarbageBag15
+{
+	ItemName = "GarbageBag"
+	Location = "-199.894,-7.087,93.600"
+	Rotation = "0.341,0.787,-0.286,0.427"
+}
+
+cItemPlacement BoxOfNails13
+{
+	ItemName = "BoxOfNails"
+	Location = "-206.799,-6.351,99.938"
+	Rotation = "-0.002,-0.026,0.003,1.000"
+}
+
+cItemPlacement PowerDrill6
+{
+	ItemName = "PowerDrill"
+	Location = "-206.425,-6.336,100.296"
+	Rotation = "0.334,0.411,-0.603,-0.597"
+}
+
+cItemPlacement PlasticBin9
+{
+	ItemName = "PlasticBin"
+	Location = "-196.031,-6.665,108.754"
+	Rotation = "-0.000,-0.584,-0.000,0.811"
+}
+
+cItemPlacement PushBroom5
+{
+	ItemName = "PushBroom"
+	Location = "-196.717,-7.357,108.779"
+	Rotation = "0.001,-0.999,-0.020,-0.027"
+}
+
+cItemPlacement ConstructionHat7
+{
+	ItemName = "ConstructionHat"
+	Location = "-219.695,-7.323,81.445"
+	Rotation = "0.490,-0.485,-0.523,0.505"
+}
+
+cItemPlacement TwoByFour8
+{
+	ItemName = "TwoByFour"
+	Location = "-251.689,-6.400,132.253"
+	Rotation = "-0.696,-0.692,0.136,0.135"
+}
+
+cItemPlacement TwoByFour9
+{
+	ItemName = "TwoByFour"
+	Location = "-251.965,-6.400,132.326"
+	Rotation = "-0.679,-0.681,0.193,0.193"
+}
+
+cItemPlacement BoxOfNails14
+{
+	ItemName = "BoxOfNails"
+	Location = "-252.439,-6.434,131.427"
+	Rotation = "0.000,-0.273,-0.000,0.962"
+}
+
+cItemPlacement PaintCan9
+{
+	ItemName = "PaintCan"
+	Location = "-253.063,-6.311,130.903"
+	Rotation = "0.001,0.712,0.000,0.702"
+}
+
+cItemPlacement GasolineCanister1
+{
+	ItemName = "GasolineCanister"
+	Location = "-234.430,-7.328,119.527"
+	Rotation = "-0.000,0.417,-0.001,0.909"
+}
+
+cItemPlacement TwoByFour10
+{
+	ItemName = "TwoByFour"
+	Location = "-233.647,-7.403,107.361"
+	Rotation = "-0.629,-0.624,0.329,0.326"
+}
+
+cItemPlacement TwoByFour11
+{
+	ItemName = "TwoByFour"
+	Location = "-233.399,-7.405,106.915"
+	Rotation = "0.564,-0.564,-0.426,0.426"
+}
+
+cItemPlacement PlasticBin10
+{
+	ItemName = "PlasticBin"
+	Location = "-236.738,-6.686,108.896"
+	Rotation = "0.001,0.020,-0.001,1.000"
+}
+
+cItemPlacement Crowbar2
+{
+	ItemName = "Crowbar"
+	Location = "-253.729,-4.891,103.327"
+	Rotation = "-0.511,0.520,0.489,-0.479"
+}
+
+cItemPlacement LeadPipe8
+{
+	ItemName = "LeadPipe"
+	Location = "-261.375,-4.873,116.475"
+	Rotation = "0.646,-0.286,0.251,0.661"
+}
+
+cItemPlacement CardboardBox25
+{
+	ItemName = "CardboardBox"
+	Location = "-261.316,-4.720,140.970"
+	Rotation = "-0.000,-0.813,-0.002,-0.582"
+	SpawnPropFromCategory = "60"
+}
+
+cItemPlacement PaintCan10
+{
+	ItemName = "PaintCan"
+	Location = "-261.850,-4.823,140.523"
+	Rotation = "-0.706,-0.617,-0.021,-0.346"
+}
+
+cItemPlacement CardboardBox26
+{
+	ItemName = "CardboardBox"
+	Location = "-291.526,-2.223,152.401"
+	Rotation = "0.000,0.072,0.000,0.997"
+	SpawnPropFromCategory = "60"
+}
+
+cItemPlacement HandGun1
+{
+	ItemName = "HandGun"
+	Location = "-292.183,-2.411,153.304"
+	Rotation = "0.678,0.678,0.196,0.203"
+}
+
+cItemPlacement Pylon11
+{
+	ItemName = "Pylon"
+	Location = "-296.145,-2.425,153.644"
+	Rotation = "0.000,-0.503,0.000,0.864"
+}
+
+cItemPlacement Pylon12
+{
+	ItemName = "Pylon"
+	Location = "-358.503,-7.426,199.023"
+	Rotation = "0.000,-0.000,0.000,1.000"
+}
+
+cItemPlacement LeadPipe9
+{
+	ItemName = "LeadPipe"
+	Location = "-368.384,-7.399,152.972"
+	Rotation = "0.509,0.315,-0.483,0.639"
+}
+
+cItemPlacement PowerDrill7
+{
+	ItemName = "PowerDrill"
+	Location = "-346.088,-7.001,138.401"
+	Rotation = "0.419,0.430,-0.550,-0.580"
+}
+
+cItemPlacement HandGun2
+{
+	ItemName = "HandGun"
+	Location = "-363.591,-2.453,186.953"
+	Rotation = "0.688,0.677,0.188,0.183"
+}
+
+cItemPlacement AcetyleneTank1
+{
+	ItemName = "AcetyleneTank"
+	Location = "-356.664,-6.835,125.465"
+	Rotation = "-0.000,0.013,0.000,1.000"
+}
+
+cItemPlacement AcetyleneTank2
+{
+	ItemName = "AcetyleneTank"
+	Location = "-357.084,-7.291,125.856"
+	Rotation = "0.448,0.671,0.549,-0.218"
+}
+
+cItemPlacement Pallet14
+{
+	FixedOnInitialPlacement = "true"
+	ItemName = "Pallet"
+	Location = "-358.219,-6.857,125.276"
+	Rotation = "-0.841,-0.045,-0.071,0.535"
+}
+
+cItemPlacement SprayPaint4
+{
+	ItemName = "Spraypaint"
+	Location = "-362.223,-7.396,174.249"
+	Rotation = "0.669,-0.558,-0.230,0.434"
+}
+
+cItemPlacement SprayPaint5
+{
+	ItemName = "Spraypaint"
+	Location = "-362.530,-7.396,174.828"
+	Rotation = "-0.486,0.625,-0.514,0.330"
+}
+
+cItemPlacement SprayPaint6
+{
+	ItemName = "Spraypaint"
+	Location = "-363.063,-7.303,174.713"
+	Rotation = "0.000,-0.973,-0.001,-0.231"
+}
+
+cItemPlacement Sledgehammer3
+{
+	IsStatic = ""
+	ItemName = "SledgeHammer"
+	Location = "-348.113,-6.734,180.774"
+	Rotation = "0.321,-0.329,-0.619,0.637"
+}
+
+cItemPlacement Chair_95
+{
+	ItemName = "Chair_9"
+	Location = "-373.322,-7.402,152.367"
+	Rotation = "0.004,0.991,-0.017,0.131"
+}
+
+cItemPlacement AcetyleneTank3
+{
+	ItemName = "AcetyleneTank"
+	Location = "-363.976,-7.293,163.405"
+	Rotation = "-0.384,0.592,0.593,-0.387"
+}
+
+cItemPlacement LeadPipe10
+{
+	ItemName = "LeadPipe"
+	Location = "-294.195,-7.401,170.422"
+	Rotation = "-0.325,-0.634,0.612,-0.344"
+}
+
+cItemPlacement PlasticBin11
+{
+	ItemName = "PlasticBin"
+	Location = "-303.608,-6.687,156.682"
+	Rotation = "0.000,-0.121,0.000,0.993"
+}
+
+cItemPlacement GarbageBag16
+{
+	ItemName = "GarbageBag"
+	Location = "-303.007,-7.151,156.930"
+	Rotation = "0.019,0.017,0.003,1.000"
+}
+
+cItemPlacement TwoByFour12
+{
+	ItemName = "TwoByFour"
+	Location = "-305.566,-7.402,165.037"
+	Rotation = "0.664,-0.663,0.245,-0.245"
+}
+
+cItemPlacement TwoByFour13
+{
+	ItemName = "TwoByFour"
+	Location = "-305.425,-7.359,165.152"
+	Rotation = "0.838,0.347,0.389,0.162"
+}
+
+cItemPlacement PropaneTank1
+{
+	ItemName = "PropaneTank"
+	Location = "-262.256,-7.155,143.652"
+	Rotation = "-0.000,-0.462,-0.000,-0.887"
+}
+
+cItemPlacement PropaneTank2
+{
+	ItemName = "PropaneTank"
+	Location = "-311.122,-7.155,132.483"
+	Rotation = "0.000,-0.006,0.000,1.000"
+}
+
+cItemPlacement PropaneTank3
+{
+	ItemName = "PropaneTank"
+	Location = "-311.203,-7.222,133.055"
+	Rotation = "0.173,-0.202,0.685,0.678"
+}
+
+cItemPlacement Bucket7
+{
+	ItemName = "Bucket"
+	Location = "-315.465,-7.272,141.229"
+	Rotation = "0.725,-0.505,-0.220,0.414"
+}
+
+cItemPlacement PushBroom6
+{
+	ItemName = "PushBroom"
+	Location = "-336.222,-6.921,143.866"
+	Rotation = "-0.017,-0.899,0.436,-0.040"
+}
+
+cItemPlacement WaterGun
+{
+	ItemName = "WaterGun"
+	Location = "-363.888,-2.448,170.377"
+	Rotation = "0.586,-0.591,-0.390,0.394"
+}
+
+cItemPlacement FireAxe2
+{
+	ItemName = "FireAxe"
+	Location = "-326.897,-7.415,175.172"
+	PropState = "-2"
+	Rotation = "0.278,-0.266,-0.647,0.658"
+}
+
+cItemPlacement ServingTray
+{
+	ItemName = "ServingTray"
+	Location = "-279.575,-6.731,134.910"
+	Rotation = "0.000,-0.001,-0.000,1.000"
+}
+
+cItemPlacement ServingTray1
+{
+	ItemName = "ServingTray"
+	Location = "-281.138,-6.731,136.648"
+	Rotation = "0.000,-0.565,0.000,0.825"
+}
+
+cItemPlacement ServingTray2
+{
+	ItemName = "ServingTray"
+	Location = "-329.318,-4.889,162.491"
+	Rotation = "0.000,-0.813,0.000,0.582"
+}
+
+cItemPlacement FireAxe1
+{
+	ItemName = "FireAxe"
+	Location = "-325.277,-7.415,203.392"
+	Rotation = "-0.441,-0.448,0.547,0.552"
+}
+
+cItemPlacement Chainsaw1
+{
+	ItemName = "Chainsaw"
+	Location = "-362.566,-2.280,187.317"
+	Rotation = "0.000,-0.003,0.000,1.000"
+}
+
+cItemPlacement SledgeHammer
+{
+	ItemName = "SledgeHammer"
+	Location = "-251.710,-7.352,73.823"
+	Rotation = "-0.023,0.035,-0.698,0.715"
+}
+
+cItemPlacement SledgeHammer1
+{
+	ItemName = "SledgeHammer"
+	Location = "-204.635,-7.429,82.567"
+	Rotation = "0.028,-0.757,-0.046,0.652"
+}
+
+cItemPlacement HandGun4
+{
+	ItemName = "HandGun"
+	Location = "-225.199,0.085,87.573"
+	Rotation = "0.688,0.677,0.188,0.183"
+}
+
+cItemPlacement Crowbar3
+{
+	ItemName = "Crowbar"
+	Location = "-246.701,-7.385,101.196"
+	Rotation = "-0.554,0.530,0.489,-0.416"
+}
+
+cItemPlacement SledgeHammer2
+{
+	ItemName = "SledgeHammer"
+	Location = "-285.424,-5.723,130.759"
+	Rotation = "0.581,-0.591,-0.389,0.403"
+}
+
+cItemPlacement Chainsaw2
+{
+	ItemName = "Chainsaw"
+	Location = "-323.842,-4.768,170.454"
+	Rotation = "-0.542,0.517,-0.423,0.510"
+}
+
+cItemPlacement Crowbar4
+{
+	ItemName = "Crowbar"
+	Location = "-359.146,-7.422,146.863"
+	Rotation = "-0.384,-0.394,-0.594,-0.587"
+}
+
+cItemPlacement SledgeHammer3
+{
+	ItemName = "SledgeHammer"
+	Location = "-385.029,-7.430,139.564"
+	Rotation = "0.091,-0.606,0.073,0.787"
+}
+
+cItemPlacement Crowbar5
+{
+	ItemName = "Crowbar"
+	Location = "-205.436,-7.420,82.219"
+	Rotation = "-0.627,0.630,0.330,-0.317"
+}
+
+cItemPlacement CementSaw4
+{
+	ItemName = "CementSaw"
+	Location = "-249.113,-7.293,110.006"
+	Rotation = "-0.680,-0.199,-0.195,0.678"
+}
+
+cItemPlacement Chainsaw3
+{
+	ItemName = "Chainsaw"
+	Location = "-250.912,-7.198,110.596"
+	Rotation = "0.003,-0.924,0.004,-0.383"
+}
+
+cItemPlacement TwoByFour14
+{
+	ItemName = "TwoByFour"
+	Location = "-252.713,-7.279,111.524"
+	Rotation = "0.657,0.705,0.127,0.233"
+}
+
+cItemPlacement TwoByFour15
+{
+	ItemName = "TwoByFour"
+	Location = "-252.481,-7.323,111.745"
+	Rotation = "0.567,0.535,0.456,0.430"
+}
+
+cItemPlacement CardboardBox27
+{
+	ItemName = "CardboardBox"
+	Location = "-286.496,-5.535,132.015"
+	Rotation = "0.000,0.661,-0.000,0.750"
+	SpawnPropFromCategory = "60"
+}
+
+cItemPlacement SawBlade5
+{
+	ItemName = "SawBlade"
+	Location = "-311.695,-2.324,154.994"
+	Rotation = "-0.000,-0.001,0.003,1.000"
+}
+
+cItemPlacement CementSaw5
+{
+	ItemName = "CementSaw"
+	Location = "-282.812,-2.352,123.016"
+	Rotation = "0.690,0.157,-0.157,0.689"
+}
+
+cItemPlacement PropaneTank8
+{
+	ItemName = "PropaneTank"
+	Location = "-319.869,-7.266,153.655"
+	Rotation = "0.318,-0.381,0.635,0.592"
+}
+
+cItemPlacement ConstructionHat8
+{
+	ItemName = "ConstructionHat"
+	Location = "-321.467,-7.325,154.168"
+	Rotation = "0.406,-0.398,-0.590,0.573"
+}
+
+cItemPlacement Sledgehammer4
+{
+	IsStatic = ""
+	ItemName = "SledgeHammer"
+	Location = "-320.319,-7.414,155.041"
+	Rotation = "0.631,-0.648,-0.297,0.307"
+}
+
+cItemPlacement CementSaw6
+{
+	ItemName = "CementSaw"
+	Location = "-241.788,-1.247,107.335"
+	Rotation = "-0.596,0.382,0.381,0.595"
+}
+
+cItemPlacement PaintCan11
+{
+	ItemName = "PaintCan"
+	Location = "-367.547,-7.316,159.199"
+	Rotation = "-0.001,-0.335,0.001,0.942"
+}
+
+cItemPlacement Pallet15
+{
+	ItemName = "Pallet"
+	Location = "-365.967,-7.374,156.695"
+	Rotation = "-0.002,0.099,-0.000,0.995"
+}
+
+cItemPlacement FireAxe3
+{
+	ItemName = "FireAxe"
+	Location = "-312.445,-2.410,117.281"
+	PropState = "-1"
+	Rotation = "0.011,0.003,0.704,0.710"
+}
+
+cItemPlacement Chainsaw4
+{
+	ItemName = "Chainsaw"
+	Location = "-258.317,-2.260,144.690"
+	Rotation = "-0.004,0.992,-0.033,-0.119"
+}
+
+cItemPlacement CardboardBox28
+{
+	ItemName = "CardboardBox"
+	Location = "-363.744,-7.227,124.229"
+	Rotation = "0.000,0.070,0.000,0.998"
+	SpawnPropFromCategory = "60"
+}
+
+cItemPlacement CardboardBox29
+{
+	ItemName = "CardboardBox"
+	Location = "-364.560,-7.227,123.758"
+	Rotation = "0.000,0.726,0.000,0.683"
+	SpawnPropFromCategory = "60"
+}
+
+cItemPlacement TwoByFour16
+{
+	ItemName = "TwoByFour"
+	Location = "-385.016,-7.402,141.906"
+	Rotation = "0.594,0.595,0.382,0.383"
+}
+
+cItemPlacement TwoByFour17
+{
+	ItemName = "TwoByFour"
+	Location = "-384.995,-7.402,142.075"
+	Rotation = "0.238,0.238,0.666,0.666"
+}
+
+cItemPlacement CardboardBox30
+{
+	ItemName = "CardboardBox"
+	Location = "-380.462,-7.226,149.803"
+	Rotation = "0.002,0.381,-0.000,-0.925"
+	SpawnPropFromCategory = "60"
+}
+
+cItemPlacement CardboardBox31
+{
+	ItemName = "CardboardBox"
+	Location = "-379.308,-7.229,150.107"
+	Rotation = "0.000,-0.338,-0.000,-0.941"
+	SpawnPropFromCategory = "60"
+}
+
+cItemPlacement PushBroom3
+{
+	ItemName = "PushBroom"
+	Location = "-340.067,-7.386,141.031"
+	Rotation = "-0.019,0.330,0.007,0.944"
+}
+
+cItemPlacement Mannequin_Female4
+{
+	ItemName = "Mannequin_Female"
+	Location = "-343.705,-7.286,156.135"
+	Rotation = "0.210,-0.685,-0.686,-0.131"
+}
+
+cItemPlacement Crowbar6
+{
+	ItemName = "Crowbar"
+	Location = "-348.554,-7.422,202.150"
+	Rotation = "-0.237,0.255,0.666,-0.659"
+}
+
+cItemPlacement AcetyleneTank4
+{
+	ItemName = "AcetyleneTank"
+	Location = "-341.233,-6.612,177.467"
+	Rotation = "0.571,-0.453,0.417,-0.543"
+}
+
+cItemPlacement PlasticBin12
+{
+	ItemName = "PlasticBin"
+	Location = "-316.096,-7.104,151.403"
+	Rotation = "0.184,-0.195,-0.662,0.700"
+}
+
+cItemPlacement LeadPipe3
+{
+	ItemName = "LeadPipe"
+	Location = "-289.821,-7.406,145.821"
+	Rotation = "0.687,-0.378,0.161,0.599"
+}
+
+cItemPlacement SledgeHammer4
+{
+	ItemName = "SledgeHammer"
+	Location = "-284.354,-7.411,124.888"
+	Rotation = "-0.065,0.077,0.402,0.910"
+}
+
+cItemPlacement Plates3
+{
+	ItemName = "Plates"
+	Location = "-299.037,-7.410,115.702"
+	Rotation = "-0.011,-0.004,-0.009,1.000"
+}
+
+cItemPlacement CardboardBox32
+{
+	ItemName = "CardboardBox"
+	Location = "-280.950,-7.228,115.368"
+	Rotation = "0.000,-0.274,0.001,-0.962"
+	SpawnPropFromCategory = "60"
+}
+
+cItemPlacement CardboardBox33
+{
+	ItemName = "CardboardBox"
+	Location = "-282.006,-7.229,115.383"
+	Rotation = "-0.000,0.263,-0.000,-0.965"
+	SpawnPropFromCategory = "60"
+}
+
+cItemPlacement Paddle1
+{
+	FixedOnInitialPlacement = "true"
+	ItemName = "Paddle"
+	Location = "-265.433,-6.375,106.797"
+	Rotation = "-0.141,-0.260,-0.036,0.954"
+}
+
+cItemPlacement Chainsaw5
+{
+	ItemName = "Chainsaw"
+	Location = "-225.576,-4.789,83.353"
+	Rotation = "0.680,0.711,0.127,0.126"
+}
+
+cItemPlacement PaintCan12
+{
+	ItemName = "PaintCan"
+	Location = "-246.418,-7.303,88.986"
+	Rotation = "-0.000,0.001,-0.000,1.000"
+}
+
+cItemPlacement PaintCan13
+{
+	ItemName = "PaintCan"
+	Location = "-207.319,-4.811,93.783"
+	Rotation = "0.004,0.150,-0.002,0.989"
+}
+
+cItemPlacement AcetyleneTank7
+{
+	ItemName = "AcetyleneTank"
+	Location = "-303.701,-7.300,145.566"
+	Rotation = "-0.447,0.299,-0.548,0.641"
+}
+
+cItemPlacement CardboardBox34
+{
+	ItemName = "CardboardBox"
+	Location = "-320.244,-7.229,168.161"
+	Rotation = "-0.000,0.250,-0.000,-0.968"
+	SpawnPropFromCategory = "60"
+}
+
+cItemPlacement PickAx3
+{
+	ItemName = "MiningPick"
+	Location = "-346.162,-7.272,171.298"
+	Rotation = "-0.398,0.385,0.468,0.688"
+}
+
+cItemPlacement CementSaw7
+{
+	ItemName = "CementSaw"
+	Location = "-314.061,-2.339,164.756"
+	Rotation = "-0.098,0.713,0.692,0.060"
+}
+
+cItemPlacement SawBlade9
+{
+	ItemName = "SawBlade"
+	Location = "-232.976,-7.410,56.787"
+	Rotation = "0.001,-0.951,-0.002,0.308"
+}
+
+cItemPlacement BaseballBat1
+{
+	ItemName = "BaseballBat"
+	Location = "-311.477,-7.388,178.333"
+	Rotation = "-0.696,0.011,0.044,0.716"
+}
+
+cItemPlacement Spraypaint3
+{
+	ItemName = "Spraypaint"
+	Location = "-369.044,-4.865,155.721"
+	Rotation = "0.053,0.705,0.705,0.056"
+}
+
+cItemPlacement Plates
+{
+	ItemName = "Plates"
+	Location = "-259.951,-4.922,113.726"
+	Rotation = "0,0,0,1"
+}
+
+cItemPlacement Plates4
+{
+	ItemName = "Plates"
+	Location = "-280.240,-6.720,135.549"
+	Rotation = "-0.000,0.058,0.000,0.998"
+}
+
+cItemPlacement Plates5
+{
+	ItemName = "Plates"
+	Location = "-272.858,-2.415,149.134"
+	Rotation = "0.001,0.066,0.000,0.998"
+}
+
+cItemPlacement FireworkRockets1
+{
+	ItemName = "FireworkRockets"
+	Location = "-241.625,-7.283,81.084"
+	Rotation = "0.015,-0.010,0.676,0.737"
+}
+
+cItemPlacement WaterGun1
+{
+	ItemName = "WaterGun"
+	Location = "-320.698,-7.387,185.711"
+	Rotation = "0.588,-0.590,-0.391,0.392"
+}
+
+
+cItemPlacement Spraypaint2
+{
+	ItemName = "Spraypaint"
+	Location = "-221.825,-7.380,54.599"
+	Rotation = "-0.690,-0.442,0.155,0.552"
+	TextureSubType = "1"
+}
+
+cItemPlacement VacuumCleaner
+{
+	ItemName = "VacuumCleaner"
+	Location = "-218.787,-7.431,54.280"
+	Rotation = "-0.000,-0.984,0.000,0.176"
+}
+
+cItemPlacement Pylon14
+{
+	ItemName = "Pylon"
+	Location = "-228.915,-7.209,54.752"
+	Rotation = "-0.364,-0.545,-0.700,0.284"
+}
+
+cItemPlacement Spraypaint4
+{
+	ItemName = "Spraypaint"
+	Location = "-221.176,-6.462,55.451"
+	PropState = "-2"
+	Rotation = "-0.622,-0.434,-0.337,0.558"
+	TextureSubType = "3"
+}
+
+
+cItemPlacement WorkBench1
+{
+	ItemName = "Workbench"
+	Location = "-218.946,-7.404,50.251"
+	Rotation = "0.000,0.497,0.000,-0.868"
+}
+
+
+cItemPlacement Shotgun1
+{
+	ItemName = "Shotgun"
+	Location = "-244.302,-7.421,117.071"
+	Rotation = "-0.401,0.402,-0.582,0.582"
+}
+
+cItemPlacement Bucket8
+{
+	ItemName = "Bucket"
+	Location = "-233.169,-7.232,131.777"
+	Rotation = "0.659,-0.477,0.226,0.536"
+}
+
+cItemPlacement PowerDrill4
+{
+	FixedOnInitialPlacement = "true"
+	ItemName = "PowerDrill"
+	Location = "-233.074,-7.408,122.221"
+	Rotation = "0.582,0.629,-0.367,-0.362"
+}
+
+cItemPlacement PitchFork
+{
+	ItemName = "PitchFork"
+	Location = "-233.038,-6.725,133.285"
+	Rotation = "0.881,0.023,0.471,-0.044"
+}
+
+cItemPlacement BigDrillMotor
+{
+	FixedOnInitialPlacement = "true"
+	ItemName = "BigDrillMotor"
+	Location = "-230.180,-6.261,127.575"
+	PropState = "-2"
+	Rotation = "0.002,0.994,0.000,0.108"
+}
+
+
+cItemPlacement WorkBench
+{
+	ItemName = "Workbench"
+	Location = "-228.933,-7.422,132.992"
+	Rotation = "0.000,-0.968,0.000,0.251"
+}
+
+
+cItemPlacement Chainsaw6
+{
+	FixedOnInitialPlacement = "true"
+	ItemName = "Chainsaw"
+	Location = "-303.641,-7.223,200.591"
+	PropState = "-2"
+	Rotation = "0.002,0.000,0.001,1.000"
+}
+
+cItemPlacement LeadPipe4
+{
+	ItemName = "LeadPipe"
+	Location = "-298.216,-7.367,209.860"
+	Rotation = "0.093,-0.436,-0.751,-0.487"
+}
+
+cItemPlacement Paddle
+{
+	FixedOnInitialPlacement = "true"
+	ItemName = "Paddle"
+	Location = "-299.815,-6.388,204.116"
+	PropState = "-2"
+	Rotation = "0.572,0.398,-0.415,0.585"
+}
+
+cItemPlacement FireworkRockets
+{
+	ItemName = "FireworkRockets"
+	Location = "-305.007,-7.379,208.573"
+	Rotation = "0.007,-0.009,0.675,-0.738"
+}
+
+cItemPlacement SawBlade10
+{
+	ItemName = "SawBlade"
+	Location = "-301.981,-7.406,200.530"
+	Rotation = "0.000,0.000,0.000,1.000"
+}
+
+cItemPlacement SawBlade11
+{
+	ItemName = "SawBlade"
+	Location = "-296.126,-7.401,198.481"
+	Rotation = "0.856,-0.001,0.517,-0.000"
+}
+
+cItemPlacement SledgeHammer5
+{
+	ItemName = "SledgeHammer"
+	Location = "-302.274,-6.459,198.946"
+	Rotation = "0.455,-0.072,-0.876,0.140"
+}
+
+cItemPlacement ServingTray3
+{
+	ItemName = "ServingTray"
+	Location = "-306.512,-7.429,209.138"
+	Rotation = "-0.000,0.000,-0.000,1.000"
+}
+
+cItemPlacement Steak
+{
+	ItemName = "Steak"
+	Location = "-306.508,-7.409,209.138"
+	Rotation = "-0.001,0.002,-0.000,1.000"
+}
+
+cItemPlacement OrangeJuice3
+{
+	ItemName = "OrangeJuice"
+	Location = "-307.069,-7.308,209.699"
+	Rotation = "0.001,-0.000,0.001,1.000"
+}
+
+
+cItemPlacement WorkBench3
+{
+	ItemName = "Workbench"
+	Location = "-295.271,-7.427,207.876"
+	Rotation = "0.000,-0.845,0.000,0.534"
+}
+
+
+cItemPlacement Plates2
+{
+	ItemName = "Plates"
+	Location = "-346.679,-7.263,203.333"
+	PropState = "-2"
+	Rotation = "0.000,-0.039,-0.001,0.999"
+}
+
+cItemPlacement PropaneTank5
+{
+	ItemName = "PropaneTank"
+	Location = "-349.713,-7.188,129.097"
+	Rotation = "0.001,0.002,-0.001,1.000"
+}
+
+cItemPlacement BoxOfNails19
+{
+	ItemName = "BoxOfNails"
+	Location = "-349.025,-6.566,129.043"
+	PropState = "-2"
+	Rotation = "0.000,-0.998,0.000,0.019"
+}
+
+cItemPlacement BoxOfNails18
+{
+	ItemName = "BoxOfNails"
+	Location = "-348.610,-6.566,128.818"
+	PropState = "-2"
+	Rotation = "0.000,-0.428,0.000,-0.906"
+}
+
+cItemPlacement BaseballBat
+{
+	ItemName = "BaseballBat"
+	Location = "-365.008,-4.866,162.290"
+	PropState = "-2"
+	Rotation = "-0.418,0.392,-0.559,0.599"
+}
+
+cItemPlacement CementSaw1
+{
+	ItemName = "CementSaw"
+	Location = "-350.503,-6.372,124.393"
+	PropState = "-2"
+	Rotation = "-0.629,-0.087,-0.065,0.770"
+}
+
+cItemPlacement Plates1
+{
+	ItemName = "Plates"
+	Location = "-353.091,-7.408,133.285"
+	PropState = "-2"
+	Rotation = "-0.003,-0.348,0.003,0.937"
+}
+
+
+cItemPlacement WorkBench2
+{
+	ItemName = "Workbench"
+	Location = "-346.524,-7.455,123.674"
+	Rotation = "0.000,-0.504,0.000,0.864"
+}
+
+

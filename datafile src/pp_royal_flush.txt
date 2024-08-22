@@ -1,0 +1,11 @@
+BaseballBat
+BowieKnife
+GolfClub
+HandBag
+HandGun
+HunkOfMeat
+LeadPipe
+NightStick
+Shotgun
+UtilityCart
+WheelChair

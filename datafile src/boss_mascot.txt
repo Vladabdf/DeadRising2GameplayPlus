@@ -1,0 +1,171 @@
+bossdef boss_mascot
+{
+locodef
+	{
+		name       = "battle_mascot_idle"
+		id         = 0
+		in_speed   = 0.0
+		in_angle   = 0.0
+		out_speed  = 0.0
+		out_angle  = 0.0
+		turn_angle = 0.0
+		warp_turn_angle = 0.0
+	}
+	
+	locodef
+	{
+		name       = "battle_mascot_turn90"
+		id         = 1
+		in_speed   = 0.0
+		in_angle   = 0.0
+		out_speed  = 0.0
+		out_angle  = 0.0 
+		turn_angle = -90.0
+		warp_turn_angle = 0.0
+	}
+
+	locodef
+	{
+		name       = "battle_mascot_turn90neg"
+		id         = 2
+		in_speed   = 0.0
+		in_angle   = 0.0
+		out_speed  = 0.0
+		out_angle  = 0.0 
+		turn_angle = 90.0
+		warp_turn_angle = 0.0
+	}
+
+	locodef
+	{
+		name       = "battle_mascot_turn180"
+		id         = 3
+		in_speed   = 0.0
+		in_angle   = 0.0
+		out_speed  = 0.0
+		out_angle  = 0.0
+		turn_angle = -180.0
+		warp_turn_angle = 0.0
+	}
+
+	locodef
+	{
+		name       = "battle_mascot_turn180neg"
+		id         = 4
+		in_speed   = 0.0
+		in_angle   = 0.0
+		out_speed  = 0.0
+		out_angle  = 0.0
+		turn_angle = 180.0
+		warp_turn_angle = 0.0
+	}
+
+	locodef
+	{
+		name       = "battle_mascot_run0"
+		id         = 5
+		in_speed   = 1.0
+		in_angle   = 0.0
+		out_speed  = 1.0
+		out_angle  = 0.0 
+		turn_angle = 0.0
+		warp_turn_angle = 0.0
+	}
+
+	locodef
+	{
+		name       = "battle_mascot_idle_to_run0"
+		id         = 6
+		in_speed   = 0.0
+		in_angle   = 0.0
+		out_speed  = 1.0
+		out_angle  = 0.0 
+		turn_angle = 0.0
+		warp_turn_angle = 0.0
+	}
+
+	locodef
+	{
+		name       = "battle_mascot_run0_to_idle"
+		id         = 7
+		in_speed   = 1.0
+		in_angle   = 0.0
+		out_speed  = 0.0
+		out_angle  = 0.0 
+		turn_angle = 0.0
+		warp_turn_angle = 0.0
+	}		
+
+	locodef
+	{
+		name       = "battle_mascot_idle_to_run_90"
+		id         = 8
+		in_speed   = 0.0
+		in_angle   = 0.0
+		out_speed  = 1.0
+		out_angle  = 0.0 
+		turn_angle = 90.0
+		warp_turn_angle = 0.0
+	}	
+	
+	locodef
+	{
+		name       = "battle_mascot_idle_to_run_90neg"
+		id         = 9
+		in_speed   = 0.0
+		in_angle   = 0.0
+		out_speed  = 1.0
+		out_angle  = 0.0 
+		turn_angle = -90.0
+		warp_turn_angle = 0.0
+	}
+	
+	locodef
+	{
+		name       = "warp_turn_mascot_moving_turn_left_light"
+		id         = 10
+		in_speed   = 1.0
+		in_angle   = 0.0
+		out_speed  = 1.0
+		out_angle  = 0.0 
+		turn_angle = 0.0
+		warp_turn_angle = 120.0
+	}
+	
+	locodef
+	{
+		name       = "warp_turn_mascot_moving_turn_right_light"
+		id         = 11
+		in_speed   = 1.0
+		in_angle   = 0.0
+		out_speed  = 1.0
+		out_angle  = 0.0 
+		turn_angle = 0.0
+		warp_turn_angle = -120.0
+	}				
+	
+	locodef
+	{
+		name       = "mascot_walk0"
+		id         = 12
+		in_speed   = 0.6
+		in_angle   = 0.0
+		out_speed  = 0.6
+		out_angle  = 0.0 
+		turn_angle = 0.0
+		warp_turn_angle = 0.0
+	}	
+	
+	locodef
+	{
+		name       = "mascot_skate_up_stairs"
+		id         = 13
+		in_speed   = 2.0
+		in_angle   = 0.0
+		out_speed  = 2.0
+		out_angle  = 0.0 
+		turn_angle = 0.0
+		warp_turn_angle = 0.0
+	}			
+	
+}

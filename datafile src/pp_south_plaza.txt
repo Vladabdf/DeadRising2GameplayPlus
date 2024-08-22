@@ -1,0 +1,12 @@
+BaseballBat
+Dolly
+HandBag
+HunkOfMeat
+LeadPipe
+PowerDrill
+ProtesterSign
+RebeccasGun
+SledgeHammer
+TwoByFour
+UtilityCart
+WrenchLarge

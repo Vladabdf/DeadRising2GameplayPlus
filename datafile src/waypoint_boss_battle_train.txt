@@ -1,0 +1,193 @@
+cWaypoint Start
+{
+	Location = "0.0,0.0,0.0"
+	Type = "0"
+}
+
+cWaypoint Destination
+{
+	Location = "0.0,0.0,0.0"
+	Type = "0"
+}
+
+cTriggerVolume End_Trigger
+{
+	ActionType = "30"
+	DisplayName = "50455"
+	Height = "2.0"
+	InteractButton = "true"
+	InteractionRadius = "2"
+	Location = "-63.555,2.187,-0.048"
+	Radius = "6"
+	Rotation = "0,0,0,1"
+	Vertex1 = "-1,0,1"
+	Vertex2 = "1,0,1"
+	Vertex3 = "1,0,-1"
+	Vertex4 = "-1,0,-1"
+}
+
+
+cEnvironmentAcoustics auditorium
+{
+	AcousticMedium = "0"
+	DecayHFRatio = "0.59"
+	DecayTime = "4.32"
+	Density = "100"
+	Diffusion = "100"
+	HFReference = "5000"
+	Reflections = "-789"
+	ReflectionsDelay = "0.02"
+	Reverb = "-298"
+	ReverbDelay = "0.03"
+	Room = "-1000"
+	RoomHF = "-476"
+	RoomRolloffFactor = "0"
+}
+
+
+cAudioMaterial HighOcclusion
+{
+	AbsorptionRatio = "0.4"
+	ImpactRatio = "0.4"
+	LowFreqRatio = "0.5"
+	ReflectionRatio = "0.4"
+}
+
+
+cEnvironmentVolume Volume1
+{
+	AcousticsName = "auditorium"
+	Rotation = "-0.000,0.000,0.000,1.000"
+	Scale = "76.390,14.028,32.016"
+	Translation = "-36.661,4.286,2.289"
+	VolumColor = "0"
+	VolumeType = "1"
+}
+
+cEnvironmentVolume New_02
+{
+	Rotation = "0.000,-0.721,0.000,0.693"
+	Scale = "0.666,1.000,0.617"
+	Translation = "0.268,200.097,68.088"
+	VolumColor = "0"
+	VolumeType = "0"
+}
+
+cEnvironmentVolume New_03
+{
+	Rotation = "0.000,-0.742,0.000,0.670"
+	Scale = "0.667,1.000,1.505"
+	Translation = "2.355,200.097,74.170"
+	VolumColor = "0"
+	VolumeType = "0"
+}
+
+cEnvironmentVolume New_04
+{
+	Rotation = "0.000,-0.778,0.000,0.629"
+	Scale = "0.785,1.000,2.161"
+	Translation = "4.634,200.097,75.476"
+	VolumColor = "0"
+	VolumeType = "0"
+}
+
+cEnvironmentVolume New_05
+{
+	Rotation = "0.000,-0.623,0.000,0.782"
+	Scale = "1.091,1.000,1.997"
+	Translation = "-2.966,200.097,72.110"
+	VolumColor = "0"
+	VolumeType = "0"
+}
+
+cEnvironmentVolume New_06
+{
+	Rotation = "0.000,-0.586,0.000,0.810"
+	Scale = "0.891,1.000,1.829"
+	Translation = "-2.467,200.097,72.620"
+	VolumColor = "0"
+	VolumeType = "0"
+}
+
+cEnvironmentVolume New_07
+{
+	Rotation = "0.000,-0.639,0.000,0.770"
+	Scale = "0.713,1.000,1.900"
+	Translation = "2.739,200.097,82.383"
+	VolumColor = "0"
+	VolumeType = "0"
+}
+
+cEnvironmentVolume New_08
+{
+	Rotation = "0.000,-0.664,0.000,0.748"
+	Scale = "1.002,1.000,1.309"
+	Translation = "-2.867,200.097,74.241"
+	VolumColor = "0"
+	VolumeType = "0"
+}
+
+cEnvironmentVolume New_09
+{
+	Rotation = "0.000,-0.825,0.000,0.566"
+	Scale = "0.377,1.000,0.489"
+	Translation = "-44.709,200.097,36.748"
+	VolumColor = "0"
+	VolumeType = "0"
+}
+
+cEnvironmentVolume New_10
+{
+	Rotation = "0.000,-0.874,0.000,0.486"
+	Scale = "0.265,1.000,0.595"
+	Translation = "-43.126,200.097,46.701"
+	VolumColor = "0"
+	VolumeType = "0"
+}
+
+cEnvironmentVolume New_11
+{
+	Rotation = "0.000,-0.766,0.000,0.643"
+	Scale = "0.278,1.000,0.872"
+	Translation = "-46.376,200.097,45.821"
+	VolumColor = "0"
+	VolumeType = "0"
+}
+
+cEnvironmentVolume New_12
+{
+	Rotation = "0.000,-0.893,0.000,0.450"
+	Scale = "0.322,1.000,1.355"
+	Translation = "-51.117,200.097,44.494"
+	VolumColor = "0"
+	VolumeType = "0"
+}
+
+cEnvironmentVolume New_13
+{
+	Rotation = "0.000,-0.647,0.000,0.763"
+	Scale = "0.501,1.000,0.921"
+	Translation = "-49.144,200.097,43.122"
+	VolumColor = "0"
+	VolumeType = "0"
+}
+
+cEnvironmentVolume New_14
+{
+	Rotation = "0.000,-0.845,0.000,0.535"
+	Scale = "0.285,1.000,1.110"
+	Translation = "-47.042,200.097,43.937"
+	VolumColor = "0"
+	VolumeType = "0"
+}
+
+cEnvironmentVolume New_15
+{
+	Rotation = "0.000,-0.883,0.000,0.469"
+	Scale = "0.591,1.000,0.972"
+	Translation = "-47.545,200.097,47.049"
+	VolumColor = "0"
+	VolumeType = "0"
+}
+
+

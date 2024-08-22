@@ -1,0 +1,108 @@
+cZombieLoadSet battle_trainc
+{
+	cZombieLoadSetEntry e0
+	{
+		end = "0"
+		number = "1"
+		start = "0"
+		type0 = "mercenary"
+	}
+
+}
+
+cBossNode Enemy1
+{
+	Boss = "boss_train"
+	Location = "-12.023,1.153,0.445"
+	Name = "Enemy1"
+	Rotation = "-12.025,1.153,0.448"
+	SubID = "1"
+	Type = "5"
+}
+
+cBossNode Enemy2
+{
+	Boss = "boss_train"
+	Location = "-23.675,1.154,0.723"
+	Name = "Enemy2"
+	Rotation = "0, -2.9129, 0"
+	SubID = "1"
+	Type = "5"
+}
+
+cBossNode Enemy3
+{
+	Boss = "boss_train"
+	Location = "-37.765,1.154,-1.982"
+	Name = "Enemy3"
+	Rotation = "0, 1.6063, 0"
+	SubID = "1"
+	Type = "5"
+}
+
+cBossNode Enemy4
+{
+	Boss = "boss_train"
+	Location = "-43.663,1.155,-1.569"
+	Name = "Enemy4"
+	Rotation = "0, 2.5741, 0"
+	SubID = "1"
+	Type = "5"
+}
+
+cBossNode Enemy5
+{
+	Boss = "boss_train"
+	Location = "-52.429,1.154,-0.254"
+	Name = "Enemy5"
+	Rotation = "0, 1.3005, 0"
+	SubID = "1"
+	Type = "5"
+}
+
+cBossNode Enemy6
+{
+	Boss = "boss_train"
+	Location = "-58.308,1.154,1.342"
+	Name = "Enemy6"
+	Rotation = "0, 1.6055, 0"
+	SubID = "1"
+	Type = "5"
+}
+
+cItemPlacement Tunnel1
+{
+	ItemName = "modular_tunnels"
+	Location = "0,-0.35,1.5"
+	Rotation = "0,0,0,1"
+}
+
+cItemPlacement Tunnel2
+{
+	ItemName = "modular_tunnels"
+	Location = "0,-0.35,1.5"
+	Rotation = "0,0,0,1"
+}
+
+cItemPlacement Tunnel3
+{
+	ItemName = "modular_tunnels"
+	Location = "0,-0.35,1.5"
+	Rotation = "0,0,0,1"
+}
+
+cItemPlacement Tunnel4
+{
+	ItemName = "modular_tunnels"
+	Location = "0,-0.35,1.5"
+	Rotation = "0,0,0,1"
+}
+
+cItemPlacement Tunnel5
+{
+	ItemName = "modular_tunnels"
+	Location = "0,-0.35,1.5"
+	Rotation = "0,0,0,1"
+}
+
+

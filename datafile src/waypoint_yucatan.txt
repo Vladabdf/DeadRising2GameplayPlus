@@ -1,0 +1,8 @@
+cWaypoint SURV65
+{
+	Location = "0.24,-0.65,9.42"
+	Name = "SURV"
+	Type = "0"
+}
+
+

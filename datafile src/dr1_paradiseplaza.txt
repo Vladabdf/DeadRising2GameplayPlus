@@ -1,0 +1,609 @@
+cSpawnPoint Start
+{
+	Location = "-20.0, 0.5, -70.0"
+	Location0 = "-20.0, 0.5, -70.0"
+	Location1 = "-20.0, 0.5, -70.0"
+	Location2 = "-20.0, 0.5, -70.0"
+	Rotation = "6.24"
+	Rotation0 = "6.24"
+	Rotation1 = "6.24"
+	Rotation2 = "6.24"
+}
+
+
+cLineSegment pp_z
+{
+	Location = "148.980,60.181,79.868"
+	Vertex1 = "148.241,0.001,88.542"
+	Vertex2 = "158.305,0.001,78.483"
+	Vertex3 = "151.235,0.001,71.411"
+	Vertex4 = "141.171,0.001,81.470"
+	Vertex5 = "148.241,1.001,88.542"
+	Vertex6 = "158.305,1.001,78.483"
+	Vertex7 = "151.235,1.001,71.411"
+	Vertex8 = "141.171,1.001,81.470"
+}
+
+cLineSegment pp_z1
+{
+	Location = "148.980,60.181,79.868"
+	Vertex1 = "156.440,0.000,72.527"
+	Vertex2 = "155.893,0.000,48.055"
+	Vertex3 = "151.894,0.000,48.145"
+	Vertex4 = "152.441,0.000,72.617"
+	Vertex5 = "156.440,1.000,72.527"
+	Vertex6 = "155.893,1.000,48.055"
+	Vertex7 = "151.894,1.000,48.145"
+	Vertex8 = "152.441,1.000,72.617"
+}
+
+cLineSegment pp_z2
+{
+	Location = "148.980,60.181,79.868"
+	Vertex1 = "161.096,0.000,76.495"
+	Vertex2 = "164.441,0.000,65.323"
+	Vertex3 = "159.651,0.000,63.889"
+	Vertex4 = "156.306,0.000,75.061"
+	Vertex5 = "161.096,1.000,76.495"
+	Vertex6 = "164.441,1.000,65.323"
+	Vertex7 = "159.651,1.000,63.889"
+	Vertex8 = "156.306,1.000,75.061"
+}
+
+cLineSegment pp_z3
+{
+	Location = "148.980,60.181,79.868"
+	Vertex1 = "165.816,0.000,64.450"
+	Vertex2 = "168.340,0.000,47.775"
+	Vertex3 = "164.385,0.000,47.177"
+	Vertex4 = "161.861,0.000,63.852"
+	Vertex5 = "165.816,1.000,64.450"
+	Vertex6 = "168.340,1.000,47.775"
+	Vertex7 = "164.385,1.000,47.177"
+	Vertex8 = "161.861,1.000,63.852"
+}
+
+cLineSegment pp_z4
+{
+	Location = "148.980,60.181,79.868"
+	Vertex1 = "171.036,0.000,40.623"
+	Vertex2 = "155.961,0.000,38.836"
+	Vertex3 = "155.255,0.000,44.794"
+	Vertex4 = "170.330,0.000,46.581"
+	Vertex5 = "171.036,1.000,40.623"
+	Vertex6 = "155.961,1.000,38.836"
+	Vertex7 = "155.255,1.000,44.794"
+	Vertex8 = "170.330,1.000,46.581"
+}
+
+cLineSegment pp_z5
+{
+	Location = "148.980,60.181,79.868"
+	Vertex1 = "155.802,0.000,30.205"
+	Vertex2 = "155.401,0.000,38.579"
+	Vertex3 = "161.394,0.000,38.867"
+	Vertex4 = "161.796,0.000,30.493"
+	Vertex5 = "155.802,1.000,30.205"
+	Vertex6 = "155.401,1.000,38.579"
+	Vertex7 = "161.394,1.000,38.867"
+	Vertex8 = "161.796,1.000,30.493"
+}
+
+cLineSegment pp_z6
+{
+	Location = "148.980,60.181,79.868"
+	Vertex1 = "178.014,0.000,26.481"
+	Vertex2 = "168.902,0.000,37.626"
+	Vertex3 = "171.998,0.000,40.158"
+	Vertex4 = "181.110,0.000,29.013"
+	Vertex5 = "178.014,1.000,26.481"
+	Vertex6 = "168.902,1.000,37.626"
+	Vertex7 = "171.998,1.000,40.158"
+	Vertex8 = "181.110,1.000,29.013"
+}
+
+cLineSegment pp_z7
+{
+	Location = "148.980,60.181,79.868"
+	Vertex1 = "179.062,0.000,23.056"
+	Vertex2 = "171.143,0.000,19.548"
+	Vertex3 = "169.523,0.000,23.206"
+	Vertex4 = "177.442,0.000,26.714"
+	Vertex5 = "179.062,1.000,23.056"
+	Vertex6 = "171.143,1.000,19.548"
+	Vertex7 = "169.523,1.000,23.206"
+	Vertex8 = "177.442,1.000,26.714"
+}
+
+cLineSegment pp_z8
+{
+	Location = "148.980,60.181,79.868"
+	Vertex1 = "169.179,0.800,19.568"
+	Vertex2 = "154.485,0.800,3.915"
+	Vertex3 = "142.819,0.800,14.865"
+	Vertex4 = "157.513,0.800,30.518"
+	Vertex5 = "169.179,1.800,19.568"
+	Vertex6 = "154.485,1.800,3.915"
+	Vertex7 = "142.819,1.800,14.865"
+	Vertex8 = "157.513,1.800,30.518"
+}
+
+cLineSegment pp_z9
+{
+	Location = "148.980,60.181,79.868"
+	Vertex1 = "154.716,0.800,4.092"
+	Vertex2 = "143.286,0.800,-15.584"
+	Vertex3 = "129.451,0.800,-7.548"
+	Vertex4 = "140.881,0.800,12.128"
+	Vertex5 = "154.716,1.800,4.092"
+	Vertex6 = "143.286,1.800,-15.584"
+	Vertex7 = "129.451,1.800,-7.548"
+	Vertex8 = "140.881,1.800,12.128"
+}
+
+cLineSegment pp_z10
+{
+	Location = "148.980,60.181,79.868"
+	Vertex1 = "145.318,0.800,-16.617"
+	Vertex2 = "137.453,0.800,-37.778"
+	Vertex3 = "122.455,0.800,-32.204"
+	Vertex4 = "130.320,0.800,-11.043"
+	Vertex5 = "145.318,1.800,-16.617"
+	Vertex6 = "137.453,1.800,-37.778"
+	Vertex7 = "122.455,1.800,-32.204"
+	Vertex8 = "130.320,1.800,-11.043"
+}
+
+cLineSegment pp_z11
+{
+	Location = "148.980,60.181,79.868"
+	Vertex1 = "116.391,0.800,-47.759"
+	Vertex2 = "110.846,0.800,-44.244"
+	Vertex3 = "119.412,0.800,-30.730"
+	Vertex4 = "124.957,0.800,-34.245"
+	Vertex5 = "116.391,1.800,-47.759"
+	Vertex6 = "110.846,1.800,-44.244"
+	Vertex7 = "119.412,1.800,-30.730"
+	Vertex8 = "124.957,1.800,-34.245"
+}
+
+cLineSegment pp_z12
+{
+	Location = "148.980,60.181,79.868"
+	Vertex1 = "134.593,0.800,-55.356"
+	Vertex2 = "128.274,0.800,-51.311"
+	Vertex3 = "136.900,0.800,-37.835"
+	Vertex4 = "143.219,0.800,-41.880"
+	Vertex5 = "134.593,1.800,-55.356"
+	Vertex6 = "128.274,1.800,-51.311"
+	Vertex7 = "136.900,1.800,-37.835"
+	Vertex8 = "143.219,1.800,-41.880"
+}
+
+cLineSegment pp_z13
+{
+	Location = "148.980,60.181,79.868"
+	Vertex1 = "101.488,0.800,-60.947"
+	Vertex2 = "117.561,0.800,-45.081"
+	Vertex3 = "125.991,0.800,-53.621"
+	Vertex4 = "109.918,0.800,-69.487"
+	Vertex5 = "101.488,1.800,-60.947"
+	Vertex6 = "117.561,1.800,-45.081"
+	Vertex7 = "125.991,1.800,-53.621"
+	Vertex8 = "109.918,1.800,-69.487"
+}
+
+cLineSegment pp_z14
+{
+	Location = "148.980,60.181,79.868"
+	Vertex1 = "154.709,8.941,-30.776"
+	Vertex2 = "189.953,8.041,12.270"
+	Vertex3 = "194.595,8.041,8.468"
+	Vertex4 = "159.351,8.941,-34.578"
+	Vertex5 = "154.709,9.941,-30.776"
+	Vertex6 = "189.953,9.041,12.270"
+	Vertex7 = "194.595,9.041,8.468"
+	Vertex8 = "159.351,9.941,-34.578"
+}
+
+cLineSegment pp_z15
+{
+	Location = "148.980,60.181,79.868"
+	Vertex1 = "155.229,7.888,-34.701"
+	Vertex2 = "140.662,5.788,-35.169"
+	Vertex3 = "140.566,5.788,-32.171"
+	Vertex4 = "155.133,7.888,-31.703"
+	Vertex5 = "155.229,8.888,-34.701"
+	Vertex6 = "140.662,6.788,-35.169"
+	Vertex7 = "140.566,6.788,-32.171"
+	Vertex8 = "155.133,8.888,-31.703"
+}
+
+cLineSegment pp_z16
+{
+	Location = "148.980,60.181,79.868"
+	Vertex1 = "188.126,8.897,15.284"
+	Vertex2 = "184.823,6.661,25.407"
+	Vertex3 = "187.675,6.661,26.337"
+	Vertex4 = "190.978,8.897,16.214"
+	Vertex5 = "188.126,9.897,15.284"
+	Vertex6 = "184.823,7.661,25.407"
+	Vertex7 = "187.675,7.661,26.337"
+	Vertex8 = "190.978,9.897,16.214"
+}
+
+cLineSegment pp_z17
+{
+	Location = "148.980,60.181,79.868"
+	Vertex1 = "189.458,1.000,3.806"
+	Vertex2 = "160.507,1.000,-32.244"
+	Vertex3 = "154.269,1.000,-27.234"
+	Vertex4 = "183.220,1.000,8.816"
+	Vertex5 = "189.458,2.000,3.806"
+	Vertex6 = "160.507,2.000,-32.244"
+	Vertex7 = "154.269,2.000,-27.234"
+	Vertex8 = "183.220,2.000,8.816"
+}
+
+cZombiePlacement ppz16
+{
+	NumberCocktailDressZombie0 = "4"
+	NumberConstructionZombie0 = "2"
+	NumberCopZombie0 = "2"
+	NumberKelseyZombie0 = "2"
+	NumberOfAlZombie0 = "1"
+	NumberOfCherryZombie0 = "2"
+	NumberOfDesZombie0 = "2"
+	NumberOfFrankZombie0 = "2"
+	NumberOfGradyZombie0 = "2"
+	NumberOfJamesZombie0 = "2"
+	NumberOfJeremyZombie0 = "2"
+	NumberOfRichardZombie0 = "2"
+	NumberRomanoZombie0 = "2"
+	ZombieCount = "27"
+	cZombieSpawnRegion pp_spawnr17
+	{
+		LineSegment = "true"
+		Location = "183.527,4.955,-2.924"
+		Region = "pp_z17"
+	}
+
+}
+
+cZombiePlacement ppz
+{
+	NumberCocktailDressZombie0 = "1"
+	NumberConstructionZombie0 = "1"
+	NumberCopZombie0 = "1"
+	NumberKelseyZombie0 = "2"
+	NumberOfCherryZombie0 = "1"
+	NumberOfRichardZombie0 = "1"
+	NumberRomanoZombie0 = "3"
+	ZombieCount = "10"
+	cZombieSpawnRegion pp_spawnr1
+	{
+		LineSegment = "true"
+		Location = "183.527,4.955,-2.924"
+		Region = "pp_z"
+	}
+
+}
+
+cZombiePlacement ppz1
+{
+	NumberKelseyZombie0 = "3"
+	NumberOfAlZombie0 = " "
+	NumberOfCherryZombie0 = "1"
+	NumberOfRichardZombie0 = "1"
+	NumberRomanoZombie0 = "2"
+	ZombieCount = "7"
+	cZombieSpawnRegion pp_spawnr2
+	{
+		LineSegment = "true"
+		Location = "183.527,4.955,-2.924"
+		Region = "pp_z1"
+	}
+
+}
+
+cZombiePlacement ppz2
+{
+	NumberCocktailDressZombie0 = "1"
+	NumberKelseyZombie0 = "3"
+	NumberOfAlZombie0 = " "
+	NumberOfRichardZombie0 = "1"
+	NumberRomanoZombie0 = "2"
+	ZombieCount = "7"
+	cZombieSpawnRegion pp_spawnr3
+	{
+		LineSegment = "true"
+		Location = "183.527,4.955,-2.924"
+		Region = "pp_z2"
+	}
+
+}
+
+cZombiePlacement ppz3
+{
+	NumberConstructionZombie0 = "1"
+	NumberCopZombie0 = "1"
+	NumberKelseyZombie0 = "2"
+	NumberOfAlZombie0 = "1"
+	NumberOfCherryZombie0 = "1"
+	NumberOfFrankZombie0 = "1"
+	NumberOfRichardZombie0 = "1"
+	ZombieCount = "8"
+	cZombieSpawnRegion pp_spawnr4
+	{
+		LineSegment = "true"
+		Location = "183.527,4.955,-2.924"
+		Region = "pp_z3"
+	}
+
+}
+
+cZombiePlacement ppz4
+{
+	NumberCocktailDressZombie0 = "2"
+	NumberConstructionZombie0 = "2"
+	NumberCopZombie0 = "2"
+	NumberKelseyZombie0 = "2"
+	NumberOfAlZombie0 = "1"
+	NumberOfJamesZombie0 = "1"
+	NumberRomanoZombie0 = "2"
+	ZombieCount = "12"
+	cZombieSpawnRegion pp_spawnr5
+	{
+		LineSegment = "true"
+		Location = "183.527,4.955,-2.924"
+		Region = "pp_z4"
+	}
+
+}
+
+cZombiePlacement ppz5
+{
+	NumberKelseyZombie0 = "3"
+	NumberOfCherryZombie0 = "1"
+	NumberOfJamesZombie0 = "1"
+	NumberOfRichardZombie0 = "1"
+	NumberRomanoZombie0 = "2"
+	ZombieCount = "8"
+	cZombieSpawnRegion pp_spawnr6
+	{
+		LineSegment = "true"
+		Location = "183.527,4.955,-2.924"
+		Region = "pp_z5"
+	}
+
+}
+
+cZombiePlacement ppz6
+{
+	NumberConstructionZombie0 = "1"
+	NumberCopZombie0 = "1"
+	NumberKelseyZombie0 = "1"
+	NumberOfAlZombie0 = "1"
+	NumberOfDesZombie0 = "1"
+	NumberOfGradyZombie0 = "1"
+	NumberOfJamesZombie0 = "1"
+	NumberOfJeremyZombie0 = "1"
+	NumberRomanoZombie0 = "2"
+	ZombieCount = "10"
+	cZombieSpawnRegion pp_spawnr7
+	{
+		LineSegment = "true"
+		Location = "183.527,4.955,-2.924"
+		Region = "pp_z6"
+	}
+
+}
+
+cZombiePlacement ppz7
+{
+	NumberConstructionZombie0 = "2"
+	NumberKelseyZombie0 = "2"
+	NumberOfAlZombie0 = "1"
+	NumberOfJamesZombie0 = "1"
+	NumberRomanoZombie0 = "2"
+	ZombieCount = "8"
+	cZombieSpawnRegion pp_spawnr8
+	{
+		LineSegment = "true"
+		Location = "183.527,4.955,-2.924"
+		Region = "pp_z7"
+	}
+
+}
+
+cZombiePlacement ppz8
+{
+	NumberConstructionZombie0 = "2"
+	NumberCopZombie0 = "2"
+	NumberKelseyZombie0 = "4"
+	NumberOfAlZombie0 = "1"
+	NumberOfCherryZombie0 = "2"
+	NumberOfDesZombie0 = "2"
+	NumberOfFrankZombie0 = "2"
+	NumberOfGradyZombie0 = "2"
+	NumberOfJamesZombie0 = "2"
+	NumberOfJeremyZombie0 = "2"
+	NumberOfRichardZombie0 = "2"
+	NumberRomanoZombie0 = "2"
+	ZombieCount = "25"
+	cZombieSpawnRegion pp_spawnr9
+	{
+		LineSegment = "true"
+		Location = "183.527,4.955,-2.924"
+		Region = "pp_z8"
+	}
+
+}
+
+cZombiePlacement ppz9
+{
+	NumberCocktailDressZombie0 = "2"
+	NumberConstructionZombie0 = "2"
+	NumberCopZombie0 = "2"
+	NumberKelseyZombie0 = "2"
+	NumberOfCherryZombie0 = "2"
+	NumberOfDesZombie0 = "2"
+	NumberOfFrankZombie0 = "1"
+	NumberOfGradyZombie0 = "2"
+	NumberOfJamesZombie0 = "1"
+	NumberOfJeremyZombie0 = "2"
+	NumberOfRichardZombie0 = "2"
+	NumberRomanoZombie0 = "2"
+	ZombieCount = "22"
+	cZombieSpawnRegion pp_spawnr10
+	{
+		LineSegment = "true"
+		Location = "183.527,4.955,-2.924"
+		Region = "pp_z9"
+	}
+
+}
+
+cZombiePlacement ppz10
+{
+	NumberCocktailDressZombie0 = "2"
+	NumberConstructionZombie0 = "2"
+	NumberCopZombie0 = "2"
+	NumberKelseyZombie0 = "2"
+	NumberOfAlZombie0 = "2"
+	NumberOfCherryZombie0 = "2"
+	NumberOfDesZombie0 = "2"
+	NumberOfFrankZombie0 = "2"
+	NumberOfGradyZombie0 = "2"
+	NumberOfJamesZombie0 = "2"
+	NumberOfJeremyZombie0 = "2"
+	NumberOfRichardZombie0 = "2"
+	NumberRomanoZombie0 = "2"
+	ZombieCount = "26"
+	cZombieSpawnRegion pp_spawnr11
+	{
+		LineSegment = "true"
+		Location = "183.527,4.955,-2.924"
+		Region = "pp_z10"
+	}
+
+}
+
+cZombiePlacement ppz11
+{
+	NumberConstructionZombie0 = "1"
+	NumberCopZombie0 = "1"
+	NumberKelseyZombie0 = "2"
+	NumberOfAlZombie0 = "1"
+	NumberOfGradyZombie0 = "1"
+	NumberOfJamesZombie0 = "1"
+	NumberOfJeremyZombie0 = "1"
+	NumberRomanoZombie0 = "2"
+	ZombieCount = "10"
+	cZombieSpawnRegion pp_spawnr12
+	{
+		LineSegment = "true"
+		Location = "183.527,4.955,-2.924"
+		Region = "pp_z11"
+	}
+
+}
+
+cZombiePlacement ppz12
+{
+	NumberConstructionZombie0 = "1"
+	NumberCopZombie0 = "1"
+	NumberKelseyZombie0 = "2"
+	NumberOfAlZombie0 = "1"
+	NumberOfCherryZombie0 = "1"
+	NumberOfJamesZombie0 = "1"
+	NumberOfJeremyZombie0 = "1"
+	NumberOfRichardZombie0 = "1"
+	NumberRomanoZombie0 = "1"
+	ZombieCount = "10"
+	cZombieSpawnRegion pp_spawnr13
+	{
+		LineSegment = "true"
+		Location = "183.527,4.955,-2.924"
+		Region = "pp_z12"
+	}
+
+}
+
+cZombiePlacement ppz13
+{
+	NumberConstructionZombie0 = "1"
+	NumberKelseyZombie0 = "2"
+	NumberOfCherryZombie0 = "1"
+	NumberOfDesZombie0 = "1"
+	NumberOfJamesZombie0 = "1"
+	NumberOfRichardZombie0 = "1"
+	ZombieCount = "7"
+	cZombieSpawnRegion pp_spawnr14
+	{
+		LineSegment = "true"
+		Location = "183.527,4.955,-2.924"
+		Region = "pp_z13"
+	}
+
+}
+
+cZombiePlacement ppz14
+{
+	NumberCocktailDressZombie0 = "2"
+	NumberConstructionZombie0 = "2"
+	NumberCopZombie0 = "1"
+	NumberKelseyZombie0 = "4"
+	NumberOfCherryZombie0 = "1"
+	NumberOfDesZombie0 = "2"
+	NumberOfFrankZombie0 = "1"
+	NumberOfGradyZombie0 = "2"
+	NumberOfJamesZombie0 = "2"
+	NumberOfJeremyZombie0 = "2"
+	NumberOfRichardZombie0 = "1"
+	NumberRomanoZombie0 = "6"
+	ZombieCount = "26"
+	cZombieSpawnRegion pp_spawnr15
+	{
+		LineSegment = "true"
+		Location = "183.527,4.955,-2.924"
+		Region = "pp_z14"
+	}
+
+}
+
+cZombiePlacement ppz15
+{
+	NumberConstructionZombie0 = "2"
+	NumberKelseyZombie0 = "2"
+	NumberOfCherryZombie0 = "1"
+	NumberOfJamesZombie0 = "1"
+	NumberRomanoZombie0 = "3"
+	ZombieCount = "9"
+	cZombieSpawnRegion pp_spawnr16
+	{
+		LineSegment = "true"
+		Location = "183.527,4.955,-2.924"
+		Region = "pp_z16"
+	}
+
+}
+
+cZombiePlacement ppz17
+{
+	NumberConstructionZombie0 = "2"
+	NumberKelseyZombie0 = "2"
+	NumberOfCherryZombie0 = "1"
+	NumberOfJamesZombie0 = "1"
+	NumberRomanoZombie0 = "3"
+	ZombieCount = "9"
+	cZombieSpawnRegion pp_spawnr18
+	{
+		LineSegment = "true"
+		Location = "183.527,4.955,-2.924"
+		Region = "pp_z15"
+	}
+
+}
+
+

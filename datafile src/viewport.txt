@@ -1,0 +1,64 @@
+//This file will include all of the viewport definitions that are required for gameplay purposes (non-script)
+
+cViewportShape MainView_16x9
+{
+	X = "0"
+	Y = "0"
+	Width = "1"
+	Height = "1"
+	Aspect="1.777777778"
+}
+
+cViewportShape MainView_4x3
+{
+	X = "0"
+	Y = "0"
+	Width = "1"
+	Height = "1"
+	Aspect="1.333333333333"
+}
+
+cViewportShape MainView_4x3_16x9_Letterbox
+{
+	X = "0"
+	Y = "0.125"
+	Width = "1"
+	Height = "0.75"
+	Aspect="1.777777778"
+}
+
+cViewportShape MainView_5x4
+{
+	X = "0"
+	Y = "0"
+	Width = "1"
+	Height = "1"
+	Aspect="1.25"
+}
+
+cViewportShape MainView_5x4_16x9_Letterbox
+{
+	X = "0"
+	Y = "0.1484375"
+	Width = "1"
+	Height = "0.703125"
+	Aspect="1.777777778"
+}
+
+cViewportShape MainView_16x10
+{
+	X = "0"
+	Y = "0"
+	Width = "1"
+	Height = "1"
+	Aspect="1.6"
+}
+
+cViewportShape MainView_16x10_16x9_Letterbox
+{
+	X = "0"
+	Y = "0.05"
+	Width = "1"
+	Height = "0.9"
+	Aspect="1.777777778"
+}

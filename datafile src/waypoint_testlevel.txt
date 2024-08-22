@@ -1,0 +1,57 @@
+cWaypoint Start
+{
+	Location = "0.0,0.0,0.0"
+	Type = "0"
+}
+
+cWaypoint Destination
+{
+	Location = "0.0,0.0,0.0"
+	Type = "0"
+}
+
+cEnvironmentAcoustics test
+{
+	DecayHFRatio = "0.67"
+	DecayTime = "1.49"
+	Density = "100.0"
+	Diffusion = "50.0"
+	HFReference = "5000.0"
+	Maxs = "100.0,100.0,0.0"
+	Mins = "-100.0,0.0,-100.0"
+	Reflections = "-2273"
+	ReflectionsDelay = "0.007"
+	Reverb = "-2217"
+	ReverbDelay = "0.011"
+	Room = "-1000"
+	RoomHF = "-800"
+	RoomRolloffFactor = "0.0"
+}
+
+cEnvironmentAcoustics test2
+{
+	DecayHFRatio = "0.83"
+	DecayTime = "1.49"
+	Density = "100.0"
+	Diffusion = "100.0"
+	HFReference = "5000.0"
+	Maxs = "50.0,50.0,50.0"
+	Mins = "0.0,0.0,0.0"
+	Reflections = "-10000"
+	ReflectionsDelay = "0.061"
+	Reverb = "500"
+	ReverbDelay = "0.025"
+	Room = "-1000"
+	RoomHF = "-1000"
+	RoomRolloffFactor = "0.0"
+}
+
+cTriggerVolume SafeHouse
+{
+	ActionType = "7"
+	Location = "0.0,0.0,0.0"
+	Radius = "2"
+	Rotation = "0,0,0,1"
+}
+
+

@@ -1,0 +1,1022 @@
+cBossNode BattleSpace
+{
+	Boss = "boss_tk"
+	Location = "0, 12.5, 0"
+	Name = "BattleSpace"
+	Rotation = "0, 0, 0"
+	Type = "8"
+}
+
+cItemPlacement KC
+{
+	ItemName = "boss_tk"
+	Location = "2.8, 12.3, -30.1"
+	Rotation = "0.0,0.0,0.0,1.0"
+}
+
+cItemPlacement Stacey
+{
+	ItemName = "cast_stacey"
+	Location = "-21.3, 12.5, -19.7"
+	Rotation = "0.0,0.0,0.0,1.0"
+}
+
+cItemPlacement Katey
+{
+	ItemName = "cast_katey"
+	Location = "-21.3, 12.5, -19.7"
+	Rotation = "0.0,0.0,0.0,1.0"
+}
+
+cItemPlacement KCMicrophone
+{
+	DisablePhysicsOnInitialPlacement = "true"
+	ItemName = "KCMicrophone"
+	Location = "2.8, -5.3, -30.1"
+	Rotation = "0.0,0.0,0.0,1.0"
+}
+
+cItemPlacement KCGun
+{
+	DisablePhysicsOnInitialPlacement = "true"
+	ItemName = "KCGun"
+	Location = "2.8, -4.3, -30.1"
+	Rotation = "0.0,0.0,0.0,1.0"
+}
+
+cItemPlacement KCCrank
+{
+	ItemName = "KCCrank"
+	Location = "-22.4, 12.94, -16.6"
+	Rotation = "0.25, 0.65, 0.907, -0.676"
+}
+
+cItemPlacement KCRopeStacey
+{
+	ItemName = "KCRopeStacey"
+	Location = "-22.4, -12.94, -16.6"
+	Rotation = "0.25, 0.65, 0.907, -0.676"
+}
+
+
+cItemPlacement PreloadKcFireworkExplosion
+{
+	ItemName = "KcFireworkExplosion"
+	Location = "-22.4, -75., -16.6"
+	Rotation = "0.25, 0.65, 0.907, -0.676"
+}
+
+
+
+
+cMarkedZone Zone0
+{
+	Boss = "boss_tk"
+	Height = "10.0"
+	Name = "Zone0"
+	Point0 = " -4.70, -0.5, -16.70"
+	Point1 = "-10.70, -0.5, -36.20"
+	Point2 = " 10.20, -0.5, -35.15"
+	Point3 = "  4.25, -0.5, -16.60"
+	Type = "0"
+}
+
+cMarkedZone UngrappableZone0
+{
+	Boss = "boss_tk"
+	Height = "10.0"
+	Name = "UngrappableZone0"
+	Point0 = "  -2.7, -0.5, -29.8"
+	Point1 = "   2.3, -0.5, -29.8"
+	Point2 = "   2.6, -0.5, -24.0"
+	Point3 = "  -2.9, -0.5, -24.0"
+	Type = "1"
+}
+
+cMarkedZone UngrappableZone1
+{
+	Boss = "boss_tk"
+	Height = "10.0"
+	Name = "UngrappableZone1"
+	Point0 = "  8.5, -0.5, -31.5"
+	Point1 = " 10.4, -0.5, -30.7"
+	Point2 = "  4.9, -0.5, -16.1"
+	Point3 = "  3.3, -0.5, -17.1"
+	Type = "1"
+}
+
+cMarkedZone UngrappableZone2
+{
+	Boss = "boss_tk"
+	Height = "10.0"
+	Name = "UngrappableZone2"
+	Point0 = " 11.0, -0.5, -33.0"
+	Point1 = "  4.9, -0.5, -35.1"
+	Point2 = "  4.9, -0.5, -37.1"
+	Point3 = " 11.0, -0.5, -35.0"
+	Type = "1"
+}
+
+cMarkedZone UngrappableZone3
+{
+	Boss = "boss_tk"
+	Height = "10.0"
+	Name = "UngrappableZone3"
+	Point0 = "  5.4, -0.5, -34.9"
+	Point1 = " -5.8, -0.5, -35.0"
+	Point2 = " -5.8, -0.5, -37.0"
+	Point3 = "  5.4, -0.5, -36.9"
+	Type = "1"
+}
+
+cMarkedZone UngrappableZone4
+{
+	Boss = "boss_tk"
+	Height = "10.0"
+	Name = "UngrappableZone4"
+	Point0 = " -5.4, -0.5, -35.1"
+	Point1 = "-10.5, -0.5, -33.2"
+	Point2 = "-10.5, -0.5, -35.2"
+	Point3 = " -5.4, -0.5, -37.1"
+	Type = "1"
+}
+
+cMarkedZone UngrappableZone5
+{
+	Boss = "boss_tk"
+	Height = "10.0"
+	Name = "UngrappableZone5"
+	Point0 = "  3.4, -0.5, -18.8"
+	Point1 = "  3.2, -0.5, -16.9"
+	Point2 = " -4.0, -0.5, -17.0"
+	Point3 = " -4.1, -0.5, -18.7"
+	Type = "1"
+}
+
+cMarkedZone UngrappableZone6
+{
+	Boss = "boss_tk"
+	Height = "10.0"
+	Name = "UngrappableZone6"
+	Point0 = " -3.5, -0.5, -17.1"
+	Point1 = " -6.2, -0.5, -16.4"
+	Point2 = " -7.4, -0.5, -20.0"
+	Point3 = " -5.2, -0.5, -20.9"
+	Type = "1"
+}
+
+cMarkedZone UngrappableZone7
+{
+	Boss = "boss_tk"
+	Height = "10.0"
+	Name = "UngrappableZone7"
+	Point0 = " -6.5, -0.5, -24.8"
+	Point1 = " -8.9, -0.5, -23.9"
+	Point2 = "-12.5, -0.5, -32.7"
+	Point3 = " -9.7, -0.5, -33.8"
+	Type = "1"
+}
+
+cBossNode ChargeNode0
+{
+	Boss = "boss_tk"
+	Location = "0.0, 0.0, 0.0"
+	Name = "ChargeNode0"
+	Type = "2"
+}
+
+cBossNode RetreatNode0
+{
+	Boss = "boss_tk"
+	Location = "-8.7,0.0,-33.5"
+	Name = "RetreatNode0"
+	Rotation = "0, -2.8, 0.0"
+	Type = "6"
+}
+
+cBossNode RetreatNode1
+{
+	Boss = "boss_tk"
+	Location = "8.4, 0.0, -33.6"
+	Name = "RetreatNode1"
+	Rotation = "0, 2.7, 0"
+	Type = "6"
+}
+
+cBossNode RetreatNode2
+{
+	Boss = "boss_tk"
+	Location = "5.6, 0.0, -25.0"
+	Name = "RetreatNode2"
+	Rotation = "0, 1.2, 0"
+	Type = "6"
+}
+
+cBossNode RetreatNode3
+{
+	Boss = "boss_tk"
+	Location = "-11.3, 0.0, -26.9"
+	Name = "RetreatNode3"
+	Rotation = "0, -1.2, 0"
+	Type = "6"
+}
+
+cBossNode ReturnNode0
+{
+	Boss = "boss_tk"
+	Location = "-9.37,0.0,-35.55"
+	Name = "ReturnNode0"
+	Rotation = "0, 0.3, 0"
+	Type = "3"
+}
+
+cBossNode ReturnNode1
+{
+	Boss = "boss_tk"
+	Location = "9.2,0.0,-35.6"
+	Name = "ReturnNode1"
+	Rotation = "0, -0.3, 0"
+	Type = "3"
+}
+
+cBossNode ReturnNode2
+{
+	Boss = "boss_tk"
+	Location = "7.3,0.0,-24.0"
+	Name = "ReturnNode2"
+	Rotation = "0, -1.9, 0"
+	Type = "3"
+}
+
+cBossNode ReturnNode3
+{
+	Boss = "boss_tk"
+	Location = "-13.16, 0.0, -26.4"
+	Name = "ReturnNode3"
+	Rotation = "0.0, 1.9, 0.0"
+	Type = "3"
+}
+
+cBossNode CoverNode0
+{
+	Boss = "boss_tk"
+	Location = "2.8, -0.2, -30.1"
+	Name = "CoverNode0"
+	Type = "1"
+}
+
+cBossNode CoverNode1
+{
+	Boss = "boss_tk"
+	Location = "-2.9, -0.2, -23.3"
+	Name = "CoverNode1"
+	Type = "1"
+}
+
+cBossNode WinchNode0
+{
+	Boss = "boss_tk"
+	ID = "0"
+	Location = "-0.2, -0.2, -30.9"
+	Name = "WinchNode0"
+	Rotation = "0, -0.1, 0"
+	Type = "7"
+}
+
+cBossNode FireworksRight0
+{
+	Boss = "boss_tk"
+	ID = "11"
+	Location = "-22.6, 0.55, -24.3"
+	Name = "FireworksRight0"
+	Rotation = "0.0, 1.2, 0.0"
+	SubID = "0"
+	Type = "0"
+}
+
+cBossNode FireworksRight0b
+{
+	Boss = "boss_tk"
+	ID = "12"
+	Location = "-20.8, 0.55, -26.0"
+	Name = "FireworksRight0b"
+	Rotation = "0.0, 1.2, 0.0"
+	SubID = "0"
+	Type = "0"
+}
+
+cBossNode FireworksRight1
+{
+	Boss = "boss_tk"
+	ID = "13"
+	Location = "-18.6, 0.3, -27.49"
+	Name = "FireworksRight1"
+	Rotation = "0.0, 1.5, 0.0"
+	SubID = "0"
+	Type = "0"
+}
+
+cBossNode FireworksRight1b
+{
+	Boss = "boss_tk"
+	ID = "14"
+	Location = "-16.8, 0.3, -29.4"
+	Name = "FireworksRight1b"
+	Rotation = "0.0, 1.5, 0.0"
+	SubID = "0"
+	Type = "0"
+}
+
+cBossNode FireworksRight2
+{
+	Boss = "boss_tk"
+	ID = "15"
+	Location = "-14.8, 0.0, -30.5"
+	Name = "FireworksRight2"
+	Rotation = "0.0, 1.2, 0.0"
+	SubID = "0"
+	Type = "0"
+}
+
+cBossNode FireworksRight2b
+{
+	Boss = "boss_tk"
+	ID = "16"
+	Location = "-12.4, 0.0, -31.4"
+	Name = "FireworksRight2b"
+	Rotation = "0.0, 1.2, 0.0"
+	SubID = "0"
+	Type = "0"
+}
+
+cBossNode FireworksRight3
+{
+	Boss = "boss_tk"
+	ID = "17"
+	Location = "-11.4, 0.0, -28.1"
+	Name = "FireworksRight3"
+	Rotation = "0.0, 1.5, 0.0"
+	SubID = "0"
+	Type = "0"
+}
+
+cBossNode FireworksRight3b
+{
+	Boss = "boss_tk"
+	ID = "18"
+	Location = "-10.8, 0.0, -26.0"
+	Name = "FireworksRight3b"
+	Rotation = "0.0, 1.5, 0.0"
+	SubID = "0"
+	Type = "0"
+}
+
+cBossNode FireworksRight4
+{
+	Boss = "boss_tk"
+	ID = "19"
+	Location = "-9.8, 0.0, -23.85"
+	Name = "FireworksRight4"
+	Rotation = "0.0, 1.2, 0.0"
+	SubID = "0"
+	Type = "0"
+}
+
+cBossNode FireworksRight4b
+{
+	Boss = "boss_tk"
+	ID = "0"
+	Location = "-9.2, 0.0, -21.8"
+	Name = "FireworksRight4b"
+	Rotation = "0.0, 1.2, 0.0"
+	SubID = "0"
+	Type = "0"
+}
+
+cBossNode FireworksRight5
+{
+	Boss = "boss_tk"
+	ID = "1"
+	Location = "-8.3, 0.0, -19.8"
+	Name = "FireworksRight5"
+	Rotation = "0.0, 1.5, 0.0"
+	SubID = "0"
+	Type = "0"
+}
+
+cBossNode FireworksRight5b
+{
+	Boss = "boss_tk"
+	ID = "2"
+	Location = "-8.9, -0.2, -17.3"
+	Name = "FireworksRight5b"
+	Rotation = "0.0, 1.5, 0.0"
+	SubID = "0"
+	Type = "0"
+}
+
+cBossNode FireworksRight6
+{
+	Boss = "boss_tk"
+	ID = "3"
+	Location = "-10.4, -0.2, -15.8"
+	Name = "FireworksRight6"
+	Rotation = "0.0, 1.2, 0.0"
+	SubID = "0"
+	Type = "0"
+}
+
+cBossNode FireworksRight6b
+{
+	Boss = "boss_tk"
+	ID = "4"
+	Location = "-13.2, 0.0, -13.5"
+	Name = "FireworksRight6b"
+	Rotation = "0.0, 1.2, 0.0"
+	SubID = "0"
+	Type = "0"
+}
+
+cBossNode FireworksRight7
+{
+	Boss = "boss_tk"
+	ID = "5"
+	Location = "-14.6,0.0,-14.5"
+	Name = "FireworksRight7"
+	Rotation = "0.0, 1.5, 0.0"
+	SubID = "0"
+	Type = "0"
+}
+
+cBossNode FireworksRight7b
+{
+	Boss = "boss_tk"
+	ID = "6"
+	Location = "-16.25,0.0,-15.5"
+	Name = "FireworksRight7b"
+	Rotation = "0.0, 1.5, 0.0"
+	SubID = "0"
+	Type = "0"
+}
+
+cBossNode FireworksRight8
+{
+	Boss = "boss_tk"
+	ID = "7"
+	Location = "-18.0,0.0,-16.55"
+	Name = "FireworksRight8"
+	Rotation = "0.0, 1.2, 0.0"
+	SubID = "0"
+	Type = "0"
+}
+
+cBossNode FireworksRight8b
+{
+	Boss = "boss_tk"
+	ID = "8"
+	Location = "-20.5,0.3,-18.0"
+	Name = "FireworksRight8b"
+	Rotation = "0.0, 1.2, 0.0"
+	SubID = "0"
+	Type = "0"
+}
+
+cBossNode FireworksRight9
+{
+	Boss = "boss_tk"
+	ID = "9"
+	Location = "-22.65,0.3,-19.55"
+	Name = "FireworksRight9"
+	Rotation = "0.0, 1.2, 0.0"
+	SubID = "0"
+	Type = "0"
+}
+
+cBossNode FireworksRight9b
+{
+	Boss = "boss_tk"
+	ID = "10"
+	Location = "-24.7,0.55,-21.7"
+	Name = "FireworksRight9b"
+	Rotation = "0.0, 1.2, 0.0"
+	SubID = "0"
+	Type = "0"
+}
+
+cBossNode FireworksMiddle0
+{
+	Boss = "boss_tk"
+	ID = "20"
+	Location = "-0.4, -0.2, -22.2"
+	Name = "FireworksMiddle0"
+	Rotation = "0.0, 1.2, 0.0"
+	SubID = "1"
+	Type = "0"
+}
+
+cBossNode FireworksMiddle1
+{
+	Boss = "boss_tk"
+	ID = "21"
+	Location = "4.2, 0.0, -25.2"
+	Name = "FireworksMiddle1"
+	Rotation = "0.0, 1.5, 0.0"
+	SubID = "1"
+	Type = "0"
+}
+
+cBossNode FireworksMiddle2
+{
+	Boss = "boss_tk"
+	ID = "22"
+	Location = "4.1, -0.2, -29.8"
+	Name = "FireworksMiddle2"
+	Rotation = "0.0, 1.2, 0.0"
+	SubID = "1"
+	Type = "0"
+}
+
+cBossNode FireworksMiddle3
+{
+	Boss = "boss_tk"
+	ID = "23"
+	Location = "-0.3, 0.0, -32.7"
+	Name = "FireworksMiddle3"
+	Rotation = "0.0, 1.5, 0.0"
+	SubID = "1"
+	Type = "0"
+}
+
+cBossNode FireworksMiddle4
+{
+	Boss = "boss_tk"
+	ID = "24"
+	Location = "-4.1, -0.2, -30.2"
+	Name = "FireworksMiddle4"
+	Rotation = "0.0, 1.2, 0.0"
+	SubID = "1"
+	Type = "0"
+}
+
+cBossNode FireworksMiddle5
+{
+	Boss = "boss_tk"
+	ID = "25"
+	Location = "-4.75, 0.0, -24.8"
+	Name = "FireworksMiddle5"
+	Rotation = "0.0, 1.5, 0.0"
+	SubID = "1"
+	Type = "0"
+}
+
+cBossNode FireworksLeft0
+{
+	Boss = "boss_tk"
+	ID = "41"
+	Location = "10.3, 0.0, -26.8"
+	Name = "FireworksLeft0"
+	Rotation = "0.0, 1.5, 0.0"
+	SubID = "2"
+	Type = "0"
+}
+
+cBossNode FireworksLeft0b
+{
+	Boss = "boss_tk"
+	ID = "26"
+	Location = "11.3, 0.0, -29.7"
+	Name = "FireworksLeft0b"
+	Rotation = "0.0, 1.5, 0.0"
+	SubID = "2"
+	Type = "0"
+}
+
+cBossNode FireworksLeft0c
+{
+	Boss = "boss_tk"
+	ID = "27"
+	Location = "14.8, 0.0, -30.5"
+	Name = "FireworksLeft0c"
+	Rotation = "0.0, 1.5, 0.0"
+	SubID = "2"
+	Type = "0"
+}
+
+cBossNode FireworksLeft1
+{
+	Boss = "boss_tk"
+	ID = "28"
+	Location = "17.45, 0.0, -28.6"
+	Name = "FireworksLeft1"
+	Rotation = "0.0, 1.2, 0.0"
+	SubID = "2"
+	Type = "0"
+}
+
+cBossNode FireworksLeft1b
+{
+	Boss = "boss_tk"
+	ID = "29"
+	Location = "20.0, 0.0, -26.5"
+	Name = "FireworksLeft1b"
+	Rotation = "0.0, 1.2, 0.0"
+	SubID = "2"
+	Type = "0"
+}
+
+cBossNode FireworksLeft2
+{
+	Boss = "boss_tk"
+	ID = "30"
+	Location = "22.3, 0.0, -24.5"
+	Name = "FireworksLeft2"
+	Rotation = "0.0, 1.5, 0.0"
+	SubID = "2"
+	Type = "0"
+}
+
+cBossNode FireworksLeft2b
+{
+	Boss = "boss_tk"
+	ID = "31"
+	Location = "24.9, 0.0, -21.1"
+	Name = "FireworksLeft2b"
+	Rotation = "0.0, 1.5, 0.0"
+	SubID = "2"
+	Type = "0"
+}
+
+cBossNode FireworksLeft2c
+{
+	Boss = "boss_tk"
+	ID = "32"
+	Location = "22.0, 0.0, -19.3"
+	Name = "FireworksLeft2c"
+	Rotation = "0.0, 1.2, 0.0"
+	SubID = "2"
+	Type = "0"
+}
+
+cBossNode FireworksLeft3
+{
+	Boss = "boss_tk"
+	ID = "33"
+	Location = "19.6, 0.05, -17.7"
+	Name = "FireworksLeft3"
+	Rotation = "0.0, 1.2, 0.0"
+	SubID = "2"
+	Type = "0"
+}
+
+cBossNode FireworksLeft3b
+{
+	Boss = "boss_tk"
+	ID = "34"
+	Location = "17.6, 0.3, -16.6"
+	Name = "FireworksLeft3b"
+	Rotation = "0.0, 1.2, 0.0"
+	SubID = "2"
+	Type = "0"
+}
+
+cBossNode FireworksLeft4
+{
+	Boss = "boss_tk"
+	ID = "35"
+	Location = "15.1, 0.3, -15.0"
+	Name = "FireworksLeft4"
+	Rotation = "0.0, 1.5, 0.0"
+	SubID = "2"
+	Type = "0"
+}
+
+cBossNode FireworksLeft4b
+{
+	Boss = "boss_tk"
+	ID = "36"
+	Location = "12.2, 0.3, -13.5"
+	Name = "FireworksLeft4b"
+	Rotation = "0.0, 1.5, 0.0"
+	SubID = "2"
+	Type = "0"
+}
+
+cBossNode FireworksLeft5
+{
+	Boss = "boss_tk"
+	ID = "37"
+	Location = "9.35, 0.3, -16.3"
+	Name = "FireworksLeft5"
+	Rotation = "0.0, 1.2, 0.0"
+	SubID = "2"
+	Type = "0"
+}
+
+cBossNode FireworksLeft5b
+{
+	Boss = "boss_tk"
+	ID = "38"
+	Location = "7.5, 0.3, -18.3"
+	Name = "FireworksLeft5b"
+	Rotation = "0.0, 1.2, 0.0"
+	SubID = "2"
+	Type = "0"
+}
+
+cBossNode FireworksLeft6
+{
+	Boss = "boss_tk"
+	ID = "39"
+	Location = "8.6, 0.0, -21.8"
+	Name = "FireworksLeft6"
+	Rotation = "0.0, 1.5, 0.0"
+	SubID = "2"
+	Type = "0"
+}
+
+cBossNode FireworksLeft6b
+{
+	Boss = "boss_tk"
+	ID = "40"
+	Location = "9.2, 0.0, -24.3"
+	Name = "FireworksLeft6b"
+	Rotation = "0.0, 1.5, 0.0"
+	SubID = "2"
+	Type = "0"
+}
+
+cBossNode FireworksSpray0
+{
+	Boss = "boss_tk"
+	ID = "42"
+	IsMadShootNode = "true"
+	Location = "8.6, 0.45, -34.1"
+	Name = "FireworksSpray0"
+	Rotation = "0.0, 0.2, 0.0"
+	SubID = "3"
+	Type = "0"
+}
+
+cBossNode FireworksSpray1
+{
+	Boss = "boss_tk"
+	ID = "43"
+	IsMadShootNode = "true"
+	Location = "2.8, 0.45, -18.4"
+	Name = "FireworksSpray1"
+	Rotation = "0.0, 0.2, 0.0"
+	SubID = "3"
+	Type = "0"
+}
+
+cBossNode FireworksSpray2
+{
+	Boss = "boss_tk"
+	ID = "44"
+	IsMadShootNode = "true"
+	Location = "-3.5, 0.45, -18.4"
+	Name = "FireworksSpray2"
+	Rotation = "0.0, 0.2, 0.0"
+	SubID = "3"
+	Type = "0"
+}
+
+cBossNode FireworksSpray3
+{
+	Boss = "boss_tk"
+	ID = "45"
+	IsMadShootNode = "true"
+	Location = "-8.9, 0.45, -34.1"
+	Name = "FireworksSpray3"
+	Rotation = "0.0, 0.2, 0.0"
+	SubID = "3"
+	Type = "0"
+}
+
+cBossNode FireworksSprayRight0
+{
+	Boss = "boss_tk"
+	ID = "46"
+	IsMadShootNode = "true"
+	Location = "-8.000,0.5,-24.80"
+	Name = "FireworksSprayRight0"
+	Rotation = "0.4, 0.0, 1.2"
+	SubID = "4"
+	Type = "0"
+}
+
+cBossNode FireworksSprayLeft0
+{
+	Boss = "boss_tk"
+	ID = "47"
+	IsMadShootNode = "true"
+	Location = "9.350,0.5,-30.40"
+	Name = "FireworksSprayLeft0"
+	Rotation = "0.4, 0.0, -1.2"
+	SubID = "5"
+	Type = "0"
+}
+
+cWaypoint BossWaypoint000
+{
+	Location = "-6.32,0.03,-24.91"
+	Name = "BossWaypoint000"
+	Type = "1"
+}
+
+cWaypoint BossWaypoint001
+{
+	Location = "-4.72,0.03,-20.81"
+	Name = "BossWaypoint001"
+	Type = "1"
+}
+
+cWaypoint BossWaypoint002
+{
+	Location = "-2.33,0.03,-18.89"
+	Name = "BossWaypoint002"
+	Type = "1"
+}
+
+cWaypoint BossWaypoint003
+{
+	Location = "2.31,0.03,-18.85"
+	Name = "BossWaypoint003"
+	Type = "1"
+}
+
+cWaypoint BossWaypoint004
+{
+	Location = "2.23,-0.0,-23.51"
+	Name = "BossWaypoint004"
+	Type = "1"
+}
+
+cWaypoint BossWaypoint005
+{
+	Location = "-2.77,-0.0,-23.63"
+	Name = "BossWaypoint005"
+	Type = "1"
+}
+
+cWaypoint BossWaypoint006
+{
+	Location = "-3.04,-0.0,-29.65"
+	Name = "BossWaypoint006"
+	Type = "1"
+}
+
+cWaypoint BossWaypoint007
+{
+	Location = "2.67,-0.0,-29.84"
+	Name = "BossWaypoint007"
+	Type = "1"
+}
+
+cWaypoint BossWaypoint008
+{
+	Location = "7.69,0.03,-31.39"
+	Name = "BossWaypoint008"
+	Type = "1"
+}
+
+cWaypoint BossWaypoint009
+{
+	Location = "12.02,0.03,-30.52"
+	Name = "BossWaypoint009"
+	Type = "1"
+}
+
+cWaypoint BossWaypoint010
+{
+	Location = "-5.86,0.03,-34.63"
+	Name = "BossWaypoint010"
+	Type = "1"
+}
+
+cWaypoint BossWaypoint011
+{
+	Location = "5.38,0.03,-35.16"
+	Name = "BossWaypoint011"
+	Type = "1"
+}
+
+cWaypoint BossWaypoint012
+{
+	Location = "-9.20,0.00,-24.00"
+	Name = "BossWaypoint012"
+	Type = "1"
+}
+
+cWaypoint BossWaypoint013
+{
+	Location = "-7.51,0.00,-19.69"
+	Name = "BossWaypoint013"
+	Type = "1"
+}
+
+cWaypoint BossWaypoint014
+{
+	Location = "-8.86,0.0,-17.61"
+	Name = "BossWaypoint014"
+	Type = "1"
+}
+
+cWaypoint BossWaypoint015
+{
+	Location = "-12.6,0.0,-30.16"
+	Name = "BossWaypoint015"
+	Type = "1"
+}
+
+cWaypoint BossWaypoint016
+{
+	Location = "0.7,0.0,-29.7"
+	Name = "BossWaypoint016"
+	Type = "1"
+}
+
+cWaypoint BossWaypoint017
+{
+	Location = "-1.1,0.0,-29.7"
+	Name = "BossWaypoint017"
+	Type = "1"
+}
+
+cWaypoint BossWaypoint018
+{
+	Location = "7.3, 0.0, -18.0"
+	Name = "BossWaypoint018"
+	Type = "1"
+}
+
+cWaypoint BossWaypoint019
+{
+	Location = "12.0, 0.0, -13.5"
+	Name = "BossWaypoint019"
+	Type = "1"
+}
+
+cWaypoint BossWaypoint020
+{
+	Location = "24.0, 0.6, -20.0"
+	Name = "BossWaypoint020"
+	Type = "1"
+}
+
+cWaypoint BossWaypoint021
+{
+	Location = "23.0, 0.6, -24.0"
+	Name = "BossWaypoint021"
+	Type = "1"
+}
+
+cWaypoint BossWaypoint022
+{
+	Location = "16.0, 0.0, -30.0"
+	Name = "BossWaypoint022"
+	Type = "1"
+}
+
+cWaypoint BossWaypoint023
+{
+	Location = "-12.0, 0.0, -14.0"
+	Name = "BossWaypoint023"
+	Type = "1"
+}
+
+cWaypoint BossWaypoint024
+{
+	Location = "-24.0, 0.6, -21.0"
+	Name = "BossWaypoint024"
+	Type = "1"
+}
+
+cWaypoint BossWaypoint025
+{
+	Location = "-23.0, 0.6, -24.0"
+	Name = "BossWaypoint025"
+	Type = "1"
+}
+
+cWaypoint BossWaypoint026
+{
+	Location = "-16.5, 0.4, -29.5"
+	Name = "BossWaypoint026"
+	Type = "1"
+}
+
+cWaypoint BossWaypoint027
+{
+	Location = "-15.0, 0.4, -14.5"
+	Name = "BossWaypoint027"
+	Type = "1"
+}
+
+cWaypoint BossWaypoint028
+{
+	Location = "-18.7, 0.4, -17.0"
+	Name = "BossWaypoint028"
+	Type = "1"
+}
+

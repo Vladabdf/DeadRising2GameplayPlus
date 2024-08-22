@@ -1,0 +1,629 @@
+cBossNode BoykinBattleSpace
+{
+	Boss = "boss_boykin"
+	Location = "223.7, -7.5, -248.5"
+	Name = "BoykinBattleSpace"
+	Rotation = "0, 2.103, 0"
+	Type = "8"
+}
+
+cBossNode BoykinPlayerStart1
+{
+	Boss = "boss_boykin"
+	Location = "216.2, -7.5, -215.5"
+	Name = "BoykinPlayerStart1"
+	Rotation = "0, 2.73, 0"
+	Type = "9"
+}
+
+cBossNode BoykinPlayerStart2
+{
+	Boss = "boss_boykin"
+	Location = "212.9, -7.5, -213.8"
+	Name = "BoykinPlayerStart2"
+	Rotation = "0, 2.45, 0"
+	Type = "9"
+}
+
+cItemPlacement SgtBoykin
+{
+	ItemName = "boss_boykin"
+	Location = "239.9, -7.5, -242.8"
+}
+
+cItemPlacement BoykinMachineGun
+{
+	DisablePhysicsOnInitialPlacement = "true"
+	ItemName = "BoykinMachinegun"
+	Location = "239.9, -7.5, -250.8"
+}
+
+
+cItemPlacement BoykinGrenadePreload
+{
+	DisablePhysicsOnInitialPlacement = "true"
+	ItemName = "BoykinGrenade"
+	Location = "239.9, -7.5, -250.8"
+}
+
+cBossNode BoykinLOSNode1
+{
+	Boss = "boss_boykin"
+	Location = "-16.5, 0, 11.1"
+	Type = "0"
+}
+
+cBossNode BoykinLOSNode2
+{
+	Boss = "boss_boykin"
+	Location = "-11.1, 0, 9.8"
+	Type = "0"
+}
+
+cBossNode BoykinLOSNode3
+{
+	Boss = "boss_boykin"
+	Location = "-5.0, 0, 7.8"
+	Type = "0"
+}
+
+cBossNode BoykinLOSNode4
+{
+	Boss = "boss_boykin"
+	Location = "1.8, 0, 6.3"
+	Type = "0"
+}
+
+cBossNode BoykinLOSNode5
+{
+	Boss = "boss_boykin"
+	Location = "1.0, 0, -3.5"
+	Type = "0"
+}
+
+cBossNode BoykinLOSNode6
+{
+	Boss = "boss_boykin"
+	Location = "-2.8, 0, -2.8"
+	Type = "0"
+}
+
+cBossNode BoykinLOSNode7
+{
+	Boss = "boss_boykin"
+	Location = "-10.6, 0, -1.3"
+	Type = "0"
+}
+
+cBossNode BoykinLOSNode8
+{
+	Boss = "boss_boykin"
+	Location = "-20.8, 0, 0.0"
+	Type = "0"
+}
+
+cBossNode BoykinLOSNode9
+{
+	Boss = "boss_boykin"
+	Location = "-23.5, 0, 7.0"
+	Type = "0"
+}
+
+cBossNode BoykinLOSNode10
+{
+	Boss = "boss_boykin"
+	Location = "-23.9, 0, -0.5"
+	Type = "0"
+}
+
+cBossNode BoykinLOSNode11
+{
+	Boss = "boss_boykin"
+	Location = "-24.8, 0, -8.3"
+	Type = "0"
+}
+
+cBossNode BoykinLOSNode12
+{
+	Boss = "boss_boykin"
+	Location = "-25.45, 0, -11.36"
+	Type = "0"
+}
+
+cBossNode BoykinLOSNode13
+{
+	Boss = "boss_boykin"
+	Location = "-18.6, 0, -11.77"
+	Type = "0"
+}
+
+cBossNode BoykinLOSNode14
+{
+	Boss = "boss_boykin"
+	Location = "-1.74, 0, -9.29"
+	Type = "0"
+}
+
+cBossNode BoykinLOSNode15
+{
+	Boss = "boss_boykin"
+	Location = "-8.6, 0, -14.79"
+	Type = "0"
+}
+
+cBossNode BoykinReloadNode1
+{
+	Boss = "boss_boykin"
+	Location = "-15.1, 0, 2.7"
+	Name = "BoykinReloadNode1"
+	Type = "2"
+}
+
+cBossNode BoykinReloadNode2
+{
+	Boss = "boss_boykin"
+	Location = "-4.16, 0, -7.4"
+	Name = "BoykinReloadNode2"
+	Type = "2"
+}
+
+cBossNode BoykinCoverNode1
+{
+	Boss = "boss_boykin"
+	IsMadShootNode = "true"
+	Location = "-18.8, 0, -10.88"
+	TargetLocation = "-18.95, 0, -11.9"
+	Type = "1"
+}
+
+cBossNode BoykinCoverNode2
+{
+	Boss = "boss_boykin"
+	IsMadShootNode = "true"
+	Location = "-13.5, 0, -12.5"
+	TargetLocation = "-13.6, 0, -13.7"
+	Type = "1"
+}
+
+cBossNode BoykinCoverNode3
+{
+	Boss = "boss_boykin"
+	IsMadShootNode = "true"
+	Location = "-7.3, 0, -7.6"
+	TargetLocation = "-7.4, 0, -8.45"
+	Type = "1"
+}
+
+cBossNode BoykinCoverNode4
+{
+	Boss = "boss_boykin"
+	IsTalkNode = "true"
+	Location = "-2.98, 0, 1.04"
+	Type = "1"
+}
+
+cBossNode BoykinCoverNode5
+{
+	Boss = "boss_boykin"
+	IsTalkNode = "true"
+	Location = "-9.11, 0, 2.81"
+	Type = "1"
+}
+
+cBossNode BoykinCoverNode6
+{
+	Boss = "boss_boykin"
+	IsTalkNode = "true"
+	Location = "-16.96, 0, 0.61"
+	Type = "1"
+}
+
+cBossNode BoykinRetreatNode1
+{
+	Boss = "boss_boykin"
+	Location = "-15.36, 0, -3.7"
+	Rotation = "0, 0, 0"
+	SubID = "0"
+	Type = "6"
+}
+
+cBossNode BoykinRetreatNode2
+{
+	Boss = "boss_boykin"
+	Location = "-12.8, 0, 16.3"
+	Rotation = "0, 0, 0"
+	SubID = "0"
+	Type = "6"
+}
+
+cBossNode BoykinRetreatNode3
+{
+	Boss = "boss_boykin"
+	Location = "-1.1, 0, 12.6"
+	Rotation = "0, 0, 0"
+	SubID = "0"
+	Type = "6"
+}
+
+cBossNode BoykinRetreatNode4
+{
+	Boss = "boss_boykin"
+	IsMadShootNode = "true"
+	Location = "-9.22, 0, 5.57"
+	Rotation = "0, 0, 0"
+	SubID = "0"
+	Type = "6"
+}
+
+cWaypoint BossWaypoint000
+{
+	Location = "-10.46,0.00,5.91"
+	Name = "BossWaypoint000"
+	Type = "1"
+}
+
+cWaypoint BossWaypoint001
+{
+	Location = "-10.29,0.00,2.96"
+	Name = "BossWaypoint001"
+	Type = "1"
+}
+
+cWaypoint BossWaypoint002
+{
+	Location = "-6.62,0.00,3.14"
+	Name = "BossWaypoint002"
+	Type = "1"
+}
+
+cWaypoint BossWaypoint003
+{
+	Location = "-6.75,0.00,5.72"
+	Name = "BossWaypoint003"
+	Type = "1"
+}
+
+cWaypoint BossWaypoint004
+{
+	Location = "-3.73,0.00,4.88"
+	Name = "BossWaypoint004"
+	Type = "1"
+}
+
+cWaypoint BossWaypoint005
+{
+	Location = "-0.93,0.00,4.18"
+	Name = "BossWaypoint005"
+	Type = "1"
+}
+
+cWaypoint BossWaypoint006
+{
+	Location = "0.45,0.00,1.17"
+	Name = "BossWaypoint006"
+	Type = "1"
+}
+
+cWaypoint BossWaypoint007
+{
+	Location = "-4.14,0.00,0.72"
+	Name = "BossWaypoint007"
+	Type = "1"
+}
+
+cWaypoint BossWaypoint008
+{
+	Location = "-1.06,0.00,7.58"
+	Name = "BossWaypoint008"
+	Type = "1"
+}
+
+cWaypoint BossWaypoint009
+{
+	Location = "-4.62,0.00,10.76"
+	Name = "BossWaypoint009"
+	Type = "1"
+}
+
+cWaypoint BossWaypoint010
+{
+	Location = "-6.50,0.00,14.51"
+	Name = "BossWaypoint010"
+	Type = "1"
+}
+
+cWaypoint BossWaypoint011
+{
+	Location = "-12.44,0.00,11.41"
+	Name = "BossWaypoint011"
+	Type = "1"
+}
+
+cWaypoint BossWaypoint012
+{
+	Location = "-10.06,0.00,7.68"
+	Name = "BossWaypoint012"
+	Type = "1"
+}
+
+cWaypoint BossWaypoint013
+{
+	Location = "-11.64,0.00,5.01"
+	Name = "BossWaypoint013"
+	Type = "1"
+}
+
+cWaypoint BossWaypoint014
+{
+	Location = "-14.34,0.00,7.54"
+	Name = "BossWaypoint014"
+	Type = "1"
+}
+
+cWaypoint BossWaypoint015
+{
+	Location = "-17.58,0.00,8.67"
+	Name = "BossWaypoint015"
+	Type = "1"
+}
+
+cWaypoint BossWaypoint016
+{
+	Location = "-22.07,0.00,6.64"
+	Name = "BossWaypoint016"
+	Type = "1"
+}
+
+cWaypoint BossWaypoint017
+{
+	Location = "-21.58,0.00,2.69"
+	Name = "BossWaypoint017"
+	Type = "1"
+}
+
+cWaypoint BossWaypoint018
+{
+	Location = "-16.22,0.00,2.82"
+	Name = "BossWaypoint018"
+	Type = "1"
+}
+
+cWaypoint BossWaypoint019
+{
+	Location = "-16.91,0.00,1.92"
+	Name = "BossWaypoint019"
+	Type = "1"
+}
+
+cWaypoint BossWaypoint020
+{
+	Location = "-17.48,0.00,-0.41"
+	Name = "BossWaypoint020"
+	Type = "1"
+}
+
+cWaypoint BossWaypoint021
+{
+	Location = "-20.08,0.00,0.08"
+	Name = "BossWaypoint021"
+	Type = "1"
+}
+
+cWaypoint BossWaypoint022
+{
+	Location = "-19.58,0.00,2.45"
+	Name = "BossWaypoint022"
+	Type = "1"
+}
+
+cWaypoint BossWaypoint023
+{
+	Location = "-21.17,0.00,-3.52"
+	Name = "BossWaypoint023"
+	Type = "1"
+}
+
+cWaypoint BossWaypoint024
+{
+	Location = "-18.30,0.00,-3.70"
+	Name = "BossWaypoint024"
+	Type = "1"
+}
+
+cWaypoint BossWaypoint025
+{
+	Location = "-23.76,0.00,-4.33"
+	Name = "BossWaypoint025"
+	Type = "1"
+}
+
+cWaypoint BossWaypoint026
+{
+	Location = "-24.37,0.00,-7.75"
+	Name = "BossWaypoint026"
+	Type = "1"
+}
+
+cWaypoint BossWaypoint027
+{
+	Location = "-22.95,0.00,-9.42"
+	Name = "BossWaypoint027"
+	Type = "1"
+}
+
+cWaypoint BossWaypoint028
+{
+	Location = "-23.48,0.00,-11.73"
+	Name = "BossWaypoint028"
+	Type = "1"
+}
+
+cWaypoint BossWaypoint029
+{
+	Location = "-20.74,0.00,-12.54"
+	Name = "BossWaypoint029"
+	Type = "1"
+}
+
+cWaypoint BossWaypoint030
+{
+	Location = "-19.76,0.00,-10.01"
+	Name = "BossWaypoint030"
+	Type = "1"
+}
+
+cWaypoint BossWaypoint031
+{
+	Location = "-22.50,0.00,-13.37"
+	Name = "BossWaypoint031"
+	Type = "1"
+}
+
+cWaypoint BossWaypoint032
+{
+	Location = "-26.54,-0.00,-10.69"
+	Name = "BossWaypoint032"
+	Type = "1"
+}
+
+cWaypoint BossWaypoint033
+{
+	Location = "-16.84,-0.00,-11.89"
+	Name = "BossWaypoint033"
+	Type = "1"
+}
+
+cWaypoint BossWaypoint034
+{
+	Location = "-18.15,-0.00,-14.26"
+	Name = "BossWaypoint034"
+	Type = "1"
+}
+
+cWaypoint BossWaypoint035
+{
+	Location = "-14.72,-0.00,-16.45"
+	Name = "BossWaypoint035"
+	Type = "1"
+}
+
+cWaypoint BossWaypoint036
+{
+	Location = "-13.17,-0.00,-13.84"
+	Name = "BossWaypoint036"
+	Type = "1"
+}
+
+cWaypoint BossWaypoint037
+{
+	Location = "-7.98,-0.00,-15.00"
+	Name = "BossWaypoint037"
+	Type = "1"
+}
+
+cWaypoint BossWaypoint038
+{
+	Location = "-10.07,-0.00,-19.22"
+	Name = "BossWaypoint038"
+	Type = "1"
+}
+
+cWaypoint BossWaypoint039
+{
+	Location = "-7.33,-0.00,-19.57"
+	Name = "BossWaypoint039"
+	Type = "1"
+}
+
+cWaypoint BossWaypoint040
+{
+	Location = "-7.72,-0.00,-22.09"
+	Name = "BossWaypoint040"
+	Type = "1"
+}
+
+cWaypoint BossWaypoint041
+{
+	Location = "-10.48,-0.00,-21.66"
+	Name = "BossWaypoint041"
+	Type = "1"
+}
+
+cWaypoint BossWaypoint042
+{
+	Location = "-6.43,-0.00,-6.88"
+	Name = "BossWaypoint042"
+	Type = "1"
+}
+
+cWaypoint BossWaypoint043
+{
+	Location = "-2.89,-0.00,-7.42"
+	Name = "BossWaypoint043"
+	Type = "1"
+}
+
+cWaypoint BossWaypoint044
+{
+	Location = "-3.30,-0.00,-9.45"
+	Name = "BossWaypoint044"
+	Type = "1"
+}
+
+cWaypoint BossWaypoint045
+{
+	Location = "-5.22,-0.00,-10.39"
+	Name = "BossWaypoint045"
+	Type = "1"
+}
+
+cWaypoint BossWaypoint046
+{
+	Location = "-7.38,-0.00,-9.70"
+	Name = "BossWaypoint046"
+	Type = "1"
+}
+
+cWaypoint BossWaypoint047
+{
+	Location = "-18.52,-0.00,6.79"
+	Name = "BossWaypoint047"
+	Type = "1"
+}
+
+cWaypoint BossWaypoint048
+{
+	Location = "-13.87,-0.00,2.50"
+	Name = "BossWaypoint048"
+	Type = "1"
+}
+
+cWaypoint BossWaypoint049
+{
+	Location = "-17.10,-0.00,-9.44"
+	Name = "BossWaypoint049"
+	Type = "1"
+}
+
+cWaypoint BossWaypoint050
+{
+	Location = "-15.85,0.17,-5.84"
+	Name = "BossWaypoint050"
+	Type = "1"
+}
+
+cWaypoint BossWaypoint051
+{
+	Location = "-19.80,0.01,-15.97"
+	Name = "BossWaypoint051"
+	Type = "1"
+}
+
+cWaypoint BossWaypoint052
+{
+	Location = "-20.30,0.01,-19.15"
+	Name = "BossWaypoint052"
+	Type = "1"
+}
+
+

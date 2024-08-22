@@ -1,0 +1,113 @@
+cWaypoint Start
+{
+	Location = "0.0,0.0,0.0"
+	Type = "0"
+}
+
+cWaypoint Destination
+{
+	Location = "0.0,0.0,0.0"
+	Type = "0"
+}
+
+cWaypoint SURV002
+{
+	ConnectedWaypoint1 = "SURV009"
+	Location = "1.55,0.02,-10.23"
+	Name = "SURV002"
+	Type = "0"
+}
+
+cWaypoint SURV003
+{
+	ConnectedWaypoint1 = "SURV008"
+	Location = "4.05,0.02,-10.43"
+	Name = "SURV003"
+	Type = "0"
+}
+
+cWaypoint SURV004
+{
+	ConnectedWaypoint1 = "SURV007"
+	Location = "6.38,0.03,-10.05"
+	Name = "SURV004"
+	Type = "0"
+}
+
+cWaypoint SURV005
+{
+	ConnectedWaypoint1 = "SURV006"
+	Location = "8.76,0.03,-9.90"
+	Name = "SURV005"
+	Type = "0"
+}
+
+cWaypoint SURV006
+{
+	ConnectedWaypoint1 = "SURV013"
+	ConnectedWaypoint2 = "SURV005"
+	Location = "9.00,2.03,-12.02"
+	Name = "SURV006"
+	Type = "0"
+}
+
+cWaypoint SURV007
+{
+	ConnectedWaypoint1 = "SURV012"
+	ConnectedWaypoint2 = "SURV004"
+	Location = "6.50,1.26,-12.13"
+	Name = "SURV007"
+	Type = "0"
+}
+
+cWaypoint SURV008
+{
+	ConnectedWaypoint1 = "SURV003"
+	ConnectedWaypoint2 = "SURV011"
+	Location = "3.83,0.72,-11.99"
+	Name = "SURV008"
+	Type = "0"
+}
+
+cWaypoint SURV009
+{
+	ConnectedWaypoint1 = "SURV010"
+	ConnectedWaypoint2 = "SURV002"
+	Location = "1.40,0.43,-11.98"
+	Name = "SURV009"
+	Type = "0"
+}
+
+cWaypoint SURV010
+{
+	ConnectedWaypoint1 = "SURV009"
+	Location = "1.29,0.03,-13.48"
+	Name = "SURV010"
+	Type = "0"
+}
+
+cWaypoint SURV011
+{
+	ConnectedWaypoint1 = "SURV008"
+	Location = "3.91,0.03,-13.59"
+	Name = "SURV011"
+	Type = "0"
+}
+
+cWaypoint SURV012
+{
+	ConnectedWaypoint1 = "SURV007"
+	Location = "6.19,0.03,-13.75"
+	Name = "SURV012"
+	Type = "0"
+}
+
+cWaypoint SURV013
+{
+	ConnectedWaypoint1 = "SURV006"
+	Location = "8.59,0.03,-13.67"
+	Name = "SURV013"
+	Type = "0"
+}
+
+

@@ -1,0 +1,7 @@
+CroupierStick
+DrinkCart
+HandGun
+HunkOfMeat
+RebeccaRope
+Shotgun
+WheelChair

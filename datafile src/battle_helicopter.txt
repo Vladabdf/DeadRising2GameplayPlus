@@ -1,0 +1,209 @@
+cItemPlacement boss_helicopter
+{
+	ItemName = "boss_helicopter"
+	Location = "0.0, 0.0, 0.0"
+}
+
+cItemPlacement HelicopterMiniGun
+{
+	DisablePhysicsOnInitialPlacement = "true"
+	ItemName = "HelicopterMiniGun"
+	Location = "0,0,0"
+	Rotation = "0,0,0,1"
+}
+
+cItemPlacement GetawayHelicopter
+{
+	DisablePhysicsOnInitialPlacement = "true"
+	ItemName = "GetawayHelicopter"
+	Location = "0,0,0"
+	Rotation = "0,0,0,1"
+}
+
+cBossNode HelicopterBattleSpace
+{
+	Boss = "boss_helicopter"
+	Location = "-140.5, 72.0, 93.5"
+	Name = "HelicopterBattleSpace"
+	Rotation = "0, 2.0944, 0"
+	Type = "8"
+}
+
+cBossNode HelicopterPlayerStart1
+{
+	Boss = "boss_helicopter"
+	Location = "-135.7, 71.6, 53.8"
+	Name = "HelicopterPlayerStart1"
+	Rotation = "0, -2.645, 0"
+	Type = "9"
+}
+
+cBossNode HelicopterPlayerStart2
+{
+	Boss = "boss_helicopter"
+	Location = "-37.5, 71.6, 55.3"
+	Name = "HelicopterPlayerStart2"
+	Rotation = "0, -2.487, 0"
+	Type = "9"
+}
+
+cBossNode Enemy1
+{
+	Location = "16.7, -1.18, 23.3"
+	Name = "Enemy1"
+	Rotation = "0, -4.8389, 0"
+	SubID = "1"
+	Type = "5"
+}
+
+cTriggerVolume HelicopterBattleWinch
+{
+	ActionType = "54"
+	DisplayName = "50885"
+	Height = "2.0"
+	InteractButton = "true"
+	InteractionIconOffset = "0, 0.5, 0"
+	InteractionRadius = "2.0"
+	ItemName = "Winch"
+	Location = "-136.7, 72.14, 41.4"
+	Radius = "6.0"
+	Rotation = "0,0,0,1"
+	Vertex1 = "-1,0,1"
+	Vertex2 = "1,0,1"
+	Vertex3 = "1,0,-1"
+	Vertex4 = "-1,0,-1"
+}
+
+cMarkedZone HelicopterAttack_Patrol
+{
+	Boss = "boss_helicopter"
+	Height = "10.0"
+	Name = "HelicopterAttack_Patrol"
+	Point0 = "0.0,-1.0,0.0"
+	Point1 = "0.0,-1.0,33.0"
+	Point2 = "25.0,-1.0,33.0"
+	Point3 = "25.0,-1.0,0.0"
+	Type = "0"
+}
+
+cMarkedZone HelicopterAttack_A0
+{
+	Boss = "boss_helicopter"
+	Height = "10.0"
+	Name = "HelicopterAttack_A0"
+	Point0 = "40.0,-1.0,28.0"
+	Point1 = "40.0,-1.0,20.0"
+	Point2 = "48.0,-1.0,20.0"
+	Point3 = "48.0,-1.0,28.0"
+	Type = "1"
+}
+
+cMarkedZone HelicopterAttack_A1
+{
+	Boss = "boss_helicopter"
+	Height = "10.0"
+	Name = "HelicopterAttack_A1"
+	Point0 = "51.0,-1.0,22.0"
+	Point1 = "42.0,-1.0,22.0"
+	Point2 = "42.0,-1.0,16.0"
+	Point3 = "51.0,-1.0,16.0"
+	Type = "2"
+}
+
+cMarkedZone HelicopterAttack_A2
+{
+	Boss = "boss_helicopter"
+	Height = "10.0"
+	Name = "HelicopterAttack_A2"
+	Point0 = "32.0,-1.0,11.0"
+	Point1 = "36.0,-1.0,17.0"
+	Point2 = "50.0,-1.0,17.0"
+	Point3 = "50.0,-1.0,11.0"
+	Type = "3"
+}
+
+cMarkedZone HelicopterAttack_A3
+{
+	Boss = "boss_helicopter"
+	Height = "10.0"
+	Name = "HelicopterAttack_A3"
+	Point0 = "46.0,-1.0,15.0"
+	Point1 = "46.0,-1.0,22.0"
+	Point2 = "34.0,-1.0,24.0"
+	Point3 = "34.0,-1.0,15.0"
+	Type = "4"
+}
+
+cMarkedZone HelicopterAttack_A4
+{
+	Boss = "boss_helicopter"
+	Height = "10.0"
+	Name = "HelicopterAttack_A4"
+	Point0 = "52.300,-1.0,21.100"
+	Point1 = "50.130,-1.000,31.760"
+	Point2 = "37.210,-1.000,34.240"
+	Point3 = "37.240,-1.000,25.800"
+	Type = "5"
+}
+
+cMarkedZone HelicopterAttack_B0
+{
+	Boss = "boss_helicopter"
+	Height = "10.0"
+	Name = "HelicopterAttack_B0"
+	Point0 = "38.0,-1.0,28.0"
+	Point1 = "38.0,-1.0,16.0"
+	Point2 = "48.0,-1.0,16.0"
+	Point3 = "48.0,-1.0,28.0"
+	Type = "6"
+}
+
+cMarkedZone HelicopterAttack_B1
+{
+	Boss = "boss_helicopter"
+	Height = "10.0"
+	Name = "HelicopterAttack_B1"
+	Point0 = "45.0,-1.0,20.0"
+	Point1 = "38.0,-1.0,20.0"
+	Point2 = "38.0,-1.0,15.0"
+	Point3 = "45.0,-1.0,15.0"
+	Type = "7"
+}
+
+cMarkedZone HelicopterAttack_B2
+{
+	Boss = "boss_helicopter"
+	Height = "10.0"
+	Name = "HelicopterAttack_B2"
+	Point0 = "30.0,-1.0,18.0"
+	Point1 = "30.0,-1.0,31.0"
+	Point2 = "36.0,-1.0,31.0"
+	Point3 = "41.0,-1.0,18.0"
+	Type = "8"
+}
+
+cMarkedZone HelicopterAttack_B3
+{
+	Boss = "boss_helicopter"
+	Height = "10.0"
+	Name = "HelicopterAttack_B3"
+	Point0 = "36.0,-1.0,21.0"
+	Point1 = "26.0,-1.0,14.0"
+	Point2 = "52.5,-1.0,13.0"
+	Point3 = "50.0,-1.0,20.0"
+	Type = "9"
+}
+
+cMarkedZone HelicopterAttack_B4
+{
+	Boss = "boss_helicopter"
+	Height = "10.0"
+	Name = "HelicopterAttack_B4"
+	Point0 = "36.200,-1.000,34.360"
+	Point1 = "39.000,-1.0,18.200"
+	Point2 = "49.640,-1.000,15.700"
+	Point3 = "50.910,-1.000,32.160"
+	Type = "10"
+}
+
+

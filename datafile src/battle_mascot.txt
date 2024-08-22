@@ -1,0 +1,944 @@
+cItemPlacement Mascot
+{
+	ItemName = "boss_mascot"
+	Location = "253.38,6.93,-182.96"
+	Rotation = "0.000,2.846,0.000,1.000"
+}
+
+cItemPlacement MascotFlameThrowerRight
+{
+	DisablePhysicsOnInitialPlacement = "true"
+	ItemName = "MascotFlameThrowerRight"
+	Location = "159.804,-0.5,-91.885"
+	Rotation = "0,0,0,1"
+}
+
+cItemPlacement MascotFlameThrowerLeft
+{
+	DisablePhysicsOnInitialPlacement = "true"
+	ItemName = "MascotFlameThrowerLeft"
+	Location = "159.767,-0.5,-91.794"
+	Rotation = "0.000,2.846,0.000,1.000"
+}
+
+cItemPlacement MascotMurderballLauncher
+{
+	DisablePhysicsOnInitialPlacement = "true"
+	ItemName = "MascotMurderballLauncher"
+	Location = "159.872,-0.5,-91.709"
+	Rotation = "0,0,0,1"
+}
+
+cItemPlacement MascotMaskWeapon
+{
+	DisablePhysicsOnInitialPlacement = "false"
+	ItemName = "MascotMaskWeapon"
+	Location = "159.844,-0.5,-91.790"
+	Rotation = "0,0,0,1"
+}
+
+cItemPlacement MascotMaskOnPlayer
+{
+	DisablePhysicsOnInitialPlacement = "false"
+	ItemName = "MascotMaskHat"
+	Location = "159.844,-0.5,-91.790"
+	Rotation = "0,0,0,1"
+}
+
+cItemPlacement MascotSpitballGunPreload
+{
+	DisablePhysicsOnInitialPlacement = "false"
+	ItemName = "SpitballGun"
+	Location = "159.844,-0.5,-91.790"
+	Rotation = "0,0,0,1"
+}
+
+cItemPlacement MascotWaterGunPreload
+{
+	DisablePhysicsOnInitialPlacement = "false"
+	ItemName = "WaterGun"
+	Location = "159.844,-0.5,-91.790"
+	Rotation = "0,0,0,1"
+}
+
+cBossNode MascotPlayerStart
+{
+	Boss = "boss_mascot"
+	Location = "262.9, 6.93, -164.0"
+	Name = "MascotPlayerStart"
+	Rotation = "0, -0.74, 0"
+	Type = "9"
+}
+
+cBossNode MascotLevelInfo
+{
+	Boss = "boss_mascot"
+	Location = "0,6.94,0"
+	Name = "MascotLevelInfo"
+	Radius = "1.0"
+	TargetLocation = "0,-0.5,0"
+	Type = "11"
+}
+
+cBossNode MascotJumpDown0
+{
+	Boss = "boss_mascot"
+	Location = "120.393,6.94,-73.322"
+	Name = "MascotJumpDown0"
+	TargetLocation = "125.745,-0.500,-52.209"
+	Type = "14"
+}
+
+cBossNode MascotJumpDown1
+{
+	Boss = "boss_mascot"
+	Location = "145.864,6.927,-46.904"
+	Name = "MascotJumpDown1"
+	TargetLocation = "122.331,-0.500,-55.558"
+	Type = "14"
+}
+
+cBossNode MascotJumpDown2
+{
+	Boss = "boss_mascot"
+	Location = "168.799,6.940,-83.406"
+	Name = "MascotJumpDown2"
+	TargetLocation = "163.190,-0.500,-93.634"
+	Type = "14"
+}
+
+cBossNode MascotJumpDown3
+{
+	Boss = "boss_mascot"
+	Location = "155.007,6.940,-94.624"
+	Name = "MascotJumpDown3"
+	TargetLocation = "166.519,-0.500,-90.372"
+	Type = "14"
+}
+
+cBossNode MascotJumpDown4
+{
+	Boss = "boss_mascot"
+	Location = "229.738,6.928,-144.340"
+	Name = "MascotJumpDown4"
+	TargetLocation = "206.947,-0.500,-121.757"
+	Type = "14"
+}
+
+cBossNode MascotJumpDown5
+{
+	Boss = "boss_mascot"
+	Location = "205.904,6.940,-152.500"
+	Name = "MascotJumpDown5"
+	TargetLocation = "192.251,-0.500,-138.777"
+	Type = "14"
+}
+
+cBossNode MascotJumpDown6
+{
+	Boss = "boss_mascot"
+	Location = "223.781,6.940,-172.186"
+	Name = "MascotJumpDown6"
+	TargetLocation = "238.363,-0.500,-171.102"
+	Type = "14"
+}
+
+cBossNode MascotJumpDown7
+{
+	Boss = "boss_mascot"
+	Location = "156.0,6.94,-106.8"
+	Name = "MascotJumpDown7"
+	TargetLocation = "164.8,-0.5,-114.6"
+	Type = "14"
+}
+
+cBossNode MascotJumpDown8
+{
+	Boss = "boss_mascot"
+	Location = "188.980,6.940,-148.947"
+	Name = "MascotJumpDown8"
+	TargetLocation = "207.365,-0.500,-137.103"
+	Type = "14"
+}
+
+cBossNode MascotJumpDown9
+{
+	Boss = "boss_mascot"
+	Location = "222.7,6.94,-162.8"
+	Name = "MascotJumpDown9"
+	TargetLocation = "238.566,-0.500,-171.363"
+	Type = "14"
+}
+
+cBossNode MascotJumpDown10
+{
+	Boss = "boss_mascot"
+	Location = "241.196,6.940,-150.947"
+	Name = "MascotJumpDown10"
+	TargetLocation = "236.933,-0.500,-170.116"
+	Type = "14"
+}
+
+cBossNode MascotJumpDown11
+{
+	Boss = "boss_mascot"
+	Location = "224.9,6.94,-129.7"
+	Name = "MascotJumpDown11"
+	TargetLocation = "213.4,-0.5,-117.2"
+	Type = "14"
+}
+
+cBossNode MascotJumpDown14
+{
+	Boss = "boss_mascot"
+	Location = "218.566,6.94,-112.811"
+	Name = "MascotJumpDown14"
+	TargetLocation = "207.823,-0.500,-136.334"
+	Type = "14"
+}
+
+cBossNode MascotJumpDown15
+{
+	Boss = "boss_mascot"
+	Location = "245.3,6.94,-188.0"
+	Name = "MascotJumpDown15"
+	TargetLocation = "233.4,-0.5,-170.3"
+	Type = "14"
+}
+
+cBossNode MascotJumpDown16
+{
+	Boss = "boss_mascot"
+	Location = "148.5,6.94,-63.1"
+	Name = "MascotJumpDown16"
+	TargetLocation = "130.0,-0.5,-48.6"
+	Type = "14"
+}
+
+cBossNode MascotJumpDown17
+{
+	Boss = "boss_mascot"
+	Location = "135.1,6.94,-74.7"
+	Name = "MascotJumpDown17"
+	TargetLocation = "119.0,-0.5,-57.5"
+	Type = "14"
+}
+
+cPatrolPath MascotStairs0
+{
+	Boss = "boss_mascot"
+	Name = "MascotStairs0"
+	NumPoints = "2"
+	Point0 = "121.44,-0.4,-60.3"
+	Point1 = "133.55,6.94,-72.4"
+	Radius = "1.0"
+	Type = "3"
+}
+
+cPatrolPath MascotStairs1
+{
+	Boss = "boss_mascot"
+	Name = "MascotStairs1"
+	NumPoints = "2"
+	Point0 = "133.8,-0.4,-47.2"
+	Point1 = "145.95,6.94,-59.4"
+	Radius = "1.0"
+	Type = "3"
+}
+
+cPatrolPath MascotStairs2
+{
+	Boss = "boss_mascot"
+	Name = "MascotStairs2"
+	NumPoints = "2"
+	Point0 = "240.2,-0.4,-167.5"
+	Point1 = "258.0,6.94,-167.65"
+	Radius = "1.0"
+	Type = "3"
+}
+
+cPatrolPath MascotPath0a
+{
+	Boss = "boss_mascot"
+	Cycle = "true"
+	EnableShooting = "true"
+	Name = "MascotPath0a"
+	NumPoints = "4"
+	Point0 = "233.9,6.940,-152.95"
+	Point1 = "229.3,6.940,-147.95"
+	Point2 = "219.6,6.940,-156.55"
+	Point3 = "224.9,6.940,-161.9"
+	Radius = "1.0"
+	Type = "0"
+}
+
+cPatrolPath MascotPath0
+{
+	Boss = "boss_mascot"
+	Name = "MascotPath0"
+	NumPoints = "2"
+	Point0 = "137.116,6.940,-76.585"
+	Point1 = "122.348,6.940,-76.643"
+	Radius = "1.0"
+	Type = "0"
+}
+
+cPatrolPath MascotPath1
+{
+	Boss = "boss_mascot"
+	Name = "MascotPath1"
+	NumPoints = "2"
+	Point0 = "121.659,6.940,-74.818"
+	Point1 = "111.636,6.940,-65.776"
+	Radius = "1.0"
+	Type = "0"
+}
+
+cPatrolPath MascotPath2
+{
+	Boss = "boss_mascot"
+	Name = "MascotPath2"
+	NumPoints = "3"
+	Point0 = "146.5,6.94,-87.0"
+	Point1 = "156.03,6.94,-96.8"
+	Point2 = "155.4,6.94,-116.6"
+	Radius = "1.0"
+	Type = "0"
+}
+
+cPatrolPath MascotPath3
+{
+	Boss = "boss_mascot"
+	Name = "MascotPath3"
+	NumPoints = "2"
+	Point0 = "175.124,6.940,-135.456"
+	Point1 = "162.037,6.940,-122.888"
+	Radius = "1.0"
+	Type = "0"
+}
+
+cPatrolPath MascotPath4
+{
+	Boss = "boss_mascot"
+	Name = "MascotPath4"
+	NumPoints = "2"
+	Point0 = "180.650,6.940,-141.727"
+	Point1 = "192.884,6.940,-153.959"
+	Radius = "1.0"
+	Type = "0"
+}
+
+cPatrolPath MascotPath5
+{
+	Boss = "boss_mascot"
+	Name = "MascotPath5"
+	NumPoints = "2"
+	Point0 = "195.789,6.940,-153.699"
+	Point1 = "215.403,6.940,-153.806"
+	Radius = "1.0"
+	Type = "0"
+}
+
+cPatrolPath MascotPath6
+{
+	Boss = "boss_mascot"
+	Name = "MascotPath6"
+	NumPoints = "2"
+	Point0 = "221.431,6.940,-174.967"
+	Point1 = "236.387,6.940,-190.902"
+	Radius = "1.0"
+	Type = "0"
+}
+
+cPatrolPath MascotPath7
+{
+	Boss = "boss_mascot"
+	Name = "MascotPath7"
+	NumPoints = "2"
+	Point0 = "246.438,6.940,-188.853"
+	Point1 = "263.852,6.940,-172.568"
+	Radius = "1.0"
+	Type = "0"
+}
+
+cPatrolPath MascotPath8
+{
+	Boss = "boss_mascot"
+	Name = "MascotPath8"
+	NumPoints = "2"
+	Point0 = "261.706,6.940,-176.540"
+	Point1 = "261.576,6.940,-159.827"
+	Radius = "1.0"
+	Type = "0"
+}
+
+cPatrolPath MascotPath9
+{
+	Boss = "boss_mascot"
+	Name = "MascotPath9"
+	NumPoints = "2"
+	Point0 = "261.5,6.94,-163.8"
+	Point1 = "248.7,6.94,-151.6"
+	Radius = "1.0"
+	Type = "0"
+}
+
+cPatrolPath MascotPath10
+{
+	Boss = "boss_mascot"
+	Name = "MascotPath10"
+	NumPoints = "2"
+	Point0 = "252.513,6.940,-150.877"
+	Point1 = "234.072,6.940,-151.284"
+	Radius = "1.0"
+	Type = "0"
+}
+
+cPatrolPath MascotPath11
+{
+	Boss = "boss_mascot"
+	Name = "MascotPath11"
+	NumPoints = "2"
+	Point0 = "226.4,6.94,-143.9"
+	Point1 = "225.0,6.94,-116.6"
+	Radius = "1.0"
+	Type = "0"
+}
+
+cPatrolPath MascotPath12
+{
+	Boss = "boss_mascot"
+	Name = "MascotPath12"
+	NumPoints = "2"
+	Point0 = "222.271,6.940,-116.367"
+	Point1 = "202.391,6.940,-96.965"
+	Radius = "1.0"
+	Type = "0"
+}
+
+cPatrolPath MascotPath13
+{
+	Boss = "boss_mascot"
+	Name = "MascotPath13"
+	NumPoints = "3"
+	Point0 = "188.292,6.940,-84.046"
+	Point1 = "168.2,6.94,-83.6"
+	Point2 = "153.207,6.940,-69.167"
+	Radius = "1.0"
+	Type = "0"
+}
+
+cPatrolPath MascotPath14
+{
+	Boss = "boss_mascot"
+	Name = "MascotPath14"
+	NumPoints = "2"
+	Point0 = "150.3,6.94,-67.0"
+	Point1 = "149.5,6.94,-50.47"
+	Radius = "1.0"
+	Type = "0"
+}
+
+cPatrolPath MascotPath15
+{
+	Boss = "boss_mascot"
+	Name = "MascotPath15"
+	NumPoints = "2"
+	Point0 = "150.6,6.94,-50.8"
+	Point1 = "136.6,6.94,-38.0"
+	Radius = "1.0"
+	Type = "0"
+}
+
+cPatrolPath MascotPath16
+{
+	Boss = "boss_mascot"
+	Name = "MascotPath16"
+	NumPoints = "2"
+	Point0 = "130.8,6.94,-36.9"
+	Point1 = "111.9,6.94,-53.7"
+	Radius = "1.0"
+	Type = "0"
+}
+
+cPatrolPath MascotPath17
+{
+	Boss = "boss_mascot"
+	Name = "MascotPath17"
+	NumPoints = "2"
+	Point0 = "113.6,6.94,-65.8"
+	Point1 = "111.9,6.94,-53.7"
+	Radius = "1.0"
+	Type = "0"
+}
+
+cPatrolPath MascotPath18
+{
+	Boss = "boss_mascot"
+	Name = "MascotPath18"
+	NumPoints = "2"
+	Point0 = "125.6,6.94,-11.1"
+	Point1 = "138.9,6.94,-11.4"
+	Radius = "1.0"
+	Type = "0"
+}
+
+cPatrolPath MascotPath19
+{
+	Boss = "boss_mascot"
+	Name = "MascotPath19"
+	NumPoints = "2"
+	Point0 = "149.670,6.940,-61.128"
+	Point1 = "135.975,6.940,-75.501"
+	Radius = "1.0"
+	Type = "0"
+}
+
+
+cPatrolPath MascotLOSPath1
+{
+	ActivatePoint = "143.7,-0.5,-42.7"
+	Boss = "boss_mascot"
+	Name = "MascotLOSPath1"
+	NumPoints = "2"
+	Point0 = "124.13,6.94,-72.97"
+	Point1 = "116.0,6.94,-64.66"
+	Radius = "1.0"
+	Type = "2"
+	UseActivatePoint = "true"
+}
+
+cPatrolPath MascotLOSPath2
+{
+	ActivatePoint = "111.6,-0.5,-69.3"
+	Boss = "boss_mascot"
+	Name = "MascotLOSPath2"
+	NumPoints = "2"
+	Point0 = "145.2,6.94,-51.9"
+	Point1 = "137.26,6.94,-43.82"
+	Radius = "1.0"
+	Type = "2"
+	UseActivatePoint = "true"
+}
+
+cPatrolPath MascotLOSPath3
+{
+	ActivatePoint = "154.8,-0.5,-83.1"
+	Boss = "boss_mascot"
+	Name = "MascotLOSPath3"
+	NumPoints = "2"
+	Point0 = "147.35,6.94,-69.2"
+	Point1 = "142.1,6.94,-74.5"
+	Radius = "1.0"
+	Type = "2"
+	UseActivatePoint = "true"
+}
+
+cPatrolPath MascotLOSPath4
+{
+	ActivatePoint = "113.2,-0.5,-40.66"
+	Boss = "boss_mascot"
+	Name = "MascotLOSPath4"
+	NumPoints = "2"
+	Point0 = "136.3,6.94,-70.66"
+	Point1 = "142.6,6.94,-63.8"
+	Radius = "1.0"
+	Type = "2"
+	UseActivatePoint = "true"
+}
+
+cPatrolPath MascotLOSPath5
+{
+	ActivatePoint = "188.9,1.46,-86.4"
+	Boss = "boss_mascot"
+	Name = "MascotLOSPath5"
+	NumPoints = "2"
+	Point0 = "158.4,6.94,-111.6"
+	Point1 = "158.5,6.94,-94.4"
+	Radius = "1.0"
+	Type = "2"
+	UseActivatePoint = "true"
+}
+
+cPatrolPath MascotLOSPath6
+{
+	ActivatePoint = "161.9,1.46,-110.8"
+	Boss = "boss_mascot"
+	Name = "MascotLOSPath6"
+	NumPoints = "2"
+	Point0 = "168.2,6.94,-86.1"
+	Point1 = "184.2,6.94,-86.1"
+	Radius = "1.0"
+	Type = "2"
+	UseActivatePoint = "true"
+}
+
+cPatrolPath MascotLowPath0
+{
+	Boss = "boss_mascot"
+	EnableShooting = "true"
+	Name = "MascotLowPath0"
+	NumPoints = "2"
+	Point0 = "132.5,-0.5,-47.3"
+	Point1 = "117.7,-0.5,-59.1"
+	Radius = "1.0"
+	Type = "1"
+}
+
+cPatrolPath MascotLowPath1
+{
+	Boss = "boss_mascot"
+	EnableShooting = "true"
+	Name = "MascotLowPath1"
+	NumPoints = "3"
+	Point0 = "148.6,-0.5,-51.9"
+	Point1 = "149.2,-0.5,-67.1"
+	Point2 = "155.9,-0.5,-74.2"
+	Radius = "1.0"
+	Type = "1"
+}
+
+cPatrolPath MascotLowPath2
+{
+	Boss = "boss_mascot"
+	Cycle = "true"
+	EnableShooting = "true"
+	Name = "MascotLowPath2"
+	NumPoints = "4"
+	Point0 = "164.7,-0.5,-82.6"
+	Point1 = "154.861,-0.500,-91.994"
+	Point2 = "137.679,-0.500,-74.690"
+	Point3 = "146.992,-0.500,-65.313"
+	Radius = "1.0"
+	Type = "1"
+}
+
+cPatrolPath MascotLowPath2a
+{
+	Boss = "boss_mascot"
+	Cycle = "true"
+	EnableShooting = "true"
+	Name = "MascotLowPath2a"
+	NumPoints = "4"
+	Point0 = "222.209,-0.500,-141.009"
+	Point1 = "233.694,-0.500,-153.460"
+	Point2 = "226.008,-0.500,-161.370"
+	Point3 = "213.315,-0.500,-150.409"
+	Radius = "1.0"
+	Type = "1"
+}
+
+cPatrolPath GrottoPatrol
+{
+	Boss = "boss_mascot"
+	Cycle = "true"
+	Name = "GrottoPatrol"
+	NumPoints = "4"
+	Point0 = "206.935,-0.5,-121.332"
+	Point1 = "195.030,-0.5,-136.141"
+	Point2 = "169.729,-0.5,-112.583"
+	Point3 = "180.613,-0.5,-96.188"
+	Radius = "1.0"
+	Type = "4"
+}
+
+cPatrolPath MascotLowPath4
+{
+	Boss = "boss_mascot"
+	EnableShooting = "true"
+	Name = "MascotLowPath4"
+	NumPoints = "2"
+	Point0 = "112.523,-0.500,-63.036"
+	Point1 = "124.6,-0.5,-75.3"
+	Radius = "1.0"
+	Type = "1"
+}
+
+cPatrolPath MascotLowPath4a
+{
+	Boss = "boss_mascot"
+	EnableShooting = "true"
+	Name = "MascotLowPath4a"
+	NumPoints = "2"
+	Point0 = "135.7,-0.5,-75.0"
+	Point1 = "124.6,-0.5,-75.3"
+	Radius = "1.0"
+	Type = "1"
+}
+
+cPatrolPath MascotLowPath5
+{
+	Boss = "boss_mascot"
+	EnableShooting = "true"
+	Name = "MascotLowPath5"
+	NumPoints = "2"
+	Point0 = "149.939,-0.5,-53.016"
+	Point1 = "137.796,-0.500,-41.302"
+	Radius = "1.0"
+	Type = "1"
+}
+
+cPatrolPath MascotLowPath9
+{
+	Boss = "boss_mascot"
+	EnableShooting = "true"
+	Name = "MascotLowPath9"
+	NumPoints = "2"
+	Point0 = "168.225,-0.500,-84.515"
+	Point1 = "187.282,-0.500,-84.630"
+	Radius = "1.0"
+	Type = "1"
+}
+
+cPatrolPath MascotLowPath10
+{
+	Boss = "boss_mascot"
+	EnableShooting = "true"
+	Name = "MascotLowPath10"
+	NumPoints = "2"
+	Point0 = "188.662,-0.500,-84.335"
+	Point1 = "201.471,-0.500,-96.907"
+	Radius = "1.0"
+	Type = "1"
+}
+
+cPatrolPath MascotLowPath11
+{
+	Boss = "boss_mascot"
+	EnableShooting = "true"
+	Name = "MascotLowPath11"
+	NumPoints = "2"
+	Point0 = "203.666,-0.500,-99.152"
+	Point1 = "218.174,-0.500,-113.480"
+	Point2 = "0.000,0.000,0.000"
+	Point3 = "0.000,0.000,0.000"
+	Radius = "1.0"
+	Type = "1"
+}
+
+cPatrolPath MascotLowPath12
+{
+	Boss = "boss_mascot"
+	EnableShooting = "true"
+	Name = "MascotLowPath12"
+	NumPoints = "3"
+	Point0 = "224.066,-0.500,-130.549"
+	Point1 = "225.588,-0.5,-142.682"
+	Point2 = "237.172,-0.580,-153.967"
+	Point3 = "0.000,0.000,0.000"
+	Radius = "1.0"
+	Type = "1"
+}
+
+cPatrolPath MascotLowPath13
+{
+	Boss = "boss_mascot"
+	EnableShooting = "true"
+	Name = "MascotLowPath13"
+	NumPoints = "2"
+	Point0 = "243.571,-0.5,-152.105"
+	Point1 = "260.374,-0.5,-166.943"
+	Point2 = "0.000,0.000,0.000"
+	Point3 = "0.000,0.000,0.000"
+	Radius = "1.0"
+	Type = "1"
+}
+
+cPatrolPath MascotLowPath14
+{
+	Boss = "boss_mascot"
+	EnableShooting = "true"
+	Name = "MascotLowPath14"
+	NumPoints = "2"
+	Point0 = "256.958,-0.5,-176.380"
+	Point1 = "244.247,-0.5,-186.643"
+	Point2 = "0.000,0.000,0.000"
+	Point3 = "0.000,0.000,0.000"
+	Radius = "1.0"
+	Type = "1"
+}
+
+cPatrolPath MascotLowPath15
+{
+	Boss = "boss_mascot"
+	EnableShooting = "true"
+	Name = "MascotLowPath15"
+	NumPoints = "4"
+	Point0 = "223.119,-0.5,-175.823"
+	Point1 = "222.861,-0.5,-163.393"
+	Point2 = "215.045,-0.5,-154.046"
+	Point3 = "202.662,-0.5,-151.225"
+	Radius = "1.0"
+	Type = "1"
+}
+
+cPatrolPath MascotLowPath16
+{
+	Boss = "boss_mascot"
+	EnableShooting = "true"
+	Name = "MascotLowPath16"
+	NumPoints = "2"
+	Point0 = "188.709,-0.500,-148.142"
+	Point1 = "180.106,-0.500,-138.450"
+	Point2 = "0.000,0.000,0.000"
+	Point3 = "0.000,0.000,0.000"
+	Radius = "1.0"
+	Type = "1"
+}
+
+cPatrolPath MascotLowPath17
+{
+	Boss = "boss_mascot"
+	EnableShooting = "true"
+	Name = "MascotLowPath17"
+	NumPoints = "2"
+	Point0 = "180.249,-0.500,-138.823"
+	Point1 = "156.565,-0.500,-115.592"
+	Point2 = "0.000,0.000,0.000"
+	Point3 = "0.000,0.000,0.000"
+	Radius = "1.0"
+	Type = "1"
+}
+
+cPatrolPath MascotLowPath18
+{
+	Boss = "boss_mascot"
+	EnableShooting = "true"
+	Name = "MascotLowPath18"
+	NumPoints = "3"
+	Point0 = "156.315,-0.5,-116.921"
+	Point1 = "156.861,-0.5,-96.616"
+	Point2 = "147.501,-0.500,-87.6"
+	Point3 = "0.000,0.000,0.000"
+	Radius = "1.0"
+	Type = "1"
+}
+
+cPatrolPath MascotLowPath19
+{
+	Boss = "boss_mascot"
+	EnableShooting = "true"
+	Name = "MascotLowPath19"
+	NumPoints = "2"
+	Point0 = "112.05,-0.5,-62.2"
+	Point1 = "98.5, -0.5,-70.0"	
+	Radius = "1.0"
+	Type = "1"
+}
+cMarkedZone GrottoZone0
+{
+	Boss = "boss_mascot"
+	Height = "10.0"
+	Name = "GrottoZone0"
+	Point0 = "170.866,-0.5,-95.204"
+	Point1 = "173.268,-0.53,-92.642"
+	Point2 = "209.938,-0.5,-129.323"
+	Point3 = "207.534,-0.5,-131.799"
+	Type = "2"
+}
+
+cMarkedZone GrottoZone1
+{
+	Boss = "boss_mascot"
+	Height = "10.0"
+	Name = "GrottoZone1"
+	Point0 = "204.251,-0.5,-135.139"
+	Point1 = "201.924,-0.5,-137.597"
+	Point2 = "165.116,-0.5,-100.642"
+	Point3 = "167.676,-0.5,-98.438"
+	Type = "2"
+}
+
+cMarkedZone GrottoZone2
+{
+	Boss = "boss_mascot"
+	Height = "10.0"
+	Name = "GrottoZone2"
+	Point0 = "174.555,-0.59,-105.758"
+	Point1 = "178.263,-0.5,-102.105"
+	Point2 = "200.723,-0.329,-124.781"
+	Point3 = "197.012,-0.328,-128.462"
+	Type = "2"
+}
+
+cMarkedZone GrottoCorrection0
+{
+	Boss = "boss_mascot"
+	Height = "10.0"
+	Name = "GrottoCorrection0"
+	Point0 = "180.510,-0.59,-101.007"
+	Point1 = "179.036,-0.59,-99.030"
+	Point2 = "184.150,-0.59,-99.671"
+	Point3 = "184.168,-0.59,-102.665"
+	Type = "2"
+}
+
+cMarkedZone GrottoCorrection1
+{
+	Boss = "boss_mascot"
+	Height = "10.0"
+	Name = "GrottoCorrection1"
+	Point0 = "174.514,-0.59,-110.894"
+	Point1 = "174.214,-0.59,-107.288"
+	Point2 = "171.559,-0.59,-107.098"
+	Point3 = "172.023,-0.59,-112.014"
+	Type = "2"
+}
+
+cMarkedZone GrottoCorrection2
+{
+	Boss = "boss_mascot"
+	Height = "10.0"
+	Name = "GrottoCorrection2"
+	Point0 = "190.850,-0.59,-130.696"
+	Point1 = "196.344,-0.5,-132.032"
+	Point2 = "196.604,-0.329,-130.599"
+	Point3 = "193.159,-0.328,-127.079"
+	Type = "2"
+}
+
+cMarkedZone GrottoCorrection3
+{
+	Boss = "boss_mascot"
+	Height = "10.0"
+	Name = "GrottoCorrection3"
+	Point0 = "201.006,-0.59,-120.570"
+	Point1 = "202.284,-0.5,-122.207"
+	Point2 = "204.633,-0.329,-124.504"
+	Point3 = "202.409,-0.328,-117.561"
+	Type = "2"
+}
+
+cMarkedZone GrottoCircleZone
+{
+	Boss = "boss_mascot"
+	CircleRadius = "15.5"
+	Height = "10.0"
+	Name = "GrottoCircleZone"
+	Point0 = "187.462,-0.600,-114.995"
+	Type = "2"
+}
+
+cMarkedZone GrottoSlideZone
+{
+	Boss = "boss_mascot"
+	CircleRadius = "5.000"
+	Height = "10.0"
+	Name = "GrottoSlideZone"
+	Point0 = "184.567,1.000,-99.997"
+	Type = "2"
+}
+
+cPatrolPath MascotPath20
+{
+	Boss = "boss_mascot"
+	EnableShooting = "false"
+	Name = "MascotPath20"
+	NumPoints = "2"
+	Point0 = "199.750,6.94,-94.574"
+	Point1 = "190.438,6.94,-85.361"
+	Radius = "1.0"
+	Type = "0"
+}
+
+

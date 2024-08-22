@@ -1,0 +1,252 @@
+bossdef boss_twingold_t1
+{
+	statedef Relent
+	{
+		min_delay = 2.0
+	}
+	statedef Taunt
+	{
+		min_delay = 2.0
+	}
+	statedef Scripted
+	{
+		min_delay = 60.0
+	}
+	statedef Clearout
+	{
+		min_delay = 1.0
+	}
+	statedef Melee
+	{
+		min_delay = 0.25
+	}
+	statedef Retreat
+	{
+		min_delay = 3.0
+	}
+	statedef Charge
+	{
+		min_delay = 5.0
+	}
+	statedef Chase
+	{
+		min_delay = 5.0
+	}
+	statedef Dodge
+	{
+		min_time  = 2.0
+		min_delay = 5.0
+	}
+	statedef MeleeBlock
+	{
+		min_time  = 2.0
+		min_delay = 5.0
+	}
+	statedef MeleeSpecial
+	{
+		min_time  = 12.0
+	}
+
+	locodef
+	{
+		name       = "Group_Idle"
+		id         = 100
+		in_speed   = 0.0
+		in_angle   = 0.0
+		out_speed  = 0.0
+		out_angle  = 0.0
+		turn_angle = 0.0
+	}
+
+	locodef
+	{
+		name       = "twinsblack_transition_run_to_idle"
+		id         = 2
+		in_speed   = 1.0
+		in_angle   = 0.0
+		out_speed  = 0.0
+		out_angle  = 0.0
+		turn_angle = 0.0
+	}
+
+	locodef
+	{
+		name       = "twinsblack_transition_idle_to_run_0"
+		id         = 3
+		in_speed   = 0.0
+		in_angle   = 0.0
+		out_speed  = 1.0
+		out_angle  = 0.0
+		turn_angle = 0.0
+	}
+
+	locodef
+	{
+		name       = "Group_Run"
+		id         = 104
+		in_speed   = 1.0
+		in_angle   = 0.0
+		out_speed  = 1.0
+		out_angle  = 0.0
+		turn_angle = 0.0
+	}
+	
+	locodef
+	{
+		name       = "twinsblack_locomotion_run_slash"
+		id         = 18
+		in_speed   = 2.0
+		in_angle   = 0.0
+		out_speed  = 2.0
+		out_angle  = 0.0
+		turn_angle = 0.0
+	}
+
+	locodef
+	{
+		name       = "twinsblack_transition_idle_to_run_90"
+		id         = 5
+		in_speed   = 0.0
+		in_angle   = 0.0
+		out_speed  = 1.0
+		out_angle  = 0.0
+		turn_angle = 90.0
+	}
+
+	locodef
+	{
+		name       = "twinsblack_transition_idle_to_run_90neg"
+		id         = 6
+		in_speed   = 0.0
+		in_angle   = 0.0
+		out_speed  = 1.0
+		out_angle  = 0.0
+		turn_angle = -90.0
+	}
+
+	locodef
+	{
+		name       = "twinsblack_transition_idle_to_run_180"
+		id         = 7
+		in_speed   = 0.0
+		in_angle   = 0.0
+		out_speed  = 1.0
+		out_angle  = 0.0
+		turn_angle = 180.0
+	}
+
+	locodef
+	{
+		name       = "twinsblack_transition_idle_to_run_180neg"
+		id         = 8
+		in_speed   = 0.0
+		in_angle   = 0.0
+		out_speed  = 1.0
+		out_angle  = 0.0
+		turn_angle = -180.0
+	}
+
+	locodef
+	{
+		name       = "twinsblack_transition_run_to_walk"
+		id         = 9
+		in_speed   = 1.0
+		in_angle   = 0.0
+		out_speed  = 0.6
+		out_angle  = 0.0
+		turn_angle = 0.0
+	}
+
+	locodef
+	{
+		name       = "twinsblack_transition_walk_to_run"
+		id         = 10
+		in_speed   = 0.6
+		in_angle   = 0.0
+		out_speed  = 1.0
+		out_angle  = 0.0
+		turn_angle = 0.0
+	}
+
+	locodef
+	{
+		name       = "Group_Idle_To_Walk"
+		id         = 101
+		in_speed   = 0.0
+		in_angle   = 0.0
+		out_speed  = 0.6
+		out_angle  = 0.0
+		turn_angle = 0.0
+	}
+
+	locodef
+	{
+		name       = "Group_Walk_To_Idle"
+		id         = 102
+		in_speed   = 0.6
+		in_angle   = 0.0
+		out_speed  = 0.0
+		out_angle  = 0.0
+		turn_angle = 0.0
+	}
+
+	locodef
+	{
+		name       = "Group_Walk"
+		id         = 103
+		in_speed   = 0.6
+		in_angle   = 0.0
+		out_speed  = 0.6
+		out_angle  = 0.0
+		turn_angle = 0.0
+	}
+
+	locodef
+	{
+		name       = "twins_locomotion_pivot_180neg"
+		id         = 14
+		in_speed   = 0.0
+		in_angle   = 0.0
+		out_speed  = 0.0
+		out_angle  = 0.0
+		turn_angle = -180.0
+		speed_warp = 1.5
+	}
+
+	locodef
+	{
+		name       = "twins_locomotion_pivot_90"
+		id         = 15
+		in_speed   = 0.0
+		in_angle   = 0.0
+		out_speed  = 0.0
+		out_angle  = 0.0
+		turn_angle = 90.0
+		speed_warp = 1.5
+	}
+
+	locodef
+	{
+		name       = "twins_locomotion_pivot_90neg"
+		id         = 16
+		in_speed   = 0.0
+		in_angle   = 0.0
+		out_speed  = 0.0
+		out_angle  = 0.0
+		turn_angle = -90.0
+		speed_warp = 1.5
+	}
+
+	locodef
+	{
+		name       = "twins_locomotion_pivot_180"
+		id         = 17
+		in_speed   = 0.0
+		in_angle   = 0.0
+		out_speed  = 0.0
+		out_angle  = 0.0
+		turn_angle = 180.0
+		speed_warp = 1.5
+	}
+	
+}

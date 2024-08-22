@@ -1,0 +1,178 @@
+cItemPlacement RCBucketDrillDispenser1
+{
+	ItemName = "HatTrickRCBucketDrillDispenser"
+	Location = "1.300,0.800,0.000"
+	Rotation = "0,0,0,1"
+}
+
+cItemPlacement player1hat
+{
+	ItemName = "Combo_RemoteControlBucketDrill1"
+	Location = "0,0,-30"
+	Rotation = "0,0,0,1"
+}
+
+cItemPlacement player2hat
+{
+	ItemName = "Combo_RemoteControlBucketDrill2"
+	Location = "0,0,-30"
+	Rotation = "0,0,0,1"
+}
+
+cItemPlacement player3hat
+{
+	ItemName = "Combo_RemoteControlBucketDrill3"
+	Location = "0,0,-30"
+	Rotation = "0,0,0,1"
+}
+
+cItemPlacement player4hat
+{
+	ItemName = "Combo_RemoteControlBucketDrill4"
+	Location = "0,0,-30"
+	Rotation = "0,0,0,1"
+}
+
+cItemPlacement dynamite
+{
+	ItemName = "HatRemoverBlue"
+	Location = "0,0,-30"
+	Rotation = "0,0,0,1"
+}
+
+cItemPlacement cage
+{
+	ItemName = "hattrick_cage"
+	Location = "0,0,0"
+	Rotation = "0,0,0,1"
+}
+
+cItemPlacement RCBucketDrillDispenser2
+{
+	ItemName = "HatTrickRCBucketDrillDispenser"
+	Location = "0.000,0.800,1.300"
+	Rotation = "0,0,0,1"
+}
+
+cItemPlacement RCBucketDrillDispenser3
+{
+	ItemName = "HatTrickRCBucketDrillDispenser"
+	Location = "-1.300,0.800,0.000"
+	Rotation = "0,0,0,1"
+}
+
+cItemPlacement RCBucketDrillDispenser4
+{
+	ItemName = "HatTrickRCBucketDrillDispenser"
+	Location = "0.000,0.800,-1.300"
+	Rotation = "0,0,0,1"
+}
+
+
+cPolygonLarge L_Arena
+{
+	Height = "50"
+	NumVertex = "8"
+	Vertex0 = "-93.630,-4.999,94.444"
+	Vertex1 = "-62.356,-4.999,130.415"
+	Vertex2 = "52.363,-4.999,128.838"
+	Vertex3 = "87.449,-4.999,97.758"
+	Vertex4 = "88.708,-4.999,-103.395"
+	Vertex5 = "56.206,-4.999,-136.869"
+	Vertex6 = "-60.088,-4.999,-138.523"
+	Vertex7 = "-93.866,-4.999,-104.083"
+}
+
+cLightContextVolume LC_Arena
+{
+	ContextFileName = "/arena_stadium.csv"
+	QuadName = "L_Arena"
+}
+
+
+cSpawnPoint Start
+{
+	CameraHeading = "-90"
+	CameraHeading1 = "0"
+	CameraHeading2 = "90"
+	CameraHeading3 = "180"
+	CameraPitch = "-15"
+	CameraPitch1 = "-15"
+	CameraPitch2 = "-15"
+	CameraPitch3 = "-15"
+	Location0 = "2,0,0"
+	Location1 = "0,0,-2"
+	Location2 = "-2,0,0"
+	Location3 = "0,0,2"
+	Rotation0 = "-1.5708"
+	Rotation1 = "0"
+	Rotation2 = "1.5708"
+	Rotation3 = "3.1416"
+}
+
+
+cZombieWarehouse Headache_warehouse
+{
+	cLineSegment zombies_04
+	{
+		Height = "2.0"
+		LineSegment = "True"
+		Location = "19.855,1.556,35.377"
+		Vertex1 = "-10.000,0,-4.500"
+		Vertex2 = "10.000,0,-4.500"
+		Vertex3 = "10.000,0,-13.500"
+		Vertex4 = "-10.000,0,-13.500"
+		Vertex5 = "17.379,-2.300,38.282"
+		Vertex6 = "22.327,6.574,38.442"
+		Vertex7 = "22.431,6.574,35.244"
+		Vertex8 = "17.483,-2.300,35.084"
+	}
+
+	cLineSegment zombies_02
+	{
+		Height = "2.0"
+		LineSegment = "True"
+		Location = "19.855,1.556,35.377"
+		Vertex1 = "-10.000,0,4.500"
+		Vertex2 = "10.000,0,4.500"
+		Vertex3 = "10.000,0,13.500"
+		Vertex4 = "-10.000,0,13.500"
+		Vertex5 = "17.379,-2.300,38.282"
+		Vertex6 = "22.327,6.574,38.442"
+		Vertex7 = "22.431,6.574,35.244"
+		Vertex8 = "17.483,-2.300,35.084"
+	}
+
+	cLineSegment zombies_03
+	{
+		Height = "2.0"
+		LineSegment = "True"
+		Location = "38.047,13.691,42.763"
+		Vertex1 = "4.000,0,-14.000"
+		Vertex2 = "10.000,0,-14.000"
+		Vertex3 = "10.000,0,13.000"
+		Vertex4 = "4.000,0,13.000"
+		Vertex5 = "19.921,1.340,40.522"
+		Vertex6 = "22.554,2.867,43.908"
+		Vertex7 = "25.080,2.867,41.944"
+		Vertex8 = "22.447,1.340,38.558"
+	}
+
+	cLineSegment zombies_01
+	{
+		Height = "2.0"
+		LineSegment = "True"
+		Location = "19.855,1.556,35.377"
+		Vertex1 = "-10.000,0,-14.000"
+		Vertex2 = "-4.0000,0,-14.000"
+		Vertex3 = "-4.000,0,13.000"
+		Vertex4 = "-10.000,0,13.000"
+		Vertex5 = "17.379,-2.300,38.282"
+		Vertex6 = "22.327,6.574,38.442"
+		Vertex7 = "22.431,6.574,35.244"
+		Vertex8 = "17.483,-2.300,35.084"
+	}
+
+}
+
+

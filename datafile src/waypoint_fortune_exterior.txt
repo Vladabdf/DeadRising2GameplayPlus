@@ -1,0 +1,4164 @@
+cTriggerVolume pawntubenorth
+{
+	Height = "2.0"
+	Location = "39.997,4.993,-160.716"
+	Rotation = "0,0,0,1"
+	Vertex1 = "-1,0,1"
+	Vertex2 = "1,0,1"
+	Vertex3 = "1,0,-1"
+	Vertex4 = "-1,0,-1"
+}
+
+cTriggerVolume pawntubesouth
+{
+	Height = "2.0"
+	Location = "-205.843,-0.525,40.140"
+	Rotation = "0.000,-0.867,0.000,0.499"
+	Vertex1 = "-1,0,1"
+	Vertex2 = "1,0,1"
+	Vertex3 = "1,0,-1"
+	Vertex4 = "-1,0,-1"
+}
+
+
+cTriggerVolume Arena0
+{
+	ActionPoint = "-390.125,-5.145,75.933"
+	ActionType = "3"
+	DisplayName = "835"
+	DontRenderSphere = "true"
+	Height = "2.0"
+	InteractButton = "true"
+	ItemName = "Arena"
+	Level = "LEVEL_ARENA_BACKSTAGE"
+	LevelSpawnPoint = "EntrySouthStrip"
+	Location = "-390.641,-4.045,76.050"
+	Radius = "3"
+	Rotation = "0,0,0,1"
+	Vertex1 = "-1,0,1"
+	Vertex2 = "1,0,1"
+	Vertex3 = "1,0,-1"
+	Vertex4 = "-1,0,-1"
+}
+
+cTriggerVolume LoadingBay
+{
+	ActionPoint = "418.4, 6.0, -155.7"
+	ActionRotation0 = "1.8"
+	ActionType = "3"
+	DontRenderSphere = "false"
+	Height = "2.0"
+	InteractButton = "false"
+	ItemName = "Loading Bay"
+	Level = "LEVEL_UNDERGROUND"
+	LevelSpawnPoint = "EntryLoadingBay"
+	Location = "182.452,-1.699,-165.521"
+	Radius = "10"
+	Rotation = "0,0,0,1"
+	Vertex1 = "-1,0,1"
+	Vertex2 = "1,0,1"
+	Vertex3 = "1,0,-1"
+	Vertex4 = "-1,0,-1"
+}
+
+cTriggerVolume AmericanaCasino2
+{
+	ActionType = "3"
+	DisplayName = "5005"
+	Height = "2.0"
+	InteractButton = "true"
+	InteractionRadius = "3"
+	ItemName = "Americana Casino"
+	Level = "LEVEL_AMERICANA_CASINO"
+	LevelSpawnPoint = "EntrySouthStrip1"
+	Location = "-298.516,-2.244,0.023"
+	Radius = "12"
+	Rotation = "0,0,0,1"
+	Vertex1 = "-1,0,1"
+	Vertex2 = "1,0,1"
+	Vertex3 = "1,0,-1"
+	Vertex4 = "-1,0,-1"
+}
+
+cTriggerVolume Hotel_Center
+{
+	ActionType = "3"
+	DisplayName = "681"
+	Height = "2.0"
+	InteractButton = "true"
+	Level = "LEVEL_SOUTH_PLAZA"
+	LevelSpawnPoint = "EntryFortunePark"
+	Location = "-131.497,-0.500,41.045"
+	Radius = "2"
+	Rotation = "0,0,0,1"
+	Vertex1 = "-1,0,1"
+	Vertex2 = "1,0,1"
+	Vertex3 = "1,0,-1"
+	Vertex4 = "-1,0,-1"
+}
+
+cTriggerVolume AtlanticaCasino1
+{
+	ActionType = "3"
+	DisplayName = "695"
+	DontRenderSphere = "false"
+	Height = "2.0"
+	InteractButton = "true"
+	IsStatic = ""
+	Level = "LEVEL_ATLANTICA_CASINO"
+	LevelSpawnPoint = "EntryFortunePark"
+	Location = "-21.099,-0.300,25.207"
+	Radius = "6"
+	Rotation = "0,0,0,1"
+	Vertex1 = "-1,0,1"
+	Vertex2 = "1,0,1"
+	Vertex3 = "1,0,-1"
+	Vertex4 = "-1,0,-1"
+}
+
+cTriggerVolume RoyalFlushPlaza1
+{
+	ActionType = "3"
+	DisplayName = "832"
+	Height = "2.0"
+	InteractButton = "true"
+	IsStatic = ""
+	Level = "LEVEL_ROYAL_FLUSH"
+	LevelSpawnPoint = "EntryFortunePark"
+	Location = "-101.165,-0.227,-35.435"
+	Radius = "4"
+	Rotation = "0,0,0,1"
+	Vertex1 = "-1,0,1"
+	Vertex2 = "1,0,1"
+	Vertex3 = "1,0,-1"
+	Vertex4 = "-1,0,-1"
+}
+
+cTriggerVolume ComboGarageLocation_Exit
+{
+	ActionType = "38"
+	DisplayName = "12617"
+	Height = "2.0"
+	InteractButton = "false"
+	Location = "88.296,2.288,-192.851"
+	Radius = "3"
+	Rotation = "0,0,0,1"
+	Vertex1 = "-1,0,1"
+	Vertex2 = "1,0,1"
+	Vertex3 = "1,0,-1"
+	Vertex4 = "-1,0,-1"
+}
+
+cTriggerVolume YucutanCasino
+{
+	ActionType = "3"
+	DisplayName = "705"
+	Height = "2.0"
+	InteractButton = "true"
+	IsStatic = ""
+	Level = "LEVEL_YUCATAN_CASINO"
+	LevelSpawnPoint = "EntryNorthStrip"
+	Location = "118.539,1.880,-192.427"
+	Radius = "6"
+	Rotation = "0,0,0,1"
+	Vertex1 = "-1,0,1"
+	Vertex2 = "1,0,1"
+	Vertex3 = "1,0,-1"
+	Vertex4 = "-1,0,-1"
+}
+
+cTriggerVolume SlotRanch
+{
+	ActionType = "3"
+	DisplayName = "10"
+	Height = "2.0"
+	InteractButton = "true"
+	InteractionRadius = "3"
+	IsStatic = ""
+	Level = "LEVEL_FOOD_BARN"
+	LevelSpawnPoint = "EntryNorthStrip"
+	Location = "-15.352,1.958,-79.139"
+	Radius = "6"
+	Rotation = "0,0,0,1"
+	Vertex1 = "-1,0,1"
+	Vertex2 = "1,0,1"
+	Vertex3 = "1,0,-1"
+	Vertex4 = "-1,0,-1"
+}
+
+cTriggerVolume AmericanaCasino1
+{
+	ActionType = "3"
+	DisplayName = "5005"
+	Height = "2.0"
+	InteractButton = "true"
+	InteractionRadius = "3"
+	ItemName = "Americana Casino"
+	Level = "LEVEL_AMERICANA_CASINO"
+	LevelSpawnPoint = "EntrySouthStrip"
+	Location = "-301.879,-2.244,3.436"
+	Radius = "12"
+	Rotation = "0,0,0,1"
+	Vertex1 = "-1,0,1"
+	Vertex2 = "1,0,1"
+	Vertex3 = "1,0,-1"
+	Vertex4 = "-1,0,-1"
+}
+
+cTriggerVolume AmericanaCasino3
+{
+	ActionType = "3"
+	DisplayName = "5005"
+	Height = "2.0"
+	InteractButton = "true"
+	InteractionRadius = "3"
+	ItemName = "Americana Casino"
+	Level = "LEVEL_AMERICANA_CASINO"
+	LevelSpawnPoint = "EntrySouthStrip2"
+	Location = "-295.015,-2.244,-3.422"
+	Radius = "12"
+	Rotation = "0,0,0,1"
+	Vertex1 = "-1,0,1"
+	Vertex2 = "1,0,1"
+	Vertex3 = "1,0,-1"
+	Vertex4 = "-1,0,-1"
+}
+
+cTriggerVolume SouthStripRoof
+{
+	ActionType = "3"
+	DisplayName = "1535"
+	Height = "2.0"
+	InteractButton = "true"
+	ItemName = "Roof"
+	Level = "LEVEL_X_FORTUNE_ROOFTOP"
+	LevelSpawnPoint = "SouthStripRoof"
+	Location = "-241.375,-3.150,-43.720"
+	Radius = "3"
+	Rotation = "0,0,0,1"
+	Vertex1 = "-1,0,1"
+	Vertex2 = "1,0,1"
+	Vertex3 = "1,0,-1"
+	Vertex4 = "-1,0,-1"
+}
+
+cTriggerVolume AtlanticaRoof
+{
+	ActionType = "3"
+	DisplayName = "1538"
+	Height = "2.0"
+	InteractButton = "true"
+	ItemName = "Atlantica Roof"
+	Level = "LEVEL_ROOFTOP_ATLANTICA"
+	LevelSpawnPoint = "AtlanticaRoof"
+	Location = "-4.954,2.105,-3.134"
+	Radius = "3"
+	Rotation = "0,0,0,1"
+	Vertex1 = "-1,0,1"
+	Vertex2 = "1,0,1"
+	Vertex3 = "1,0,-1"
+	Vertex4 = "-1,0,-1"
+}
+
+cTriggerVolume TheatreRoof
+{
+	ActionType = "3"
+	DisplayName = "1536"
+	Height = "2.0"
+	InteractButton = "true"
+	IsStatic = ""
+	Level = "LEVEL_ROOFTOP_THEATER"
+	LevelSpawnPoint = "TheatreRoof"
+	Location = "-220.128,-3.020,-17.572"
+	Radius = "4"
+	Rotation = "0,0,0,1"
+	Vertex1 = "-1,0,1"
+	Vertex2 = "1,0,1"
+	Vertex3 = "1,0,-1"
+	Vertex4 = "-1,0,-1"
+}
+
+cTriggerVolume UndergroundLadder
+{
+	ActionType = "3"
+	DisplayName = "1541"
+	Height = "2.0"
+	InteractButton = "true"
+	InteractionRadius = "2"
+	Level = "LEVEL_UNDERGROUND"
+	LevelSpawnPoint = "EntryExteriorAlley"
+	Location = "8.500,0.975,-24.623"
+	Radius = "3"
+	Rotation = "0,0,0,1"
+	Vertex1 = "-1,0,1"
+	Vertex2 = "1,0,1"
+	Vertex3 = "1,0,-1"
+	Vertex4 = "-1,0,-1"
+}
+
+cTriggerVolume Arena1
+{
+	ActionPoint = "-390.125,-5.145,75.933"
+	ActionType = "3"
+	DisplayName = "835"
+	DontRenderSphere = "true"
+	Height = "2.0"
+	InteractButton = "true"
+	ItemName = "Arena"
+	Level = "LEVEL_ARENA_BACKSTAGE"
+	LevelSpawnPoint = "EntrySouthStrip"
+	Location = "-390.367,-4.045,79.508"
+	Radius = "3"
+	Rotation = "0,0,0,1"
+	Vertex1 = "-1,0,1"
+	Vertex2 = "1,0,1"
+	Vertex3 = "1,0,-1"
+	Vertex4 = "-1,0,-1"
+}
+
+cTriggerVolume Arena4
+{
+	ActionPoint = "-390.125,-5.145,75.933"
+	ActionType = "3"
+	DisplayName = "835"
+	DontRenderSphere = "true"
+	Height = "2.0"
+	InteractButton = "true"
+	ItemName = "Arena"
+	Level = "LEVEL_ARENA_BACKSTAGE"
+	LevelSpawnPoint = "EntrySouthStrip"
+	Location = "-391.331,-4.045,72.648"
+	Radius = "3"
+	Rotation = "0,0,0,1"
+	Vertex1 = "-1,0,1"
+	Vertex2 = "1,0,1"
+	Vertex3 = "1,0,-1"
+	Vertex4 = "-1,0,-1"
+}
+
+cTriggerVolume Arena5
+{
+	ActionPoint = "-390.125,-5.145,75.933"
+	ActionType = "3"
+	DisplayName = "835"
+	DontRenderSphere = "true"
+	Height = "2.0"
+	InteractButton = "true"
+	ItemName = "Arena"
+	Level = "LEVEL_ARENA_BACKSTAGE"
+	LevelSpawnPoint = "EntrySouthStrip"
+	Location = "-392.126,-4.045,69.206"
+	Radius = "3"
+	Rotation = "0,0,0,1"
+	Vertex1 = "-1,0,1"
+	Vertex2 = "1,0,1"
+	Vertex3 = "1,0,-1"
+	Vertex4 = "-1,0,-1"
+}
+
+cTriggerVolume Arena6
+{
+	ActionPoint = "-390.125,-5.145,75.933"
+	ActionType = "3"
+	DisplayName = "835"
+	DontRenderSphere = "true"
+	Height = "2.0"
+	InteractButton = "true"
+	ItemName = "Arena"
+	Level = "LEVEL_ARENA_BACKSTAGE"
+	LevelSpawnPoint = "EntrySouthStrip"
+	Location = "-393.374,-4.045,65.546"
+	Radius = "3"
+	Rotation = "0,0,0,1"
+	Vertex1 = "-1,0,1"
+	Vertex2 = "1,0,1"
+	Vertex3 = "1,0,-1"
+	Vertex4 = "-1,0,-1"
+}
+
+cTriggerVolume Arena7
+{
+	ActionPoint = "-390.125,-5.145,75.933"
+	ActionType = "3"
+	DisplayName = "835"
+	DontRenderSphere = "true"
+	Height = "2.0"
+	InteractButton = "true"
+	ItemName = "Arena"
+	Level = "LEVEL_ARENA_BACKSTAGE"
+	LevelSpawnPoint = "EntrySouthStrip2"
+	Location = "-394.867,-4.045,61.931"
+	Radius = "3"
+	Rotation = "0,0,0,1"
+	Vertex1 = "-1,0,1"
+	Vertex2 = "1,0,1"
+	Vertex3 = "1,0,-1"
+	Vertex4 = "-1,0,-1"
+}
+
+cTriggerVolume Arena8
+{
+	ActionPoint = "-390.125,-5.145,75.933"
+	ActionType = "3"
+	DisplayName = "835"
+	DontRenderSphere = "true"
+	Height = "2.0"
+	InteractButton = "true"
+	ItemName = "Arena"
+	Level = "LEVEL_ARENA_BACKSTAGE"
+	LevelSpawnPoint = "EntrySouthStrip2"
+	Location = "-396.438,-4.045,58.823"
+	Radius = "3"
+	Rotation = "0,0,0,1"
+	Vertex1 = "-1,0,1"
+	Vertex2 = "1,0,1"
+	Vertex3 = "1,0,-1"
+	Vertex4 = "-1,0,-1"
+}
+
+cTriggerVolume Arena9
+{
+	ActionPoint = "-390.125,-5.145,75.933"
+	ActionType = "3"
+	DisplayName = "835"
+	DontRenderSphere = "true"
+	Height = "2.0"
+	InteractButton = "true"
+	ItemName = "Arena"
+	Level = "LEVEL_ARENA_BACKSTAGE"
+	LevelSpawnPoint = "EntrySouthStrip2"
+	Location = "-398.163,-4.045,55.713"
+	Radius = "3"
+	Rotation = "0,0,0,1"
+	Vertex1 = "-1,0,1"
+	Vertex2 = "1,0,1"
+	Vertex3 = "1,0,-1"
+	Vertex4 = "-1,0,-1"
+}
+
+cTriggerVolume Arena10
+{
+	ActionPoint = "-390.125,-5.145,75.933"
+	ActionType = "3"
+	DisplayName = "835"
+	DontRenderSphere = "true"
+	Height = "2.0"
+	InteractButton = "true"
+	ItemName = "Arena"
+	Level = "LEVEL_ARENA_BACKSTAGE"
+	LevelSpawnPoint = "EntrySouthStrip2"
+	Location = "-400.240,-4.045,52.943"
+	Radius = "3"
+	Rotation = "0,0,0,1"
+	Vertex1 = "-1,0,1"
+	Vertex2 = "1,0,1"
+	Vertex3 = "1,0,-1"
+	Vertex4 = "-1,0,-1"
+}
+
+cTriggerVolume EnterMovieTheatre
+{
+	ActionActorRotation = "0"
+	ActionType = "34"
+	Cooperative = "true"
+	DisplayName = "50733"
+	DontRenderSphere = "false"
+	Height = "2.0"
+	InteractButton = "true"
+	InteractionIconOffset = "0,0,0"
+	InteractionRadius = "1.5"
+	IsStatic = ""
+	Location = "-202.637,-3.048,-21.280"
+	Radius = "2"
+	Rotation = "0,0,0,1"
+	Vertex1 = "-1,0,1"
+	Vertex2 = "1,0,1"
+	Vertex3 = "1,0,-1"
+	Vertex4 = "-1,0,-1"
+}
+
+cTriggerVolume RoyalRoof
+{
+	ActionType = "3"
+	DisplayName = "1535"
+	Height = "2.0"
+	InteractButton = "true"
+	IsStatic = ""
+	ItemName = "Roof Access"
+	Level = "LEVEL_ROOFTOP_ROYAL"
+	LevelSpawnPoint = "RoyalRoof"
+	Location = "-38.158,1.957,-68.862"
+	Radius = "2"
+	Rotation = "0,0,0,1"
+	Vertex1 = "-1,0,1"
+	Vertex2 = "1,0,1"
+	Vertex3 = "1,0,-1"
+	Vertex4 = "-1,0,-1"
+}
+
+cTriggerVolume ComboGarageLocation_Enter
+{
+	ActionType = "25"
+	DisplayName = "12617"
+	Height = "2.0"
+	InteractButton = "false"
+	Location = "88.388,3.238,-201.141"
+	Radius = "2.5"
+	Rotation = "0,0,0,1"
+	Vertex1 = "-1,0,1"
+	Vertex2 = "1,0,1"
+	Vertex3 = "1,0,-1"
+	Vertex4 = "-1,0,-1"
+}
+
+cTriggerVolume Hotel_Left
+{
+	ActionType = "3"
+	DisplayName = "681"
+	Height = "2.0"
+	InteractButton = "true"
+	Level = "LEVEL_SOUTH_PLAZA"
+	LevelSpawnPoint = "EntryFortunePark"
+	Location = "-129.716,-0.500,44.119"
+	Radius = "2"
+	Rotation = "0,0,0,1"
+	Vertex1 = "-1,0,1"
+	Vertex2 = "1,0,1"
+	Vertex3 = "1,0,-1"
+	Vertex4 = "-1,0,-1"
+}
+
+cTriggerVolume Hotel_Right
+{
+	ActionType = "3"
+	DisplayName = "681"
+	Height = "2.0"
+	InteractButton = "true"
+	Level = "LEVEL_SOUTH_PLAZA"
+	LevelSpawnPoint = "EntryFortunePark"
+	Location = "-133.283,-0.500,37.954"
+	Radius = "2"
+	Rotation = "0,0,0,1"
+	Vertex1 = "-1,0,1"
+	Vertex2 = "1,0,1"
+	Vertex3 = "1,0,-1"
+	Vertex4 = "-1,0,-1"
+}
+
+cTriggerVolume RoyalFlushPlaza2
+{
+	ActionType = "3"
+	DisplayName = "832"
+	Height = "2.0"
+	InteractButton = "true"
+	IsStatic = ""
+	Level = "LEVEL_ROYAL_FLUSH"
+	LevelSpawnPoint = "EntryFortunePark"
+	Location = "-107.148,-0.257,-33.074"
+	Radius = "4"
+	Rotation = "0,0,0,1"
+	Vertex1 = "-1,0,1"
+	Vertex2 = "1,0,1"
+	Vertex3 = "1,0,-1"
+	Vertex4 = "-1,0,-1"
+}
+
+cTriggerVolume RoyalFlushPlaza3
+{
+	ActionType = "3"
+	DisplayName = "832"
+	Height = "2.0"
+	InteractButton = "true"
+	IsStatic = ""
+	Level = "LEVEL_ROYAL_FLUSH"
+	LevelSpawnPoint = "EntryFortunePark"
+	Location = "-95.188,-0.217,-37.706"
+	Radius = "4"
+	Rotation = "0,0,0,1"
+	Vertex1 = "-1,0,1"
+	Vertex2 = "1,0,1"
+	Vertex3 = "1,0,-1"
+	Vertex4 = "-1,0,-1"
+}
+
+cTriggerVolume PawnshopNorthEnter
+{
+	ActionType = "40"
+	Height = "2.0"
+	Location = "46.560,-0.092,-154.227"
+	Radius = "4.5"
+	Rotation = "0,0,0,1"
+	StartActive = "true"
+	Vertex1 = "-1,0,1"
+	Vertex2 = "1,0,1"
+	Vertex3 = "1,0,-1"
+	Vertex4 = "-1,0,-1"
+}
+
+cTriggerVolume PawnshopNorthExit
+{
+	ActionType = "41"
+	Height = "2.0"
+	Location = "55.652,1.008,-146.156"
+	Radius = "7"
+	Rotation = "0,0,0,1"
+	StartActive = "false"
+	Vertex1 = "-1,0,1"
+	Vertex2 = "1,0,1"
+	Vertex3 = "1,0,-1"
+	Vertex4 = "-1,0,-1"
+}
+
+cTriggerVolume PawnshopSouthEnter
+{
+	ActionType = "42"
+	Height = "2.0"
+	Location = "-208.067,-4.245,34.325"
+	Radius = "5"
+	Rotation = "0,0,0,1"
+	StartActive = "true"
+	Vertex1 = "-1,0,1"
+	Vertex2 = "1,0,1"
+	Vertex3 = "1,0,-1"
+	Vertex4 = "-1,0,-1"
+}
+
+cTriggerVolume PawnshopSouthExit
+{
+	ActionType = "43"
+	Height = "2.0"
+	Location = "-207.987,-4.245,22.181"
+	Radius = "5"
+	Rotation = "0,0,0,1"
+	StartActive = "false"
+	Vertex1 = "-1,0,1"
+	Vertex2 = "1,0,1"
+	Vertex3 = "1,0,-1"
+	Vertex4 = "-1,0,-1"
+}
+
+cTriggerVolume PawnshopNorthSpawn
+{
+	ActionType = "48"
+	Height = "2.0"
+	Location = "55.217,0.693,-143.839"
+	Radius = "20"
+	Rotation = "0,0,0,1"
+	Vertex1 = "-1,0,1"
+	Vertex2 = "1,0,1"
+	Vertex3 = "1,0,-1"
+	Vertex4 = "-1,0,-1"
+}
+
+cTriggerVolume PawnshopSouthSpawn
+{
+	ActionType = "49"
+	Height = "2.0"
+	Location = "-207.247,-4.245,24.081"
+	Radius = "20"
+	Rotation = "0,0,0,1"
+	Vertex1 = "-1,0,1"
+	Vertex2 = "1,0,1"
+	Vertex3 = "1,0,-1"
+	Vertex4 = "-1,0,-1"
+}
+
+cTriggerVolume YucutanCasino1
+{
+	ActionType = "3"
+	DisplayName = "705"
+	Height = "2.0"
+	InteractButton = "true"
+	Level = "LEVEL_YUCATAN_CASINO"
+	LevelSpawnPoint = "EntryNorthStrip"
+	Location = "115.880,1.880,-194.954"
+	Radius = "6"
+	Rotation = "0,0,0,1"
+	Vertex1 = "-1,0,1"
+	Vertex2 = "1,0,1"
+	Vertex3 = "1,0,-1"
+	Vertex4 = "-1,0,-1"
+}
+
+cTriggerVolume YucutanCasino2
+{
+	ActionType = "3"
+	DisplayName = "705"
+	Height = "2.0"
+	InteractButton = "true"
+	Level = "LEVEL_YUCATAN_CASINO"
+	LevelSpawnPoint = "EntryNorthStrip"
+	Location = "120.871,1.880,-189.892"
+	Radius = "6"
+	Rotation = "0,0,0,1"
+	Vertex1 = "-1,0,1"
+	Vertex2 = "1,0,1"
+	Vertex3 = "1,0,-1"
+	Vertex4 = "-1,0,-1"
+}
+
+cTriggerVolume SlotRanch1
+{
+	ActionType = "3"
+	DisplayName = "10"
+	Height = "2.0"
+	InteractButton = "true"
+	InteractionRadius = "3"
+	IsStatic = ""
+	Level = "LEVEL_FOOD_BARN"
+	LevelSpawnPoint = "EntryNorthStrip"
+	Location = "-18.467,1.966,-78.423"
+	Radius = "6"
+	Rotation = "0,0,0,1"
+	Vertex1 = "-1,0,1"
+	Vertex2 = "1,0,1"
+	Vertex3 = "1,0,-1"
+	Vertex4 = "-1,0,-1"
+}
+
+cTriggerVolume SlotRanch2
+{
+	ActionType = "3"
+	DisplayName = "10"
+	Height = "2.0"
+	InteractButton = "true"
+	InteractionRadius = "3"
+	IsStatic = ""
+	Level = "LEVEL_FOOD_BARN"
+	LevelSpawnPoint = "EntryNorthStrip"
+	Location = "-12.997,1.976,-81.530"
+	Radius = "6"
+	Rotation = "0,0,0,1"
+	Vertex1 = "-1,0,1"
+	Vertex2 = "1,0,1"
+	Vertex3 = "1,0,-1"
+	Vertex4 = "-1,0,-1"
+}
+
+cTriggerVolume SlotRanch3
+{
+	ActionType = "3"
+	DisplayName = "10"
+	Height = "2.0"
+	InteractButton = "true"
+	InteractionRadius = "3"
+	IsStatic = ""
+	Level = "LEVEL_FOOD_BARN"
+	LevelSpawnPoint = "EntryNorthStrip"
+	Location = "-12.271,1.936,-84.678"
+	Radius = "6"
+	Rotation = "0,0,0,1"
+	Vertex1 = "-1,0,1"
+	Vertex2 = "1,0,1"
+	Vertex3 = "1,0,-1"
+	Vertex4 = "-1,0,-1"
+}
+
+cTriggerVolume RoyalFlushPlaza4
+{
+	ActionType = "3"
+	DisplayName = "832"
+	Height = "2.0"
+	InteractButton = "true"
+	IsStatic = ""
+	Level = "LEVEL_ROYAL_FLUSH"
+	LevelSpawnPoint = "EntryFortunePark"
+	Location = "-104.163,-0.197,-34.251"
+	Radius = "4"
+	Rotation = "0,0,0,1"
+	Vertex1 = "-1,0,1"
+	Vertex2 = "1,0,1"
+	Vertex3 = "1,0,-1"
+	Vertex4 = "-1,0,-1"
+}
+
+cTriggerVolume RoyalFlushPlaza5
+{
+	ActionType = "3"
+	DisplayName = "832"
+	Height = "2.0"
+	InteractButton = "true"
+	IsStatic = ""
+	Level = "LEVEL_ROYAL_FLUSH"
+	LevelSpawnPoint = "EntryFortunePark"
+	Location = "-98.197,-0.237,-36.572"
+	Radius = "4"
+	Rotation = "0,0,0,1"
+	Vertex1 = "-1,0,1"
+	Vertex2 = "1,0,1"
+	Vertex3 = "1,0,-1"
+	Vertex4 = "-1,0,-1"
+}
+
+cTriggerVolume AtlanticaCasino2
+{
+	ActionType = "3"
+	DisplayName = "695"
+	DontRenderSphere = "false"
+	Height = "2.0"
+	InteractButton = "true"
+	IsStatic = ""
+	Level = "LEVEL_ATLANTICA_CASINO"
+	LevelSpawnPoint = "EntryFortunePark"
+	Location = "-21.850,-0.300,28.077"
+	Radius = "6"
+	Rotation = "0,0,0,1"
+	Vertex1 = "-1,0,1"
+	Vertex2 = "1,0,1"
+	Vertex3 = "1,0,-1"
+	Vertex4 = "-1,0,-1"
+}
+
+cTriggerVolume AtlanticaCasino3
+{
+	ActionType = "3"
+	DisplayName = "695"
+	DontRenderSphere = "false"
+	Height = "2.0"
+	InteractButton = "true"
+	IsStatic = ""
+	Level = "LEVEL_ATLANTICA_CASINO"
+	LevelSpawnPoint = "EntryFortunePark"
+	Location = "-22.627,-0.300,30.989"
+	Radius = "6"
+	Rotation = "0,0,0,1"
+	Vertex1 = "-1,0,1"
+	Vertex2 = "1,0,1"
+	Vertex3 = "1,0,-1"
+	Vertex4 = "-1,0,-1"
+}
+
+cTriggerVolume AtlanticaCasino4
+{
+	ActionType = "3"
+	DisplayName = "695"
+	DontRenderSphere = "false"
+	Height = "2.0"
+	InteractButton = "true"
+	IsStatic = ""
+	Level = "LEVEL_ATLANTICA_CASINO"
+	LevelSpawnPoint = "EntryFortunePark"
+	Location = "-23.419,-0.300,33.893"
+	Radius = "6"
+	Rotation = "0,0,0,1"
+	Vertex1 = "-1,0,1"
+	Vertex2 = "1,0,1"
+	Vertex3 = "1,0,-1"
+	Vertex4 = "-1,0,-1"
+}
+
+cTriggerVolume ProspectParkSaveTrigger
+{
+	ActionActorRotation = "0.167"
+	ActionPoint = "-79.647,-1.852,19.459"
+	ActionType = "4"
+	AnimationChooser = "0"
+	DisplayName = "55094"
+	Height = "2.0"
+	InteractButton = "true"
+	InteractionRadius = "1.5"
+	Location = "-79.677,-0.888,19.983"
+	Radius = "3"
+	Rotation = "0.000,0.259,0.000,-0.966"
+	Vertex1 = "-1,0,1"
+	Vertex2 = "1,0,1"
+	Vertex3 = "1,0,-1"
+	Vertex4 = "-1,0,-1"
+}
+
+
+cWorldLocator WorldLocator_Garage_Exitpoint
+{
+	Location = "88.715,3.193,-196.009"
+	Name = "WorldLocator_Garage_Exitpoint"
+	Orientation = "0,0,0,1"
+	Rotation = "0.000,0.000,0.000,1.000"
+	Type = "0"
+}
+
+cWorldLocator WorldLocator_Garage_Enterpoint
+{
+	Location = "89.207,2.193,-201.941"
+	Name = "WorldLocator_Garage_Enterpoint"
+	Orientation = "0,0,0,1"
+	Rotation = "2.614,-0.394,-0.683,1.498"
+	Type = "0"
+}
+
+cWorldLocator WorldLocator_Garage_Bikestand
+{
+	Location = "87.521,3.193,-202.063"
+	Name = "WorldLocator_Garage_Bikestand"
+	Orientation = "0,0,0,1"
+	Rotation = "0.000,0.000,0.000,1.000"
+	Type = "0"
+}
+
+cWorldLocator WorldLocator_Garage_Buildpoint
+{
+	Location = "89.047,2.193,-202.575"
+	Name = "WorldLocator_Garage_Buildpoint"
+	Rotation = "0.000,-2.624,0.000,1.000"
+	Type = "0"
+}
+
+cWorldLocator WorldLocator_Garage_Dropbench
+{
+	Location = "89.951,3.8,-204.850"
+	Name = "WorldLocator_Garage_Dropbench"
+	Rotation = "0.000,-1.812,0.000,1.000"
+	Type = "0"
+}
+
+
+cEnvironmentAcoustics Arena
+{
+	AcousticMedium = "0"
+	DecayHFRatio = "0.33"
+	DecayTime = "7.24"
+	Density = "100"
+	Diffusion = "100"
+	HFReference = "5000"
+	Location = ""
+	Reflections = "-1166"
+	ReflectionsDelay = "0.02"
+	Reverb = "16"
+	ReverbDelay = "0.03"
+	Room = "-2700"
+	RoomHF = "-698"
+	RoomRolloffFactor = "0.0"
+}
+
+cEnvironmentAcoustics ConcertHall
+{
+	AcousticMedium = "0"
+	DecayHFRatio = "0.70"
+	DecayTime = "3.92"
+	Density = "100"
+	Diffusion = "100"
+	HFReference = "5000"
+	Location = "-73.781,1.457,-5.801"
+	Reflections = "-1230"
+	ReflectionsDelay = "0.02"
+	Reverb = "-2"
+	ReverbDelay = "0.029"
+	Room = "-2700"
+	RoomHF = "-500"
+	RoomRolloffFactor = "0.0"
+}
+
+cEnvironmentAcoustics Room
+{
+	AcousticMedium = "0"
+	DecayHFRatio = "0.83"
+	DecayTime = "0.4"
+	Density = "100"
+	Diffusion = "100"
+	HFReference = "5000"
+	Reflections = "-1646"
+	ReflectionsDelay = "0.002"
+	Reverb = "53"
+	ReverbDelay = "0.003"
+	Room = "-1900"
+	RoomHF = "-454"
+	RoomRolloffFactor = "0"
+}
+
+cEnvironmentAcoustics CarpetedHallway
+{
+	AcousticMedium = "0"
+	DecayHFRatio = "0.1"
+	DecayTime = "0.3"
+	Density = "100"
+	Diffusion = "100"
+	HFReference = "5000"
+	Reflections = "-1831"
+	ReflectionsDelay = "0.002"
+	Reverb = "-1630"
+	ReverbDelay = "0.03"
+	Room = "-1000"
+	RoomHF = "-4000"
+	RoomRolloffFactor = "0"
+}
+
+cEnvironmentAcoustics City
+{
+	AcousticMedium = "0"
+	DecayHFRatio = "0.67"
+	DecayTime = "1.49"
+	Density = "100"
+	Diffusion = "50"
+	HFReference = "5000"
+	Location = "-73.781,1.457,-5.801"
+	Reflections = "-2273"
+	ReflectionsDelay = "0.007"
+	Reverb = "-2217"
+	ReverbDelay = "0.001"
+	Room = "-800"
+	RoomHF = "-800"
+	RoomRolloffFactor = "0.0"
+}
+
+cEnvironmentAcoustics ParkingLot
+{
+	AcousticMedium = "0"
+	DecayHFRatio = "1.5"
+	DecayTime = "1.65"
+	Density = "100"
+	Diffusion = "100"
+	HFReference = "5000"
+	Location = "-73.781,1.457,-5.801"
+	Reflections = "-1363"
+	ReflectionsDelay = "0.008"
+	Reverb = "-1153"
+	ReverbDelay = "0.012"
+	Room = "-800"
+	RoomHF = "0"
+	RoomRolloffFactor = "0.0"
+}
+
+cEnvironmentAcoustics Bathroom
+{
+	AcousticMedium = "0"
+	DecayHFRatio = "0.54"
+	DecayTime = "1.49"
+	Density = "60"
+	Diffusion = "100"
+	HFReference = "5000"
+	Location = "-73.781,1.457,-5.801"
+	Reflections = "-370"
+	ReflectionsDelay = "0.007"
+	Reverb = "1030"
+	ReverbDelay = "0.001"
+	Room = "-3000"
+	RoomHF = "-1200"
+	RoomRolloffFactor = "0.0"
+}
+
+cEnvironmentAcoustics Hallway
+{
+	AcousticMedium = "0"
+	DecayHFRatio = "0.59"
+	DecayTime = "1.49"
+	Density = "100"
+	Diffusion = "100"
+	HFReference = "5000"
+	Location = "-73.781,1.457,-5.801"
+	Reflections = "-1219"
+	ReflectionsDelay = "0.007"
+	Reverb = "441"
+	ReverbDelay = "0.011"
+	Room = "-2500"
+	RoomHF = "-300"
+	RoomRolloffFactor = "0.0"
+}
+
+cEnvironmentAcoustics Alley
+{
+	AcousticMedium = "0"
+	DecayHFRatio = "0.86"
+	DecayTime = "1.2"
+	Density = "100"
+	Diffusion = "100"
+	HFReference = "5000"
+	Location = "-73.781,1.457,-5.801"
+	Reflections = "-1204"
+	ReflectionsDelay = "0.007"
+	Reverb = "-4"
+	ReverbDelay = "0.011"
+	Room = "-2600"
+	RoomHF = "-270"
+	RoomRolloffFactor = "0"
+}
+
+cEnvironmentAcoustics Hanger
+{
+	AcousticMedium = "0"
+	DecayHFRatio = "0.23"
+	DecayTime = "10.05"
+	Density = "100"
+	Diffusion = "100"
+	HFReference = "5000"
+	Location = ""
+	Reflections = "-602"
+	ReflectionsDelay = "0.02"
+	Reverb = "198"
+	ReverbDelay = "0.03"
+	Room = "-2200"
+	RoomHF = "-1000"
+	RoomRolloffFactor = "0.0"
+}
+
+cEnvironmentAcoustics LivingRoom
+{
+	AcousticMedium = "0"
+	DecayHFRatio = "0.1"
+	DecayTime = "0.5"
+	Density = "100"
+	Diffusion = "100"
+	HFReference = "5000"
+	Location = ""
+	Reflections = "-1376"
+	ReflectionsDelay = "0.003"
+	Reverb = "-1104"
+	ReverbDelay = "0.004"
+	Room = "-1000"
+	RoomHF = "-6000"
+	RoomRolloffFactor = "0.0"
+}
+
+cEnvironmentAcoustics Auditorium
+{
+	AcousticMedium = "0"
+	DecayHFRatio = "0.59"
+	DecayTime = "4.32"
+	Density = "100"
+	Diffusion = "100"
+	HFReference = "5000"
+	Location = ""
+	Reflections = "-789"
+	ReflectionsDelay = "0.02"
+	Reverb = "-298"
+	ReverbDelay = "0.03"
+	Room = "-2500"
+	RoomHF = "-476"
+	RoomRolloffFactor = "0.0"
+}
+
+cEnvironmentAcoustics Quarry
+{
+	AcousticMedium = "0"
+	DecayHFRatio = "0.83"
+	DecayTime = "1.49"
+	Density = "100"
+	Diffusion = "100"
+	HFReference = "5000"
+	Location = ""
+	Reflections = "-10000"
+	ReflectionsDelay = "0.061"
+	Reverb = "500"
+	ReverbDelay = "0.025"
+	Room = "-3000"
+	RoomHF = "-1000"
+	RoomRolloffFactor = "0.0"
+}
+
+cEnvironmentAcoustics StoneRoom
+{
+	AcousticMedium = "0"
+	DecayHFRatio = "0.64"
+	DecayTime = "2.31"
+	Density = "100"
+	Diffusion = "100"
+	HFReference = "5000"
+	Location = ""
+	Reflections = "-711"
+	ReflectionsDelay = "0.012"
+	Reverb = "83"
+	ReverbDelay = "0.017"
+	Room = "-2000"
+	RoomHF = "-300"
+	RoomRolloffFactor = "0.0"
+}
+
+cEnvironmentAcoustics Kitchen
+{
+	AcousticMedium = "0"
+	DecayHFRatio = "0.54"
+	DecayTime = "1.49"
+	Density = "60"
+	Diffusion = "100"
+	HFReference = "5000"
+	Location = "-73.781,1.457,-5.801"
+	Reflections = "-370"
+	ReflectionsDelay = "0.007"
+	Reverb = "1030"
+	ReverbDelay = "0.001"
+	Room = "-3600"
+	RoomHF = "-1200"
+	RoomRolloffFactor = "0.0"
+}
+
+cEnvironmentAcoustics Store
+{
+	AcousticMedium = "0"
+	DecayHFRatio = "0.83"
+	DecayTime = "0.7"
+	Density = "100"
+	Diffusion = "100"
+	HFReference = "5000"
+	Location = "-73.781,1.457,-5.801"
+	Reflections = "-1163"
+	ReflectionsDelay = "0.02"
+	Reverb = "0"
+	ReverbDelay = "0.029"
+	Room = "-3000"
+	RoomHF = "-500"
+	RoomRolloffFactor = "0.0"
+}
+
+
+cAudioMaterial Concrete
+{
+	AbsorptionRatio = "0.2"
+	ImpactRatio = "0.4"
+	Location = "-14.852,1.274,3.726"
+	LowFreqRatio = "0.8"
+	ReflectionRatio = "0.4"
+}
+
+cAudioMaterial Glass
+{
+	AbsorptionRatio = "0.3"
+	ImpactRatio = "0.3"
+	Location = "-14.852,1.274,3.726"
+	LowFreqRatio = "0.5"
+	ReflectionRatio = "0.3"
+}
+
+cAudioMaterial plastic
+{
+	AbsorptionRatio = "0.4"
+	ImpactRatio = "0.4"
+	Location = "-14.852,1.274,3.726"
+	LowFreqRatio = "0.6"
+	ReflectionRatio = "0.4"
+}
+
+
+cEnvironmentVolume Park_Main1
+{
+	AcousticsName = "City"
+	Location = "-399.540,-3.639,78.928"
+	Rotation = "-0.000,0.290,0.000,0.957"
+	Scale = "73.854,29.089,25.132"
+	Translation = "-66.392,18.264,50.304"
+	VolumColor = "0"
+	VolumeType = "1"
+}
+
+cEnvironmentVolume Park_ComboRoom1
+{
+	AcousticsName = "Room"
+	Rotation = "0.000,-0.998,0.000,0.060"
+	Scale = "3.165,2.579,4.114"
+	Translation = "-123.936,1.035,-35.826"
+	VolumColor = "0"
+	VolumeType = "1"
+}
+
+cEnvironmentVolume Park_ComboRoom2
+{
+	AcousticsName = "Room"
+	Rotation = "-0.000,0.882,0.000,0.471"
+	Scale = "4.040,2.565,3.111"
+	Translation = "-33.391,1.296,63.499"
+	VolumColor = "0"
+	VolumeType = "1"
+}
+
+cEnvironmentVolume Park_HoleInWall1
+{
+	AcousticsName = "Store"
+	Rotation = "-0.000,1.000,-0.000,0.000"
+	Scale = "4.771,2.238,4.934"
+	Translation = "-12.025,0.892,-13.569"
+	VolumColor = "0"
+	VolumeType = "1"
+}
+
+cEnvironmentVolume Park_HoleInWall_Plug
+{
+	AcousticsName = "City"
+	Rotation = "-0.000,0.707,0.000,0.707"
+	Scale = "11.237,20.330,3.708"
+	Translation = "-21.974,12.821,-19.161"
+	VolumColor = "0"
+	VolumeType = "1"
+}
+
+cEnvironmentVolume Park_HoleInWall_Door
+{
+	AcousticsName = "City"
+	Rotation = "-0.000,0.708,0.000,0.706"
+	Scale = "1.653,1.669,2.581"
+	Translation = "-18.638,-0.014,-16.201"
+	VolumColor = "0"
+	VolumeType = "1"
+}
+
+cEnvironmentVolume Park_Main3
+{
+	AcousticsName = "City"
+	Rotation = "0.000,-0.998,0.000,0.060"
+	Scale = "28.207,27.835,47.209"
+	Translation = "-124.106,21.537,16.014"
+	VolumColor = "0"
+	VolumeType = "1"
+}
+
+cEnvironmentVolume Park_ComboRoom1_Door
+{
+	AcousticsName = "City"
+	DeactiveLPFRatio = "0.3"
+	DeactiveTransmitRatio = "0.3"
+	Rotation = "0.000,-0.998,0.000,0.060"
+	Scale = "1.669,1.229,0.816"
+	Translation = "-123.361,-0.355,-31.730"
+	TransmitRatio = "1"
+	VolumColor = "0"
+	VolumeType = "8"
+}
+
+cEnvironmentVolume Park_ComboRoom2_Door
+{
+	AcousticsName = "City"
+	DeactiveLPFRatio = "0.3"
+	DeactiveTransmitRatio = "0.3"
+	Rotation = "-0.000,0.882,0.000,0.471"
+	Scale = "1.375,1.402,1.691"
+	Translation = "-35.610,-0.180,60.279"
+	TransmitRatio = "1"
+	VolumColor = "0"
+	VolumeType = "8"
+}
+
+cEnvironmentVolume Bridge
+{
+	AcousticsName = "City"
+	Rotation = "-0.000,0.883,0.000,0.470"
+	Scale = "79.991,58.868,176.675"
+	Translation = "-156.888,55.994,202.854"
+	VolumColor = "0"
+	VolumeType = "1"
+}
+
+cEnvironmentVolume Park_ComboRoom3
+{
+	AcousticsName = "Room"
+	Rotation = "0.000,-0.699,-0.000,0.715"
+	Scale = "4.023,2.561,3.025"
+	Translation = "-77.011,-0.528,2.338"
+	VolumColor = "0"
+	VolumeType = "1"
+}
+
+cEnvironmentVolume Park_ComboRoom3_Plug
+{
+	AcousticsName = "City"
+	Rotation = "0.000,-1.000,0.000,0.013"
+	Scale = "15.659,17.427,7.044"
+	Translation = "-83.535,13.964,13.701"
+	VolumColor = "0"
+	VolumeType = "1"
+}
+
+cEnvironmentVolume Park_ComboRoom3_Door
+{
+	AcousticsName = "City"
+	DeactiveLPFRatio = "0.3"
+	DeactiveTransmitRatio = "0.2"
+	Rotation = "0.000,-1.000,0.000,0.009"
+	Scale = "1.572,1.192,0.823"
+	Translation = "-76.903,-1.952,6.482"
+	TransmitRatio = "1"
+	VolumColor = "0"
+	VolumeType = "8"
+}
+
+cEnvironmentVolume Park_Main2
+{
+	AcousticsName = "City"
+	Rotation = "0.000,-0.634,-0.000,0.774"
+	Scale = "41.254,18.877,26.825"
+	Translation = "-50.083,12.315,-22.580"
+	VolumColor = "0"
+	VolumeType = "1"
+}
+
+cEnvironmentVolume Park_Main4
+{
+	AcousticsName = "City"
+	Rotation = "0.000,-1.000,0.000,0.010"
+	Scale = "14.997,20.816,9.631"
+	Translation = "-83.836,18.858,30.595"
+	VolumColor = "0"
+	VolumeType = "1"
+}
+
+cEnvironmentVolume Park_Main5
+{
+	AcousticsName = "City"
+	Rotation = "-0.000,0.013,0.000,1.000"
+	Scale = "17.579,17.600,26.692"
+	Translation = "-87.971,13.631,-28.326"
+	VolumColor = "0"
+	VolumeType = "1"
+}
+
+cEnvironmentVolume Park_Plug1
+{
+	AcousticsName = "City"
+	Rotation = "-0.000,0.715,0.000,0.699"
+	Scale = "5.520,17.749,11.609"
+	Translation = "-92.452,13.214,1.117"
+	VolumColor = "0"
+	VolumeType = "1"
+}
+
+cEnvironmentVolume ComboRoom1_Main_Plug1
+{
+	AcousticsName = "City"
+	Rotation = "-0.000,0.125,0.000,0.992"
+	Scale = "0.989,3.384,0.846"
+	Translation = "-128.192,1.748,-30.787"
+	VolumColor = "0"
+	VolumeType = "1"
+}
+
+cEnvironmentVolume Park_HoleInTheWall_Hall3
+{
+	AcousticsName = "Room"
+	Rotation = "-0.000,1.000,-0.000,0.000"
+	Scale = "1.283,2.990,3.600"
+	Translation = "-8.907,-3.686,-22.555"
+	VolumColor = "0"
+	VolumeType = "1"
+}
+
+cEnvironmentVolume Park_HoleInTheWall_Hall2
+{
+	AcousticsName = "Room"
+	Rotation = "-0.000,1.000,-0.000,0.000"
+	Scale = "3.664,2.427,1.008"
+	Translation = "-11.288,-2.427,-25.159"
+	VolumColor = "0"
+	VolumeType = "1"
+}
+
+cEnvironmentVolume SniperPlug2
+{
+	AcousticsName = "City"
+	Rotation = "-0.000,1.000,0.000,0.000"
+	Scale = "23.769,12.124,40.949"
+	Translation = "-11.060,24.246,-17.621"
+	VolumColor = "0"
+	VolumeType = "1"
+}
+
+cEnvironmentVolume Park_Bush1
+{
+	Rotation = "-0.000,0.703,0.000,0.711"
+	Scale = "4.146,0.377,1.110"
+	Translation = "-140.347,-1.128,-13.394"
+	VolumColor = "3"
+	VolumeType = "64"
+}
+
+cEnvironmentVolume Park_Bush2
+{
+	Rotation = "-0.000,0.659,0.000,0.752"
+	Scale = "0.797,0.358,1.424"
+	Translation = "-116.384,-1.071,-11.943"
+	VolumColor = "3"
+	VolumeType = "64"
+}
+
+cEnvironmentVolume Park_Bush3
+{
+	Rotation = "0.000,-0.043,0.000,0.999"
+	Scale = "2.585,0.376,0.770"
+	Translation = "-83.150,-1.080,-25.711"
+	VolumColor = "3"
+	VolumeType = "64"
+}
+
+cEnvironmentVolume Park_Bush4
+{
+	Rotation = "0.000,0.433,-0.000,0.902"
+	Scale = "5.251,0.619,1.291"
+	Translation = "-54.117,-0.838,-37.168"
+	VolumColor = "3"
+	VolumeType = "64"
+}
+
+cEnvironmentVolume Park_Bush5
+{
+	Rotation = "0.000,-0.024,0.000,1.000"
+	Scale = "4.824,1.197,1.361"
+	Translation = "-44.086,-0.461,-41.676"
+	VolumColor = "3"
+	VolumeType = "64"
+}
+
+cEnvironmentVolume Park_Bush6
+{
+	Rotation = "-0.000,0.820,0.000,0.572"
+	Scale = "3.706,0.716,1.962"
+	Translation = "-35.033,1.032,-35.281"
+	VolumColor = "3"
+	VolumeType = "64"
+}
+
+cEnvironmentVolume Park_Bush7
+{
+	Rotation = "-0.000,0.442,0.000,0.897"
+	Scale = "5.219,0.828,1.416"
+	Translation = "-35.705,-0.578,-24.180"
+	VolumColor = "3"
+	VolumeType = "64"
+}
+
+cEnvironmentVolume Park_Bush8
+{
+	Rotation = "0.000,-0.467,0.000,0.884"
+	Scale = "2.955,0.462,1.422"
+	Translation = "-22.497,-1.209,-5.017"
+	VolumColor = "3"
+	VolumeType = "64"
+}
+
+cEnvironmentVolume Park_Bush9
+{
+	Rotation = "0.000,-0.309,0.000,0.951"
+	Scale = "0.978,0.408,2.517"
+	Translation = "-22.782,-0.795,-9.767"
+	VolumColor = "3"
+	VolumeType = "64"
+}
+
+cEnvironmentVolume Park_Bush10
+{
+	Rotation = "0.000,-0.963,0.000,0.268"
+	Scale = "8.681,0.764,2.675"
+	Translation = "-48.721,-0.089,68.220"
+	VolumColor = "3"
+	VolumeType = "64"
+}
+
+cEnvironmentVolume Park_Bush11
+{
+	Rotation = "0.000,-0.767,0.000,0.641"
+	Scale = "4.857,1.118,1.052"
+	Translation = "-60.502,-1.009,50.476"
+	VolumColor = "3"
+	VolumeType = "64"
+}
+
+cEnvironmentVolume Park_Bush12
+{
+	Rotation = "-0.000,0.737,0.000,0.676"
+	Scale = "7.230,0.778,0.901"
+	Translation = "-66.618,-0.737,53.642"
+	VolumColor = "3"
+	VolumeType = "64"
+}
+
+cEnvironmentVolume Park_Bush13
+{
+	Rotation = "-0.000,0.802,0.000,0.597"
+	Scale = "7.436,0.866,1.100"
+	Translation = "-94.955,-1.025,54.287"
+	VolumColor = "3"
+	VolumeType = "64"
+}
+
+cEnvironmentVolume Park_Bush14
+{
+	Rotation = "0.000,-0.724,-0.000,0.690"
+	Scale = "6.607,0.743,0.947"
+	Translation = "-89.680,-0.894,53.787"
+	VolumColor = "3"
+	VolumeType = "64"
+}
+
+cEnvironmentVolume Park_Bush15
+{
+	Rotation = "-0.000,0.859,0.000,0.513"
+	Scale = "13.465,1.031,1.920"
+	Translation = "-107.346,-0.474,64.843"
+	VolumColor = "3"
+	VolumeType = "64"
+}
+
+cEnvironmentVolume Park_Water1
+{
+	Rotation = "0.000,-0.919,0.000,0.394"
+	Scale = "10.893,0.210,6.150"
+	Translation = "-93.031,-1.920,3.060"
+	VolumColor = "0"
+	VolumeType = "36"
+}
+
+cEnvironmentVolume Park_Water2
+{
+	Rotation = "0.000,-0.999,0.000,0.054"
+	Scale = "9.247,0.182,3.712"
+	Translation = "-78.386,-1.895,-6.435"
+	VolumColor = "0"
+	VolumeType = "36"
+}
+
+cEnvironmentVolume Park_Water3
+{
+	Rotation = "-0.000,0.989,0.000,0.148"
+	Scale = "6.917,0.179,5.174"
+	Translation = "-64.441,-1.888,-4.455"
+	VolumColor = "0"
+	VolumeType = "36"
+}
+
+cEnvironmentVolume Park_Water4
+{
+	Rotation = "0.000,-0.567,-0.000,0.824"
+	Scale = "4.615,0.293,15.313"
+	Translation = "-71.963,-2.060,24.443"
+	VolumColor = "0"
+	VolumeType = "36"
+}
+
+cEnvironmentVolume Park_Water5
+{
+	Rotation = "0.000,-0.892,0.000,0.451"
+	Scale = "4.506,0.293,11.285"
+	Translation = "-95.421,-2.060,26.990"
+	VolumColor = "0"
+	VolumeType = "36"
+}
+
+cEnvironmentVolume Park_Bush16
+{
+	Rotation = "0.000,0.997,0.000,0.077"
+	Scale = "6.212,0.712,1.436"
+	Translation = "-115.439,-0.001,53.848"
+	VolumColor = "0"
+	VolumeType = "64"
+}
+
+cEnvironmentVolume Park_Bush17
+{
+	Rotation = "-0.000,1.000,0.000,0.016"
+	Scale = "0.588,0.501,0.544"
+	Translation = "-71.150,-0.147,76.183"
+	VolumColor = "0"
+	VolumeType = "64"
+}
+
+cEnvironmentVolume Park_Bush18
+{
+	Rotation = "-0.000,1.000,0.000,0.008"
+	Scale = "0.676,0.478,0.462"
+	Translation = "-87.776,-0.096,76.185"
+	VolumColor = "0"
+	VolumeType = "64"
+}
+
+cEnvironmentVolume Park_Bush19
+{
+	Rotation = "-0.000,1.000,0.000,0.002"
+	Scale = "1.742,0.796,0.977"
+	Translation = "-93.160,-0.632,44.757"
+	VolumColor = "0"
+	VolumeType = "64"
+}
+
+cEnvironmentVolume Park_Bush20
+{
+	Rotation = "-0.000,1.000,0.000,0.016"
+	Scale = "0.791,0.560,0.771"
+	Translation = "-70.468,-1.129,-25.861"
+	VolumColor = "0"
+	VolumeType = "64"
+}
+
+cEnvironmentVolume Park_Bush21
+{
+	Rotation = "-0.000,0.994,0.000,0.106"
+	Scale = "1.919,0.825,0.808"
+	Translation = "-62.833,-0.640,44.784"
+	VolumColor = "0"
+	VolumeType = "64"
+}
+
+cEnvironmentVolume Park_Bush22
+{
+	Rotation = "0.000,-0.011,0.000,1.000"
+	Scale = "1.256,0.812,0.798"
+	Translation = "-63.714,-0.654,59.699"
+	VolumColor = "0"
+	VolumeType = "64"
+}
+
+cEnvironmentVolume Park_Bush23
+{
+	Rotation = "0.000,-0.383,0.000,0.924"
+	Scale = "1.165,0.607,0.981"
+	Translation = "-101.768,-0.944,1.060"
+	VolumColor = "0"
+	VolumeType = "64"
+}
+
+cEnvironmentVolume Park_Bush24
+{
+	Rotation = "-0.000,0.964,0.000,0.264"
+	Scale = "1.040,0.469,0.968"
+	Translation = "-70.748,-1.337,-13.238"
+	VolumColor = "0"
+	VolumeType = "64"
+}
+
+cEnvironmentVolume Park_Bush25
+{
+	Rotation = "-0.000,0.358,0.000,0.934"
+	Scale = "0.584,0.430,0.603"
+	Translation = "-58.759,-1.077,-8.956"
+	VolumColor = "0"
+	VolumeType = "64"
+}
+
+cEnvironmentVolume Park_Bush26
+{
+	Rotation = "0.000,-0.186,0.000,0.982"
+	Scale = "1.020,0.357,1.244"
+	Translation = "-93.632,-1.150,33.875"
+	VolumColor = "0"
+	VolumeType = "64"
+}
+
+cEnvironmentVolume Park_Bush27
+{
+	Rotation = "0.000,-0.414,0.000,0.910"
+	Scale = "0.491,0.369,0.569"
+	Translation = "-104.989,-1.138,27.655"
+	VolumColor = "0"
+}
+
+cEnvironmentVolume Park_Center_UpperBlend
+{
+	AcousticsName = "City"
+	Rotation = "-0.000,1.000,0.000,-0.013"
+	Scale = "15.656,13.266,13.452"
+	Translation = "-83.617,18.727,10.433"
+	VolumColor = "0"
+	VolumeType = "1"
+}
+
+cEnvironmentVolume Park_HoleInTheWall_Door2
+{
+	AcousticsName = "Store"
+	DeactiveLPFRatio = "0.3"
+	DeactiveTransmitRatio = "0.3"
+	Rotation = "-0.000,1.000,-0.000,0.000"
+	Scale = "0.937,1.286,1.479"
+	Translation = "-13.569,-0.060,-18.883"
+	TransmitRatio = "1"
+	VolumColor = "0"
+	VolumeType = "8"
+}
+
+cEnvironmentVolume Park_HoleInTheWall_Hall1
+{
+	AcousticsName = "Room"
+	Rotation = "-0.000,1.000,-0.000,0.000"
+	Scale = "1.863,3.112,3.782"
+	Translation = "-12.823,0.018,-22.376"
+	VolumColor = "0"
+	VolumeType = "1"
+}
+
+
+cEnvironmentVolume Swept_Away_01
+{
+	AcousticsName = "Store"
+	Rotation = "0.000,0.924,0.000,0.383"
+	Scale = "15.001,4.595,7.518"
+	Translation = "-1.572,4.764,-121.077"
+	VolumColor = "0"
+	VolumeType = "1"
+}
+
+cEnvironmentVolume Swept_Away_Blend_01
+{
+	AcousticsName = "Store"
+	Rotation = "-0.000,0.922,0.000,0.386"
+	Scale = "1.584,1.859,1.001"
+	Translation = "8.230,2.480,-109.313"
+	VolumColor = "0"
+	VolumeType = "8"
+}
+
+cEnvironmentVolume Bingo_01
+{
+	AcousticsName = "Store"
+	Rotation = "0.000,-0.385,0.000,0.923"
+	Scale = "10.128,5.212,9.416"
+	Translation = "16.868,6.001,-133.084"
+	VolumColor = "0"
+	VolumeType = "1"
+}
+
+cEnvironmentVolume Bingo_Blend_01
+{
+	AcousticsName = "City"
+	Rotation = "0.000,-0.380,0.000,0.925"
+	Scale = "2.514,2.120,4.544"
+	Translation = "23.857,2.754,-126.263"
+	VolumColor = "0"
+	VolumeType = "1"
+}
+
+cEnvironmentVolume Pawn_Shop_North_01
+{
+	AcousticsName = "Room"
+	Rotation = "0.000,-0.383,0.000,0.924"
+	Scale = "11.646,2.464,9.772"
+	Translation = "42.064,3.109,-158.979"
+	VolumColor = "0"
+	VolumeType = "1"
+}
+
+cEnvironmentVolume Pawn_Shop_North_Blend_01
+{
+	AcousticsName = "Room"
+	Rotation = "-0.000,0.380,0.000,0.925"
+	Scale = "1.569,1.725,2.278"
+	Translation = "50.154,2.382,-150.974"
+	VolumColor = "0"
+	VolumeType = "1"
+}
+
+cEnvironmentVolume Combo_Room_02
+{
+	AcousticsName = "Room"
+	Rotation = "-0.000,0.924,0.000,-0.383"
+	Scale = "3.023,2.563,4.048"
+	Translation = "55.216,3.229,-165.749"
+	VolumColor = "0"
+	VolumeType = "1"
+}
+
+cEnvironmentVolume Combo_Room_01_Blend
+{
+	AcousticsName = "LivingRoom"
+	DeactiveLPFRatio = "0.9"
+	DeactiveTransmitRatio = "0.3"
+	Rotation = "0.000,-0.924,0.000,0.383"
+	Scale = "1.052,1.538,1.497"
+	Translation = "-39.162,2.158,-74.431"
+	TransmitRatio = "1"
+	VolumColor = "0"
+	VolumeType = "8"
+}
+
+cEnvironmentVolume PubOGold_01
+{
+	AcousticsName = "Store"
+	Rotation = "-0.000,0.924,0.000,0.383"
+	Scale = "3.330,3.305,6.090"
+	Translation = "57.255,3.977,-77.912"
+	VolumColor = "0"
+	VolumeType = "1"
+}
+
+cEnvironmentVolume PubOGold_02
+{
+	AcousticsName = "Store"
+	Rotation = "-0.000,0.924,0.000,-0.382"
+	Scale = "9.801,3.333,4.135"
+	Translation = "55.888,4.005,-84.476"
+	VolumColor = "0"
+	VolumeType = "1"
+}
+
+cEnvironmentVolume PubOGold_03
+{
+	AcousticsName = "Store"
+	Rotation = "-0.000,0.924,0.000,-0.382"
+	Scale = "4.020,3.277,2.229"
+	Translation = "42.451,3.948,-89.756"
+	VolumColor = "0"
+	VolumeType = "1"
+}
+
+cEnvironmentVolume PubOGold_04
+{
+	AcousticsName = "Store"
+	Rotation = "-0.000,0.924,0.000,-0.382"
+	Scale = "8.327,3.267,4.886"
+	Translation = "49.452,3.920,-88.746"
+	VolumColor = "0"
+	VolumeType = "1"
+}
+
+cEnvironmentVolume PubOGold_Blend_01
+{
+	AcousticsName = "City"
+	Rotation = "-0.000,0.002,0.000,1.000"
+	Scale = "2.841,1.390,5.558"
+	Translation = "51.899,2.029,-96.000"
+	VolumColor = "0"
+	VolumeType = "1"
+}
+
+cEnvironmentVolume Excitorama_01
+{
+	AcousticsName = "Room"
+	Rotation = "0.000,0.384,0.000,0.923"
+	Scale = "5.367,3.107,8.255"
+	Translation = "28.021,3.682,-69.257"
+	VolumColor = "0"
+	VolumeType = "1"
+}
+
+cEnvironmentVolume Excitorama_Window_01
+{
+	AcousticsName = "Room"
+	DeactiveLPFRatio = "0.5"
+	DeactiveTransmitRatio = "0.3"
+	Rotation = "0.000,-0.924,0.000,0.382"
+	Scale = "1.719,1.684,1.287"
+	Translation = "19.747,2.225,-72.674"
+	VolumColor = "0"
+	VolumeType = "8"
+}
+
+cEnvironmentVolume Excitorama_Blend_02
+{
+	AcousticsName = "Room"
+	DeactiveLPFRatio = "0.99"
+	DeactiveTransmitRatio = "0.3"
+	Rotation = "0.000,-0.924,0.000,0.382"
+	Scale = "1.455,1.184,1.887"
+	Translation = "22.140,1.925,-75.287"
+	VolumColor = "0"
+	VolumeType = "8"
+}
+
+cEnvironmentVolume Combo_Room_03
+{
+	AcousticsName = "Room"
+	Rotation = "-0.000,0.382,0.000,0.924"
+	Scale = "3.016,2.581,4.073"
+	Translation = "161.769,3.246,-122.272"
+	VolumColor = "0"
+	VolumeType = "1"
+}
+
+cEnvironmentVolume Combo_Room_02_Blend
+{
+	AcousticsName = "LivingRoom"
+	DeactiveLPFRatio = "0.9"
+	DeactiveTransmitRatio = "0.3"
+	Rotation = "0.000,-0.924,0.000,0.383"
+	Scale = "1.035,1.327,0.810"
+	Translation = "57.538,1.991,-162.085"
+	TransmitRatio = "1"
+	VolumColor = "0"
+	VolumeType = "8"
+}
+
+cEnvironmentVolume Combo_Room_01
+{
+	AcousticsName = "Room"
+	Rotation = "0.000,-0.382,0.000,0.924"
+	Scale = "4.037,2.601,3.015"
+	Translation = "-41.586,3.198,-78.085"
+	VolumColor = "0"
+	VolumeType = "1"
+}
+
+cEnvironmentVolume Palisades_Mall_AlleyEntrance_01
+{
+	AcousticsName = "Alley"
+	Rotation = "0.000,-0.383,0.000,0.924"
+	Scale = "3.172,16.074,16.048"
+	Translation = "44.537,16.734,-59.003"
+	VolumColor = "0"
+	VolumeType = "1"
+}
+
+cEnvironmentVolume Palisades_Mall_AlleyEntrance_02
+{
+	AcousticsName = "Alley"
+	Rotation = "0.000,0.924,0.000,0.383"
+	Scale = "1.892,16.092,9.567"
+	Translation = "60.595,16.742,-73.562"
+	VolumColor = "0"
+	VolumeType = "1"
+}
+
+cEnvironmentVolume Palisades_Mall_AlleyEntrance_03
+{
+	AcousticsName = "Alley"
+	Rotation = "-0.000,0.924,0.000,-0.381"
+	Scale = "3.653,16.070,4.291"
+	Translation = "66.372,16.735,-82.731"
+	VolumColor = "0"
+	VolumeType = "1"
+}
+
+cEnvironmentVolume Combo_Room_05
+{
+	AcousticsName = "Room"
+	Rotation = "0.000,-0.383,0.000,0.924"
+	Scale = "3.015,2.006,4.036"
+	Translation = "71.422,2.671,-88.721"
+	VolumColor = "0"
+	VolumeType = "1"
+}
+
+cEnvironmentVolume Palisades_Mall_AlleyEntrance_Blend_01
+{
+	AcousticsName = "Alley"
+	Rotation = "0.000,0.384,0.000,0.923"
+	Scale = "2.728,2.765,2.718"
+	Translation = "36.143,3.405,-56.361"
+	VolumColor = "0"
+	VolumeType = "1"
+}
+
+cEnvironmentVolume Concert_Stage_01
+{
+	AcousticsName = "City"
+	Rotation = "0.000,0.383,0.000,0.924"
+	Scale = "15.546,16.056,16.051"
+	Translation = "65.544,16.542,-110.824"
+	VolumColor = "0"
+	VolumeType = "1"
+}
+
+cEnvironmentVolume NorthStrip_Exterior_01
+{
+	AcousticsName = "City"
+	Rotation = "-0.000,0.923,0.000,0.384"
+	Scale = "23.272,15.962,27.419"
+	Translation = "-19.574,16.450,-61.298"
+	VolumColor = "0"
+	VolumeType = "1"
+}
+
+cEnvironmentVolume PubOGold_entrace_Fill_02
+{
+	AcousticsName = "City"
+	Rotation = "-0.000,0.382,0.000,0.924"
+	Scale = "8.390,2.272,3.006"
+	Translation = "49.676,2.912,-100.439"
+	VolumColor = "0"
+	VolumeType = "1"
+}
+
+cEnvironmentVolume PubOGold_entrace_Fill_01
+{
+	AcousticsName = "City"
+	Rotation = "-0.000,0.383,0.000,0.924"
+	Scale = "2.747,2.273,4.842"
+	Translation = "56.281,2.914,-97.875"
+	VolumColor = "0"
+	VolumeType = "1"
+}
+
+cEnvironmentVolume NorthStrip_Exterior_Plug_01
+{
+	AcousticsName = "City"
+	Rotation = "0.000,-0.384,0.000,0.923"
+	Scale = "4.258,14.449,4.154"
+	Translation = "61.136,14.986,-159.801"
+	VolumColor = "0"
+	VolumeType = "1"
+}
+
+cEnvironmentVolume NorthStrip_Exterior_02
+{
+	AcousticsName = "City"
+	Rotation = "-0.000,0.924,0.000,-0.383"
+	Scale = "37.934,16.214,17.056"
+	Translation = "23.707,16.636,-100.925"
+	VolumColor = "0"
+	VolumeType = "1"
+}
+
+cEnvironmentVolume NorthStrip_Exterior_03
+{
+	AcousticsName = "City"
+	Rotation = "-0.000,0.383,0.000,0.924"
+	Scale = "19.231,16.181,47.890"
+	Translation = "132.168,16.681,-166.214"
+	VolumColor = "0"
+	VolumeType = "1"
+}
+
+cEnvironmentVolume NorthStrip_Alley_01
+{
+	AcousticsName = "Alley"
+	Rotation = "0.000,0.383,0.000,0.924"
+	Scale = "5.124,17.185,11.072"
+	Translation = "19.536,17.845,-53.988"
+	VolumColor = "0"
+	VolumeType = "1"
+}
+
+cEnvironmentVolume Combo_Room_04_Blend
+{
+	AcousticsName = "LivingRoom"
+	DeactiveLPFRatio = "0.9"
+	DeactiveTransmitRatio = "0.3"
+	Rotation = "-0.000,0.381,0.000,0.924"
+	Scale = "1.314,2.005,1.598"
+	Translation = "27.882,2.619,-47.029"
+	TransmitRatio = "1"
+	VolumColor = "0"
+	VolumeType = "8"
+}
+
+cEnvironmentVolume Combo_Room_04
+{
+	AcousticsName = "Room"
+	Rotation = "-0.000,0.924,0.000,0.382"
+	Scale = "4.014,2.268,3.012"
+	Translation = "30.204,2.915,-43.113"
+	VolumColor = "0"
+	VolumeType = "1"
+}
+
+cEnvironmentVolume Combo_Room_03_Blend
+{
+	AcousticsName = "LivingRoom"
+	DeactiveLPFRatio = "0.9"
+	DeactiveTransmitRatio = "0.3"
+	Rotation = "-0.000,0.382,0.000,0.924"
+	Scale = "1.337,1.679,1.550"
+	Translation = "159.242,2.325,-126.360"
+	TransmitRatio = "1"
+	VolumColor = "0"
+	VolumeType = "8"
+}
+
+cEnvironmentVolume NorthStrip_Exterior_Plug_02
+{
+	AcousticsName = "City"
+	Rotation = "-0.000,0.923,0.000,-0.384"
+	Scale = "3.403,13.921,2.011"
+	Translation = "40.063,14.542,-142.236"
+	VolumColor = "0"
+	VolumeType = "1"
+}
+
+cEnvironmentVolume Rooftop_access_01
+{
+	AcousticsName = "Hallway"
+	Rotation = "-0.000,0.707,0.000,0.707"
+	Scale = "2.962,3.260,3.007"
+	Translation = "-5.093,3.919,-5.502"
+	VolumColor = "0"
+	VolumeType = "1"
+}
+
+cEnvironmentVolume Rooftop_access_01_Blend01
+{
+	AcousticsName = "Hallway"
+	DeactiveLPFRatio = "0.3"
+	DeactiveTransmitRatio = "0.3"
+	Rotation = "0.000,-0.001,-0.000,1.000"
+	Scale = "1.034,1.343,1.373"
+	Translation = "-5.071,1.805,-8.442"
+	TransmitRatio = "1"
+	VolumColor = "0"
+	VolumeType = "8"
+}
+
+cEnvironmentVolume Rooftop_Hallway_01
+{
+	AcousticsName = "Hallway"
+	Rotation = "-0.000,0.707,0.000,0.707"
+	Scale = "6.972,2.008,2.005"
+	Translation = "-5.099,2.658,-15.519"
+	VolumColor = "0"
+	VolumeType = "1"
+}
+
+cEnvironmentVolume Rooftop_Hallway_02
+{
+	AcousticsName = "Hallway"
+	Rotation = "0.000,-0.924,0.000,0.383"
+	Scale = "16.979,2.048,4.529"
+	Translation = "5.544,2.619,-32.954"
+	VolumColor = "0"
+	VolumeType = "1"
+}
+
+cEnvironmentVolume Rooftop_Hallway_Plug01
+{
+	AcousticsName = "Hallway"
+	Rotation = "0.000,0.924,0.000,0.382"
+	Scale = "1.635,2.016,1.648"
+	Translation = "16.282,2.676,-38.234"
+	VolumColor = "0"
+	VolumeType = "1"
+}
+
+cEnvironmentVolume Rooftop_Hallway_Plug02
+{
+	AcousticsName = "Hallway"
+	Rotation = "-0.000,0.924,0.000,-0.382"
+	Scale = "1.560,2.044,1.999"
+	Translation = "18.615,2.704,-45.364"
+	VolumColor = "0"
+	VolumeType = "1"
+}
+
+cEnvironmentVolume Rooftop_Hallway_Blend01
+{
+	AcousticsName = "Hallway"
+	DeactiveLPFRatio = "0.3"
+	DeactiveTransmitRatio = "0.3"
+	Rotation = "-0.000,0.924,0.000,0.382"
+	Scale = "0.861,1.254,0.988"
+	Translation = "20.381,1.816,-45.907"
+	TransmitRatio = "1"
+	VolumColor = "0"
+	VolumeType = "8"
+}
+
+cEnvironmentVolume Sewer_AccessRoom_01
+{
+	AcousticsName = "Room"
+	Rotation = "-0.000,0.383,0.000,0.924"
+	Scale = "3.010,3.079,3.085"
+	Translation = "7.776,1.599,-24.217"
+	VolumColor = "0"
+	VolumeType = "1"
+}
+
+cEnvironmentVolume Sewer_AccessRoom_01_Blend1
+{
+	AcousticsName = "Room"
+	DeactiveLPFRatio = "0.3"
+	DeactiveTransmitRatio = "0.3"
+	Rotation = "-0.000,0.383,0.000,0.924"
+	Scale = "0.778,1.150,0.856"
+	Translation = "5.414,1.795,-26.570"
+	TransmitRatio = "1"
+	VolumColor = "0"
+	VolumeType = "8"
+}
+
+cEnvironmentVolume Excitorama_02
+{
+	AcousticsName = "Room"
+	Rotation = "0.000,0.384,0.000,0.923"
+	Scale = "3.006,3.043,3.646"
+	Translation = "38.190,3.729,-62.477"
+	VolumColor = "0"
+	VolumeType = "1"
+}
+
+cEnvironmentVolume Excitorama_Blend_04
+{
+	AcousticsName = "Room"
+	DeactiveLPFRatio = "0.3"
+	DeactiveTransmitRatio = "0.3"
+	Rotation = "-0.000,0.924,0.000,0.383"
+	Scale = "0.779,1.190,1.205"
+	Translation = "37.782,1.862,-58.779"
+	TransmitRatio = "1"
+	VolumColor = "0"
+	VolumeType = "8"
+}
+
+cEnvironmentVolume Combo_Room_05_Blend
+{
+	AcousticsName = "LivingRoom"
+	DeactiveLPFRatio = "0.9"
+	DeactiveTransmitRatio = "0.3"
+	Rotation = "-0.000,0.924,0.000,0.383"
+	Scale = "1.770,1.395,1.363"
+	Translation = "68.464,2.045,-85.811"
+	TransmitRatio = "1"
+	VolumColor = "0"
+	VolumeType = "8"
+}
+
+cEnvironmentVolume Palisades_Hallway_01_Blend
+{
+	AcousticsName = "Hallway"
+	Rotation = "0.000,-0.924,0.000,0.382"
+	Scale = "0.983,1.301,1.211"
+	Translation = "68.528,1.889,-78.930"
+	VolumColor = "0"
+	VolumeType = "8"
+}
+
+cEnvironmentVolume TikiLounge_Kitchen_01
+{
+	AcousticsName = "LivingRoom"
+	Rotation = "-0.000,0.383,0.000,0.924"
+	Scale = "5.124,2.299,1.643"
+	Translation = "120.073,4.058,-130.864"
+	VolumColor = "0"
+	VolumeType = "1"
+}
+
+cEnvironmentVolume TikiLounge_Kitchen_02
+{
+	AcousticsName = "LivingRoom"
+	Rotation = "0.000,-0.703,0.000,0.711"
+	Scale = "3.700,2.247,6.870"
+	Translation = "115.693,4.062,-131.991"
+	VolumColor = "0"
+	VolumeType = "1"
+}
+
+cEnvironmentVolume TikiLounge_DiningRoom_01
+{
+	AcousticsName = "LivingRoom"
+	Rotation = "0.000,0.000,0.000,1.000"
+	Scale = "9.895,5.710,9.142"
+	Translation = "113.624,7.522,-145.045"
+	VolumColor = "0"
+	VolumeType = "1"
+}
+
+cEnvironmentVolume TikiLounge_Kitchen_Blend
+{
+	AcousticsName = "LivingRoom"
+	Rotation = "0.000,0.000,0.000,1.000"
+	Scale = "4.329,1.394,1.587"
+	Translation = "113.697,3.203,-135.995"
+	VolumColor = "0"
+	VolumeType = "1"
+}
+
+cEnvironmentVolume TikiLounge_Padio_01
+{
+	AcousticsName = "City"
+	Rotation = "-0.000,0.000,0.000,1.000"
+	Scale = "12.529,10.490,6.573"
+	Translation = "113.837,10.951,-160.918"
+	VolumColor = "0"
+	VolumeType = "1"
+}
+
+cEnvironmentVolume TikiLounge_Padio_Blend_01
+{
+	AcousticsName = "City"
+	Rotation = "0.000,0.000,-0.000,1.000"
+	Scale = "4.535,2.385,3.853"
+	Translation = "113.699,4.142,-154.329"
+	VolumColor = "0"
+	VolumeType = "1"
+}
+
+cEnvironmentVolume TikiLounge_Padio_02
+{
+	AcousticsName = "City"
+	Rotation = "0.000,-0.707,0.000,0.707"
+	Scale = "6.739,9.213,7.767"
+	Translation = "131.568,9.713,-141.277"
+	VolumColor = "0"
+	VolumeType = "1"
+}
+
+cEnvironmentVolume TikiLounge_Plug_01
+{
+	AcousticsName = "City"
+	Rotation = "-0.000,0.709,0.000,0.706"
+	Scale = "7.204,6.769,0.963"
+	Translation = "102.647,6.955,-147.725"
+	VolumColor = "0"
+	VolumeType = "1"
+}
+
+cEnvironmentVolume TikiLounge_Plug_02
+{
+	AcousticsName = "City"
+	Rotation = "0.000,-0.708,0.000,0.707"
+	Scale = "6.788,6.479,3.432"
+	Translation = "98.507,6.759,-148.897"
+	VolumColor = "0"
+	VolumeType = "1"
+}
+
+cEnvironmentVolume Shamrocks_01
+{
+	AcousticsName = "Store"
+	Rotation = "-0.000,0.382,0.000,0.924"
+	Scale = "10.316,3.365,25.761"
+	Translation = "97.449,3.986,-123.221"
+	VolumColor = "0"
+	VolumeType = "1"
+}
+
+cEnvironmentVolume Combo_Room_06
+{
+	AcousticsName = "Room"
+	Rotation = "-0.000,0.382,0.000,0.924"
+	Scale = "3.022,2.566,4.051"
+	Translation = "87.326,3.226,-104.012"
+	VolumColor = "0"
+	VolumeType = "1"
+}
+
+cEnvironmentVolume Combo_Room_06_Blend
+{
+	AcousticsName = "LivingRoom"
+	DeactiveLPFRatio = "0.9"
+	DeactiveTransmitRatio = "0.3"
+	Rotation = "-0.000,0.387,0.000,0.922"
+	Scale = "1.189,1.998,1.076"
+	Translation = "85.176,2.647,-107.842"
+	TransmitRatio = "1"
+	VolumColor = "0"
+	VolumeType = "8"
+}
+
+cEnvironmentVolume PeepShow_01
+{
+	AcousticsName = "LivingRoom"
+	Rotation = "0.000,-0.924,0.000,0.383"
+	Scale = "7.50,4.692,10.324"
+	Translation = "36.4,5.337,-79.192"
+	VolumColor = "0"
+	VolumeType = "1"
+}
+
+cEnvironmentVolume PeepShow_Strip_Plug_01
+{
+	AcousticsName = "LivingRoom"
+	Rotation = "-0.000,0.383,0.000,0.924"
+	Scale = "5.5,8.035,3.263"
+	Translation = "38.957,8.560,-94.120"
+	VolumColor = "0"
+	VolumeType = "1"
+}
+
+cEnvironmentVolume Combo_Room_02_Blend2
+{
+	AcousticsName = "LivingRoom"
+	DeactiveLPFRatio = "0.9"
+	DeactiveTransmitRatio = "0.3"
+	Rotation = "0.000,-0.924,0.000,-0.379"
+	Scale = "0.800,1.327,1.040"
+	Translation = "58.739,1.991,-163.327"
+	TransmitRatio = "1"
+	VolumColor = "0"
+	VolumeType = "8"
+}
+
+cEnvironmentVolume Combo_Room_04_Blend02
+{
+	AcousticsName = "LivingRoom"
+	DeactiveLPFRatio = "0.9"
+	DeactiveTransmitRatio = "0.3"
+	Rotation = "-0.000,0.381,0.000,0.924"
+	Scale = "1.188,2.005,1.598"
+	Translation = "26.239,2.619,-45.396"
+	TransmitRatio = "1"
+	VolumColor = "0"
+	VolumeType = "8"
+}
+
+cEnvironmentVolume Combo_Room_01_Blend2
+{
+	AcousticsName = "LivingRoom"
+	DeactiveLPFRatio = "0.9"
+	DeactiveTransmitRatio = "0.3"
+	Rotation = "0.000,-0.924,0.000,0.383"
+	Scale = "0.969,1.538,1.497"
+	Translation = "-37.801,2.158,-75.793"
+	TransmitRatio = "1"
+	VolumColor = "0"
+	VolumeType = "8"
+}
+
+cEnvironmentVolume Combo_Room_06_Blend2
+{
+	AcousticsName = "LivingRoom"
+	DeactiveLPFRatio = "0.9"
+	DeactiveTransmitRatio = "0.3"
+	Rotation = "-0.000,0.387,0.000,0.922"
+	Scale = "1.243,1.998,1.076"
+	Translation = "83.530,2.647,-106.165"
+	TransmitRatio = "1"
+	VolumColor = "0"
+	VolumeType = "8"
+}
+
+cEnvironmentVolume Rooftop_Hallway_Blend02
+{
+	AcousticsName = "Hallway"
+	DeactiveLPFRatio = "0.3"
+	DeactiveTransmitRatio = "0.3"
+	Rotation = "-0.000,0.924,0.000,0.382"
+	Scale = "0.974,1.254,0.988"
+	Translation = "19.172,1.816,-47.113"
+	TransmitRatio = "1"
+	VolumColor = "0"
+	VolumeType = "8"
+}
+
+cEnvironmentVolume Combo_Room_03_Blend2
+{
+	AcousticsName = "LivingRoom"
+	DeactiveLPFRatio = "0.9"
+	DeactiveTransmitRatio = "0.3"
+	Rotation = "-0.000,0.382,0.000,0.924"
+	Scale = "1.156,1.679,1.545"
+	Translation = "157.549,2.325,-124.678"
+	TransmitRatio = "1"
+	VolumColor = "0"
+	VolumeType = "8"
+}
+
+cEnvironmentVolume Swept_Away_Blend_02
+{
+	AcousticsName = "Store"
+	Rotation = "-0.000,0.922,0.000,0.386"
+	Scale = "1.582,1.859,0.987"
+	Translation = "9.558,2.480,-110.618"
+	VolumColor = "0"
+	VolumeType = "8"
+}
+
+cEnvironmentVolume NorthStrip_Exterior_05
+{
+	Rotation = "-0.000,0.924,0.000,-0.383"
+	Scale = "40.971,16.214,16.772"
+	Translation = "77.340,16.636,-154.031"
+	VolumColor = "0"
+	VolumeType = "1"
+}
+
+cEnvironmentVolume Underground_Entrance01
+{
+	AcousticsName = "Hallway"
+	Rotation = "-0.121,-0.380,-0.051,0.916"
+	Scale = "12.772,6.762,25.409"
+	Translation = "188.249,-0.133,-167.987"
+	VolumColor = "0"
+	VolumeType = "1"
+}
+
+cEnvironmentVolume Underground_Entrance02
+{
+	AcousticsName = "Hallway"
+	Rotation = "-0.000,0.383,0.000,0.924"
+	Scale = "48.400,5.360,50.146"
+	Translation = "233.615,-4.996,-218.898"
+	VolumColor = "0"
+	VolumeType = "1"
+}
+
+cEnvironmentVolume SniperPlug3
+{
+	AcousticsName = "City"
+	Rotation = "-0.000,0.924,0.000,0.383"
+	Scale = "17.543,8.165,23.583"
+	Translation = "-62.844,19.577,-65.095"
+	VolumColor = "0"
+	VolumeType = "1"
+}
+
+cEnvironmentVolume Excitorama_Window_02
+{
+	AcousticsName = "Room"
+	DeactiveLPFRatio = "0.5"
+	DeactiveTransmitRatio = "0.3"
+	Rotation = "0.000,-0.924,0.000,0.382"
+	Scale = "1.719,1.684,1.287"
+	Translation = "24.642,2.225,-77.569"
+	VolumColor = "0"
+	VolumeType = "8"
+}
+
+cEnvironmentVolume Palisades_Mall_AlleyPlug1
+{
+	AcousticsName = "Alley"
+	Rotation = "0.000,-0.383,0.000,0.924"
+	Scale = "3.089,16.074,0.645"
+	Translation = "33.302,16.734,-47.603"
+	VolumColor = "0"
+	VolumeType = "1"
+}
+
+cEnvironmentVolume TikiLounge_Plug03
+{
+	AcousticsName = "City"
+	Rotation = "0.000,0.406,0.000,0.918"
+	Scale = "4.370,8.451,10.459"
+	Translation = "135.212,9.615,-131.479"
+	VolumColor = "0"
+	VolumeType = "1"
+}
+
+cEnvironmentVolume BikeComboRoom_01
+{
+	AcousticsName = "Room"
+	Rotation = "0.000,0.696,0.000,0.718"
+	Scale = "5.485,1.707,2.528"
+	Translation = "88.444,3.874,-200.151"
+	VolumColor = "0"
+	VolumeType = "1"
+}
+
+cEnvironmentVolume BikeComboRoom_Plug1
+{
+	AcousticsName = "City"
+	Rotation = "0.000,0.696,0.000,0.718"
+	Scale = "17.258,13.764,9.462"
+	Translation = "76.507,14.431,-205.927"
+	VolumColor = "0"
+	VolumeType = "1"
+}
+
+cEnvironmentVolume BikeComboRoom_Plug2
+{
+	AcousticsName = "City"
+	Rotation = "0.000,0.696,0.000,0.718"
+	Scale = "9.478,13.838,20.204"
+	Translation = "87.544,14.357,-215.233"
+	VolumColor = "0"
+	VolumeType = "1"
+}
+
+cEnvironmentVolume BikeComboRoom_Plug3
+{
+	AcousticsName = "City"
+	Rotation = "0.000,0.696,0.000,0.718"
+	Scale = "8.164,14.076,7.010"
+	Translation = "98.166,14.119,-201.796"
+	VolumColor = "0"
+	VolumeType = "1"
+}
+
+cEnvironmentVolume BikeComboRoom_Plug4
+{
+	AcousticsName = "City"
+	Rotation = "0.000,0.696,0.000,0.718"
+	Scale = "5.349,14.076,5.476"
+	Translation = "88.322,14.119,-189.234"
+	VolumColor = "0"
+	VolumeType = "1"
+}
+
+cEnvironmentVolume BikeComboRoom_Plug5
+{
+	AcousticsName = "City"
+	Rotation = "0.000,0.696,0.000,0.718"
+	Scale = "11.362,11.062,6.112"
+	Translation = "88.020,17.133,-201.553"
+	VolumColor = "0"
+	VolumeType = "1"
+}
+
+cEnvironmentVolume BikeComboRoom_Door1
+{
+	AcousticsName = "City"
+	Rotation = "0.000,0.696,0.000,0.718"
+	Scale = "2.267,1.707,2.522"
+	Translation = "88.318,3.874,-196.110"
+	VolumColor = "0"
+	VolumeType = "8"
+}
+
+cEnvironmentVolume Northstrip_Bush1
+{
+	Rotation = "0.000,0.203,0.000,0.979"
+	Scale = "1.779,0.284,0.968"
+	Translation = "98.631,1.629,-150.615"
+	VolumColor = "0"
+	VolumeType = "64"
+}
+
+cEnvironmentVolume NorthStrip_Bush2
+{
+	Rotation = "0.000,0.132,0.000,0.695"
+	Scale = "1.828,0.301,0.358"
+	Translation = "111.191,1.289,-167.819"
+	VolumColor = "0"
+	VolumeType = "64"
+}
+
+cEnvironmentVolume NorthSTrip_Bush3
+{
+	Rotation = "0.000,0.001,0.000,0.707"
+	Scale = "1.073,0.267,0.325"
+	Translation = "113.526,1.207,-168.489"
+	VolumColor = "0"
+	VolumeType = "64"
+}
+
+cEnvironmentVolume NorthSTrip_Bush4
+{
+	Rotation = "0.000,-0.134,0.000,0.693"
+	Scale = "0.478,0.275,0.394"
+	Translation = "120.478,1.233,-166.089"
+	VolumColor = "0"
+	VolumeType = "64"
+}
+
+cEnvironmentVolume NorthSTrip_Bush5
+{
+	Rotation = "0.000,-0.283,0.000,0.651"
+	Scale = "0.379,0.284,0.392"
+	Translation = "126.711,1.227,-156.299"
+	VolumColor = "0"
+	VolumeType = "64"
+}
+
+cEnvironmentVolume NorthSTrip_Bush6
+{
+	Rotation = "0.000,-0.267,0.000,0.658"
+	Scale = "2.696,0.332,0.420"
+	Translation = "132.854,1.239,-150.097"
+	VolumColor = "0"
+	VolumeType = "64"
+}
+
+cEnvironmentVolume NorthSTrip_Bush7
+{
+	Rotation = "0.000,0.238,0.000,0.665"
+	Scale = "0.573,0.425,0.647"
+	Translation = "138.424,2.530,-144.810"
+	VolumColor = "0"
+	VolumeType = "64"
+}
+
+cEnvironmentVolume NorthStrip_Bush8
+{
+	Rotation = "0.000,-0.132,0.000,0.694"
+	Scale = "0.980,0.274,0.438"
+	Translation = "140.236,2.348,-135.536"
+	VolumColor = "0"
+	VolumeType = "64"
+}
+
+cEnvironmentVolume NorthSTrip_Bush9
+{
+	Rotation = "0.000,-0.274,0.000,0.651"
+	Scale = "0.503,0.207,0.359"
+	Translation = "140.911,1.282,-133.602"
+	VolumColor = "0"
+	VolumeType = "64"
+}
+
+cEnvironmentVolume NorthStrip_Bush10
+{
+	Rotation = "0.000,-0.268,0.000,0.653"
+	Scale = "0.881,0.183,0.333"
+	Translation = "145.519,1.258,-129.036"
+	VolumColor = "0"
+	VolumeType = "64"
+}
+
+cEnvironmentVolume NorthStrip_Bush11
+{
+	Rotation = "0.000,0.278,0.000,0.648"
+	Scale = "2.796,0.373,1.078"
+	Translation = "142.334,2.072,-126.276"
+	VolumColor = "0"
+	VolumeType = "64"
+}
+
+cEnvironmentVolume NorthStrip_Bush12
+{
+	Rotation = "0.000,-0.123,0.000,0.695"
+	Scale = "3.218,0.382,0.843"
+	Translation = "136.725,2.082,-126.375"
+	VolumColor = "0"
+	VolumeType = "64"
+}
+
+cEnvironmentVolume NorthStrip_Bush13
+{
+	Rotation = "0.000,-0.303,0.000,0.643"
+	Scale = "2.971,0.304,1.159"
+	Translation = "130.455,2.133,-131.682"
+	VolumColor = "0"
+	VolumeType = "64"
+}
+
+cEnvironmentVolume NorthStrip_Bush14
+{
+	Rotation = "0.000,0.448,0.000,0.548"
+	Scale = "0.471,0.234,1.308"
+	Translation = "133.712,1.898,-135.226"
+	VolumColor = "0"
+	VolumeType = "64"
+}
+
+cEnvironmentVolume Excitorama_Blend_5
+{
+	AcousticsName = "Room"
+	Rotation = "0.000,0.924,0.000,0.383"
+	Scale = "0.779,1.190,0.875"
+	Translation = "36.556,1.862,-66.008"
+	VolumColor = "0"
+	VolumeType = "1"
+}
+
+cEnvironmentVolume BuyAndSellDoorChime
+{
+	AcousticsName = "Room"
+	Rotation = "-0.000,0.380,0.000,0.925"
+	Scale = "1.569,1.725,0.5"
+	Translation = "50.154,2.382,-150.974"
+	VolumColor = "0"
+	VolumeType = "4"
+}
+
+
+cEnvironmentVolume Kilbride_Gifts1
+{
+	AcousticsName = "Store"
+	Rotation = "-0.000,1.000,0.000,0.002"
+	Scale = "3.717,2.125,6.509"
+	Translation = "-255.978,-2.152,44.712"
+	VolumColor = "0"
+	VolumeType = "1"
+}
+
+cEnvironmentVolume Kilbride_Gifts2
+{
+	AcousticsName = "Store"
+	Rotation = "0.000,-0.634,0.000,0.773"
+	Scale = "2.908,2.055,0.801"
+	Translation = "-259.415,-2.087,41.266"
+	VolumColor = "0"
+	VolumeType = "1"
+}
+
+cEnvironmentVolume Kilbride_Gifts3
+{
+	AcousticsName = "Store"
+	Rotation = "-0.000,0.234,0.000,0.972"
+	Scale = "7.818,2.164,5.484"
+	Translation = "-261.283,-2.030,49.929"
+	VolumColor = "0"
+	VolumeType = "1"
+}
+
+cEnvironmentVolume Kilbride_Gifts4
+{
+	AcousticsName = "Store"
+	Rotation = "-0.000,0.906,0.000,0.424"
+	Scale = "2.161,2.028,1.917"
+	Translation = "-268.996,-2.125,47.468"
+	VolumColor = "0"
+	VolumeType = "1"
+}
+
+cEnvironmentVolume Arena_Exterior1
+{
+	AcousticsName = "City"
+	Rotation = "-0.000,0.853,0.000,0.522"
+	Scale = "54.752,36.223,70.568"
+	Translation = "-363.047,20.265,25.729"
+	VolumColor = "0"
+	VolumeType = "1"
+}
+
+cEnvironmentVolume Cash_Gordons_Casino1
+{
+	AcousticsName = "CarpetedHallway"
+	Rotation = "0.000,-0.709,0.000,0.705"
+	Scale = "12.998,3.441,13.890"
+	Translation = "-250.464,-0.835,-18.830"
+	VolumColor = "0"
+	VolumeType = "1"
+}
+
+cEnvironmentVolume Cash_Gordons_Casino2
+{
+	AcousticsName = "CarpetedHallway"
+	Rotation = "0.000,0.382,0.000,0.924"
+	Scale = "9.633,2.940,9.656"
+	Translation = "-250.244,-1.340,-5.836"
+	VolumColor = "0"
+	VolumeType = "1"
+}
+
+cEnvironmentVolume Rosies_Diner1
+{
+	AcousticsName = "Store"
+	Rotation = "-0.000,0.707,0.000,0.708"
+	Scale = "5.730,2.370,10.322"
+	Translation = "-231.836,-0.387,38.911"
+	VolumColor = "0"
+	VolumeType = "1"
+}
+
+cEnvironmentVolume Rosies_Diner2
+{
+	AcousticsName = "Store"
+	Rotation = "0.000,0.000,0.000,1.000"
+	Scale = "4.741,1.844,2.598"
+	Translation = "-237.326,-0.893,32.757"
+	VolumColor = "0"
+	VolumeType = "1"
+}
+
+cEnvironmentVolume Combo_Room1
+{
+	AcousticsName = "Room"
+	Rotation = "-0.000,0.707,0.000,0.707"
+	Scale = "4.048,2.566,3.014"
+	Translation = "-233.417,-1.717,-23.671"
+	VolumColor = "0"
+	VolumeType = "1"
+}
+
+cEnvironmentVolume Juggz1
+{
+	AcousticsName = "Store"
+	Rotation = "0.000,-0.000,0.000,1.000"
+	Scale = "5.370,3.034,8.175"
+	Translation = "-224.774,-1.247,-7.066"
+	VolumColor = "0"
+	VolumeType = "1"
+}
+
+cEnvironmentVolume Venture_Cinema1
+{
+	AcousticsName = "Store "
+	Rotation = "-0.000,0.707,0.000,0.707"
+	Scale = "9.968,3.421,9.167"
+	Translation = "-209.419,-0.854,-13.139"
+	VolumColor = "0"
+	VolumeType = "1"
+}
+
+cEnvironmentVolume Moes_Novelties1
+{
+	AcousticsName = "Room"
+	Rotation = "-0.000,0.707,0.000,0.707"
+	Scale = "10.090,2.111,9.666"
+	Translation = "-207.858,-2.162,40.625"
+	VolumColor = "0"
+	VolumeType = "1"
+}
+
+cEnvironmentVolume Moes_Novelties2
+{
+	AcousticsName = "Room"
+	Rotation = "0.000,-0.707,0.000,0.707"
+	Scale = "1.374,2.099,3.763"
+	Translation = "-213.758,-2.177,30.324"
+	VolumColor = "0"
+	VolumeType = "1"
+}
+
+cEnvironmentVolume Moes_Novelties3
+{
+	AcousticsName = "Room"
+	Rotation = "0.000,-0.707,0.000,0.707"
+	Scale = "1.587,2.089,3.783"
+	Translation = "-202.083,-2.189,30.496"
+	VolumColor = "0"
+	VolumeType = "1"
+}
+
+cEnvironmentVolume SafeHouse_Alley1
+{
+	AcousticsName = "Alley"
+	Rotation = "-0.000,1.000,0.000,0.001"
+	Scale = "4.503,13.158,15.745"
+	Translation = "-269.027,5.288,-19.008"
+	VolumColor = "0"
+	VolumeType = "1"
+}
+
+cEnvironmentVolume Juggz_Alley1
+{
+	AcousticsName = "Alley"
+	Rotation = "0.000,-0.707,0.000,0.707"
+	Scale = "10.319,15.066,2.983"
+	Translation = "-233.447,10.765,-9.200"
+	VolumColor = "0"
+	VolumeType = "1"
+}
+
+cEnvironmentVolume Juggz_Alley2
+{
+	AcousticsName = "Alley"
+	Rotation = "-0.000,0.000,0.000,1.000"
+	Scale = "8.481,15.071,1.980"
+	Translation = "-227.856,10.790,-17.386"
+	VolumColor = "0"
+	VolumeType = "1"
+}
+
+cEnvironmentVolume Combo_Room2
+{
+	AcousticsName = "Room"
+	Rotation = "0.000,0.000,-0.000,1.000"
+	Scale = "3.006,2.569,4.042"
+	Translation = "-192.738,-1.713,36.255"
+	VolumColor = "0"
+	VolumeType = "1"
+}
+
+cEnvironmentVolume RoadVolume1
+{
+	AcousticsName = "City"
+	Rotation = "-0.000,0.382,0.000,0.924"
+	Scale = "23.834,30.513,15.348"
+	Translation = "-275.035,25.847,17.390"
+	VolumColor = "0"
+	VolumeType = "1"
+}
+
+cEnvironmentVolume Americana_Casino_Entrance1
+{
+	AcousticsName = "City"
+	Rotation = "-0.000,0.383,0.000,0.924"
+	Scale = "14.433,30.788,11.119"
+	Translation = "-287.310,25.468,0.558"
+	VolumColor = "0"
+	VolumeType = "1"
+}
+
+cEnvironmentVolume Cash_Gordons_Casino_Plug1
+{
+	AcousticsName = "City"
+	Rotation = "-0.000,0.382,0.000,0.924"
+	Scale = "11.569,30.285,6.110"
+	Translation = "-240.476,25.673,7.239"
+	VolumColor = "0"
+	VolumeType = "1"
+}
+
+cEnvironmentVolume Kilbride_Gifts_Plug1
+{
+	AcousticsName = "City"
+	Rotation = "-0.000,0.229,0.000,0.973"
+	Scale = "3.915,2.195,3.704"
+	Translation = "-265.212,-2.075,41.531"
+	VolumColor = "0"
+	VolumeType = "1"
+}
+
+cEnvironmentVolume Kilbride_Gifts_Plug2
+{
+	AcousticsName = "City"
+	Rotation = "-0.000,0.770,0.000,0.638"
+	Scale = "3.443,2.177,1.063"
+	Translation = "-261.720,-2.090,39.915"
+	VolumColor = "0"
+	VolumeType = "1"
+}
+
+cEnvironmentVolume Kilbride_Gifts_Plug3
+{
+	AcousticsName = "City"
+	Rotation = "0.000,-0.425,0.000,0.905"
+	Scale = "3.142,2.186,1.504"
+	Translation = "-267.882,-2.111,43.210"
+	VolumColor = "0"
+	VolumeType = "1"
+}
+
+cEnvironmentVolume Kilbride_Gifts_Plug4
+{
+	AcousticsName = "City"
+	Rotation = "-0.000,0.341,0.000,0.940"
+	Scale = "8.075,30.068,6.298"
+	Translation = "-270.935,25.800,37.881"
+	VolumColor = "0"
+	VolumeType = "1"
+}
+
+cEnvironmentVolume Kilbride_Gifts_Plug5
+{
+	AcousticsName = "City"
+	Rotation = "0.000,-0.001,-0.000,1.000"
+	Scale = "10.600,30.457,12.563"
+	Translation = "-257.835,25.827,25.459"
+	VolumColor = "0"
+	VolumeType = "1"
+}
+
+cEnvironmentVolume Rosies_Diner_Plug1
+{
+	AcousticsName = "City"
+	Rotation = "-0.000,0.707,0.000,0.707"
+	Scale = "2.227,2.519,3.916"
+	Translation = "-246.193,-1.917,30.830"
+	VolumColor = "0"
+	VolumeType = "1"
+}
+
+cEnvironmentVolume Rosies_Diner_Plug2
+{
+	AcousticsName = "City"
+	Rotation = "0.000,-0.001,0.000,1.000"
+	Scale = "7.338,4.680,2.370"
+	Translation = "-225.027,0.327,30.795"
+	VolumColor = "0"
+	VolumeType = "1"
+}
+
+cEnvironmentVolume Rosies_Diner_Plug3
+{
+	AcousticsName = "City"
+	Rotation = "0.000,-0.002,0.000,1.000"
+	Scale = "17.908,30.374,6.635"
+	Translation = "-235.795,25.960,23.487"
+	VolumColor = "0"
+	VolumeType = "1"
+}
+
+cEnvironmentVolume Moes_Novelties_Plug1
+{
+	AcousticsName = "City"
+	Rotation = "-0.000,0.001,0.000,1.000"
+	Scale = "2.013,1.968,1.896"
+	Translation = "-207.906,-2.364,28.526"
+	VolumColor = "0"
+	VolumeType = "1"
+}
+
+cEnvironmentVolume RoadVolume2
+{
+	AcousticsName = "City"
+	Rotation = "0.000,0.000,-0.000,1.000"
+	Scale = "10.844,21.901,15.777"
+	Translation = "-207.496,17.581,12.859"
+	VolumColor = "0"
+	VolumeType = "1"
+}
+
+cEnvironmentVolume Juggz_Plug1
+{
+	AcousticsName = "City"
+	Rotation = "0,0,0,1"
+	Scale = "12.635,21.979,8.347"
+	Translation = "-229.505,17.673,9.706"
+	VolumColor = "0"
+	VolumeType = "1"
+}
+
+cEnvironmentVolume RoadVolume3
+{
+	AcousticsName = "City"
+	Rotation = "-0.000,0.000,0.000,1.000"
+	Scale = "28.059,42.033,25.813"
+	Translation = "-169.930,36.600,6.302"
+	VolumColor = "0"
+	VolumeType = "1"
+}
+
+cEnvironmentVolume Combo_Room2_Door
+{
+	AcousticsName = "City"
+	DeactiveLPFRatio = "0.3"
+	DeactiveTransmitRatio = "0.3"
+	Rotation = "-0.000,0.002,0.000,1.000"
+	Scale = "1.686,1.307,1.249"
+	Translation = "-192.719,-3.035,31.919"
+	TransmitRatio = "1"
+	VolumColor = "0"
+	VolumeType = "8"
+}
+
+cEnvironmentVolume Moes_Novelties_Door
+{
+	AcousticsName = "City"
+	Rotation = "0.000,-0.001,-0.000,1.000"
+	Scale = "1.697,1.418,0.931"
+	Translation = "-208.014,-2.849,30.480"
+	VolumColor = "0"
+	VolumeType = "1"
+}
+
+cEnvironmentVolume Venture_Cinema_Door
+{
+	AcousticsName = "City"
+	Rotation = "-0.000,1.000,0.000,0.001"
+	Scale = "2.615,1.308,1.097"
+	Translation = "-209.350,-3.059,-2.970"
+	VolumColor = "0"
+	VolumeType = "1"
+}
+
+cEnvironmentVolume Juggz_Door1
+{
+	AcousticsName = "City"
+	Rotation = "-0.000,1.000,0.000,0.002"
+	Scale = "1.362,1.333,1.269"
+	Translation = "-224.821,-2.938,0.990"
+	VolumColor = "0"
+	VolumeType = "1"
+}
+
+cEnvironmentVolume Juggz_Door2
+{
+	AcousticsName = "City"
+	Rotation = "-0.000,0.707,0.000,0.707"
+	Scale = "1.433,1.334,1.176"
+	Translation = "-230.115,-3.030,-8.951"
+	VolumColor = "0"
+	VolumeType = "1"
+}
+
+cEnvironmentVolume Combo_Room1_Door
+{
+	AcousticsName = "City"
+	DeactiveLPFRatio = "0.3"
+	DeactiveTransmitRatio = "0.2"
+	Rotation = "0.000,-1.000,0.000,0.000"
+	Scale = "1.651,1.190,0.961"
+	Translation = "-233.414,-3.093,-19.420"
+	TransmitRatio = "1"
+	VolumColor = "0"
+	VolumeType = "8"
+}
+
+cEnvironmentVolume Rosies_Diner_Door1
+{
+	AcousticsName = "City"
+	DeactiveLPFRatio = "0.2"
+	DeactiveTransmitRatio = "0.3"
+	LPFRatio = "0"
+	Rotation = "0.000,-0.001,-0.000,1.000"
+	Scale = "1.396,1.182,1.246"
+	Translation = "-235.114,-1.614,30.132"
+	TransmitRatio = "1"
+	VolumColor = "0"
+	VolumeType = "8"
+}
+
+cEnvironmentVolume Cash_Gordons_Casino_Door1
+{
+	AcousticsName = "City"
+	Rotation = "0.000,-0.924,0.000,0.383"
+	Scale = "2.941,1.725,1.133"
+	Translation = "-246.990,-2.543,5.113"
+	VolumColor = "0"
+	VolumeType = "1"
+}
+
+cEnvironmentVolume Cash_Gordons_Casino_Door2
+{
+	AcousticsName = "City"
+	Rotation = "-0.000,0.925,0.000,0.381"
+	Scale = "2.938,1.723,1.377"
+	Translation = "-253.293,-2.547,5.347"
+	VolumColor = "0"
+	VolumeType = "1"
+}
+
+cEnvironmentVolume Kilbride_Gifts_Door1
+{
+	AcousticsName = "City"
+	DeactiveLPFRatio = "0"
+	DeactiveTransmitRatio = "0.3"
+	LPFRatio = "0"
+	Rotation = "-0.000,0.234,0.000,0.972"
+	Scale = "1.642,1.303,1.060"
+	Translation = "-263.653,-2.963,44.772"
+	TransmitRatio = "1"
+	VolumColor = "0"
+	VolumeType = "8"
+}
+
+cEnvironmentVolume Arena_Exterior2
+{
+	AcousticsName = "City"
+	Rotation = "-0.000,0.669,0.000,0.743"
+	Scale = "19.073,22.945,21.482"
+	Translation = "-380.065,15.146,100.011"
+	VolumColor = "0"
+	VolumeType = "1"
+}
+
+cEnvironmentVolume Combo_Room3
+{
+	AcousticsName = "Room"
+	Rotation = "-0.000,0.667,0.000,0.745"
+	Scale = "3.048,2.644,4.069"
+	Translation = "-353.000,-5.211,87.831"
+	VolumColor = "0"
+	VolumeType = "1"
+}
+
+cEnvironmentVolume Combo_Room3_Door
+{
+	AcousticsName = "City"
+	DeactiveLPFRatio = "0.3"
+	DeactiveTransmitRatio = "0.3"
+	Rotation = "-0.000,0.669,0.000,0.743"
+	Scale = "1.657,1.262,0.932"
+	Translation = "-357.190,-6.549,87.404"
+	TransmitRatio = "1"
+	VolumColor = "0"
+	VolumeType = "8"
+}
+
+cEnvironmentVolume Arena_Exterior3
+{
+	AcousticsName = "City"
+	Rotation = "-0.000,0.819,0.000,0.574"
+	Scale = "12.175,34.704,40.513"
+	Translation = "-307.882,26.622,67.518"
+	VolumColor = "0"
+	VolumeType = "1"
+}
+
+cEnvironmentVolume SniperPlug1
+{
+	AcousticsName = "City"
+	Rotation = "0.000,-1.000,0.000,0.001"
+	Scale = "21.298,15.409,15.441"
+	Translation = "-212.587,18.677,-12.850"
+	VolumColor = "0"
+	VolumeType = "1"
+}
+
+cEnvironmentVolume WaterVolume1
+{
+	Rotation = "0.000,0.000,0.000,1.000"
+	Scale = "7.618,0.334,2.837"
+	Translation = "-143.845,-1.459,6.937"
+	VolumColor = "0"
+	VolumeType = "36"
+}
+
+cEnvironmentVolume WaterVolume5
+{
+	Rotation = "0.132,-0.571,0.101,0.806"
+	Scale = "3.717,0.472,4.088"
+	Translation = "-329.288,-7.085,43.241"
+	VolumColor = "0"
+	VolumeType = "36"
+}
+
+cEnvironmentVolume WaterVolume6
+{
+	Rotation = "0.000,-0.782,0.000,0.624"
+	Scale = "1.909,0.185,1.585"
+	Translation = "-334.229,-8.026,42.756"
+	VolumColor = "0"
+	VolumeType = "36"
+}
+
+cEnvironmentVolume WaterVolume2
+{
+	Rotation = "0.000,0.979,0.000,0.204"
+	Scale = "2.820,0.353,5.747"
+	Translation = "-130.200,-1.242,6.843"
+	VolumColor = "0"
+	VolumeType = "36"
+}
+
+cEnvironmentVolume WaterVolume3
+{
+	Rotation = "-0.000,0.970,0.000,-0.243"
+	Scale = "2.644,0.357,5.789"
+	Translation = "-130.264,-1.238,7.015"
+	VolumColor = "0"
+	VolumeType = "36"
+}
+
+cEnvironmentVolume WaterVolume4
+{
+	Rotation = "-0.107,0.699,0.107,0.699"
+	Scale = "2.749,0.616,4.667"
+	Translation = "-155.546,-3.136,6.949"
+	VolumColor = "0"
+	VolumeType = "36"
+}
+
+cEnvironmentVolume WaterVolume7
+{
+	Rotation = "-0.114,0.803,0.153,0.564"
+	Scale = "3.141,0.427,1.769"
+	Translation = "-324.492,-5.256,41.703"
+	VolumColor = "0"
+	VolumeType = "36"
+}
+
+cEnvironmentVolume WaterVolume8
+{
+	Rotation = "0.000,-0.888,0.000,0.460"
+	Scale = "1.484,0.189,1.659"
+	Translation = "-332.677,-8.022,47.140"
+	VolumColor = "0"
+	VolumeType = "36"
+}
+
+cEnvironmentVolume WaterVolume9
+{
+	Rotation = "-0.000,0.198,0.000,0.980"
+	Scale = "1.795,0.189,1.659"
+	Translation = "-333.874,-8.022,45.171"
+	VolumColor = "0"
+	VolumeType = "36"
+}
+
+cEnvironmentVolume WaterVolume10
+{
+	Rotation = "0.000,0.000,0.000,1.000"
+	Scale = "4.166,0.623,2.839"
+	Translation = "-163.410,-4.479,6.958"
+	VolumColor = "0"
+	VolumeType = "37"
+}
+
+cEnvironmentVolume WaterVolume13
+{
+	Rotation = "-0.000,0.708,0.000,0.706"
+	Scale = "3.291,0.558,5.806"
+	Translation = "-130.526,-1.475,6.875"
+	VolumColor = "0"
+	VolumeType = "32"
+}
+
+cEnvironmentVolume Kilbride_Gifts_Window3
+{
+	AcousticsName = "City"
+	Rotation = "0.000,-0.971,0.000,0.239"
+	Scale = "0.754,1.183,1.292"
+	Translation = "-260.858,-2.823,44.278"
+	VolumColor = "0"
+	VolumeType = "8"
+}
+
+cEnvironmentVolume Kilbride_Gifts_Window4
+{
+	AcousticsName = "City"
+	Rotation = "0.000,-0.640,0.000,0.769"
+	Scale = "1.850,1.196,1.389"
+	Translation = "-259.749,-2.786,40.829"
+	VolumColor = "0"
+	VolumeType = "8"
+}
+
+cEnvironmentVolume Kilbride_Gifts_Window5
+{
+	AcousticsName = "City"
+	Rotation = "-0.000,1.000,0.000,0.001"
+	Scale = "3.092,1.202,1.420"
+	Translation = "-256.390,-2.784,38.767"
+	VolumColor = "0"
+	VolumeType = "8"
+}
+
+cEnvironmentVolume Juggz_Window1
+{
+	AcousticsName = "City"
+	Rotation = "-0.000,0.707,0.000,0.707"
+	Scale = "1.814,1.162,1.361"
+	Translation = "-229.850,-2.792,-12.466"
+	VolumColor = "0"
+	VolumeType = "1"
+}
+
+cEnvironmentVolume Juggz_Window2
+{
+	AcousticsName = "City"
+	Rotation = "-0.000,0.707,0.000,0.707"
+	Scale = "1.810,1.162,1.095"
+	Translation = "-230.163,-2.791,-5.497"
+	VolumColor = "0"
+	VolumeType = "1"
+}
+
+cEnvironmentVolume Juggz_Window3
+{
+	AcousticsName = "City"
+	Rotation = "0.000,-0.706,0.000,0.708"
+	Scale = "1.417,1.205,1.508"
+	Translation = "-230.056,-2.749,-1.138"
+	VolumColor = "0"
+	VolumeType = "1"
+}
+
+cEnvironmentVolume Juggz_Window4
+{
+	AcousticsName = "City"
+	Rotation = "-0.000,0.001,0.000,1.000"
+	Scale = "1.369,1.179,1.489"
+	Translation = "-227.889,-2.775,0.891"
+	VolumColor = "0"
+	VolumeType = "1"
+}
+
+cEnvironmentVolume Juggz_Window5
+{
+	AcousticsName = "City"
+	Rotation = "-0.000,0.001,0.000,1.000"
+	Scale = "1.499,1.179,1.489"
+	Translation = "-221.837,-2.775,0.879"
+	VolumColor = "0"
+	VolumeType = "1"
+}
+
+cEnvironmentVolume Rosies_Diner_Window1
+{
+	AcousticsName = "City"
+	Rotation = "0.000,-1.000,0.000,0.000"
+	Scale = "1.458,0.560,0.940"
+	Translation = "-244.111,-1.136,33.475"
+	VolumColor = "0"
+	VolumeType = "8"
+}
+
+cEnvironmentVolume Rosies_Diner_Window2
+{
+	AcousticsName = "City"
+	Rotation = "-0.000,1.000,0.000,0.001"
+	Scale = "0.887,0.564,0.631"
+	Translation = "-240.053,-1.134,30.455"
+	VolumColor = "0"
+	VolumeType = "8"
+}
+
+cEnvironmentVolume Rosies_Diner_Window3
+{
+	AcousticsName = "City"
+	Rotation = "-0.000,1.000,0.000,0.001"
+	Scale = "0.887,0.564,0.672"
+	Translation = "-237.752,-1.134,30.418"
+	VolumColor = "0"
+	VolumeType = "8"
+}
+
+cEnvironmentVolume Rosies_Diner_Window4
+{
+	AcousticsName = "City"
+	Rotation = "-0.000,1.000,0.000,0.000"
+	Scale = "1.142,0.563,0.879"
+	Translation = "-230.989,-1.133,33.669"
+	VolumColor = "0"
+	VolumeType = "8"
+}
+
+cEnvironmentVolume Rosies_Diner_Window5
+{
+	AcousticsName = "City"
+	Rotation = "0.000,1.000,0.000,0.000"
+	Scale = "1.092,0.563,0.879"
+	Translation = "-228.227,-1.133,33.669"
+	VolumColor = "0"
+	VolumeType = "8"
+}
+
+cEnvironmentVolume Rosies_Diner_Window6
+{
+	AcousticsName = "City"
+	Rotation = "0.000,1.000,0.000,0.000"
+	Scale = "1.092,0.604,0.879"
+	Translation = "-225.437,-1.117,33.669"
+	VolumColor = "0"
+	VolumeType = "8"
+}
+
+cEnvironmentVolume Rosies_Diner3
+{
+	AcousticsName = "Store"
+	Rotation = "-0.000,0.707,0.000,0.707"
+	Scale = "1.766,2.370,10.255"
+	Translation = "-234.840,-0.387,46.824"
+	VolumColor = "0"
+	VolumeType = "1"
+}
+
+cEnvironmentVolume Rosies_Diner4
+{
+	AcousticsName = "Store"
+	Rotation = "-0.000,0.707,0.000,0.707"
+	Scale = "1.219,2.370,8.281"
+	Translation = "-238.688,-0.387,44.605"
+	VolumColor = "0"
+	VolumeType = "1"
+}
+
+cEnvironmentVolume Moes_Novelties_Window1
+{
+	AcousticsName = "City"
+	Rotation = "0.000,-1.000,0.000,0.001"
+	Scale = "2.874,1.351,1.113"
+	Translation = "-214.364,-2.318,29.321"
+	VolumColor = "0"
+	VolumeType = "8"
+}
+
+cEnvironmentVolume Moes_Novelties_Window2
+{
+	AcousticsName = "City"
+	Rotation = "0.000,-1.000,0.000,0.001"
+	Scale = "2.986,1.370,1.128"
+	Translation = "-201.374,-2.299,29.310"
+	VolumColor = "0"
+	VolumeType = "8"
+}
+
+cEnvironmentVolume Rosies_Diner_Roof_Plug1
+{
+	AcousticsName = "City"
+	Rotation = "0.000,-0.000,0.000,1.000"
+	Scale = "16.452,9.100,4.496"
+	Translation = "-232.956,12.459,30.154"
+	VolumColor = "0"
+	VolumeType = "1"
+}
+
+cEnvironmentVolume Moes_Novelties_Roof_Plug1
+{
+	AcousticsName = "City"
+	Rotation = "-0.000,0.000,0.000,1.000"
+	Scale = "12.326,8.251,8.808"
+	Translation = "-208.659,8.276,32.042"
+	VolumColor = "0"
+	VolumeType = "1"
+}
+
+cEnvironmentVolume BushVolume14
+{
+	Rotation = "0.000,0.937,-0.000,0.350"
+	Scale = "1.574,0.351,0.955"
+	Translation = "-271.763,-3.989,-24.563"
+	VolumColor = "0"
+	VolumeType = "64"
+}
+
+cEnvironmentVolume BushVolume15
+{
+	Rotation = "-0.000,0.269,0.000,0.963"
+	Scale = "1.755,0.480,0.806"
+	Translation = "-198.849,-3.285,0.120"
+	VolumColor = "0"
+	VolumeType = "64"
+}
+
+cEnvironmentVolume BushVolume16
+{
+	Rotation = "-0.000,0.382,0.000,0.924"
+	Scale = "1.064,0.480,0.740"
+	Translation = "-190.627,-3.356,-3.547"
+	VolumColor = "0"
+	VolumeType = "64"
+}
+
+cEnvironmentVolume BushVolume17
+{
+	Rotation = "0.000,-0.161,-0.000,0.987"
+	Scale = "2.032,0.535,1.178"
+	Translation = "-184.761,-3.304,-10.570"
+	VolumColor = "0"
+	VolumeType = "64"
+}
+
+cEnvironmentVolume BushVolume18
+{
+	Rotation = "-0.000,0.711,0.000,0.703"
+	Scale = "0.810,0.315,1.364"
+	Translation = "-178.573,-3.398,-10.421"
+	VolumColor = "0"
+	VolumeType = "64"
+}
+
+cEnvironmentVolume Kilbride_Gifts_Window1
+{
+	AcousticsName = "City"
+	Rotation = "0.000,-0.429,0.000,0.903"
+	Scale = "1.784,1.215,1.072"
+	Translation = "-268.769,-2.783,45.261"
+	VolumColor = "0"
+	VolumeType = "8"
+}
+
+cEnvironmentVolume Kilbride_Gifts_Window2
+{
+	AcousticsName = "City"
+	Rotation = "0.000,-0.971,0.000,0.239"
+	Scale = "0.770,1.183,1.298"
+	Translation = "-265.471,-2.823,46.689"
+	VolumColor = "0"
+	VolumeType = "8"
+}
+
+cEnvironmentVolume BushVolume19
+{
+	Rotation = "-0.000,0.012,0.000,1.000"
+	Scale = "3.229,0.523,1.021"
+	Translation = "-169.504,-3.319,-11.064"
+	VolumColor = "0"
+	VolumeType = "64"
+}
+
+cEnvironmentVolume BushVolume20
+{
+	Rotation = "-0.000,0.011,0.000,1.000"
+	Scale = "0.916,0.389,0.795"
+	Translation = "-162.084,-3.324,-7.311"
+	VolumColor = "0"
+	VolumeType = "64"
+}
+
+cEnvironmentVolume BushVolume21
+{
+	Rotation = "-0.000,0.040,0.000,0.999"
+	Scale = "1.317,0.401,0.631"
+	Translation = "-153.696,-3.312,-7.756"
+	VolumColor = "0"
+	VolumeType = "64"
+}
+
+cEnvironmentVolume BushVolume22
+{
+	Rotation = "0.000,-0.002,0.000,1.000"
+	Scale = "0.685,0.565,0.511"
+	Translation = "-153.528,-0.308,3.615"
+	VolumColor = "0"
+	VolumeType = "64"
+}
+
+cEnvironmentVolume Rosies_Diner5
+{
+	AcousticsName = "Store"
+	Rotation = "-0.000,0.000,0.000,1.000"
+	Scale = "1.921,2.224,5.589"
+	Translation = "-245.020,-0.529,39.481"
+	VolumColor = "0"
+	VolumeType = "1"
+}
+
+cEnvironmentVolume Rosies_Diner6
+{
+	AcousticsName = "Store"
+	Rotation = "0.000,-0.924,0.000,0.382"
+	Scale = "0.492,1.647,0.277"
+	Translation = "-246.372,-1.090,33.752"
+	VolumColor = "0"
+	VolumeType = "1"
+}
+
+cEnvironmentVolume Rosies_Diner_CornerPlug1
+{
+	AcousticsName = "City"
+	Rotation = "0.000,-0.924,0.000,0.382"
+	Scale = "0.706,1.689,0.412"
+	Translation = "-246.913,-1.132,33.178"
+	VolumColor = "0"
+	VolumeType = "1"
+}
+
+cEnvironmentVolume BushVolume1
+{
+	Rotation = "-0.000,0.993,0.000,0.120"
+	Scale = "3.186,0.525,1.182"
+	Translation = "-379.124,-4.277,112.195"
+	VolumColor = "0"
+	VolumeType = "64"
+}
+
+cEnvironmentVolume BushVolume2
+{
+	Rotation = "-0.000,0.519,0.000,0.855"
+	Scale = "3.432,0.414,1.006"
+	Translation = "-412.745,-4.297,20.399"
+	VolumColor = "0"
+	VolumeType = "64"
+}
+
+cEnvironmentVolume BushVolume3
+{
+	Rotation = "-0.000,0.008,0.000,1.000"
+	Scale = "5.867,1.083,1.405"
+	Translation = "-373.098,-6.392,29.936"
+	VolumColor = "0"
+	VolumeType = "64"
+}
+
+cEnvironmentVolume BushVolume4
+{
+	Rotation = "0.000,0.089,-0.000,0.996"
+	Scale = "1.059,0.451,0.845"
+	Translation = "-363.363,-7.148,28.839"
+	VolumColor = "0"
+	VolumeType = "64"
+}
+
+cEnvironmentVolume BushVolume5
+{
+	Rotation = "0.000,0.097,-0.000,0.995"
+	Scale = "1.189,0.468,0.858"
+	Translation = "-355.573,-7.084,26.217"
+	VolumColor = "0"
+	VolumeType = "64"
+}
+
+cEnvironmentVolume BushVolume6
+{
+	Rotation = "0.000,0.396,-0.000,0.918"
+	Scale = "1.390,0.444,1.100"
+	Translation = "-350.369,-7.242,25.807"
+	VolumColor = "0"
+	VolumeType = "64"
+}
+
+cEnvironmentVolume BushVolume7
+{
+	Rotation = "0.000,-0.942,0.000,0.335"
+	Scale = "1.294,0.452,0.858"
+	Translation = "-347.386,-7.105,20.803"
+	VolumColor = "0"
+	VolumeType = "64"
+}
+
+cEnvironmentVolume BushVolume8
+{
+	Rotation = "0.000,0.028,-0.000,1.000"
+	Scale = "2.055,1.060,2.153"
+	Translation = "-339.832,-6.535,17.028"
+	VolumColor = "0"
+	VolumeType = "64"
+}
+
+cEnvironmentVolume BushVolume9
+{
+	Rotation = "-0.000,0.858,0.000,0.514"
+	Scale = "4.370,0.569,2.210"
+	Translation = "-334.127,-3.708,19.476"
+	VolumColor = "0"
+	VolumeType = "64"
+}
+
+cEnvironmentVolume BushVolume10
+{
+	Rotation = "0.000,-0.114,0.000,0.993"
+	Scale = "2.018,0.701,1.328"
+	Translation = "-330.224,-3.816,23.912"
+	VolumColor = "0"
+	VolumeType = "64"
+}
+
+cEnvironmentVolume BushVolume11
+{
+	Rotation = "0.000,-0.998,0.000,0.067"
+	Scale = "0.942,0.468,0.819"
+	Translation = "-322.112,-3.889,19.889"
+	VolumColor = "0"
+	VolumeType = "64"
+}
+
+cEnvironmentVolume BushVolume12
+{
+	Rotation = "0.000,-0.122,0.000,0.993"
+	Scale = "3.119,0.480,0.628"
+	Translation = "-278.353,-3.328,-5.637"
+	VolumColor = "0"
+	VolumeType = "64"
+}
+
+cEnvironmentVolume BushVolume13
+{
+	Rotation = "-0.000,0.007,0.000,1.000"
+	Scale = "1.045,1.045,0.864"
+	Translation = "-271.128,-2.760,-6.668"
+	VolumColor = "0"
+	VolumeType = "64"
+}
+
+cEnvironmentVolume BushVolume23
+{
+	Rotation = "0.000,-0.710,0.000,0.705"
+	Scale = "0.472,0.517,0.637"
+	Translation = "-153.418,-0.350,10.390"
+	VolumColor = "0"
+	VolumeType = "64"
+}
+
+cEnvironmentVolume BushVolume24
+{
+	Rotation = "0.000,-0.704,-0.000,0.710"
+	Scale = "0.618,0.989,1.500"
+	Translation = "-158.249,-2.573,3.493"
+	VolumColor = "0"
+	VolumeType = "64"
+}
+
+cEnvironmentVolume BushVolume25
+{
+	Rotation = "0.000,-0.700,0.000,0.714"
+	Scale = "0.589,1.128,1.908"
+	Translation = "-157.971,-2.627,10.151"
+	VolumColor = "0"
+	VolumeType = "64"
+}
+
+cEnvironmentVolume BushVolume26
+{
+	Rotation = "0.000,-0.707,0.000,0.707"
+	Scale = "0.435,0.489,0.682"
+	Translation = "-167.285,-3.127,3.511"
+	VolumColor = "0"
+	VolumeType = "64"
+}
+
+cEnvironmentVolume BushVolume27
+{
+	Rotation = "0.000,-0.704,0.000,0.710"
+	Scale = "0.430,0.479,0.660"
+	Translation = "-167.297,-3.136,10.335"
+	VolumColor = "0"
+	VolumeType = "64"
+}
+
+cEnvironmentVolume BushVolume28
+{
+	Rotation = "-0.000,1.000,0.000,0.003"
+	Scale = "0.871,0.376,0.684"
+	Translation = "-160.626,-3.333,20.498"
+	VolumColor = "0"
+	VolumeType = "64"
+}
+
+cEnvironmentVolume BushVolume29
+{
+	Rotation = "0.000,-0.978,0.000,0.209"
+	Scale = "0.912,0.528,0.758"
+	Translation = "-168.223,-3.181,19.533"
+	VolumColor = "0"
+	VolumeType = "64"
+}
+
+cEnvironmentVolume BushVolume30
+{
+	Rotation = "-0.000,0.270,0.000,0.963"
+	Scale = "3.016,0.344,0.798"
+	Translation = "-181.841,-3.392,12.750"
+	VolumColor = "0"
+	VolumeType = "64"
+}
+
+cEnvironmentVolume BushVolume31
+{
+	Rotation = "0.000,-0.764,0.000,0.645"
+	Scale = "0.880,0.345,1.259"
+	Translation = "-193.391,-3.404,15.673"
+	VolumColor = "0"
+	VolumeType = "64"
+}
+
+cEnvironmentVolume BushVolume32
+{
+	Rotation = "-0.000,0.996,0.000,0.084"
+	Scale = "1.472,0.367,1.038"
+	Translation = "-202.322,-3.346,14.126"
+	VolumColor = "0"
+	VolumeType = "64"
+}
+
+cEnvironmentVolume BushVolume33
+{
+	Rotation = "0.000,-0.978,0.000,0.207"
+	Scale = "1.285,0.515,1.073"
+	Translation = "-210.996,-3.329,13.956"
+	VolumColor = "0"
+	VolumeType = "64"
+}
+
+cEnvironmentVolume BushVolume34
+{
+	Rotation = "0.000,-0.917,0.000,0.399"
+	Scale = "0.603,0.504,0.706"
+	Translation = "-217.306,-3.209,17.208"
+	VolumColor = "0"
+	VolumeType = "64"
+}
+
+cEnvironmentVolume BushVolume35
+{
+	Rotation = "-0.000,0.536,0.000,0.844"
+	Scale = "0.616,0.409,0.688"
+	Translation = "-237.081,-3.357,11.757"
+	VolumColor = "0"
+	VolumeType = "64"
+}
+
+cEnvironmentVolume BushVolume36
+{
+	Rotation = "-0.000,1.000,0.000,0.012"
+	Scale = "0.988,0.387,0.893"
+	Translation = "-259.814,-3.326,16.501"
+	VolumColor = "0"
+	VolumeType = "64"
+}
+
+cEnvironmentVolume BushVolume37
+{
+	Rotation = "0.000,-0.987,0.000,0.160"
+	Scale = "1.688,0.627,3.247"
+	Translation = "-305.687,-3.991,35.003"
+	VolumColor = "0"
+	VolumeType = "64"
+}
+
+cEnvironmentVolume BushVolume38
+{
+	Rotation = "0.000,-1.000,0.000,0.019"
+	Scale = "1.131,0.583,0.887"
+	Translation = "-291.697,-3.130,30.302"
+	VolumColor = "0"
+	VolumeType = "64"
+}
+
+cEnvironmentVolume BushVolume39
+{
+	Rotation = "-0.000,0.994,0.000,0.109"
+	Scale = "3.794,0.567,1.437"
+	Translation = "-308.969,-3.842,39.785"
+	VolumColor = "0"
+	VolumeType = "64"
+}
+
+cEnvironmentVolume BushVolume40
+{
+	Rotation = "0.000,-0.510,-0.000,0.860"
+	Scale = "3.678,0.773,2.175"
+	Translation = "-311.997,-4.175,36.999"
+	VolumColor = "0"
+	VolumeType = "64"
+}
+
+cEnvironmentVolume BushVolume41
+{
+	Rotation = "0.000,-0.961,0.000,0.277"
+	Scale = "0.641,0.496,0.538"
+	Translation = "-323.997,-3.759,37.426"
+	VolumColor = "0"
+	VolumeType = "64"
+}
+
+cEnvironmentVolume BushVolume42
+{
+	Rotation = "-0.000,0.758,0.000,0.653"
+	Scale = "0.546,0.568,0.614"
+	Translation = "-321.374,-3.649,44.634"
+	VolumColor = "0"
+	VolumeType = "64"
+}
+
+cEnvironmentVolume BushVolume43
+{
+	Rotation = "-0.000,0.307,0.000,0.952"
+	Scale = "1.858,0.447,0.489"
+	Translation = "-331.105,-3.738,48.681"
+	VolumColor = "0"
+	VolumeType = "64"
+}
+
+cEnvironmentVolume BushVolume44
+{
+	Rotation = "-0.000,0.717,0.000,0.698"
+	Scale = "0.587,0.595,1.098"
+	Translation = "-334.387,-3.806,40.358"
+	VolumColor = "0"
+	VolumeType = "64"
+}
+
+cEnvironmentVolume BushVolume45
+{
+	Rotation = "0.000,-0.986,0.000,0.166"
+	Scale = "10.131,0.554,1.257"
+	Translation = "-344.326,-7.156,75.441"
+	VolumColor = "0"
+	VolumeType = "64"
+}
+
+cEnvironmentVolume BushVolume46
+{
+	Rotation = "0.000,-0.904,0.000,0.428"
+	Scale = "1.686,0.311,1.228"
+	Translation = "-323.404,-7.277,69.154"
+	VolumColor = "0"
+	VolumeType = "64"
+}
+
+cEnvironmentVolume BushVolume47
+{
+	Rotation = "-0.000,0.682,0.000,0.731"
+	Scale = "5.352,0.745,2.020"
+	Translation = "-318.022,-4.192,63.916"
+	VolumColor = "0"
+	VolumeType = "64"
+}
+
+cEnvironmentVolume BushVolume48
+{
+	Rotation = "0.000,-0.451,-0.000,0.892"
+	Scale = "4.720,0.639,1.607"
+	Translation = "-307.046,-4.134,59.846"
+	VolumColor = "0"
+	VolumeType = "64"
+}
+
+cEnvironmentVolume Rosies_Diner7
+{
+	AcousticsName = "Store"
+	Rotation = "-0.000,0.707,0.000,0.708"
+	Scale = "5.757,2.370,2.702"
+	Translation = "-243.508,-0.387,38.867"
+	VolumColor = "0"
+	VolumeType = "1"
+}
+
+cEnvironmentVolume WaterVolume14
+{
+	Rotation = "0.000,-0.589,0.000,0.808"
+	Scale = "1.367,0.229,3.392"
+	Translation = "-350.077,-6.692,50.738"
+	VolumColor = "0"
+	VolumeType = "36"
+}
+
+cEnvironmentVolume WaterVolume15
+{
+	Rotation = "0.000,-0.850,0.000,0.527"
+	Scale = "1.367,0.229,3.392"
+	Translation = "-350.077,-6.692,50.738"
+	VolumColor = "0"
+	VolumeType = "36"
+}
+
+cEnvironmentVolume WaterVolume16
+{
+	Rotation = "0.000,-0.984,0.000,0.157"
+	Scale = "1.367,0.229,3.392"
+	Translation = "-350.077,-6.692,50.738"
+	VolumColor = "0"
+	VolumeType = "36"
+}
+
+cEnvironmentVolume WaterVolume17
+{
+	Rotation = "0.000,-0.970,0.000,-0.234"
+	Scale = "1.367,0.229,3.392"
+	Translation = "-350.077,-6.692,50.738"
+	VolumColor = "0"
+	VolumeType = "36"
+}
+
+cEnvironmentVolume MoesDoorChimeTrigger
+{
+	AcousticsName = "City"
+	Rotation = "0.000,-0.001,-0.000,1.000"
+	Scale = "1.897,1.418,0.731"
+	Translation = "-208.014,-2.849,30.480"
+	VolumColor = "0"
+	VolumeType = "4"
+}
+
+
+cEnvironmentVolume LevelBoundingBox
+{
+	Rotation = "0,0,0,1"
+	Scale = "320.210,100.000,200.318"
+	Translation = "-120.0,0.000,-40.0"
+	VolumColor = "4"
+	VolumeType = "16"
+}
+
+

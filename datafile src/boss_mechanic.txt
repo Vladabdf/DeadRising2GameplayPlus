@@ -1,0 +1,168 @@
+bossdef boss_mechanic
+{
+	
+	statedef Melee
+	{
+		min_time   = 5.0
+		max_time   = 12.0
+		min_delay  = 5.0
+		min_dist   = 0.0
+		max_dist   = 8.0
+		max_angle  = 135.0
+	}
+
+	statedef MeleeSpecial
+	{
+		min_delay  = 3.0
+		min_dist   = 0.0
+		max_dist   = 1.5
+		max_angle  = 30.0
+		max_time   = 5.0
+	}
+
+	statedef Shoot
+	{
+		min_dist   = 8.0
+		max_dist   = 100.0
+		min_time   = 3.0
+		max_time   = 4.0
+	}
+
+	statedef Clearout
+	{
+		min_delay  = 2.0
+		min_dist   = 0.0
+		max_dist   = 2.0
+		max_angle  = 45.0
+	}
+
+	statedef Relent
+	{
+		min_time   = 2.5
+		max_time   = 5.0
+	}
+
+	statedef Taunt
+	{
+		min_delay  = 5.0
+		min_dist   = 5.0
+	}
+
+	statedef Cover
+	{
+		min_time   = 2.0
+		max_time   = 7.0
+		min_dist   = 5.0
+	}
+
+	locodef
+	{
+		name       = "idle"
+		id         = 0
+		in_speed   = 0.0
+		in_angle   = 0.0
+		out_speed  = 0.0
+		out_angle  = 0.0
+		turn_angle = 0.0
+	}
+
+	locodef
+	{
+		name       = "pivot90"
+		id         = 1
+		in_speed   = 0.0
+		in_angle   = 0.0
+		out_speed  = 0.0
+		out_angle  = 0.0 
+		turn_angle = -90.0
+	}
+
+	locodef
+	{
+		name       = "pivot90neg"
+		id         = 2
+		in_speed   = 0.0
+		in_angle   = 0.0
+		out_speed  = 0.0
+		out_angle  = 0.0 
+		turn_angle = 90.0
+	}
+
+	locodef
+	{
+		name       = "pivot180"
+		id         = 3
+		in_speed   = 0.0
+		in_angle   = 0.0
+		out_speed  = 0.0
+		out_angle  = 0.0
+		turn_angle = -180.0
+	}
+
+	locodef
+	{
+		name       = "pivot180neg"
+		id         = 4
+		in_speed   = 0.0
+		in_angle   = 0.0
+		out_speed  = 0.0
+		out_angle  = 0.0
+		turn_angle = 180.0
+	}
+
+	locodef
+	{
+		name       = "run"
+		id         = 5
+		in_speed   = 1.0
+		in_angle   = 0.0
+		out_speed  = 1.0
+		out_angle  = 0.0 
+		turn_angle = 0.0
+	}
+
+	locodef
+	{
+		name       = "idle_pivot90_run"
+		id         = 8
+		in_speed   = 0.0
+		in_angle   = 0.0
+		out_speed  = 1.0
+		out_angle  = 0.0 
+		turn_angle = -90.0
+	}
+
+	locodef
+	{
+		name       = "idle_pivot90neg_run"
+		id         = 9
+		in_speed   = 0.0
+		in_angle   = 0.0
+		out_speed  = 1.0
+		out_angle  = 0.0 
+		turn_angle = 90.0
+	}
+
+	locodef
+	{
+		name       = "idle_pivot180_run"
+		id         = 10
+		in_speed   = 0.0
+		in_angle   = 0.0
+		out_speed  = 1.0
+		out_angle  = 0.0 
+		turn_angle = -180.0
+	}
+
+
+	locodef
+	{
+		name       = "idle_pivot180neg_run"
+		id         = 11
+		in_speed   = 0.0
+		in_angle   = 0.0
+		out_speed  = 1.0
+		out_angle  = 0.0 
+		turn_angle = 180.0
+	}
+}

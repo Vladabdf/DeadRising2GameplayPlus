@@ -1,0 +1,31 @@
+cWaypoint Start
+{
+	Location = "0.0,0.0,0.0"
+	Type = "0"
+}
+
+cWaypoint Destination
+{
+	Location = "0.0,0.0,0.0"
+	Type = "0"
+}
+
+cTriggerVolume GiveProp
+{
+	ActionType = "8"
+	Color = "16711680"
+	DisplayName = "BaseballBat"
+	Height = "2.0"
+	InteractButton = "true"
+	InteractionIconOffset = "0,0,0"
+	ItemName = "Spawn Weapon BaseballBat"
+	Location = "-6.367,0.020,-0.337"
+	Radius = "2"
+	Rotation = "0,0,0,1"
+	Vertex1 = "-1,0,1"
+	Vertex2 = "1,0,1"
+	Vertex3 = "1,0,-1"
+	Vertex4 = "-1,0,-1"
+}
+
+

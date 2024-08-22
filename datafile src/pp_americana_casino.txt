@@ -1,0 +1,7 @@
+BowieKnife
+CroupierStick
+HandBag
+HandGun
+HunkOfMeat
+RebeccaRope
+WheelChair

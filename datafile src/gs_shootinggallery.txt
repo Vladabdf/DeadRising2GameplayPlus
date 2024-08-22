@@ -1,0 +1,558 @@
+cItemPlacement cage_01
+{
+	ItemName = "SGCage"
+	Location = "5.260,-2.380,2.170"
+	Rotation = "0.000,1.000,0.000,0.000"
+}
+
+cItemPlacement cage_02
+{
+	ItemName = "SGCage"
+	Location = "5.260,0.170,2.170"
+	Rotation = "0.000,1.000,0.000,0.000"
+}
+
+cItemPlacement cage_03
+{
+	ItemName = "SGCage"
+	Location = "5.260,2.720,2.170"
+	Rotation = "0.000,1.000,0.000,0.000"
+}
+
+cItemPlacement cage_04
+{
+	ItemName = "SGCage"
+	Location = "5.260,5.270,2.170"
+	Rotation = "0.000,1.000,0.000,0.000"
+}
+
+cItemPlacement cage_05
+{
+	ItemName = "SGCage"
+	Location = "1.790,-2.380,2.170"
+	Rotation = "0.000,1.000,0.000,0.000"
+}
+
+cItemPlacement cage_06
+{
+	ItemName = "SGCage"
+	Location = "1.790,0.170,2.170"
+	Rotation = "0.000,1.000,0.000,0.000"
+}
+
+cItemPlacement cage_07
+{
+	ItemName = "SGCage"
+	Location = "1.790,2.720,2.170"
+	Rotation = "0.000,1.000,0.000,0.000"
+}
+
+cItemPlacement cage_08
+{
+	ItemName = "SGCage"
+	Location = "1.790,5.270,2.170"
+	Rotation = "0.000,1.000,0.000,0.000"
+}
+
+cItemPlacement cage_09
+{
+	ItemName = "SGCage"
+	Location = "-1.710,-2.380,2.170"
+	Rotation = "0.000,1.000,0.000,0.000"
+}
+
+cItemPlacement cage_10
+{
+	ItemName = "SGCage"
+	Location = "-1.710,0.170,2.170"
+	Rotation = "0.000,1.000,0.000,0.000"
+}
+
+cItemPlacement cage_11
+{
+	ItemName = "SGCage"
+	Location = "-1.710,2.720,2.170"
+	Rotation = "0.000,1.000,0.000,0.000"
+}
+
+cItemPlacement cage_12
+{
+	ItemName = "SGCage"
+	Location = "-1.710,5.270,2.170"
+	Rotation = "0.000,1.000,0.000,0.000"
+}
+
+cItemPlacement cage_13
+{
+	ItemName = "SGCage"
+	Location = "-5.210,-2.380,2.170"
+	Rotation = "0.000,1.000,0.000,0.000"
+}
+
+cItemPlacement cage_14
+{
+	ItemName = "SGCage"
+	Location = "-5.210,0.170,2.170"
+	Rotation = "0.000,1.000,0.000,0.000"
+}
+
+cItemPlacement cage_15
+{
+	ItemName = "SGCage"
+	Location = "-5.210,2.720,2.170"
+	Rotation = "0.000,1.000,0.000,0.000"
+}
+
+cItemPlacement cage_16
+{
+	ItemName = "SGCage"
+	Location = "-5.210,5.270,2.170"
+	Rotation = "0.000,1.000,0.000,0.000"
+}
+
+cItemPlacement preload_flower
+{
+	FixedOnInitialPlacement = "true"
+	ItemName = "SGSpecialZombieEffect"
+	Location = "0,-5,0"
+	Rotation = "0,0,0,1"
+}
+
+
+cItemPlacement target_door_L_01
+{
+	ItemName = "SGDoor_L"
+	Location = "5.260,-2.380,2.170"
+	Rotation = "0.000,1.000,0.000,0.000"
+}
+
+cItemPlacement target_door_L_02
+{
+	ItemName = "SGDoor_L"
+	Location = "5.260,0.170,2.170"
+	Rotation = "0.000,1.000,0.000,0.000"
+}
+
+cItemPlacement target_door_L_03
+{
+	ItemName = "SGDoor_L"
+	Location = "5.260,2.720,2.170"
+	Rotation = "0.000,1.000,0.000,0.000"
+}
+
+cItemPlacement target_door_L_04
+{
+	ItemName = "SGDoor_L"
+	Location = "5.260,5.270,2.170"
+	Rotation = "0.000,1.000,0.000,0.000"
+}
+
+cItemPlacement target_door_L_05
+{
+	ItemName = "SGDoor_L"
+	Location = "1.790,-2.380,2.170"
+	Rotation = "0.000,1.000,0.000,0.000"
+}
+
+cItemPlacement target_door_L_06
+{
+	ItemName = "SGDoor_L"
+	Location = "1.790,0.170,2.170"
+	Rotation = "0.000,1.000,0.000,0.000"
+}
+
+cItemPlacement target_door_L_07
+{
+	ItemName = "SGDoor_L"
+	Location = "1.790,2.720,2.170"
+	Rotation = "0.000,1.000,0.000,0.000"
+}
+
+cItemPlacement target_door_L_08
+{
+	ItemName = "SGDoor_L"
+	Location = "1.790,5.270,2.170"
+	Rotation = "0.000,1.000,0.000,0.000"
+}
+
+cItemPlacement target_door_L_09
+{
+	ItemName = "SGDoor_L"
+	Location = "-1.710,-2.380,2.170"
+	Rotation = "0.000,1.000,0.000,0.000"
+}
+
+cItemPlacement target_door_L_10
+{
+	ItemName = "SGDoor_L"
+	Location = "-1.710,0.170,2.170"
+	Rotation = "0.000,1.000,0.000,0.000"
+}
+
+cItemPlacement target_door_L_11
+{
+	ItemName = "SGDoor_L"
+	Location = "-1.710,2.720,2.170"
+	Rotation = "0.000,1.000,0.000,0.000"
+}
+
+cItemPlacement target_door_L_12
+{
+	ItemName = "SGDoor_L"
+	Location = "-1.710,5.270,2.170"
+	Rotation = "0.000,1.000,0.000,0.000"
+}
+
+cItemPlacement target_door_L_13
+{
+	ItemName = "SGDoor_L"
+	Location = "-5.210,-2.380,2.170"
+	Rotation = "0.000,1.000,0.000,0.000"
+}
+
+cItemPlacement target_door_L_14
+{
+	ItemName = "SGDoor_L"
+	Location = "-5.210,0.170,2.170"
+	Rotation = "0.000,1.000,0.000,0.000"
+}
+
+cItemPlacement target_door_L_15
+{
+	ItemName = "SGDoor_L"
+	Location = "-5.210,2.720,2.170"
+	Rotation = "0.000,1.000,0.000,0.000"
+}
+
+cItemPlacement target_door_L_16
+{
+	ItemName = "SGDoor_L"
+	Location = "-5.210,5.270,2.170"
+	Rotation = "0.000,1.000,0.000,0.000"
+}
+
+cItemPlacement target_door_R_01
+{
+	ItemName = "SGDoor_R"
+	Location = "5.260,-2.380,2.170"
+	Rotation = "0.000,1.000,0.000,0.000"
+}
+
+cItemPlacement target_door_R_02
+{
+	ItemName = "SGDoor_R"
+	Location = "5.260,0.170,2.170"
+	Rotation = "0.000,1.000,0.000,0.000"
+}
+
+cItemPlacement target_door_R_03
+{
+	ItemName = "SGDoor_R"
+	Location = "5.260,2.720,2.170"
+	Rotation = "0.000,1.000,0.000,0.000"
+}
+
+cItemPlacement target_door_R_04
+{
+	ItemName = "SGDoor_R"
+	Location = "5.260,5.270,2.170"
+	Rotation = "0.000,1.000,0.000,0.000"
+}
+
+cItemPlacement target_door_R_05
+{
+	ItemName = "SGDoor_R"
+	Location = "1.790,-2.380,2.170"
+	Rotation = "0.000,1.000,0.000,0.000"
+}
+
+cItemPlacement target_door_R_06
+{
+	ItemName = "SGDoor_R"
+	Location = "1.790,0.170,2.170"
+	Rotation = "0.000,1.000,0.000,0.000"
+}
+
+cItemPlacement target_door_R_07
+{
+	ItemName = "SGDoor_R"
+	Location = "1.790,2.720,2.170"
+	Rotation = "0.000,1.000,0.000,0.000"
+}
+
+cItemPlacement target_door_R_08
+{
+	ItemName = "SGDoor_R"
+	Location = "1.790,5.270,2.170"
+	Rotation = "0.000,1.000,0.000,0.000"
+}
+
+cItemPlacement target_door_R_09
+{
+	ItemName = "SGDoor_R"
+	Location = "-1.710,-2.380,2.170"
+	Rotation = "0.000,1.000,0.000,0.000"
+}
+
+cItemPlacement target_door_R_10
+{
+	ItemName = "SGDoor_R"
+	Location = "-1.710,0.170,2.170"
+	Rotation = "0.000,1.000,0.000,0.000"
+}
+
+cItemPlacement target_door_R_11
+{
+	ItemName = "SGDoor_R"
+	Location = "-1.710,2.720,2.170"
+	Rotation = "0.000,1.000,0.000,0.000"
+}
+
+cItemPlacement target_door_R_12
+{
+	ItemName = "SGDoor_R"
+	Location = "-1.710,5.270,2.170"
+	Rotation = "0.000,1.000,0.000,0.000"
+}
+
+cItemPlacement target_door_R_13
+{
+	ItemName = "SGDoor_R"
+	Location = "-5.210,-2.380,2.170"
+	Rotation = "0.000,1.000,0.000,0.000"
+}
+
+cItemPlacement target_door_R_14
+{
+	ItemName = "SGDoor_R"
+	Location = "-5.210,0.170,2.170"
+	Rotation = "0.000,1.000,0.000,0.000"
+}
+
+cItemPlacement target_door_R_15
+{
+	ItemName = "SGDoor_R"
+	Location = "-5.210,2.720,2.170"
+	Rotation = "0.000,1.000,0.000,0.000"
+}
+
+cItemPlacement target_door_R_16
+{
+	ItemName = "SGDoor_R"
+	Location = "-5.210,5.270,2.170"
+	Rotation = "0.000,1.000,0.000,0.000"
+}
+
+
+cItemPlacement hook01
+{
+	ItemName = "Hook"
+	Location = "5.260,0.040,2.570"
+	Rotation = "0.000,-1.000,0.000,1.000"
+}
+
+cItemPlacement hook02
+{
+	ItemName = "Hook"
+	Location = "5.260,2.590,2.570"
+	Rotation = "0.000,-1.000,0.000,1.000"
+}
+
+cItemPlacement hook03
+{
+	ItemName = "Hook"
+	Location = "5.260,5.140,2.570"
+	Rotation = "0.000,-1.000,0.000,1.000"
+}
+
+cItemPlacement hook04
+{
+	ItemName = "Hook"
+	Location = "5.260,7.690,2.570"
+	Rotation = "0.000,-1.000,0.000,1.000"
+}
+
+cItemPlacement hook05
+{
+	ItemName = "Hook"
+	Location = "1.790,0.040,2.570"
+	Rotation = "0.000,-1.000,0.000,1.000"
+}
+
+cItemPlacement hook06
+{
+	ItemName = "Hook"
+	Location = "1.790,2.590,2.570"
+	Rotation = "0.000,-1.000,0.000,1.000"
+}
+
+cItemPlacement hook07
+{
+	ItemName = "Hook"
+	Location = "1.790,5.140,2.570"
+	Rotation = "0.000,-1.000,0.000,1.000"
+}
+
+cItemPlacement hook08
+{
+	ItemName = "Hook"
+	Location = "1.790,7.690,2.570"
+	Rotation = "0.000,-1.000,0.000,1.000"
+}
+
+cItemPlacement hook09
+{
+	ItemName = "Hook"
+	Location = "-1.710,0.040,2.570"
+	Rotation = "0.000,-1.000,0.000,1.000"
+}
+
+cItemPlacement hook10
+{
+	ItemName = "Hook"
+	Location = "-1.710,2.590,2.570"
+	Rotation = "0.000,-1.000,0.000,1.000"
+}
+
+cItemPlacement hook11
+{
+	ItemName = "Hook"
+	Location = "-1.710,5.140,2.570"
+	Rotation = "0.000,-1.000,0.000,1.000"
+}
+
+cItemPlacement hook12
+{
+	ItemName = "Hook"
+	Location = "-1.710,7.690,2.570"
+	Rotation = "0.000,-1.000,0.000,1.000"
+}
+
+cItemPlacement hook13
+{
+	ItemName = "Hook"
+	Location = "-5.210,0.040,2.570"
+	Rotation = "0.000,-1.000,0.000,1.000"
+}
+
+cItemPlacement hook14
+{
+	ItemName = "Hook"
+	Location = "-5.210,2.590,2.570"
+	Rotation = "0.000,-1.000,0.000,1.000"
+}
+
+cItemPlacement hook15
+{
+	ItemName = "Hook"
+	Location = "-5.210,5.140,2.570"
+	Rotation = "0.000,-1.000,0.000,1.000"
+}
+
+cItemPlacement hook16
+{
+	ItemName = "Hook"
+	Location = "-5.210,7.690,2.570"
+	Rotation = "0.000,-1.000,0.000,1.000"
+}
+
+
+cPolygonLarge L_Arena
+{
+	Height = "50"
+	NumVertex = "8"
+	Vertex0 = "-93.630,-4.999,94.444"
+	Vertex1 = "-62.356,-4.999,130.415"
+	Vertex2 = "52.363,-4.999,128.838"
+	Vertex3 = "87.449,-4.999,97.758"
+	Vertex4 = "88.708,-4.999,-103.395"
+	Vertex5 = "56.206,-4.999,-136.869"
+	Vertex6 = "-60.088,-4.999,-138.523"
+	Vertex7 = "-93.866,-4.999,-104.083"
+}
+
+cLightContextVolume LC_Arena
+{
+	ContextFileName = "/arena_stadium.csv"
+	QuadName = "L_Arena"
+}
+
+
+cItemPlacement platformwall1
+{
+	ItemName = "block_1m_1m"
+	Location = "2.210,0.140,-11.769"
+	Rotation = "0.997,0.089,-0.089,0.997"
+}
+
+cItemPlacement platformwall2
+{
+	ItemName = "block_1m_1m"
+	Location = "1.230,0.140,-11.769"
+	Rotation = "0.997,-0.090,0.090,0.997"
+}
+
+cItemPlacement platformwall8
+{
+	ItemName = "block_1m_1m"
+	Location = "-1.780,3.580,-11.769"
+	Rotation = "0.997,-0.090,0.090,0.997"
+}
+
+cItemPlacement platformwall7
+{
+	ItemName = "block_1m_1m"
+	Location = "-0.800,3.580,-11.769"
+	Rotation = "0.997,0.089,-0.089,0.997"
+}
+
+cItemPlacement platformwall6
+{
+	ItemName = "block_1m_1m"
+	Location = "1.230,3.580,-11.769"
+	Rotation = "0.997,-0.090,0.090,0.997"
+}
+
+cItemPlacement platformwall5
+{
+	ItemName = "block_1m_1m"
+	Location = "2.210,3.580,-11.769"
+	Rotation = "0.997,0.089,-0.089,0.997"
+}
+
+cItemPlacement platformwall4
+{
+	ItemName = "block_1m_1m"
+	Location = "-1.780,0.140,-11.769"
+	Rotation = "0.997,-0.090,0.090,0.997"
+}
+
+cItemPlacement platformwall3
+{
+	ItemName = "block_1m_1m"
+	Location = "-0.800,0.140,-11.769"
+	Rotation = "0.997,0.089,-0.089,0.997"
+}
+
+
+cSpawnPoint Start
+{
+	CameraHeading = "-2.768"
+	CameraHeading1 = "-2.768"
+	CameraHeading2 = "-2.768"
+	CameraHeading3 = "-2.768"
+	CameraPitch = "-15.261"
+	CameraPitch1 = "0.000"
+	CameraPitch2 = "0.000"
+	CameraPitch3 = "-15.261"
+	Location0 = "1.860,3.630,-12.814"
+	Location1 = "1.860,0.230,-12.814"
+	Location2 = "-1.355,0.230,-12.814"
+	Location3 = "-1.355,3.630,-12.814"
+	Rotation0 = "0.000"
+	Rotation1 = "0.000"
+	Rotation2 = "0.000"
+	Rotation3 = "0.000"
+}
+
+

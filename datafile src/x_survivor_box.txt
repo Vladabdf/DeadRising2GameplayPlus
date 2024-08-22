@@ -1,0 +1,613 @@
+cItemPlacement Dolly
+{
+	ItemName = "Dolly"
+	Location = "-56.974,0.489,-157.815"
+	Rotation = "0.005,-0.717,0.005,0.697"
+}
+
+cItemPlacement DrinkCart
+{
+	ItemName = "DrinkCart"
+	Location = "-57.097,0.020,-159.901"
+	Rotation = "-0.000,-0.001,0.000,1.000"
+}
+
+cItemPlacement Lawnmower
+{
+	ItemName = "Lawnmower"
+	Location = "-56.624,0.140,-162.141"
+	Rotation = "-0.002,-0.710,-0.005,0.704"
+}
+
+cItemPlacement ElectrocutionChair
+{
+	ItemName = "ElectrocutionChair"
+	Location = "-56.465,0.529,-164.310"
+	Rotation = "-0.000,-0.708,-0.000,0.706"
+}
+
+cItemPlacement HandiChipper
+{
+	ItemName = "HandiChipper"
+	Location = "-56.351,0.529,-166.465"
+	Rotation = "0.000,-0.729,0.000,0.685"
+}
+
+cItemPlacement UtilityCart
+{
+	ItemName = "UtilityCart"
+	Location = "-56.887,-0.009,-155.830"
+	Rotation = "-0.000,-0.721,-0.000,0.693"
+}
+
+cItemPlacement WheelBarrow
+{
+	ItemName = "WheelBarrow"
+	Location = "-56.817,0.009,-153.358"
+	Rotation = "-0.001,-0.711,-0.000,0.703"
+}
+
+cItemPlacement WheelChair
+{
+	ItemName = "WheelChair"
+	Location = "-57.419,0.529,-150.961"
+	Rotation = "-0.000,-0.723,-0.000,0.690"
+}
+
+
+cItemPlacement ChopperBike
+{
+	IsStatic = ""
+	ItemName = "ChopperBikeSingle"
+	Location = "-61.197,1.020,-139.150"
+	Rotation = "0.000,-0.840,0.000,0.542"
+}
+
+cItemPlacement SuperBike
+{
+	ItemName = "SuperBike"
+	Location = "-61.751,0.571,-140.563"
+	Rotation = "0.000,0.843,0.000,-0.535"
+}
+
+cItemPlacement GrilsBike
+{
+	IsStatic = ""
+	ItemName = "GirlsBike"
+	Location = "-75.592,0.511,-168.701"
+	Rotation = "0.000,-0.711,0.000,-0.699"
+}
+
+cItemPlacement Skateboard
+{
+	ItemName = "Skateboard"
+	Location = "-75.784,.50,-167.408"
+	Rotation = "0.000,-0.711,0.000,-0.699"
+}
+
+cItemPlacement IJIEK_Bike
+{
+	IsStatic = ""
+	ItemName = "SuperBike"
+	Location = "-75.306,0.545,-170.209"
+	Rotation = "0.000,-0.711,0.000,-0.699"
+}
+
+cItemPlacement Merc_Bike
+{
+	IsStatic = ""
+	ItemName = "MercenaryBike"
+	Location = "-75.284,0.560,-173.7"
+	Rotation = "0.000,0.705,0.000,0.706"
+}
+
+cItemPlacement Chainsaw_Bike
+{
+	IsStatic = ""
+	ItemName = "ChainsawBike"
+	Location = "-75.284,0.560,-175.623"
+	Rotation = "0.000,0.705,0.000,0.706"
+}
+
+cItemPlacement M249_Bike
+{
+	ItemName = "M249Bike"
+	Location = "-75.284,0.560,-177.623"
+	Rotation = "0.000,0.705,0.000,0.706"
+}
+
+cItemPlacement Bazooka_Bike
+{
+	IsStatic = ""
+	ItemName = "BazookaBike"
+	Location = "-75.359,0.538,-179.593"
+	Rotation = "-0.025,0.694,0.025,0.719"
+}
+
+cItemPlacement Rabbit_Bike
+{
+	IsStatic = ""
+	ItemName = "RabbitBike"
+	Location = "-75.284,1.10,-181.623"
+	Rotation = "0.000,0.705,0.000,0.706"
+}
+
+cItemPlacement Chopper_Bike
+{
+	IsStatic = ""
+	ItemName = "ChopperBikeSingle"
+	Location = "-75.284,1.10,-183.623"
+	Rotation = "0.000,0.705,0.000,0.706"
+}
+
+cItemPlacement Wheelchair_Bike
+{
+	ItemName = "WheelchairBike"
+	Location = "-75.284,.75,-185.623"
+	Rotation = "0.000,0.705,0.000,0.706"
+}
+
+cItemPlacement Wheelchair_Tank
+{
+	ItemName = "WheelchairTank"
+	Location = "-75.038,.7500,-187.708"
+	Rotation = "0.000,0.705,0.000,0.706"
+}
+
+cItemPlacement SecurityCart
+{
+	IsStatic = ""
+	ItemName = "SecurityCart"
+	Location = "-75.225,1.000,-189.874"
+	Rotation = "0.000,0.705,0.000,0.706"
+}
+
+cItemPlacement IndustrialCart
+{
+	IsStatic = ""
+	ItemName = "IndustrialCart"
+	Location = "-75.225,1.000,-192.874"
+	Rotation = "0.000,0.705,0.000,0.706"
+}
+
+cItemPlacement SportsCar
+{
+	IsStatic = ""
+	ItemName = "SportsCar"
+	Location = "-75.984,1.000,-196.230"
+	Rotation = "0.000,0.705,0.000,0.706"
+}
+
+cItemPlacement Hummer
+{
+	IsStatic = ""
+	ItemName = "Hummer"
+	Location = "-75.002,1.000,-208.861"
+	Rotation = "0.000,0.705,0.000,0.706"
+}
+
+cItemPlacement UltimateFanBike
+{
+	IsStatic = ""
+	ItemName = "UltimateFanBike"
+	Location = "-75.306,0.545,-172."
+	Rotation = "0.000,-0.711,0.000,-0.699"
+	TextureSubType = "3"
+}
+
+cItemPlacement HamsterBall_Blue
+{
+	ItemName = "HamsterBall_Blue"
+	Location = "-74.779,1.396,-214.739"
+	Rotation = "0.634,0.137,-0.379,0.660"
+}
+
+cItemPlacement merc_van
+{
+	ItemName = "merc_van"
+	Location = "-79.984,0.000,-162.408"
+	Rotation = "0.000,-0.711,0.000,-0.699"
+}
+
+cItemPlacement BrokenBike
+{
+	ItemName = "BrokenBike"
+	Location = "-74.289,0.654,-219.192"
+	Rotation = "-0.011,-0.675,0.009,-0.737"
+}
+
+
+cDoorPlacement Door_1
+{
+	InitialState = "1"
+	InteractionIconLocation = "-88.605,1.120,-57.943"
+	ItemName = "door_standardknob"
+	Location = "-89.445,1.120,-57.943"
+	Rotation = "0.000,0.000,0.000,1.000"
+	SpawnPropFromCategory = "3"
+}
+
+cDoorPlacement Door_2
+{
+	InitialState = "1"
+	InteractionIconLocation = "-89.444,1.470,-62.011"
+	ItemName = "door_standardknob"
+	Location = "-89.444,1.470,-62.011"
+	Rotation = "0.000,0.000,0.000,1.000"
+	SpawnPropFromCategory = "3"
+}
+
+cDoorPlacement Door_3
+{
+	InitialState = "1"
+	InteractionIconLocation = "-89.441,1.095,-65.973"
+	ItemName = "door_standardknob"
+	Location = "-89.441,1.095,-65.973"
+	Rotation = "0.000,0.000,0.000,1.000"
+	SpawnPropFromCategory = "3"
+}
+
+cDoorPlacement Door_4
+{
+	InitialState = "1"
+	InteractionIconLocation = "-88.046,1.091,-66.003"
+	ItemName = "door_standardknob"
+	Location = "-88.046,1.091,-66.003"
+	Rotation = "0.000,-0.999,0.000,0.019"
+	SpawnPropFromCategory = "3"
+}
+
+cDoorPlacement Door_5
+{
+	InitialState = "1"
+	InteractionIconLocation = "-87.133,1.560,-70.108"
+	ItemName = "door_standardknob"
+	Location = "-87.133,1.560,-70.108"
+	Rotation = "0.000,-0.999,0.000,0.019"
+	SpawnPropFromCategory = "3"
+}
+
+cDoorPlacement Door_6
+{
+	InitialState = "1"
+	InteractionIconLocation = "-90.343,1.560,-70.038"
+	ItemName = "door_standardknob"
+	Location = "-90.343,1.560,-70.038"
+	Rotation = "0.000,0.001,0.000,0.994"
+	SpawnPropFromCategory = "3"
+}
+
+
+cItemPlacement gv1
+{
+	ItemName = "GasVent"
+	Location = "-116.612,1.296,-123.251"
+	Rotation = "0.492,0.509,-0.508,0.492"
+}
+
+cItemPlacement washroom_gv
+{
+	ItemName = "GasVent"
+	Location = "-37.631,1.305,-122.685"
+	Rotation = "0.707,0.001,0.001,0.707"
+}
+
+cItemPlacement slotmachine_gv
+{
+	ItemName = "GasVent"
+	Location = "-15.572,1.318,-88.111"
+	Rotation = "0.000,0.000,0.707,0.707"
+}
+
+
+cItemPlacement HandGun
+{
+	ItemName = "HandGun"
+	Location = "-63.720,0.028,-136.245"
+	Rotation = "0,0,0,1"
+}
+
+cItemPlacement M16
+{
+	ItemName = "M16"
+	Location = "-62.055,0.033,-135.817"
+	Rotation = "0.147,-0.147,-0.691,0.692"
+}
+
+cItemPlacement ComedianOutfitDispenser
+{
+	ItemName = "ComedianOutfitDispenser"
+	Location = "-75.285,0.340,-146.523"
+	Rotation = "0,0,0,1"
+}
+
+cItemPlacement VendingMachine1
+{
+	ItemName = "VendingMachine1"
+	Location = "-58.505,-0.137,-136.133"
+	Rotation = "0.000,-0.680,0.000,0.732"
+}
+
+cItemPlacement PushBroom
+{
+	ItemName = "PushBroom"
+	Location = "-58.695,0.856,-133.268"
+	Rotation = "0.127,0.698,-0.117,0.695"
+}
+
+cItemPlacement Shotgun
+{
+	ItemName = "Shotgun"
+	Location = "-62.752,0.028,-136.176"
+	Rotation = "0.119,0.120,-0.696,-0.698"
+}
+
+
+cSpawnPoint Start
+{
+	CameraHeading = "1.943"
+	CameraPitch = "-11.516"
+	Location = "184.750,3.734,-319.031"
+	Location0 = "-65.908,0.020,-138.813"
+	Rotation0 = "-0.839"
+}
+
+cSpawnPoint Vehicle_Start
+{
+	CameraHeading = "-147.659"
+	CameraPitch = "-14.603"
+	Location0 = "-72.833,0.020,-168.080"
+	Rotation0 = "-2.553"
+}
+
+
+cZombieWarehouse SurvivorBox
+{
+	cPolygonSmall cPolygon
+	{
+		Height = "2.0"
+		NumVertex = "4"
+		Vertex0 = "-85.606,0.001,-123.918"
+		Vertex1 = "-58.587,0.001,-123.924"
+		Vertex2 = "-58.787,0.001,-110.826"
+		Vertex3 = "-85.887,0.001,-111.439"
+	}
+
+	cPolygonLarge cPolygon1
+	{
+		Height = "2.0"
+		Location = "0"
+		NumVertex = "20"
+		Rotation = "0"
+		Vertex0 = "-71.576,0.001,-125.905"
+		Vertex1 = "-71.623,0.001,-139.772"
+		Vertex10 = "-105.954,0.001,-159.854"
+		Vertex11 = "-105.996,0.001,-165.632"
+		Vertex12 = "-58.292,0.035,-165.486"
+		Vertex13 = "-58.292,0.035,-158.850"
+		Vertex14 = "-79.014,0.001,-159.475"
+		Vertex15 = "-79.354,0.001,-153.796"
+		Vertex16 = "-65.581,0.001,-153.868"
+		Vertex17 = "-65.575,0.001,-157.927"
+		Vertex18 = "-58.599,0.001,-157.869"
+		Vertex19 = "-58.588,0.001,-125.902"
+		Vertex2 = "-78.026,0.001,-139.801"
+		Vertex3 = "-77.820,0.001,-150.061"
+		Vertex4 = "-115.977,0.001,-149.821"
+		Vertex5 = "-116.231,0.001,-165.400"
+		Vertex6 = "-107.566,0.001,-165.544"
+		Vertex7 = "-107.608,0.001,-153.905"
+		Vertex8 = "-98.598,0.001,-153.895"
+		Vertex9 = "-98.646,0.001,-159.813"
+	}
+
+	cPolygonSmall cPolygon2
+	{
+		Height = "2.0"
+		Location = "0"
+		NumVertex = "4"
+		Rotation = "0"
+		Vertex0 = "-73.907,0.001,-130.225"
+		Vertex1 = "-73.958,0.001,-126.826"
+		Vertex2 = "-78.920,0.001,-126.824"
+		Vertex3 = "-78.836,0.001,-130.187"
+	}
+
+	cPolygonLarge cPolygon3
+	{
+		Height = "2.0"
+		Location = "0"
+		NumVertex = "17"
+		Rotation = "0"
+		Vertex0 = "-88.637,0.001,-149.671"
+		Vertex1 = "-84.641,0.001,-149.691"
+		Vertex10 = "-116.268,0.001,-130.803"
+		Vertex11 = "-115.666,0.001,-135.740"
+		Vertex12 = "-88.657,0.001,-135.827"
+		Vertex13 = "-88.639,0.001,-141.706"
+		Vertex14 = "-116.606,0.064,-141.539"
+		Vertex15 = "-116.606,0.026,-146.542"
+		Vertex16 = "-88.560,0.001,-146.766"
+		Vertex2 = "-84.545,0.001,-141.812"
+		Vertex3 = "-78.604,0.001,-141.847"
+		Vertex4 = "-78.579,0.001,-138.794"
+		Vertex5 = "-80.614,0.001,-138.841"
+		Vertex6 = "-82.546,0.001,-132.827"
+		Vertex7 = "-82.524,0.001,-124.795"
+		Vertex8 = "-85.646,0.001,-124.842"
+		Vertex9 = "-85.639,0.001,-130.805"
+	}
+
+	cPolygonSmall cPolygon4
+	{
+		Height = "2.0"
+		Location = "0"
+		NumVertex = "4"
+		Rotation = "0"
+		Vertex0 = "-87.566,0.001,-126.705"
+		Vertex1 = "-87.265,0.001,-120.841"
+		Vertex2 = "-115.577,0.001,-120.813"
+		Vertex3 = "-114.591,0.001,-126.778"
+	}
+
+	cPolygonLarge cPolygon5
+	{
+		Height = "2.0"
+		Location = "0"
+		NumVertex = "16"
+		Rotation = "0"
+		Vertex0 = "-88.621,0.001,-115.792"
+		Vertex1 = "-115.993,0.001,-115.804"
+		Vertex10 = "-94.600,0.001,-86.832"
+		Vertex11 = "-99.661,0.001,-86.754"
+		Vertex12 = "-99.593,0.001,-75.646"
+		Vertex13 = "-91.592,0.001,-75.849"
+		Vertex14 = "-92.596,0.001,-112.021"
+		Vertex15 = "-88.504,0.001,-112.085"
+		Vertex2 = "-116.497,0.001,-110.482"
+		Vertex3 = "-97.608,0.001,-110.830"
+		Vertex4 = "-97.578,0.001,-102.745"
+		Vertex5 = "-115.853,0.001,-102.763"
+		Vertex6 = "-115.665,0.001,-75.621"
+		Vertex7 = "-100.431,0.001,-75.814"
+		Vertex8 = "-100.908,0.001,-99.755"
+		Vertex9 = "-94.728,0.001,-99.765"
+	}
+
+	cPolygonLarge cPolygon6
+	{
+		Height = "2.0"
+		Location = "0"
+		NumVertex = "18"
+		Rotation = "0"
+		Vertex0 = "-58.609,0.001,-109.854"
+		Vertex1 = "-58.738,0.001,-74.487"
+		Vertex10 = "-89.229,0.001,-99.900"
+		Vertex11 = "-89.230,0.001,-102.771"
+		Vertex12 = "-71.697,0.001,-102.395"
+		Vertex13 = "-71.739,0.001,-105.778"
+		Vertex14 = "-90.928,0.001,-106.035"
+		Vertex15 = "-90.484,0.001,-108.875"
+		Vertex16 = "-71.722,0.001,-108.437"
+		Vertex17 = "-71.666,0.001,-109.921"
+		Vertex2 = "-90.451,0.001,-74.809"
+		Vertex3 = "-90.928,0.001,-86.841"
+		Vertex4 = "-71.682,0.001,-86.710"
+		Vertex5 = "-71.604,0.001,-90.257"
+		Vertex6 = "-80.250,0.001,-90.267"
+		Vertex7 = "-80.032,0.001,-96.410"
+		Vertex8 = "-71.482,0.001,-96.165"
+		Vertex9 = "-71.712,0.001,-99.842"
+	}
+
+	cPolygonSmall cPolygon7
+	{
+		Height = "2.0"
+		Location = "0"
+		NumVertex = "4"
+		Rotation = "0"
+		Vertex0 = "-83.374,0.001,-96.693"
+		Vertex1 = "-83.417,0.001,-90.232"
+		Vertex2 = "-90.589,0.001,-90.328"
+		Vertex3 = "-90.569,0.001,-96.501"
+	}
+
+	cPolygonSmall cPolygon8
+	{
+		Height = "2.0"
+		NumVertex = "12"
+		Vertex0 = "-74.460,2.528,-87.774"
+		Vertex1 = "-74.356,2.528,-89.017"
+		Vertex10 = "-88.073,2.528,-89.273"
+		Vertex11 = "-88.334,2.528,-87.837"
+		Vertex2 = "-81.188,2.528,-89.164"
+		Vertex3 = "-81.094,2.528,-97.355"
+		Vertex4 = "-74.361,2.528,-97.279"
+		Vertex5 = "-74.330,2.528,-98.650"
+		Vertex6 = "-88.544,2.528,-99.047"
+		Vertex7 = "-88.576,2.528,-97.623"
+		Vertex8 = "-82.201,2.528,-97.356"
+		Vertex9 = "-82.466,2.528,-89.186"
+	}
+
+	cPolygonSmall cPolygon9
+	{
+		Height = "2.0"
+		NumVertex = "4"
+		Vertex0 = "-74.534,2.528,-103.390"
+		Vertex1 = "-74.420,2.528,-104.726"
+		Vertex2 = "-77.896,2.898,-104.766"
+		Vertex3 = "-77.927,2.948,-103.350"
+	}
+
+	cPolygonSmall cPolygon10
+	{
+		Height = "2.0"
+		NumVertex = "4"
+		Vertex0 = "-78.196,5.056,-104.676"
+		Vertex1 = "-78.256,5.056,-103.361"
+		Vertex2 = "-85.407,5.056,-103.362"
+		Vertex3 = "-85.224,5.056,-104.941"
+	}
+
+	cPolygonSmall cPolygon11
+	{
+		Height = "2.0"
+		NumVertex = "4"
+		Vertex0 = "-88.909,2.528,-105.003"
+		Vertex1 = "-89.024,2.528,-103.496"
+		Vertex2 = "-85.707,2.528,-103.407"
+		Vertex3 = "-85.686,2.528,-104.969"
+	}
+
+	cPolygonSmall cPolygon12
+	{
+		Height = "2.0"
+		NumVertex = "4"
+		Vertex0 = "-86.284,2.467,-110.652"
+		Vertex1 = "-86.348,2.467,-109.330"
+		Vertex2 = "-81.807,2.467,-109.423"
+		Vertex3 = "-81.778,2.467,-110.774"
+	}
+
+	cPolygonSmall cPolygon13
+	{
+		Height = "2.0"
+		NumVertex = "4"
+		Vertex0 = "-76.887,2.467,-109.430"
+		Vertex1 = "-76.899,2.467,-110.753"
+		Vertex2 = "-80.174,2.467,-110.702"
+		Vertex3 = "-80.193,2.467,-109.326"
+	}
+
+}
+
+cZombieWarehouse zombie_region_combat_side_car_test
+{
+	cPolygonSmall poly_combat_side_car_test
+	{
+		Height = "2.0"
+		NumVertex = "4"
+		Vertex0 = "-70.415,0.001,-150.875"
+		Vertex1 = "-79.033,0.001,-158.085"
+		Vertex2 = "-81.473,0.001,-155.985"
+		Vertex3 = "-73.676,0.001,-142.061"
+	}
+
+}
+
+cZombieWarehouse test_gas
+{
+	cPolygonSmall a
+	{
+		Height = "2.0"
+		NumVertex = "4"
+		Vertex0 = "-110.283,0.001,-146.329"
+		Vertex1 = "-100.553,0.001,-146.334"
+		Vertex2 = "-100.567,0.002,-125.560"
+		Vertex3 = "-110.514,0.002,-125.392"
+	}
+
+}
+
+

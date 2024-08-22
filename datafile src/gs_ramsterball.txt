@@ -1,0 +1,168 @@
+cSpawnPoint Start
+{
+	CameraHeading = "-171.838"
+	CameraHeading1 = "-171.838"
+	CameraHeading2 = "-178.623"
+	CameraHeading3 = "178.094"
+	CameraPitch = "-8.952"
+	CameraPitch1 = "-8.952"
+	CameraPitch2 = "-12.485"
+	CameraPitch3 = "-12.815"
+	Location0 = "3.345,4.5,45.491"
+	Location1 = "11.545,4.5,45.491"
+	Location2 = "-3.755,4.5,45.491"
+	Location3 = "-10.055,4.5,45.491"
+	Rotation0 = "-10.141"
+	Rotation1 = "2.947"
+	Rotation2 = "-3.112"
+	Rotation3 = "-2.920"
+}
+
+
+cPolygonLarge L_Arena
+{
+	Height = "50"
+	NumVertex = "8"
+	Vertex0 = "-93.630,-4.999,94.444"
+	Vertex1 = "-62.356,-4.999,130.415"
+	Vertex2 = "52.363,-4.999,128.838"
+	Vertex3 = "87.449,-4.999,97.758"
+	Vertex4 = "88.708,-4.999,-103.395"
+	Vertex5 = "56.206,-4.999,-136.869"
+	Vertex6 = "-60.088,-4.999,-138.523"
+	Vertex7 = "-93.866,-4.999,-104.083"
+}
+
+cLightContextVolume LC_Arena
+{
+	ContextFileName = "/arena_stadium.csv"
+	QuadName = "L_Arena"
+}
+
+
+cItemPlacement HamsterBall_Yellow
+{
+	ItemName = "HamsterBall_Yellow"
+	Location = "10.401,4.576,50.344"
+	Rotation = "-0.000,-0.000,0.000,1.000"
+}
+
+cItemPlacement HamsterBall_Red
+{
+	ItemName = "HamsterBall_Red"
+	Location = "-10.401,4.576,50.344"
+	Rotation = "0,0,0,1"
+}
+
+cItemPlacement HamsterBall_Blue
+{
+	ItemName = "HamsterBall_Blue"
+	Location = "-3.901,4.576,50.344"
+	Rotation = "-0.000,-0.000,-0.000,1.000"
+}
+
+cItemPlacement HamsterBall_Green
+{
+	ItemName = "HamsterBall_Green"
+	Location = "3.901,4.576,50.344"
+	Rotation = "-0.000,-0.000,0.000,1.000"
+}
+
+cItemPlacement bouncer_1
+{
+	ItemName = "Bouncer"
+	Location = "11.054,-4.019,30.014"
+	Rotation = "0,0,0,1"
+}
+
+cItemPlacement bouncer_2
+{
+	ItemName = "Bouncer"
+	Location = "-11.056,-4.019,30.014"
+	Rotation = "0,0,0,1"
+}
+
+cItemPlacement bouncer_3
+{
+	ItemName = "Bouncer"
+	Location = "-11.196,-4.019,-9.966"
+	Rotation = "0,0,0,1"
+}
+
+cItemPlacement bouncer_4
+{
+	ItemName = "Bouncer"
+	Location = "11.264,-4.019,-9.976"
+	Rotation = "0,0,0,1"
+}
+
+cItemPlacement bouncer_5
+{
+	ItemName = "Bouncer"
+	Location = "11.244,-4.019,10.000"
+	Rotation = "0,0,0,1"
+}
+
+cItemPlacement bouncer_6
+{
+	ItemName = "Bouncer"
+	Location = "0,-4.019,0"
+	Rotation = "0,0,0,1"
+}
+
+cItemPlacement bouncer_7
+{
+	ItemName = "Bouncer"
+	Location = "0.000,-4.019,20.006"
+	Rotation = "0,0,0,1"
+}
+
+cItemPlacement bouncer_8
+{
+	ItemName = "Bouncer"
+	Location = "0.000,-4.019,-20.014"
+	Rotation = "0,0,0,1"
+}
+
+cItemPlacement bouncer_9
+{
+	ItemName = "Bouncer"
+	Location = "11.034,-4.019,-29.976"
+	Rotation = "0,0,0,1"
+}
+
+cItemPlacement bouncer_10
+{
+	ItemName = "Bouncer"
+	Location = "-11.006,-4.019,-30.046"
+	Rotation = "0,0,0,1"
+}
+
+cItemPlacement bouncer_11
+{
+	ItemName = "Bouncer"
+	Location = "-11.256,-4.019,10.000"
+	Rotation = "0,0,0,1"
+}
+
+
+cZombieWarehouse ramster_warehouse
+{
+	cLineSegment zombies_01
+	{
+		Height = "2.0"
+		LineSegment = "True"
+		Location = "19.855,1.556,35.377"
+		Vertex1 = "-15.550,-4,-31.089"
+		Vertex2 = "15.855,-4,-30.194"
+		Vertex3 = "13.476,-4,28.250"
+		Vertex4 = "-16.072,-4,29.147"
+		Vertex5 = "17.379,-2.300,38.282"
+		Vertex6 = "22.327,6.574,38.442"
+		Vertex7 = "22.431,6.574,35.244"
+		Vertex8 = "17.483,-2.300,35.084"
+	}
+
+}
+
+

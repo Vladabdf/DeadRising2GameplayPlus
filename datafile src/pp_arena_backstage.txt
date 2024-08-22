@@ -1,0 +1,5 @@
+BaseballBat
+HandGun
+npc_videocamera
+RebeccasGun
+Shotgun

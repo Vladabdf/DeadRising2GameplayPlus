@@ -1,0 +1,679 @@
+cBossNode BattleSpace
+{
+	Boss = "boss_chef"
+	Location = "0, -1.4, 0"
+	Name = "BattleSpace"
+	Rotation = "0, 0, 0"
+	Type = "8"
+}
+
+cItemPlacement AntoinePoutine
+{
+	ItemName = "boss_chef"
+	Location = "19.076,-1.354,-242.668"
+	Rotation = "0.000,1.0,0.00, 0.75"
+}
+
+cBossNode PlayerStart
+{
+	Boss = "boss_chef"
+	Location = "33.5, -1.35, -242.6"
+	Name = "PlayerStart"
+	Rotation = "0,0,0"
+	Type = "9"
+}
+
+cBossNode PlayerStart2
+{
+	Boss = "boss_chef"
+	Location = "30.5, -1.35, -242.6"
+	Name = "PlayerStart2"
+	Rotation = "0, 0, 0"
+	Type = "9"
+}
+
+cItemPlacement AntoinePan
+{
+	DisablePhysicsOnInitialPlacement = "true"
+	ItemName = "AntoinePan"
+	Location = "20.0, -3.4, -242.2"
+}
+
+cItemPlacement AntoineThrowingButcherKnifeRight
+{
+	DisablePhysicsOnInitialPlacement = "true"
+	ItemName = "AntoineThrowButcherKnife"
+	Location = "21.0, -3.4, -242.2"
+}
+
+cItemPlacement AntoineThrowingButcherKnifeLeft
+{
+	DisablePhysicsOnInitialPlacement = "true"
+	ItemName = "AntoineThrowButcherKnifeLeft"
+	Location = "22.0, -3.4, -242.2"
+}
+
+cItemPlacement AntoineThrowingPan
+{
+	DisablePhysicsOnInitialPlacement = "true"
+	ItemName = "AntoineThrowPan"
+	Location = "23.0, -3.4, -242.2"
+}
+
+cItemPlacement AntoineThrowingDishes
+{
+	DisablePhysicsOnInitialPlacement = "true"
+	ItemName = "AntoineThrowDishes"
+	Location = "24.0, -3.4, -242.2"
+}
+
+cItemPlacement AntoineStackOfDishes
+{
+	DisablePhysicsOnInitialPlacement = "true"
+	ItemName = "AntoineStackDishes"
+	Location = "25.0, -3.4, -242.2"
+}
+
+cItemPlacement AntoineGrappleFood
+{
+	DisablePhysicsOnInitialPlacement = "true"
+	ItemName = "Apple"
+	Location = "25.0, -3.4, -242.2"
+}
+
+cBossNode BattleZone0
+{
+	Boss = "boss_chef"
+	Name = "BattleZone0"
+	Location = "50.3, 0.0, -243.2"
+	Type = "4"
+}
+
+cBossNode BattleZone1
+{
+	Boss = "boss_chef"
+	Name = "BattleZone1"
+	Location = "44.5, 0.0, -221.4"
+	Type = "4"
+}
+
+cBossNode BattleZone2
+{
+	Boss = "boss_chef"
+	Name = "BattleZone2"
+	Location = "12.2, -0.0, -228.3"
+	Type = "4"
+}
+
+cBossNode BattleZone3
+{
+	Boss = "boss_chef"
+	Name = "BattleZone3"
+	Location = "19.0, -0.0, -252.5"
+	Type = "4"
+}
+
+cBossNode RetreatNode1
+{
+	Boss = "boss_chef"
+	Location = "21.5, 0.0, -235.9"
+	Rotation = "0, 0, 1"
+	Type = "6"
+}
+
+cBossNode RetreatNode2
+{
+	Boss = "boss_chef"
+	Location = "21.0, 0.0, -241.3"
+	Rotation = "0, 0, 1"
+	Type = "6"
+}
+
+cBossNode RetreatNode3
+{
+	Boss = "boss_chef"
+	Location = "38.2, 0.0, -229.9"
+	Rotation = "-1, 0, 0"
+	Type = "6"
+}
+
+cBossNode RetreatNode4
+{
+	Boss = "boss_chef"
+	Location = "40.5, 0.0, -238.4"
+	Rotation = "-1, 0, 0"
+	Type = "6"
+}
+
+cBossNode LosNode1
+{
+	Boss = "boss_chef"
+	Location = "17.2, 0.0, -238.2"
+	Type = "0"
+}
+
+cBossNode LosNode2
+{
+	Boss = "boss_chef"
+	Location = "22.1, 0.0, -242.0"
+	Type = "0"
+}
+
+cBossNode LosNode3
+{
+	Boss = "boss_chef"
+	Location = "29.3, 0.0, -240.3"
+	Type = "0"
+}
+
+cBossNode LosNode4
+{
+	Boss = "boss_chef"
+	Location = "27.9, 0.0, -235.1"
+	Type = "0"
+}
+
+cBossNode LosNode5
+{
+	Boss = "boss_chef"
+	Location = "32.7, 0.0, -243.1"
+	Type = "0"
+}
+
+cBossNode LosNode6
+{
+	Boss = "boss_chef"
+	Location = "37.2, 0.0, -241.9"
+	Type = "0"
+}
+
+cBossNode LosNode7
+{
+	Boss = "boss_chef"
+	Location = "38.7, 0.0, -244.0"
+	Type = "0"
+}
+
+cBossNode LosNode8
+{
+	Boss = "boss_chef"
+	Location = "42.8, 0.0, -243.1"
+	Type = "0"
+}
+
+cBossNode LosNode9
+{
+	Boss = "boss_chef"
+	Location = "47.0, 0.0, -241.5"
+	Type = "0"
+}
+
+cBossNode LosNode10
+{
+	Boss = "boss_chef"
+	Location = "36.8, 0.0, -237.4"
+	Type = "0"
+}
+
+cBossNode LosNode11
+{
+	Boss = "boss_chef"
+	Location = "42.0, 0.0, -239.9"
+	Type = "0"
+}
+
+cBossNode LosNode12
+{
+	Boss = "boss_chef"
+	Location = "40.8, 0.0, -236.7"
+	Type = "0"
+}
+
+cBossNode LosNode13
+{
+	Boss = "boss_chef"
+	Location = "45.2, 0.0, -235.0"
+	Type = "0"
+}
+
+cBossNode LosNode14
+{
+	Boss = "boss_chef"
+	Location = "45.7, 0.0, -238.9"
+	Type = "0"
+}
+
+cBossNode LosNode15
+{
+	Boss = "boss_chef"
+	Location = "42.1, 0.0, -232.9"
+	Type = "0"
+}
+
+cBossNode LosNode16
+{
+	Boss = "boss_chef"
+	Location = "36.2, 0.0, -234.5"
+	Type = "0"
+}
+
+cBossNode LosNode17
+{
+	Boss = "boss_chef"
+	Location = "43.1, 0.0, -229.8"
+	Type = "0"
+}
+
+cBossNode LosNode18
+{
+	Boss = "boss_chef"
+	Location = "42.2, 0.0, -226.3"
+	Type = "0"
+}
+
+cBossNode LosNode19
+{
+	Boss = "boss_chef"
+	Location = "38.0, 0.0, -227.3"
+	Type = "0"
+}
+
+cBossNode LosNode20
+{
+	Boss = "boss_chef"
+	Location = "34.2, 0.0, -229.1"
+	Type = "0"
+}
+
+cBossNode LosNode21
+{
+	Boss = "boss_chef"
+	Location = "29.5, 0.0, -230.4"
+	Type = "0"
+}
+
+cBossNode LosNode22
+{
+	Boss = "boss_chef"
+	Location = "22.1, 0.0, -236.5"
+	Type = "0"
+}
+
+cWaypoint Waypoint1
+{
+	Location = "42.5, 0.0, -227.5"
+	Subtype = "0"
+	Type = "1"
+}
+
+cWaypoint Waypoint2
+{
+	Location = "40.0, 0.0, -227.9"
+	Subtype = "0"
+	Type = "1"
+}
+
+cWaypoint Waypoint3
+{
+	Location = "40.6, 0.0, -230.4"
+	Subtype = "0"
+	Type = "1"
+}
+
+cWaypoint Waypoint4
+{
+	Location = "42.9, 0.0, -229.4"
+	Subtype = "0"
+	Type = "1"
+}
+
+cWaypoint Waypoint5
+{
+	Location = "41.3, 0.0, -226.1"
+	Subtype = "0"
+	Type = "1"
+}
+
+cWaypoint Waypoint6
+{
+	Location = "38.0, 0.0, -226.8"
+	Subtype = "0"
+	Type = "1"
+}
+
+cWaypoint Waypoint7
+{
+	Location = "34.6, 0.0, -227.8"
+	Subtype = "0"
+	Type = "1"
+}
+
+cWaypoint Waypoint8
+{
+	Location = "38.1, 0.0, -228.8"
+	Subtype = "0"
+	Type = "1"
+}
+
+cWaypoint Waypoint9
+{
+	Location = "38.5, 0.0, -230.7"
+	Subtype = "0"
+	Type = "1"
+}
+
+cWaypoint Waypoint10
+{
+	Location = "36.2, 0.0, -231.4"
+	Subtype = "0"
+	Type = "1"
+}
+
+cWaypoint Waypoint11
+{
+	Location = "35.4, 0.0, -229.5"
+	Subtype = "0"
+	Type = "1"
+}
+
+cWaypoint Waypoint12
+{
+	Location = "36.2, 0.0, -234.6"
+	Subtype = "0"
+	Type = "1"
+}
+
+cWaypoint Waypoint13
+{
+	Location = "36.5, 0.0, -236.5"
+	Subtype = "0"
+	Type = "1"
+}
+
+cWaypoint Waypoint14
+{
+	Location = "42.6, 0.0, -234.8"
+	Subtype = "0"
+	Type = "1"
+}
+
+cWaypoint Waypoint15
+{
+	Location = "41.8, 0.0, -233.3"
+	Subtype = "0"
+	Type = "1"
+}
+
+cWaypoint Waypoint16
+{
+	Location = "44.8, 0.0, -236.1"
+	Subtype = "0"
+	Type = "1"
+}
+
+cWaypoint Waypoint17
+{
+	Location = "42.4, 0.0, -236.8"
+	Subtype = "0"
+	Type = "1"
+}
+
+cWaypoint Waypoint18
+{
+	Location = "42.8, 0.0, -239.6"
+	Subtype = "0"
+	Type = "1"
+}
+
+cWaypoint Waypoint19
+{
+	Location = "43.7, 0.0, -242.4"
+	Subtype = "0"
+	Type = "1"
+}
+
+cWaypoint Waypoint20
+{
+	Location = "46.2, 0.0, -241.4"
+	Subtype = "0"
+	Type = "1"
+}
+
+cWaypoint Waypoint21
+{
+	Location = "45.6, 0.0, -238.9"
+	Subtype = "0"
+	Type = "1"
+}
+
+cWaypoint Waypoint22
+{
+	Location = "40.3, 0.0, -237.6"
+	Subtype = "0"
+	Type = "1"
+}
+
+cWaypoint Waypoint23
+{
+	Location = "41.1, 0.0, -240.1"
+	Subtype = "0"
+	Type = "1"
+}
+
+cWaypoint Waypoint24
+{
+	Location = "41.8, 0.0, -242.6"
+	Subtype = "0"
+	Type = "1"
+}
+
+cWaypoint Waypoint25
+{
+	Location = "41.1, 0.0, -240.1"
+	Subtype = "0"
+	Type = "1"
+}
+
+cWaypoint Waypoint26
+{
+	Location = "39.5, 0.0, -243.5"
+	Subtype = "0"
+	Type = "1"
+}
+
+cWaypoint Waypoint27
+{
+	Location = "38.1, 0.0, -240.9"
+	Subtype = "0"
+	Type = "1"
+}
+
+cWaypoint Waypoint28
+{
+	Location = "37.5, 0.0, -238.2"
+	Subtype = "0"
+	Type = "1"
+}
+
+cWaypoint Waypoint29
+{
+	Location = "33.3, 0.0, -229.5"
+	Subtype = "0"
+	Type = "1"
+}
+
+cWaypoint Waypoint30
+{
+	Location = "29.6, 0.0, -230.6"
+	Subtype = "0"
+	Type = "1"
+}
+
+cWaypoint Waypoint31
+{
+	Location = "26.8, 0.0, -230.2"
+	Subtype = "0"
+	Type = "1"
+}
+
+cWaypoint Waypoint32
+{
+	Location = "37.0, 0.0, -242.1"
+	Subtype = "0"
+	Type = "1"
+}
+
+cWaypoint Waypoint33
+{
+	Location = "32.8, 0.0, -243.0"
+	Subtype = "0"
+	Type = "1"
+}
+
+cWaypoint Waypoint34
+{
+	Location = "30.4, 0.0, -233.7"
+	Subtype = "0"
+	Type = "1"
+}
+
+cWaypoint Waypoint35
+{
+	Location = "26.9, 0.0, -234.3"
+	Subtype = "0"
+	Type = "1"
+}
+
+cWaypoint Waypoint36
+{
+	Location = "28.0, 0.0, -236.4"
+	Subtype = "0"
+	Type = "1"
+}
+
+cWaypoint Waypoint37
+{
+	Location = "17.0, 0.0, -236.9"
+	Subtype = "0"
+	Type = "1"
+}
+
+cWaypoint Waypoint38
+{
+	Location = "18.2, 0.0, -239.0"
+	Subtype = "0"
+	Type = "1"
+}
+
+cWaypoint Waypoint39
+{
+	Location = "19.4, 0.0, -241.6"
+	Subtype = "0"
+	Type = "1"
+}
+
+cWaypoint Waypoint40
+{
+	Location = "18.2, 0.0, -243.0"
+	Subtype = "0"
+	Type = "1"
+}
+
+cWaypoint Waypoint41
+{
+	Location = "27.6, 0.0, -241.6"
+	Subtype = "0"
+	Type = "1"
+}
+
+cWaypoint Waypoint42
+{
+	Location = "29.2, 0.0, -242.8"
+	Subtype = "0"
+	Type = "1"
+}
+
+cWaypoint Waypoint43
+{
+	Location = "28.8, 0.0, -239.1"
+	Subtype = "0"
+	Type = "1"
+}
+
+cWaypoint Waypoint44
+{
+	Location = "31.9, 0.0, -240.0"
+	Subtype = "0"
+	Type = "1"
+}
+
+cWaypoint Waypoint45
+{
+	Location = "30.6, 0.0, -243.9"
+	Subtype = "0"
+	Type = "1"
+}
+
+cWaypoint Waypoint46
+{
+	Location = "47.0, 0.0, -246.6"
+	Subtype = "0"
+	Type = "1"
+}
+
+cWaypoint Waypoint47
+{
+	Location = "50.0, 0.0, -236.0"
+	Subtype = "0"
+	Type = "1"
+}
+
+cWaypoint Waypoint48
+{
+	Location = "52.5, 0.0, -236.5"
+	Subtype = "0"
+	Type = "1"
+}
+
+cWaypoint Waypoint49
+{
+	Location = "54.1, 0.0, -242.0"
+	Subtype = "0"
+	Type = "1"
+}
+
+cWaypoint Waypoint50
+{
+	Location = "47.6, 0.0, -228.5"
+	Subtype = "0"
+	Type = "1"
+}
+
+cWaypoint Waypoint51
+{
+	Location = "50.3, 0.0, -228.6"
+	Subtype = "0"
+	Type = "1"
+}
+
+cWaypoint Waypoint52
+{
+	Location = "53.3, 0.0, -227.8"
+	Subtype = "0"
+	Type = "1"
+}
+
+cWaypoint Waypoint53
+{
+	Location = "52.8, 0.0, -225.0"
+	Subtype = "0"
+	Type = "1"
+}
+
+cWaypoint Waypoint54
+{
+	Location = "63.0, 0.0, -244.0"
+	Subtype = "0"
+	Type = "1"
+}
+

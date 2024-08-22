@@ -1,0 +1,22 @@
+# ------------------------------------------------------------------------------------------
+# wid_name,				name string,	subtitle string,	desc string,
+#
+#
+
+underground,	10508,	10508,	1542,	1540,
+underground_locked,	1550,	10508,	1542,	1540,	
+workbench_2,	272.1,	-7.5,	-120.9,	LEVEL_UNDERGROUND,	
+underground_exit,	243.8,	1.5,	-124.7,	LEVEL_UNDERGROUND,	
+savepoint,	250.8,	1.5,	-118.9,	LEVEL_UNDERGROUND,	
+underground_exit,	230.2,	-6.0,	-312.5,	LEVEL_UNDERGROUND,	
+workbench_1,	217.8,	-6.0,	-322.8,	LEVEL_UNDERGROUND,	
+underground_exit,	117.4,	1.5,	-238.3,	LEVEL_UNDERGROUND,	
+workbench_3,	85.6,	-7.5,	-222.9,	LEVEL_UNDERGROUND,	
+underground_exit,	-53.0,	-6.0,	-124.5,	LEVEL_UNDERGROUND,	
+workbench_2,	-56.0,	-6.0,	-117.5,	LEVEL_UNDERGROUND,	
+workbench_1,	-448.1,	-7.5,	-62.2,	LEVEL_UNDERGROUND,	
+underground_exit,	-485.7,	1.0,	-58.9,	LEVEL_UNDERGROUND,	
+workbench_4,	-328.7,	-7.5,	120.0,	LEVEL_UNDERGROUND,	
+underground_exit,	-304.0,	1.0,	100.2,	LEVEL_UNDERGROUND,	
+underground_exit,	41.4,	-6.0,	7.2,	LEVEL_UNDERGROUND,	
+workbench_1,	62.8,	-6.0,	-4.4,	LEVEL_UNDERGROUND,	

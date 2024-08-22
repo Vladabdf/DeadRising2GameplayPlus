@@ -1,0 +1,8 @@
+# ------------------------------------------------------------------------------------------
+# wid_name,				name string,	subtitle string,	desc string,
+#
+#
+
+safehouse_b2,	10508,	10508,	708,	707,
+savepoint,	8.8,	-1.1,	22.2,	LEVEL_SAFEHOUSE,
+elevator_up,	-34.4,	-1.1,	22.9,	LEVEL_SAFEHOUSE,

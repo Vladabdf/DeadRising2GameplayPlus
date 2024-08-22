@@ -1,0 +1,702 @@
+cItemPlacement Chair_5
+{
+	ItemName = "Chair_5"
+	Location = "-128.406,71.215,75.647"
+	Rotation = "0.001,0.932,0.001,-0.362"
+}
+
+cItemPlacement Chair_6
+{
+	ItemName = "Chair_5"
+	Location = "-129.896,71.224,76.217"
+	Rotation = "-0.016,0.965,0.006,-0.264"
+}
+
+
+cDoorPlacement Elevator01
+{
+	AudioEnvVolume = "Elevator1_Door1"
+	InitialState = "1"
+	IsStatic = ""
+	ItemName = "door_elevator"
+	Location = "-126.9654,70.7965,67.1024"
+	MovementStyle = "1"
+	NonInteractableProp = "true"
+	OpenOnly = "false"
+	Rotation = "0,0.9659,0,-0.2588"
+	SiblingDoorName = "Elevator2"
+}
+
+cDoorPlacement Elevator2
+{
+	AudioEnvVolume = "Elevator1_Door1"
+	CustomInteractionText = "50455"
+	InitialState = "1"
+	InteractionIconLocation = "-130.674,72.040,65.519"
+	IsStatic = ""
+	ItemName = "door_elevator"
+	Location = "-129.3902,70.7965,68.5025"
+	MovementStyle = "1"
+	OpenOnly = "false"
+	Rotation = "0,0.2588,0,0.9659"
+	SiblingDoorName = "Elevator01"
+}
+
+
+cItemPlacement beer
+{
+	FixedOnInitialPlacement = "false"
+	ItemName = "Beer"
+	Location = "-129.486,71.676,75.064"
+	PropState = "-1"
+	Rotation = "0.000,0.000,0.000,1.000"
+}
+
+cItemPlacement beer1
+{
+	FixedOnInitialPlacement = "false"
+	ItemName = "Beer"
+	Location = "-129.617,71.550,75.614"
+	Rotation = "0.174,0.167,0.696,0.677"
+}
+
+cItemPlacement Vodka
+{
+	FixedOnInitialPlacement = "false"
+	ItemName = "Vodka"
+	Location = "-136.435,71.755,80.879"
+	PropState = "-2"
+	Rotation = "-0.133,0.127,0.705,0.684"
+}
+
+cItemPlacement OrangeJuice
+{
+	FixedOnInitialPlacement = "false"
+	ItemName = "OrangeJuice"
+	Location = "-136.819,71.845,81.060"
+	PropState = "-2"
+	Rotation = "0.000,0.000,0.000,1.000"
+}
+
+cItemPlacement OrangeJuice1
+{
+	FixedOnInitialPlacement = "false"
+	ItemName = "OrangeJuice"
+	Location = "-136.568,71.845,81.045"
+	PropState = "-2"
+	Rotation = "0.000,0.000,0.000,1.000"
+}
+
+
+cItemPlacement Chair_7
+{
+	FixedOnInitialPlacement = "false"
+	ItemName = "Chair_5"
+	Location = "-129.813,71.214,73.809"
+	Rotation = "-0.000,0.499,-0.000,-0.867"
+}
+
+cItemPlacement Chair_8
+{
+	ItemName = "Chair_5"
+	Location = "-130.483,71.214,76.208"
+	Rotation = "0.000,0.998,-0.000,-0.060"
+}
+
+cItemPlacement patiotable
+{
+	FixedOnInitialPlacement = "true"
+	ItemName = "PatioTable"
+	Location = "-129.326,71.068,75.346"
+	Rotation = "-0.001,-0.004,0.000,1.000"
+}
+
+cItemPlacement Chair_9
+{
+	FixedOnInitialPlacement = "true"
+	ItemName = "Chair_5"
+	Location = "-132.961,71.214,67.501"
+	Rotation = "0.000,0.619,0.000,-0.787"
+}
+
+cItemPlacement Chair_10
+{
+	FixedOnInitialPlacement = "false"
+	ItemName = "Chair_5"
+	Location = "-136.904,71.215,79.391"
+	Rotation = "0.000,-0.974,0.000,-0.228"
+}
+
+cItemPlacement crane_arm
+{
+	DisablePhysicsOnInitialPlacement = "true"
+	ItemName = "crane_arm"
+	Location = "-135.776,73.109,40.562"
+	Rotation = "-0.500,0.000,0.500,0.707"
+}
+
+cItemPlacement crane_swivel
+{
+	DisablePhysicsOnInitialPlacement = "true"
+	ItemName = "crane_swivel"
+	Location = "-135.880,73.115,40.652"
+	Rotation = "-0.271,-0.271,0.653,0.653"
+}
+
+
+cItemPlacement SpotLight4
+{
+	ItemName = "SpotLight"
+	Location = "-142.037,71.888,38.891"
+	PropState = "-2"
+	Rotation = "0.000,-0.867,0.000,-0.498"
+}
+
+cItemPlacement SpotLight6
+{
+	ItemName = "SpotLight"
+	Location = "-144.001,71.888,35.489"
+	PropState = "-2"
+	Rotation = "0.000,-0.867,0.000,-0.498"
+}
+
+cItemPlacement SpotLight2
+{
+	ItemName = "SpotLight"
+	Location = "-140.022,71.888,42.380"
+	PropState = "-2"
+	Rotation = "0.000,-0.867,0.000,-0.498"
+}
+
+cItemPlacement SpotLight
+{
+	ItemName = "SpotLight"
+	Location = "-137.981,71.888,45.887"
+	PropState = "-2"
+	Rotation = "0.000,-0.867,0.000,-0.498"
+}
+
+cItemPlacement SpotLight9
+{
+	ItemName = "SpotLight"
+	Location = "-149.765,71.888,37.059"
+	PropState = "-2"
+	Rotation = "0.000,-0.965,0.000,0.263"
+}
+
+cItemPlacement SpotLight11
+{
+	ItemName = "SpotLight"
+	Location = "-146.286,71.888,35.047"
+	PropState = "-2"
+	Rotation = "0.000,-0.965,0.000,0.263"
+}
+
+cItemPlacement SpotLight12
+{
+	ItemName = "SpotLight"
+	Location = "-153.257,71.888,39.081"
+	PropState = "-2"
+	Rotation = "0.000,-0.965,0.000,0.263"
+}
+
+cItemPlacement SpotLight14
+{
+	ItemName = "SpotLight"
+	Location = "-156.695,71.888,41.079"
+	PropState = "-2"
+	Rotation = "0.000,-0.965,0.000,0.263"
+}
+
+cItemPlacement SpotLight17
+{
+	ItemName = "SpotLight"
+	Location = "-154.949,71.888,46.647"
+	PropState = "-2"
+	Rotation = "0.000,-0.487,0.000,0.873"
+}
+
+cItemPlacement SpotLight19
+{
+	ItemName = "SpotLight"
+	Location = "-157.036,71.888,43.038"
+	PropState = "-2"
+	Rotation = "0.000,-0.504,0.000,0.864"
+}
+
+cItemPlacement SpotLight20
+{
+	ItemName = "SpotLight"
+	Location = "-152.528,71.888,50.902"
+	PropState = "-2"
+	Rotation = "0.000,-0.487,0.000,0.873"
+}
+
+cItemPlacement SpotLight22
+{
+	ItemName = "SpotLight"
+	Location = "-151.097,71.882,53.371"
+	PropState = "-2"
+	Rotation = "0.000,-0.487,0.000,0.873"
+}
+
+cItemPlacement SpotLight27
+{
+	ItemName = "SpotLight"
+	Location = "-138.599,71.888,48.061"
+	PropState = "-2"
+	Rotation = "0.000,-0.261,0.000,-0.965"
+}
+
+cItemPlacement Flashlight
+{
+	IsDispenser = "false"
+	ItemName = "Flashlight"
+	Location = "-144.906,71.976,65.143"
+	PropState = "-1"
+	Rotation = "0.009,0.099,0.015,0.995"
+}
+
+cItemPlacement MoneyCase
+{
+	ItemName = "MoneyCase"
+	Location = "-151.046,72.161,47.845"
+	Rotation = "0.000,-0.077,0.001,0.997"
+}
+
+cItemPlacement MoneyCase1
+{
+	ItemName = "MoneyCase"
+	Location = "-151.918,72.161,47.189"
+	Rotation = "0.000,-0.002,0.000,1.000"
+}
+
+cItemPlacement MoneyCase2
+{
+	ItemName = "MoneyCase"
+	Location = "-151.529,72.060,47.210"
+	Rotation = "-0.094,-0.094,0.701,0.701"
+}
+
+cItemPlacement SmallSuitcase3
+{
+	ItemName = "SmallSuitcase"
+	Location = "-153.932,72.105,41.449"
+	Rotation = "0.707,0.020,-0.019,0.706"
+}
+
+cItemPlacement SmallSuitcase2
+{
+	ItemName = "SmallSuitcase"
+	Location = "-153.047,72.105,41.963"
+	Rotation = "0.707,-0.010,0.010,0.707"
+}
+
+cItemPlacement SmallSuitcase1
+{
+	ItemName = "SmallSuitcase"
+	Location = "-153.604,72.191,41.885"
+	Rotation = "0.000,0.080,0.000,0.997"
+}
+
+cItemPlacement SmallSuitcase
+{
+	ItemName = "SmallSuitcase"
+	Location = "-153.511,72.220,41.427"
+	Rotation = "0.669,-0.271,0.226,-0.654"
+}
+
+cItemPlacement MetalBarricade
+{
+	FixedOnInitialPlacement = "true"
+	ItemName = "MetalBarricade"
+	Location = "-143.190,72.150,51.710"
+	Rotation = "0.002,-0.963,0.001,0.270"
+}
+
+cItemPlacement MetalBarricade1
+{
+	FixedOnInitialPlacement = "true"
+	ItemName = "MetalBarricade"
+	Location = "-138.822,72.149,49.203"
+	Rotation = "0.027,0.264,-0.014,0.964"
+}
+
+cItemPlacement MetalBarricade2
+{
+	FixedOnInitialPlacement = "true"
+	ItemName = "MetalBarricade"
+	Location = "-131.470,71.148,52.895"
+	Rotation = "0.013,-0.966,-0.002,0.257"
+}
+
+cItemPlacement MetalBarricade3
+{
+	FixedOnInitialPlacement = "true"
+	ItemName = "MetalBarricade"
+	Location = "-139.479,71.145,57.322"
+	Rotation = "0.013,-0.966,-0.003,0.259"
+}
+
+cItemPlacement CardboardBox
+{
+	FixedOnInitialPlacement = "true"
+	ItemName = "CardboardBox"
+	Location = "-155.265,71.840,50.389"
+	Rotation = "-0.000,-0.501,0.001,0.865"
+	SpawnPropFromCategory = "62"
+}
+
+cItemPlacement CardboardBox1
+{
+	FixedOnInitialPlacement = "false"
+	ItemName = "CardboardBox"
+	Location = "-12.034,13.519,-32.092"
+	Rotation = "0.062,-0.062,-0.704,0.705"
+	SpawnPropFromCategory = "62"
+}
+
+cItemPlacement CardboardBox2
+{
+	FixedOnInitialPlacement = "true"
+	ItemName = "CardboardBox"
+	Location = "-154.823,71.841,50.901"
+	Rotation = "0.000,-0.504,-0.002,0.864"
+	SpawnPropFromCategory = "62"
+}
+
+cItemPlacement CardboardBox3
+{
+	FixedOnInitialPlacement = "true"
+	ItemName = "CardboardBox"
+	Location = "-155.487,73.008,51.347"
+	Rotation = "0.000,-0.467,0.000,0.884"
+	SpawnPropFromCategory = "62"
+}
+
+cItemPlacement CardboardBox4
+{
+	FixedOnInitialPlacement = "false"
+	ItemName = "CardboardBox"
+	Location = "-155.446,73.444,51.356"
+	Rotation = "0.001,-0.488,0.000,0.873"
+	SpawnPropFromCategory = "62"
+}
+
+cItemPlacement CardboardBox5
+{
+	FixedOnInitialPlacement = "true"
+	ItemName = "CardboardBox"
+	Location = "-155.049,73.007,51.932"
+	Rotation = "-0.002,0.210,0.001,0.978"
+	SpawnPropFromCategory = "62"
+}
+
+cItemPlacement GarbageCan_2
+{
+	ItemName = "GarbageCan_2"
+	Location = "-131.014,71.063,67.136"
+	Rotation = "-0.501,-0.346,-0.465,0.643"
+}
+
+cItemPlacement FireExtinguisher
+{
+	ItemName = "FireExtinguisher"
+	Location = "-129.043,70.874,71.936"
+	PropState = "-1"
+	Rotation = "-0.003,-0.448,0.005,0.894"
+}
+
+cItemPlacement GarbageBag
+{
+	ItemName = "GarbageBag"
+	Location = "-131.286,71.058,67.892"
+	Rotation = "0.596,0.085,0.024,0.798"
+}
+
+cItemPlacement WaterCooler
+{
+	ItemName = "WaterCooler"
+	Location = "-130.628,70.629,69.690"
+	Rotation = "0.000,0.571,0.000,-0.821"
+}
+
+cItemPlacement Pylon
+{
+	ItemName = "Pylon"
+	Location = "-132.528,71.638,43.376"
+	Rotation = "0.004,-0.007,-0.004,1.000"
+}
+
+cItemPlacement Pylon1
+{
+	ItemName = "Pylon"
+	Location = "8.233,12.227,-43.056"
+	Rotation = "0.002,0.001,-0.000,1.000"
+}
+
+cItemPlacement GarbageCan_3
+{
+	FixedOnInitialPlacement = "true"
+	ItemName = "GarbageCan_2"
+	Location = "-131.323,71.168,77.204"
+	Rotation = "0.000,-0.976,-0.001,0.218"
+}
+
+cItemPlacement MilitaryCrate
+{
+	ItemName = "MilitaryCrate"
+	Location = "-138.313,71.801,63.007"
+	Rotation = "0.000,0.259,0.000,0.966"
+}
+
+cItemPlacement playingcards
+{
+	FixedOnInitialPlacement = "false"
+	ItemName = "PlayingCards"
+	Location = "-129.392,71.531,75.296"
+	Rotation = "0.001,0.058,-0.001,0.998"
+}
+
+cItemPlacement OneHundredDollars
+{
+	ItemName = "OneHundredDollars"
+	Location = "-129.980,70.640,75.185"
+	Rotation = "-0.465,0.000,0.885,0.001"
+}
+
+cItemPlacement OneHundredDollars1
+{
+	ItemName = "OneHundredDollars"
+	Location = "-130.084,70.641,75.654"
+	Rotation = "-0.001,-0.602,-0.001,0.799"
+}
+
+cItemPlacement OneHundredDollars2
+{
+	ItemName = "OneHundredDollars"
+	Location = "-129.667,71.535,75.345"
+	Rotation = "-0.007,-0.969,0.000,0.246"
+}
+
+cItemPlacement MilitaryCrate1
+{
+	ItemName = "MilitaryCrate"
+	Location = "-138.699,71.802,62.230"
+	Rotation = "-0.000,-0.513,-0.000,0.858"
+}
+
+cItemPlacement MilitaryCrate2
+{
+	ItemName = "MilitaryCrate"
+	Location = "-138.593,72.068,62.880"
+	Rotation = "0.239,0.410,-0.106,0.874"
+}
+
+cItemPlacement MilitaryCrate3
+{
+	FixedOnInitialPlacement = "true"
+	ItemName = "MilitaryCrate"
+	Location = "-142.151,71.632,57.123"
+	Rotation = "0.000,0.365,-0.002,0.931"
+}
+
+cItemPlacement MilitaryCrate4
+{
+	ItemName = "MilitaryCrate"
+	Location = "-142.672,71.635,57.540"
+	Rotation = "0.000,0.356,0.000,0.934"
+}
+
+cItemPlacement MilitaryCrate5
+{
+	FixedOnInitialPlacement = "false"
+	ItemName = "MilitaryCrate"
+	Location = "-142.205,72.091,57.590"
+	Rotation = "0.010,-0.504,0.003,0.864"
+}
+
+cItemPlacement MilitaryCrate6
+{
+	FixedOnInitialPlacement = "false"
+	ItemName = "MilitaryCrate"
+	Location = "-142.464,72.092,57.016"
+	Rotation = "-0.000,-0.442,-0.000,0.897"
+}
+
+cItemPlacement MilitaryCrate7
+{
+	FixedOnInitialPlacement = "false"
+	ItemName = "MilitaryCrate"
+	Location = "-145.238,72.002,37.676"
+	Rotation = "0.000,-0.635,0.000,0.773"
+}
+
+cItemPlacement MilitaryCrate8
+{
+	FixedOnInitialPlacement = "false"
+	ItemName = "MilitaryCrate"
+	Location = "-145.316,72.002,37.061"
+	Rotation = "0.000,-0.679,-0.001,0.734"
+}
+
+cItemPlacement MilitaryCrate9
+{
+	FixedOnInitialPlacement = "false"
+	ItemName = "MilitaryCrate"
+	Location = "-144.953,72.457,37.395"
+	Rotation = "-0.004,-0.988,0.000,0.154"
+}
+
+cItemPlacement Particle_Board
+{
+	FixedOnInitialPlacement = "true"
+	ItemName = "Particle_Board"
+	Location = "-161.719,72.565,42.844"
+	Rotation = "0.623,-0.375,-0.522,-0.447"
+}
+
+cItemPlacement Particle_Board1
+{
+	FixedOnInitialPlacement = "true"
+	ItemName = "Particle_Board"
+	Location = "-161.420,72.528,42.508"
+	Rotation = "0.663,-0.332,-0.523,-0.421"
+}
+
+cItemPlacement Particle_Board2
+{
+	ItemName = "Particle_Board"
+	Location = "-162.576,72.564,37.571"
+	Rotation = "0.791,-0.132,-0.184,-0.568"
+}
+
+cItemPlacement Particle_Board3
+{
+	FixedOnInitialPlacement = "true"
+	ItemName = "Particle_Board"
+	Location = "-160.201,71.895,38.424"
+	Rotation = "0.822,-0.047,-0.560,0.094"
+}
+
+cItemPlacement Particle_Board4
+{
+	FixedOnInitialPlacement = "true"
+	ItemName = "Particle_Board"
+	Location = "-161.240,72.485,42.725"
+	Rotation = "0.667,-0.316,-0.558,-0.380"
+}
+
+cItemPlacement ConstructionHat
+{
+	ItemName = "ConstructionHat"
+	Location = "-162.813,72.838,42.448"
+	Rotation = "0.119,-0.661,0.106,0.733"
+}
+
+cItemPlacement CementSaw
+{
+	FixedOnInitialPlacement = "true"
+	ItemName = "CementSaw"
+	Location = "-162.872,72.021,43.103"
+	Rotation = "0.569,-0.661,0.483,-0.077"
+}
+
+cItemPlacement SawBlade
+{
+	FixedOnInitialPlacement = "true"
+	ItemName = "SawBlade"
+	Location = "-163.085,72.811,42.032"
+	Rotation = "0.001,-0.006,-0.000,1.000"
+}
+
+cItemPlacement SawBlade1
+{
+	FixedOnInitialPlacement = "true"
+	ItemName = "SawBlade"
+	Location = "-163.076,72.845,41.936"
+	Rotation = "0.641,0.004,0.767,0.003"
+}
+
+cItemPlacement GolfClub
+{
+	FixedOnInitialPlacement = "true"
+	ItemName = "GolfClub"
+	Location = "-132.368,71.024,68.216"
+	Rotation = "-0.300,-0.788,-0.063,0.534"
+}
+
+cItemPlacement CardboardBox6
+{
+	FixedOnInitialPlacement = "false"
+	ItemName = "CardboardBox"
+	Location = "-155.107,73.439,51.875"
+	Rotation = "-0.001,0.287,0.001,0.958"
+	SpawnPropFromCategory = "62"
+}
+
+cItemPlacement MilitaryCrate10
+{
+	FixedOnInitialPlacement = "false"
+	ItemName = "MilitaryCrate"
+	Location = "-141.387,71.634,57.123"
+	Rotation = "0.001,-0.951,0.000,0.310"
+}
+
+cItemPlacement MilitaryCrate11
+{
+	FixedOnInitialPlacement = "false"
+	ItemName = "MilitaryCrate"
+	Location = "-141.333,72.086,56.983"
+	Rotation = "-0.006,-0.951,0.002,0.309"
+}
+
+
+cLightContextVolume LC_HotelRoof
+{
+	ContextFileName = "/fortune_exterior.csv"
+	QuadName = "L_HotelRoof"
+}
+
+cPolygonLarge L_HotelRoof
+{
+	Height = "150"
+	NumVertex = "6"
+	Vertex0 = "-227.748,1.001,13.730"
+	Vertex1 = "-236.143,1.001,94.340"
+	Vertex2 = "-165.105,1.001,122.758"
+	Vertex3 = "-97.261,1.001,81.861"
+	Vertex4 = "-81.006,1.001,0.961"
+	Vertex5 = "-160.583,1.001,-29.338"
+}
+
+
+cSpawnPoint Start
+{
+	CameraHeading = "-149.120"
+	CameraPitch = "-6.938"
+	Location0 = "-131.104,70.656,62.935"
+	RegionRadius = "3"
+	Rotation0 = "-2.689"
+}
+
+cSpawnPoint ChopterStart
+{
+	CameraHeading = "106.773"
+	CameraPitch = "5.194"
+	Location = "-102.490,49.690,89.288"
+	Location0 = "-138.063,71.639,42.758"
+	Rotation0 = "1.316"
+}
+
+cSpawnPoint HotelRoof
+{
+	CameraHeading = "-147.676"
+	CameraPitch = "-9.991"
+	Location = "-102.490,49.690,89.288"
+	Location0 = "-131.475,70.640,61.603"
+	RegionRadius = "3"
+	Rotation0 = "-2.794"
+}
+
+

@@ -1,0 +1,23 @@
+cScalabilityProfile xbox360
+{
+	cScalabilitySelectedOption msaa_type
+    {
+		option 	= "msaa_4x"
+    }
+}
+
+cScalabilityProfile ps3
+{
+	cScalabilitySelectedOption msaa_type
+    {
+		option 	= "msaa_2x"
+    }
+}
+
+cScalabilityProfile pc
+{
+	cScalabilitySelectedOption msaa_type
+    {
+		option 	= "msaa_none"
+    }
+}

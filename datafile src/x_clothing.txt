@@ -1,0 +1,10 @@
+cSpawnPoint Start
+{
+	CameraHeading = "3.834"
+	CameraPitch = "-12.217"
+	Location = "-18.303,1.664,6.508"
+	Location0 = "-0.3, 0.0, 4.4"
+	Rotation = "0.497,0.420,-0.537,0.537"
+}
+
+

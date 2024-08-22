@@ -1,0 +1,396 @@
+cAnimatedPostFXFloatClampValues contrast
+{
+	min = 0
+	max = 3
+}
+
+cAnimatedPostFXFloatClampValues saturation
+{
+	min = 0
+	max = 3
+}
+
+cAnimatedPostFXCOORD3ClampValues tint
+{
+	min = "0,0,0"
+	max = "2,2,2"
+}
+
+cAnimatedPostFXFloatClampValues vignette_power
+{
+	min = 0
+	max = 0
+}
+
+cAnimatedPostFXFloatClampValues vignette_radius
+{
+	min = 0
+	max = 0
+}
+
+cAnimatedPostFXCOORD3ClampValues vignette_tint
+{
+	min = "0,0,0"
+	max = "0,0,0"
+}
+
+cAnimatedPostFXFloatClampValues vignette_alpha
+{
+	min = 0
+	max = 0
+}
+
+cAnimatedPostFXFloatClampValues combined_camera_blur_scale
+{
+	min = 0
+	max = 0
+}
+
+
+cAnimatedPostFXEvent explosion_event_small
+{	
+	cAnimatedPostFXTrack
+	{
+		absolute = "false"
+
+		cFloatJuncture contrast
+		{
+			time = 0
+			value = 0
+		}
+						
+		cFloatJuncture contrast
+		{
+			time = 0.16
+			value = 0
+		}
+		
+		cFloatJuncture contrast
+		{
+			time = 0.55
+		}
+	}
+	
+	cAnimatedPostFXTrack
+	{
+
+		absolute = "false"
+
+		cFloatJuncture saturation
+		{
+			time = 0
+			value = 0.5
+		}
+		
+		cFloatJuncture saturation
+		{
+			time = 0.16
+			value = 0.5
+		}
+		
+		cFloatJuncture saturation
+		{
+			time = 0.55
+		}
+	}
+	
+	cAnimatedPostFXTrack
+	{
+
+		absolute = "false"
+
+		cCOORD3Juncture tint
+		{
+			time = 0
+			value = "2,2,2"
+		}
+		
+		cCOORD3Juncture tint
+		{
+			time = 0.16
+			value = "0.3,0.3,0.3"
+		}
+		
+		cCOORD3Juncture tint
+		{
+			time = 0.55
+		}
+	}
+}
+
+cAnimatedPostFXEvent explosion_event_large
+{	
+	cAnimatedPostFXTrack
+	{
+		absolute = "false"
+		
+		cFloatJuncture contrast
+		{
+			time = 0
+			value = 0
+		}
+		
+		cFloatJuncture contrast
+		{
+			time = 0.16
+			value = 0
+		}
+		
+		cFloatJuncture contrast
+		{
+			time = 0.55
+		}
+	}
+	
+	cAnimatedPostFXTrack
+	{
+
+		absolute = "false"
+
+		cFloatJuncture saturation
+		{
+			time = 0
+			value = 0.5
+		}
+		
+		cFloatJuncture saturation
+		{
+			time = 0.16
+			value = 0.5
+		}
+		
+		cFloatJuncture saturation
+		{
+			time = 0.55
+		}
+	}
+	
+	cAnimatedPostFXTrack
+	{
+
+		absolute = "false"
+
+		cCOORD3Juncture tint
+		{
+			time = 0
+			value = "2,2,2"
+		}
+		
+		cCOORD3Juncture tint
+		{
+			time = 0.1
+			value = "2,2,2"
+		}
+		
+		cCOORD3Juncture tint
+		{
+			time = 0.18
+			value = "0.3,0.3,0.3"
+		}
+		
+		cCOORD3Juncture tint
+		{
+			time = 0.55
+		}
+	}
+}
+
+cAnimatedPostFXEvent near_death
+{
+	held_start_time = 2
+	held_end_time = 4
+	
+	cAnimatedPostFXTrack
+	{
+		cFloatJuncture saturation
+		{
+			time = 2
+			value = -0.8
+		}
+		
+		cFloatJuncture saturation
+		{
+			time = 3
+			value = -0.4
+		}
+		
+		cFloatJuncture saturation
+		{
+			time = 4
+			value = -0.8
+		}
+		
+		cFloatJuncture saturation
+		{
+			time = 6
+		}
+	}
+	
+	cAnimatedPostFXTrack
+	{
+		cCOORD3Juncture tint
+		{
+			time = 2
+			value = "0.2,0,0"
+		}
+		
+		cCOORD3Juncture tint
+		{
+			time = 3
+			value = "0,0,0"
+		}
+		
+		cCOORD3Juncture tint
+		{
+			time = 4
+			value = "0.2,0,0"
+		}
+		
+		cCOORD3Juncture tint
+		{
+			time = 6
+		}
+	}
+}
+
+cAnimatedPostFXEvent blinding_explosion_event
+{	
+	cAnimatedPostFXTrack
+	{		
+		cCOORD3Juncture tint
+		{
+			time = 0
+			value = "0.9,0.9,0.9"
+		}
+		
+		cCOORD3Juncture tint
+		{
+			time = 2.5
+		}
+	}
+	
+	cAnimatedPostFXTrack
+	{		
+		cFloatJuncture saturation
+		{
+			time = 2
+			value = 0.5
+		}
+		
+		cFloatJuncture saturation
+		{
+			time = 2.5
+		}
+	}
+}
+
+cAnimatedPostFXEvent grapple_event
+{	
+	cAnimatedPostFXTrack
+	{		
+		absolute = "true"
+		
+		cFloatJuncture combined_camera_blur_scale
+		{
+			time = 0
+			value = 1.5
+		}
+		
+		cFloatJuncture combined_camera_blur_scale
+		{
+			time = 0.5
+			value = 1.5
+		}
+		
+		cFloatJuncture combined_camera_blur_scale
+		{
+			time = 0.51
+		}
+	}
+}
+
+cAnimatedPostFXEvent minigame_transition
+{	
+	held_start_time = 0.25
+	held_end_time = 0.25
+	
+	cAnimatedPostFXTrack
+	{		
+		absolute = "true"
+		
+		cFloatJuncture combined_camera_blur_scale
+		{
+			time = 0.25
+			value = 1.5
+		}
+		
+		cFloatJuncture combined_camera_blur_scale
+		{
+			time = 0.5
+		}
+	}
+}
+
+cAnimatedPostFXEvent weaponized_vehicle
+{
+	held_start_time = 1.5
+	held_end_time = 1.5
+	
+	cAnimatedPostFXTrack
+	{		
+		absolute = "true"
+		
+		cFloatJuncture combined_camera_blur_scale
+		{
+			time = 1.5
+			value = 1.5
+		}
+		
+		cFloatJuncture combined_camera_blur_scale
+		{
+			time = 5.5
+		}
+	}
+}
+
+cAnimatedPostFXEvent cine_fade_up
+{	
+	cAnimatedPostFXTrack
+	{
+		absolute = "true"
+		
+		cCOORD3Juncture tint
+		{
+			time = 0
+			value = "0,0,0"
+		}
+		
+		cCOORD3Juncture tint
+		{
+			time = 1
+		}
+	}
+}
+
+cAnimatedPostFXEvent cine_fade_down
+{
+	held_start_time = 0.9999
+	held_end_time = 0.9999
+	
+	cAnimatedPostFXTrack
+	{
+		absolute = "true"
+		
+		cCOORD3Juncture tint
+		{
+			time = 1
+			value = "0,0,0"
+		}	
+		
+		cCOORD3Juncture tint
+		{
+			time = 1
+		}
+	}
+}
+

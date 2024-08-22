@@ -1,0 +1,714 @@
+cTriggerVolume YucatanElevatorSwitch
+{
+	ActionType = "39"
+	DisplayName = "50455"
+	Height = "2.0"
+	InteractButton = "true"
+	LevelSpawnPoint = "YucElevatorR"
+	LineSegment = "false"
+	Location = "176.391,30.072,-169.617"
+	Radius = "1"
+	Rotation = "0,0,0,1"
+	Vertex1 = "182.898,28.108,-175.953"
+	Vertex2 = "184.778,28.108,-177.994"
+	Vertex3 = "182.795,28.108,-178.999"
+	Vertex4 = "181.795,28.108,-177.983"
+}
+
+cTriggerVolume YucutanRoofExit1
+{
+	ActionType = "3"
+	DisplayName = "915"
+	Height = "2.0"
+	InteractButton = "true"
+	InteractionIconOffset = "-0.867,0.000,-1.950"
+	Level = "LEVEL_YUCATAN_CASINO"
+	LevelSpawnPoint = "YucatanElevator"
+	LineSegment = "true"
+	Location = "179.033,29.921,-171.473"
+	Rotation = "0,0,0,1"
+	Vertex1 = "179.253,28.832,-171.701"
+	Vertex2 = "182.062,28.832,-168.888"
+	Vertex3 = "179.256,28.832,-166.092"
+	Vertex4 = "178.867,28.832,-171.283"
+}
+
+
+cWaypoint Start
+{
+	Location = "0.0,0.0,0.0"
+	Type = "0"
+}
+
+cWaypoint Destination
+{
+	Location = "0.0,0.0,0.0"
+	Type = "0"
+}
+
+
+cEnvironmentAcoustics Mediumroom
+{
+	AcousticMedium = "0"
+	DecayHFRatio = "0.83"
+	DecayTime = "1.3"
+	Density = "100"
+	Diffusion = "100"
+	HFReference = "5000"
+	Reflections = "-1000"
+	ReflectionsDelay = "0.01"
+	Reverb = "-200"
+	ReverbDelay = "0.02"
+	Room = "-1000"
+	RoomHF = "-600"
+	RoomRolloffFactor = "0"
+}
+
+cEnvironmentAcoustics Smallroom
+{
+	AcousticMedium = "0"
+	DecayHFRatio = "0.83"
+	DecayTime = "1.1"
+	Density = "100"
+	Diffusion = "100"
+	HFReference = "5000"
+	Reflections = "-400"
+	ReflectionsDelay = "0.005"
+	Reverb = "500"
+	ReverbDelay = "0.01"
+	Room = "-1000"
+	RoomHF = "-600"
+	RoomRolloffFactor = "0"
+}
+
+cEnvironmentAcoustics Arena
+{
+	AcousticMedium = "0"
+	DecayHFRatio = "0.33"
+	DecayTime = "7.24"
+	Density = "100"
+	Diffusion = "100"
+	HFReference = "5000"
+	Location = ""
+	Reflections = "-1166"
+	ReflectionsDelay = "0.02"
+	Reverb = "16"
+	ReverbDelay = "0.03"
+	Room = "-2700"
+	RoomHF = "-698"
+	RoomRolloffFactor = "0.0"
+}
+
+cEnvironmentAcoustics ConcertHall
+{
+	AcousticMedium = "0"
+	DecayHFRatio = "0.70"
+	DecayTime = "3.92"
+	Density = "100"
+	Diffusion = "100"
+	HFReference = "5000"
+	Location = "-73.781,1.457,-5.801"
+	Reflections = "-1230"
+	ReflectionsDelay = "0.02"
+	Reverb = "-2"
+	ReverbDelay = "0.029"
+	Room = "-2700"
+	RoomHF = "-500"
+	RoomRolloffFactor = "0.0"
+}
+
+cEnvironmentAcoustics Room
+{
+	AcousticMedium = "0"
+	DecayHFRatio = "0.83"
+	DecayTime = "0.4"
+	Density = "100"
+	Diffusion = "100"
+	HFReference = "5000"
+	Reflections = "-1646"
+	ReflectionsDelay = "0.002"
+	Reverb = "53"
+	ReverbDelay = "0.003"
+	Room = "-1900"
+	RoomHF = "-454"
+	RoomRolloffFactor = "0"
+}
+
+cEnvironmentAcoustics CarpetedHallway
+{
+	AcousticMedium = "0"
+	DecayHFRatio = "0.1"
+	DecayTime = "0.3"
+	Density = "100"
+	Diffusion = "100"
+	HFReference = "5000"
+	Reflections = "-1831"
+	ReflectionsDelay = "0.002"
+	Reverb = "-1630"
+	ReverbDelay = "0.03"
+	Room = "-1000"
+	RoomHF = "-4000"
+	RoomRolloffFactor = "0"
+}
+
+cEnvironmentAcoustics City
+{
+	AcousticMedium = "0"
+	DecayHFRatio = "0.67"
+	DecayTime = "1.49"
+	Density = "100"
+	Diffusion = "50"
+	HFReference = "5000"
+	Location = "-73.781,1.457,-5.801"
+	Reflections = "-2273"
+	ReflectionsDelay = "0.007"
+	Reverb = "-2217"
+	ReverbDelay = "0.001"
+	Room = "-800"
+	RoomHF = "-800"
+	RoomRolloffFactor = "0.0"
+}
+
+cEnvironmentAcoustics ParkingLot
+{
+	AcousticMedium = "0"
+	DecayHFRatio = "1.5"
+	DecayTime = "1.65"
+	Density = "100"
+	Diffusion = "100"
+	HFReference = "5000"
+	Location = "-73.781,1.457,-5.801"
+	Reflections = "-1363"
+	ReflectionsDelay = "0.008"
+	Reverb = "-1153"
+	ReverbDelay = "0.012"
+	Room = "-800"
+	RoomHF = "0"
+	RoomRolloffFactor = "0.0"
+}
+
+cEnvironmentAcoustics Bathroom
+{
+	AcousticMedium = "0"
+	DecayHFRatio = "0.54"
+	DecayTime = "1.49"
+	Density = "60"
+	Diffusion = "100"
+	HFReference = "5000"
+	Location = "-73.781,1.457,-5.801"
+	Reflections = "-370"
+	ReflectionsDelay = "0.007"
+	Reverb = "1030"
+	ReverbDelay = "0.001"
+	Room = "-3000"
+	RoomHF = "-1200"
+	RoomRolloffFactor = "0.0"
+}
+
+cEnvironmentAcoustics Hallway
+{
+	AcousticMedium = "0"
+	DecayHFRatio = "0.59"
+	DecayTime = "1.49"
+	Density = "100"
+	Diffusion = "100"
+	HFReference = "5000"
+	Location = "-73.781,1.457,-5.801"
+	Reflections = "-1219"
+	ReflectionsDelay = "0.007"
+	Reverb = "441"
+	ReverbDelay = "0.011"
+	Room = "-2500"
+	RoomHF = "-300"
+	RoomRolloffFactor = "0.0"
+}
+
+cEnvironmentAcoustics Alley
+{
+	AcousticMedium = "0"
+	DecayHFRatio = "0.86"
+	DecayTime = "1.49"
+	Density = "100"
+	Diffusion = "100"
+	HFReference = "5000"
+	Location = "-73.781,1.457,-5.801"
+	Reflections = "-1204"
+	ReflectionsDelay = "0.007"
+	Reverb = "-4"
+	ReverbDelay = "0.011"
+	Room = "-2000"
+	RoomHF = "-270"
+	RoomRolloffFactor = "0"
+}
+
+cEnvironmentAcoustics Hanger
+{
+	AcousticMedium = "0"
+	DecayHFRatio = "0.23"
+	DecayTime = "10.05"
+	Density = "100"
+	Diffusion = "100"
+	HFReference = "5000"
+	Location = ""
+	Reflections = "-602"
+	ReflectionsDelay = "0.02"
+	Reverb = "198"
+	ReverbDelay = "0.03"
+	Room = "-2200"
+	RoomHF = "-1000"
+	RoomRolloffFactor = "0.0"
+}
+
+cEnvironmentAcoustics LivingRoom
+{
+	AcousticMedium = "0"
+	DecayHFRatio = "0.1"
+	DecayTime = "0.5"
+	Density = "100"
+	Diffusion = "100"
+	HFReference = "5000"
+	Location = ""
+	Reflections = "-1376"
+	ReflectionsDelay = "0.003"
+	Reverb = "-1104"
+	ReverbDelay = "0.004"
+	Room = "-1000"
+	RoomHF = "-6000"
+	RoomRolloffFactor = "0.0"
+}
+
+cEnvironmentAcoustics Auditorium
+{
+	AcousticMedium = "0"
+	DecayHFRatio = "0.59"
+	DecayTime = "4.32"
+	Density = "100"
+	Diffusion = "100"
+	HFReference = "5000"
+	Location = ""
+	Reflections = "-789"
+	ReflectionsDelay = "0.02"
+	Reverb = "-298"
+	ReverbDelay = "0.03"
+	Room = "-2500"
+	RoomHF = "-476"
+	RoomRolloffFactor = "0.0"
+}
+
+cEnvironmentAcoustics StoneRoom
+{
+	AcousticMedium = "0"
+	DecayHFRatio = "0.64"
+	DecayTime = "2.31"
+	Density = "100"
+	Diffusion = "100"
+	HFReference = "5000"
+	Location = ""
+	Reflections = "-711"
+	ReflectionsDelay = "0.012"
+	Reverb = "83"
+	ReverbDelay = "0.017"
+	Room = "-2000"
+	RoomHF = "-300"
+	RoomRolloffFactor = "0.0"
+}
+
+cEnvironmentAcoustics Kitchen
+{
+	AcousticMedium = "0"
+	DecayHFRatio = "0.54"
+	DecayTime = "1.49"
+	Density = "60"
+	Diffusion = "100"
+	HFReference = "5000"
+	Location = "-73.781,1.457,-5.801"
+	Reflections = "-370"
+	ReflectionsDelay = "0.007"
+	Reverb = "1030"
+	ReverbDelay = "0.001"
+	Room = "-3600"
+	RoomHF = "-1200"
+	RoomRolloffFactor = "0.0"
+}
+
+
+cAudioMaterial Concrete
+{
+	AbsorptionRatio = "0.2"
+	ImpactRatio = "0.4"
+	Location = "-14.852,1.274,3.726"
+	LowFreqRatio = "0.8"
+	ReflectionRatio = "0.4"
+}
+
+cAudioMaterial Glass
+{
+	AbsorptionRatio = "0.3"
+	ImpactRatio = "0.3"
+	Location = "-14.852,1.274,3.726"
+	LowFreqRatio = "0.5"
+	ReflectionRatio = "0.3"
+}
+
+cAudioMaterial plastic
+{
+	AbsorptionRatio = "0.4"
+	ImpactRatio = "0.4"
+	Location = "-14.852,1.274,3.726"
+	LowFreqRatio = "0.6"
+	ReflectionRatio = "0.4"
+}
+
+
+cEnvironmentVolume Construction_01
+{
+	AcousticsName = "Room"
+	Rotation = "-0.000,0.924,0.000,-0.382"
+	Scale = "4.710,2.788,3.175"
+	Translation = "157.927,30.873,-209.349"
+	VolumColor = "0"
+	VolumeType = "1"
+}
+
+cEnvironmentVolume Construction_02
+{
+	AcousticsName = "Room"
+	Rotation = "-0.000,0.924,0.000,-0.382"
+	Scale = "15.603,3.131,22.278"
+	Translation = "159.779,31.216,-184.205"
+	VolumColor = "0"
+	VolumeType = "1"
+}
+
+cEnvironmentVolume Construction_03
+{
+	AcousticsName = "Room"
+	Rotation = "-0.000,0.924,0.000,-0.382"
+	Scale = "2.546,2.794,8.172"
+	Translation = "167.322,30.859,-202.436"
+	VolumColor = "0"
+	VolumeType = "1"
+}
+
+cEnvironmentVolume Construction_04
+{
+	AcousticsName = "Room"
+	Rotation = "-0.000,0.924,0.000,-0.382"
+	Scale = "3.499,3.145,5.888"
+	Translation = "176.705,31.210,-191.681"
+	VolumColor = "0"
+	VolumeType = "1"
+}
+
+cEnvironmentVolume Construction_03_Blend1
+{
+	AcousticsName = "Room"
+	Rotation = "-0.000,0.924,0.000,-0.382"
+	Scale = "1.071,1.120,1.463"
+	Translation = "161.438,29.197,-204.715"
+	VolumColor = "0"
+	VolumeType = "1"
+}
+
+cEnvironmentVolume Construction_03_Blend2
+{
+	AcousticsName = "Room"
+	Rotation = "-0.000,0.924,0.000,-0.382"
+	Scale = "1.435,1.127,0.861"
+	Translation = "173.096,29.201,-196.465"
+	VolumColor = "0"
+	VolumeType = "1"
+}
+
+cEnvironmentVolume Elevator1
+{
+	AcousticsName = "Room"
+	Rotation = "-0.000,0.924,0.000,-0.382"
+	Scale = "2.028,1.495,2.128"
+	Translation = "179.207,30.309,-168.912"
+	VolumColor = "0"
+	VolumeType = "1"
+}
+
+cEnvironmentVolume Elevator1_Door1
+{
+	AcousticsName = "Room"
+	Rotation = "-0.000,0.924,0.000,-0.382"
+	Scale = "1.452,1.281,1.096"
+	Translation = "177.714,30.095,-170.423"
+	VolumColor = "0"
+	VolumeType = "8"
+}
+
+cEnvironmentVolume Construction_Occluder1
+{
+	Rotation = "0.000,0.925,0.000,0.380"
+	Scale = "3.035,2.362,0.074"
+	SurfaceMaterial_X_Neg = "Concrete"
+	SurfaceMaterial_X_Pos = "Concrete"
+	SurfaceMaterial_Y_Neg = "Concrete"
+	SurfaceMaterial_Y_Pos = "Concrete"
+	SurfaceMaterial_Z_Neg = "Concrete"
+	SurfaceMaterial_Z_Pos = "Concrete"
+	Translation = "162.975,29.682,-180.787"
+	VolumColor = "0"
+	VolumeType = "2"
+}
+
+cEnvironmentVolume Construction_Occluder3
+{
+	Rotation = "0.000,0.000,0.000,1.000"
+	Scale = "1.931,2.362,0.045"
+	SurfaceMaterial_X_Neg = "Concrete"
+	SurfaceMaterial_X_Pos = "Concrete"
+	SurfaceMaterial_Y_Neg = "Concrete"
+	SurfaceMaterial_Y_Pos = "Concrete"
+	SurfaceMaterial_Z_Neg = "Concrete"
+	SurfaceMaterial_Z_Pos = "Concrete"
+	Translation = "156.465,29.682,-191.243"
+	VolumColor = "0"
+	VolumeType = "2"
+}
+
+cEnvironmentVolume Construction_Occluder4
+{
+	Rotation = "0.000,0.000,0.000,1.000"
+	Scale = "1.748,2.362,0.070"
+	SurfaceMaterial_X_Neg = "Concrete"
+	SurfaceMaterial_X_Pos = "Concrete"
+	SurfaceMaterial_Y_Neg = "Concrete"
+	SurfaceMaterial_Y_Pos = "Concrete"
+	SurfaceMaterial_Z_Neg = "Concrete"
+	SurfaceMaterial_Z_Pos = "Concrete"
+	Translation = "162.981,29.682,-191.268"
+	VolumColor = "0"
+	VolumeType = "2"
+}
+
+cEnvironmentVolume Construction_Occluder5
+{
+	Rotation = "0.000,0.925,0.000,0.380"
+	Scale = "1.585,2.362,0.071"
+	SurfaceMaterial_X_Neg = "Concrete"
+	SurfaceMaterial_X_Pos = "Concrete"
+	SurfaceMaterial_Y_Neg = "Concrete"
+	SurfaceMaterial_Y_Pos = "Concrete"
+	SurfaceMaterial_Z_Neg = "Concrete"
+	SurfaceMaterial_Z_Pos = "Concrete"
+	Translation = "170.041,29.682,-185.874"
+	VolumColor = "0"
+	VolumeType = "2"
+}
+
+cEnvironmentVolume Construction_Occluder6
+{
+	Rotation = "0.000,0.925,0.000,0.380"
+	Scale = "1.640,2.362,0.076"
+	SurfaceMaterial_X_Neg = "Concrete"
+	SurfaceMaterial_X_Pos = "Concrete"
+	SurfaceMaterial_Y_Neg = "Concrete"
+	SurfaceMaterial_Y_Pos = "Concrete"
+	SurfaceMaterial_Z_Neg = "Concrete"
+	SurfaceMaterial_Z_Pos = "Concrete"
+	Translation = "165.695,29.682,-190.190"
+	VolumColor = "0"
+	VolumeType = "2"
+}
+
+cEnvironmentVolume Hallway1
+{
+	AcousticsName = "Hallway"
+	Rotation = "-0.000,0.924,0.000,-0.382"
+	Scale = "1.906,2.266,6.845"
+	Translation = "134.881,30.316,-196.903"
+	VolumColor = "0"
+	VolumeType = "1"
+}
+
+cEnvironmentVolume Hallway2
+{
+	AcousticsName = "Hallway"
+	Rotation = "-0.000,0.924,0.000,-0.382"
+	Scale = "7.534,3.688,1.660"
+	Translation = "130.241,34.226,-209.749"
+	VolumColor = "0"
+	VolumeType = "1"
+}
+
+cEnvironmentVolume Hallway3
+{
+	AcousticsName = "Hallway"
+	Rotation = "-0.000,0.924,0.000,-0.382"
+	Scale = "1.824,3.955,6.439"
+	Translation = "137.536,34.170,-210.621"
+	VolumColor = "0"
+	VolumeType = "1"
+}
+
+cEnvironmentVolume Hallway4
+{
+	AcousticsName = "Hallway"
+	Rotation = "0.110,0.884,0.268,-0.366"
+	Scale = "1.906,3.411,5.497"
+	Translation = "128.031,31.671,-203.768"
+	VolumColor = "0"
+	VolumeType = "1"
+}
+
+cEnvironmentVolume Yucatan_Roof_Main1
+{
+	AcousticsName = "City"
+	Rotation = "-0.000,0.924,0.000,-0.382"
+	Scale = "408.226,247.945,181.494"
+	Translation = "260.351,282.897,-67.527"
+	VolumColor = "0"
+	VolumeType = "1"
+}
+
+cEnvironmentVolume Yucatan_Roof_Main2
+{
+	AcousticsName = "City"
+	Rotation = "-0.000,0.924,0.000,-0.382"
+	Scale = "409.287,242.845,167.022"
+	Translation = "16.978,282.537,-310.058"
+	VolumColor = "0"
+	VolumeType = "1"
+}
+
+cEnvironmentVolume Yucatan_Roof_Main3
+{
+	AcousticsName = "City"
+	Rotation = "-0.000,0.924,0.000,-0.382"
+	Scale = "202.615,466.563,343.279"
+	Translation = "-3.400,58.819,-37.342"
+	VolumColor = "0"
+	VolumeType = "1"
+}
+
+cEnvironmentVolume Yucatan_Roof_Main4
+{
+	AcousticsName = "City"
+	Rotation = "-0.000,0.924,0.000,-0.382"
+	Scale = "115.923,466.563,341.253"
+	Translation = "251.181,58.819,-288.372"
+	VolumColor = "0"
+	VolumeType = "1"
+}
+
+cEnvironmentVolume Yucatan_Roof_Main5
+{
+	AcousticsName = "City"
+	Rotation = "-0.000,0.924,0.000,-0.382"
+	Scale = "338.040,466.563,150.818"
+	Translation = "228.383,58.819,3.316"
+	VolumColor = "0"
+	VolumeType = "1"
+}
+
+cEnvironmentVolume Yucatan_Roof_Main6
+{
+	AcousticsName = "City"
+	Rotation = "-0.000,0.924,0.000,-0.382"
+	Scale = "338.252,466.563,150.200"
+	Translation = "-40.835,58.819,-266.333"
+	VolumColor = "0"
+	VolumeType = "1"
+}
+
+cEnvironmentVolume Destroyed_01
+{
+	AcousticsName = "City"
+	Rotation = "-0.000,0.103,0.000,0.995"
+	Scale = "2.750,1.574,3.346"
+	Translation = "163.792,34.245,-195.623"
+	VolumColor = "0"
+	VolumeType = "8"
+}
+
+cEnvironmentVolume Destroyed_02
+{
+	AcousticsName = "City"
+	Rotation = "-0.000,0.922,0.000,-0.388"
+	Scale = "9.741,2.088,3.577"
+	Translation = "171.352,34.830,-177.808"
+	VolumColor = "0"
+	VolumeType = "8"
+}
+
+cEnvironmentVolume Destroyed_03
+{
+	AcousticsName = "City"
+	Rotation = "0.000,-0.422,0.000,0.907"
+	Scale = "3.746,1.933,6.763"
+	Translation = "166.529,34.376,-183.383"
+	VolumColor = "0"
+	VolumeType = "8"
+}
+
+cEnvironmentVolume Destroyed_04
+{
+	AcousticsName = "City"
+	Rotation = "0.000,0.911,0.000,0.410"
+	Scale = "6.784,2.460,3.137"
+	Translation = "157.303,34.608,-179.914"
+	VolumColor = "0"
+	VolumeType = "8"
+}
+
+cEnvironmentVolume Destroyed_05
+{
+	AcousticsName = "City"
+	Rotation = "-0.000,0.385,0.000,0.923"
+	Scale = "3.101,2.481,6.502"
+	Translation = "145.880,34.587,-190.888"
+	VolumColor = "0"
+	VolumeType = "8"
+}
+
+cEnvironmentVolume Destroyed_06
+{
+	AcousticsName = "City"
+	Rotation = "-0.000,0.392,0.000,0.920"
+	Scale = "3.524,2.793,6.491"
+	Translation = "151.762,34.275,-195.806"
+	VolumColor = "0"
+	VolumeType = "8"
+}
+
+cEnvironmentVolume Destroyed_07
+{
+	AcousticsName = "City"
+	Rotation = "0.000,0.934,0.000,0.358"
+	Scale = "6.030,2.749,3.366"
+	Translation = "156.284,34.319,-200.860"
+	VolumColor = "0"
+	VolumeType = "8"
+}
+
+cEnvironmentVolume Hallway_Exterior_Blend
+{
+	AcousticsName = "City"
+	DeactiveTransmitRatio = "0.3"
+	Rotation = "-0.000,0.381,0.000,0.925"
+	Scale = "1.660,1.292,2.252"
+	Translation = "141.383,36.349,-206.826"
+	VolumColor = "0"
+	VolumeType = "8"
+}
+
+cEnvironmentVolume Construction_Occluder2
+{
+	Rotation = "0.000,0.000,0.000,1.000"
+	Scale = "1.715,2.362,0.053"
+	SurfaceMaterial_X_Neg = "Concrete"
+	SurfaceMaterial_X_Pos = "Concrete"
+	SurfaceMaterial_Y_Neg = "Concrete"
+	SurfaceMaterial_Y_Pos = "Concrete"
+	SurfaceMaterial_Z_Neg = "Concrete"
+	SurfaceMaterial_Z_Pos = "Concrete"
+	Translation = "159.204,29.682,-182.815"
+	VolumColor = "0"
+	VolumeType = "2"
+}
+
+

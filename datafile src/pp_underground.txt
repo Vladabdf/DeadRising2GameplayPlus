@@ -1,0 +1,8 @@
+Dolly
+HandGun
+HunkOfMeat
+PowerDrill
+Shotgun
+SledgeHammer
+UtilityCart
+WrenchLarge

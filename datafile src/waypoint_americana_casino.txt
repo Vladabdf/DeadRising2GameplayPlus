@@ -1,0 +1,3959 @@
+cTriggerVolume ParadiseWalk
+{
+	ActionType = "3"
+	DisplayName = "847"
+	Height = "2.0"
+	InteractButton = "true"
+	InteractionRadius = "3"
+	ItemName = "South Strip"
+	Level = "LEVEL_FORTUNE_EXTERIOR"
+	LevelSpawnPoint = "EntryAmericanaCasino"
+	Location = "-294.952,-3.342,-0.124"
+	Radius = "11"
+	Rotation = "0,0,0,1"
+	Vertex1 = "-1,0,1"
+	Vertex2 = "1,0,1"
+	Vertex3 = "1,0,-1"
+	Vertex4 = "-1,0,-1"
+}
+
+cTriggerVolume RoyalFlushPlaza
+{
+	ActionType = "3"
+	DisplayName = "712"
+	Height = "2.0"
+	InteractButton = "true"
+	InteractionRadius = "3"
+	ItemName = "Royal Flush"
+	Level = "LEVEL_ROYAL_FLUSH"
+	LevelSpawnPoint = "EntryAmericanaCasino"
+	Location = "-288.281,-4.442,-64.806"
+	Radius = "11"
+	Rotation = "0,0,0,1"
+	Vertex1 = "-1,0,1"
+	Vertex2 = "1,0,1"
+	Vertex3 = "1,0,-1"
+	Vertex4 = "-1,0,-1"
+}
+
+cTriggerVolume Arena
+{
+	ActionType = "3"
+	DisplayName = "835"
+	Height = "2.0"
+	InteractButton = "true"
+	InteractionRadius = "3"
+	IsStatic = ""
+	Level = "LEVEL_ARENA_BACKSTAGE"
+	LevelSpawnPoint = "EntryAmericanaCasino"
+	Location = "-437.007,-3.636,16.405"
+	Radius = "10"
+	Rotation = "0,0,0,1"
+	Vertex1 = "-1,0,1"
+	Vertex2 = "1,0,1"
+	Vertex3 = "1,0,-1"
+	Vertex4 = "-1,0,-1"
+}
+
+cTriggerVolume ParadiseWalk1
+{
+	ActionType = "3"
+	DisplayName = "847"
+	Height = "2.0"
+	InteractButton = "true"
+	InteractionRadius = "3"
+	ItemName = "South Strip"
+	Level = "LEVEL_FORTUNE_EXTERIOR"
+	LevelSpawnPoint = "EntryAmericanaCasino1"
+	Location = "-298.388,-3.342,3.264"
+	Radius = "11"
+	Rotation = "0,0,0,1"
+	Vertex1 = "-1,0,1"
+	Vertex2 = "1,0,1"
+	Vertex3 = "1,0,-1"
+	Vertex4 = "-1,0,-1"
+}
+
+cTriggerVolume ParadiseWalk2
+{
+	ActionType = "3"
+	DisplayName = "847"
+	Height = "2.0"
+	InteractButton = "true"
+	InteractionRadius = "3"
+	ItemName = "South Strip"
+	Level = "LEVEL_FORTUNE_EXTERIOR"
+	LevelSpawnPoint = "EntryAmericanaCasino2"
+	Location = "-291.491,-3.342,-3.596"
+	Radius = "11"
+	Rotation = "0,0,0,1"
+	Vertex1 = "-1,0,1"
+	Vertex2 = "1,0,1"
+	Vertex3 = "1,0,-1"
+	Vertex4 = "-1,0,-1"
+}
+
+cTriggerVolume Save1
+{
+	ActionActorRotation = "-0.673"
+	ActionPoint = "-454.388,-4.737,-11.497"
+	ActionType = "4"
+	AnimationChooser = "0"
+	DisplayName = "55094"
+	Height = "2.0"
+	InteractButton = "true"
+	IsStatic = ""
+	Level = "LEVEL_AMERICANA_CASINO"
+	Location = "-454.795,-3.787,-11.162"
+	Radius = "1"
+	Rotation = "0,0,0,1"
+	Vertex1 = "-438.622,-4.711,-61.934"
+	Vertex2 = "-436.622,-4.711,-61.934"
+	Vertex3 = "-436.622,-4.711,-63.934"
+	Vertex4 = "-438.622,-4.711,-63.934"
+}
+
+cTriggerVolume Arena1
+{
+	ActionType = "3"
+	DisplayName = "835"
+	Height = "2.0"
+	InteractButton = "true"
+	InteractionRadius = "3"
+	IsStatic = ""
+	Level = "LEVEL_ARENA_BACKSTAGE"
+	LevelSpawnPoint = "EntryAmericanaCasino"
+	Location = "-433.626,-3.636,17.325"
+	Radius = "10"
+	Rotation = "0,0,0,1"
+	Vertex1 = "-1,0,1"
+	Vertex2 = "1,0,1"
+	Vertex3 = "1,0,-1"
+	Vertex4 = "-1,0,-1"
+}
+
+cTriggerVolume RoyalFlushPlaza1
+{
+	ActionType = "3"
+	DisplayName = "712"
+	Height = "2.0"
+	InteractButton = "true"
+	InteractionRadius = "3"
+	ItemName = "Royal Flush"
+	Level = "LEVEL_ROYAL_FLUSH"
+	LevelSpawnPoint = "EntryAmericanaCasino"
+	Location = "-288.321,-4.442,-68.334"
+	Radius = "11"
+	Rotation = "0,0,0,1"
+	Vertex1 = "-1,0,1"
+	Vertex2 = "1,0,1"
+	Vertex3 = "1,0,-1"
+	Vertex4 = "-1,0,-1"
+}
+
+cTriggerVolume RoyalFlushPlaza2
+{
+	ActionType = "3"
+	DisplayName = "712"
+	Height = "2.0"
+	InteractButton = "true"
+	InteractionRadius = "3"
+	ItemName = "Royal Flush"
+	Level = "LEVEL_ROYAL_FLUSH"
+	LevelSpawnPoint = "EntryAmericanaCasino"
+	Location = "-288.230,-4.442,-61.479"
+	Radius = "11"
+	Rotation = "0,0,0,1"
+	Vertex1 = "-1,0,1"
+	Vertex2 = "1,0,1"
+	Vertex3 = "1,0,-1"
+	Vertex4 = "-1,0,-1"
+}
+
+cTriggerVolume Save2
+{
+	ActionActorRotation = "-0.673"
+	ActionPoint = "-455.498,-4.737,-12.544"
+	ActionType = "4"
+	DisplayName = "55094"
+	Height = "2.0"
+	InteractButton = "true"
+	IsStatic = ""
+	Level = "LEVEL_AMERICANA_CASINO"
+	Location = "-455.903,-3.787,-12.282"
+	Radius = "1"
+	Rotation = "0,0,0,1"
+	Vertex1 = "-438.622,-4.711,-61.934"
+	Vertex2 = "-436.622,-4.711,-61.934"
+	Vertex3 = "-436.622,-4.711,-63.934"
+	Vertex4 = "-438.622,-4.711,-63.934"
+}
+
+cTriggerVolume Save3
+{
+	ActionActorRotation = "-0.673"
+	ActionPoint = "-456.721,-4.737,-13.920"
+	ActionType = "4"
+	DisplayName = "55094"
+	Height = "2.0"
+	InteractButton = "true"
+	IsStatic = ""
+	Level = "LEVEL_AMERICANA_CASINO"
+	Location = "-457.014,-3.787,-13.376"
+	Radius = "1"
+	Rotation = "0,0,0,1"
+	Vertex1 = "-438.622,-4.711,-61.934"
+	Vertex2 = "-436.622,-4.711,-61.934"
+	Vertex3 = "-436.622,-4.711,-63.934"
+	Vertex4 = "-438.622,-4.711,-63.934"
+}
+
+cTriggerVolume Save4
+{
+	ActionActorRotation = "-0.673"
+	ActionPoint = "-457.741,-4.737,-14.782"
+	ActionType = "4"
+	DisplayName = "55094"
+	Height = "2.0"
+	InteractButton = "true"
+	IsStatic = ""
+	Level = "LEVEL_AMERICANA_CASINO"
+	Location = "-458.064,-3.787,-14.445"
+	Radius = "1"
+	Rotation = "0,0,0,1"
+	Vertex1 = "-438.622,-4.711,-61.934"
+	Vertex2 = "-436.622,-4.711,-61.934"
+	Vertex3 = "-436.622,-4.711,-63.934"
+	Vertex4 = "-438.622,-4.711,-63.934"
+}
+
+cTriggerVolume Save5
+{
+	ActionActorRotation = "-0.673"
+	ActionPoint = "-458.734,-4.737,-15.902"
+	ActionType = "4"
+	DisplayName = "55094"
+	Height = "2.0"
+	InteractButton = "true"
+	IsStatic = ""
+	Level = "LEVEL_AMERICANA_CASINO"
+	Location = "-459.145,-3.787,-15.517"
+	Radius = "1"
+	Rotation = "0,0,0,1"
+	Vertex1 = "-438.622,-4.711,-61.934"
+	Vertex2 = "-436.622,-4.711,-61.934"
+	Vertex3 = "-436.622,-4.711,-63.934"
+	Vertex4 = "-438.622,-4.711,-63.934"
+}
+
+cTriggerVolume Save6
+{
+	ActionActorRotation = "-0.673"
+	ActionPoint = "-459.806,-4.737,-17.003"
+	ActionType = "4"
+	DisplayName = "55094"
+	Height = "2.0"
+	InteractButton = "true"
+	IsStatic = ""
+	Level = "LEVEL_AMERICANA_CASINO"
+	Location = "-460.261,-3.787,-16.627"
+	Radius = "1"
+	Rotation = "0,0,0,1"
+	Vertex1 = "-438.622,-4.711,-61.934"
+	Vertex2 = "-436.622,-4.711,-61.934"
+	Vertex3 = "-436.622,-4.711,-63.934"
+	Vertex4 = "-438.622,-4.711,-63.934"
+}
+
+cTriggerVolume Save7
+{
+	ActionActorRotation = "-0.673"
+	ActionPoint = "-460.879,-4.737,-17.999"
+	ActionType = "4"
+	DisplayName = "55094"
+	Height = "2.0"
+	InteractButton = "true"
+	IsStatic = ""
+	Level = "LEVEL_AMERICANA_CASINO"
+	Location = "-461.314,-3.787,-17.686"
+	Radius = "1"
+	Rotation = "0,0,0,1"
+	Vertex1 = "-438.622,-4.711,-61.934"
+	Vertex2 = "-436.622,-4.711,-61.934"
+	Vertex3 = "-436.622,-4.711,-63.934"
+	Vertex4 = "-438.622,-4.711,-63.934"
+}
+
+cTriggerVolume Save8
+{
+	ActionActorRotation = "-0.673"
+	ActionPoint = "-462.020,-4.737,-19.114"
+	ActionType = "4"
+	DisplayName = "55094"
+	Height = "2.0"
+	InteractButton = "true"
+	IsStatic = ""
+	Level = "LEVEL_AMERICANA_CASINO"
+	Location = "-462.392,-3.787,-18.751"
+	Radius = "1"
+	Rotation = "0,0,0,1"
+	Vertex1 = "-438.622,-4.711,-61.934"
+	Vertex2 = "-436.622,-4.711,-61.934"
+	Vertex3 = "-436.622,-4.711,-63.934"
+	Vertex4 = "-438.622,-4.711,-63.934"
+}
+
+cTriggerVolume Save9
+{
+	ActionActorRotation = "-0.673"
+	ActionPoint = "-463.036,-4.737,-20.233"
+	ActionType = "4"
+	DisplayName = "55094"
+	Height = "2.0"
+	InteractButton = "true"
+	IsStatic = ""
+	Level = "LEVEL_AMERICANA_CASINO"
+	Location = "-463.482,-3.787,-19.847"
+	Radius = "1"
+	Rotation = "0,0,0,1"
+	Vertex1 = "-438.622,-4.711,-61.934"
+	Vertex2 = "-436.622,-4.711,-61.934"
+	Vertex3 = "-436.622,-4.711,-63.934"
+	Vertex4 = "-438.622,-4.711,-63.934"
+}
+
+cTriggerVolume Save10
+{
+	ActionActorRotation = "-0.673"
+	ActionPoint = "-464.342,-4.737,-21.534"
+	ActionType = "4"
+	DisplayName = "55094"
+	Height = "2.0"
+	InteractButton = "true"
+	IsStatic = ""
+	Level = "LEVEL_AMERICANA_CASINO"
+	Location = "-464.574,-3.787,-20.937"
+	Radius = "1"
+	Rotation = "0,0,0,1"
+	Vertex1 = "-438.622,-4.711,-61.934"
+	Vertex2 = "-436.622,-4.711,-61.934"
+	Vertex3 = "-436.622,-4.711,-63.934"
+	Vertex4 = "-438.622,-4.711,-63.934"
+}
+
+cTriggerVolume Save11
+{
+	ActionActorRotation = "-0.673"
+	ActionPoint = "-465.250,-4.737,-22.442"
+	ActionType = "4"
+	DisplayName = "55094"
+	Height = "2.0"
+	InteractButton = "true"
+	IsStatic = ""
+	Level = "LEVEL_AMERICANA_CASINO"
+	Location = "-465.614,-3.787,-21.979"
+	Radius = "1"
+	Rotation = "0,0,0,1"
+	Vertex1 = "-438.622,-4.711,-61.934"
+	Vertex2 = "-436.622,-4.711,-61.934"
+	Vertex3 = "-436.622,-4.711,-63.934"
+	Vertex4 = "-438.622,-4.711,-63.934"
+}
+
+cTriggerVolume Save12
+{
+	ActionActorRotation = "-0.673"
+	ActionPoint = "-466.202,-4.737,-23.585"
+	ActionType = "4"
+	DisplayName = "55094"
+	Height = "2.0"
+	InteractButton = "true"
+	IsStatic = ""
+	Level = "LEVEL_AMERICANA_CASINO"
+	Location = "-466.789,-3.787,-23.156"
+	Radius = "1"
+	Rotation = "0,0,0,1"
+	Vertex1 = "-438.622,-4.711,-61.934"
+	Vertex2 = "-436.622,-4.711,-61.934"
+	Vertex3 = "-436.622,-4.711,-63.934"
+	Vertex4 = "-438.622,-4.711,-63.934"
+}
+
+cTriggerVolume Save13
+{
+	ActionActorRotation = "-0.673"
+	ActionPoint = "-467.484,-4.737,-24.674"
+	ActionType = "4"
+	DisplayName = "55094"
+	Height = "2.0"
+	InteractButton = "true"
+	IsStatic = ""
+	Level = "LEVEL_AMERICANA_CASINO"
+	Location = "-467.805,-3.787,-24.174"
+	Radius = "1"
+	Rotation = "0,0,0,1"
+	Vertex1 = "-438.622,-4.711,-61.934"
+	Vertex2 = "-436.622,-4.711,-61.934"
+	Vertex3 = "-436.622,-4.711,-63.934"
+	Vertex4 = "-438.622,-4.711,-63.934"
+}
+
+cTriggerVolume Save14
+{
+	ActionActorRotation = "40"
+	ActionPoint = "-461.079,-4.737,-30.886"
+	ActionType = "4"
+	DisplayName = "55094"
+	Height = "2.0"
+	InteractButton = "true"
+	IsStatic = ""
+	Level = "LEVEL_AMERICANA_CASINO"
+	Location = "-460.690,-3.787,-31.214"
+	Radius = "1"
+	Rotation = "0,0,0,1"
+	Vertex1 = "-438.622,-4.711,-61.934"
+	Vertex2 = "-436.622,-4.711,-61.934"
+	Vertex3 = "-436.622,-4.711,-63.934"
+	Vertex4 = "-438.622,-4.711,-63.934"
+}
+
+cTriggerVolume Save15
+{
+	ActionActorRotation = "40"
+	ActionPoint = "-460.031,-4.737,-29.771"
+	ActionType = "4"
+	DisplayName = "55094"
+	Height = "2.0"
+	InteractButton = "true"
+	IsStatic = ""
+	Level = "LEVEL_AMERICANA_CASINO"
+	Location = "-459.619,-3.787,-30.172"
+	Radius = "1"
+	Rotation = "0,0,0,1"
+	Vertex1 = "-438.622,-4.711,-61.934"
+	Vertex2 = "-436.622,-4.711,-61.934"
+	Vertex3 = "-436.622,-4.711,-63.934"
+	Vertex4 = "-438.622,-4.711,-63.934"
+}
+
+cTriggerVolume Save16
+{
+	ActionActorRotation = "40"
+	ActionPoint = "-458.987,-4.737,-28.737"
+	ActionType = "4"
+	DisplayName = "55094"
+	Height = "2.0"
+	InteractButton = "true"
+	IsStatic = ""
+	Level = "LEVEL_AMERICANA_CASINO"
+	Location = "-458.544,-3.787,-29.099"
+	Radius = "1"
+	Rotation = "0,0,0,1"
+	Vertex1 = "-438.622,-4.711,-61.934"
+	Vertex2 = "-436.622,-4.711,-61.934"
+	Vertex3 = "-436.622,-4.711,-63.934"
+	Vertex4 = "-438.622,-4.711,-63.934"
+}
+
+cTriggerVolume Save17
+{
+	ActionActorRotation = "40"
+	ActionPoint = "-457.914,-4.737,-27.675"
+	ActionType = "4"
+	DisplayName = "55094"
+	Height = "2.0"
+	InteractButton = "true"
+	IsStatic = ""
+	Level = "LEVEL_AMERICANA_CASINO"
+	Location = "-457.466,-3.787,-28.020"
+	Radius = "1"
+	Rotation = "0,0,0,1"
+	Vertex1 = "-438.622,-4.711,-61.934"
+	Vertex2 = "-436.622,-4.711,-61.934"
+	Vertex3 = "-436.622,-4.711,-63.934"
+	Vertex4 = "-438.622,-4.711,-63.934"
+}
+
+cTriggerVolume Save18
+{
+	ActionActorRotation = "40"
+	ActionPoint = "-456.827,-4.737,-26.592"
+	ActionType = "4"
+	DisplayName = "55094"
+	Height = "2.0"
+	InteractButton = "true"
+	IsStatic = ""
+	Level = "LEVEL_AMERICANA_CASINO"
+	Location = "-456.381,-3.787,-26.936"
+	Radius = "1"
+	Rotation = "0,0,0,1"
+	Vertex1 = "-438.622,-4.711,-61.934"
+	Vertex2 = "-436.622,-4.711,-61.934"
+	Vertex3 = "-436.622,-4.711,-63.934"
+	Vertex4 = "-438.622,-4.711,-63.934"
+}
+
+cTriggerVolume Save19
+{
+	ActionActorRotation = "40"
+	ActionPoint = "-455.681,-4.737,-25.451"
+	ActionType = "4"
+	DisplayName = "55094"
+	Height = "2.0"
+	InteractButton = "true"
+	IsStatic = ""
+	Level = "LEVEL_AMERICANA_CASINO"
+	Location = "-455.285,-3.787,-25.844"
+	Radius = "1"
+	Rotation = "0,0,0,1"
+	Vertex1 = "-438.622,-4.711,-61.934"
+	Vertex2 = "-436.622,-4.711,-61.934"
+	Vertex3 = "-436.622,-4.711,-63.934"
+	Vertex4 = "-438.622,-4.711,-63.934"
+}
+
+cTriggerVolume Save20
+{
+	ActionActorRotation = "40"
+	ActionPoint = "-454.652,-4.737,-24.405"
+	ActionType = "4"
+	DisplayName = "55094"
+	Height = "2.0"
+	InteractButton = "true"
+	IsStatic = ""
+	Level = "LEVEL_AMERICANA_CASINO"
+	Location = "-454.260,-3.787,-24.811"
+	Radius = "1"
+	Rotation = "0,0,0,1"
+	Vertex1 = "-438.622,-4.711,-61.934"
+	Vertex2 = "-436.622,-4.711,-61.934"
+	Vertex3 = "-436.622,-4.711,-63.934"
+	Vertex4 = "-438.622,-4.711,-63.934"
+}
+
+cTriggerVolume Save21
+{
+	ActionActorRotation = "40"
+	ActionPoint = "-453.521,-4.737,-23.273"
+	ActionType = "4"
+	DisplayName = "55094"
+	Height = "2.0"
+	InteractButton = "true"
+	IsStatic = ""
+	Level = "LEVEL_AMERICANA_CASINO"
+	Location = "-453.149,-3.787,-23.694"
+	Radius = "1"
+	Rotation = "0,0,0,1"
+	Vertex1 = "-438.622,-4.711,-61.934"
+	Vertex2 = "-436.622,-4.711,-61.934"
+	Vertex3 = "-436.622,-4.711,-63.934"
+	Vertex4 = "-438.622,-4.711,-63.934"
+}
+
+cTriggerVolume Save22
+{
+	ActionActorRotation = "40"
+	ActionPoint = "-452.478,-4.737,-22.239"
+	ActionType = "4"
+	DisplayName = "55094"
+	Height = "2.0"
+	InteractButton = "true"
+	IsStatic = ""
+	Level = "LEVEL_AMERICANA_CASINO"
+	Location = "-452.071,-3.787,-22.615"
+	Radius = "1"
+	Rotation = "0,0,0,1"
+	Vertex1 = "-438.622,-4.711,-61.934"
+	Vertex2 = "-436.622,-4.711,-61.934"
+	Vertex3 = "-436.622,-4.711,-63.934"
+	Vertex4 = "-438.622,-4.711,-63.934"
+}
+
+cTriggerVolume Save23
+{
+	ActionActorRotation = "40"
+	ActionPoint = "-451.324,-4.737,-21.107"
+	ActionType = "4"
+	DisplayName = "55094"
+	Height = "2.0"
+	InteractButton = "true"
+	IsStatic = ""
+	Level = "LEVEL_AMERICANA_CASINO"
+	Location = "-450.950,-3.787,-21.497"
+	Radius = "1"
+	Rotation = "0,0,0,1"
+	Vertex1 = "-438.622,-4.711,-61.934"
+	Vertex2 = "-436.622,-4.711,-61.934"
+	Vertex3 = "-436.622,-4.711,-63.934"
+	Vertex4 = "-438.622,-4.711,-63.934"
+}
+
+cTriggerVolume Save24
+{
+	ActionActorRotation = "40"
+	ActionPoint = "-450.394,-4.737,-20.155"
+	ActionType = "4"
+	DisplayName = "55094"
+	Height = "2.0"
+	InteractButton = "true"
+	IsStatic = ""
+	Level = "LEVEL_AMERICANA_CASINO"
+	Location = "-449.892,-3.787,-20.442"
+	Radius = "1"
+	Rotation = "0,0,0,1"
+	Vertex1 = "-438.622,-4.711,-61.934"
+	Vertex2 = "-436.622,-4.711,-61.934"
+	Vertex3 = "-436.622,-4.711,-63.934"
+	Vertex4 = "-438.622,-4.711,-63.934"
+}
+
+cTriggerVolume Save25
+{
+	ActionActorRotation = "40"
+	ActionPoint = "-449.301,-4.737,-18.974"
+	ActionType = "4"
+	DisplayName = "55094"
+	Height = "2.0"
+	InteractButton = "true"
+	IsStatic = ""
+	Level = "LEVEL_AMERICANA_CASINO"
+	Location = "-448.805,-3.787,-19.358"
+	Radius = "1"
+	Rotation = "0,0,0,1"
+	Vertex1 = "-438.622,-4.711,-61.934"
+	Vertex2 = "-436.622,-4.711,-61.934"
+	Vertex3 = "-436.622,-4.711,-63.934"
+	Vertex4 = "-438.622,-4.711,-63.934"
+}
+
+cTriggerVolume Save26
+{
+	ActionActorRotation = "40"
+	ActionPoint = "-448.242,-4.737,-17.995"
+	ActionType = "4"
+	DisplayName = "55094"
+	Height = "2.0"
+	InteractButton = "true"
+	IsStatic = ""
+	Level = "LEVEL_AMERICANA_CASINO"
+	Location = "-447.749,-3.787,-18.299"
+	Radius = "1"
+	Rotation = "0,0,0,1"
+	Vertex1 = "-438.622,-4.711,-61.934"
+	Vertex2 = "-436.622,-4.711,-61.934"
+	Vertex3 = "-436.622,-4.711,-63.934"
+	Vertex4 = "-438.622,-4.711,-63.934"
+}
+
+cTriggerVolume SaveUrinal1
+{
+	ActionActorRotation = "-0.829"
+	ActionPoint = "-457.450,-4.725,-22.941"
+	ActionType = "4"
+	AnimationChooser = "1"
+	DisplayName = "55094"
+	Height = "2.0"
+	InteractButton = "true"
+	IsStatic = ""
+	ItemName = ""
+	Level = "LEVEL_AMERICANA_CASINO"
+	Location = "-458.192,-3.716,-22.420"
+	Radius = "2"
+	Rotation = "0,0,0,1"
+	Vertex1 = "-1,0,1"
+	Vertex2 = "1,0,1"
+	Vertex3 = "1,0,-1"
+	Vertex4 = "-1,0,-1"
+}
+
+cTriggerVolume SaveUrinal2
+{
+	ActionActorRotation = "-0.760"
+	ActionPoint = "-458.484,-4.696,-23.801"
+	ActionType = "4"
+	AnimationChooser = "1"
+	DisplayName = "55094"
+	Height = "2.0"
+	InteractButton = "true"
+	IsStatic = ""
+	ItemName = ""
+	Level = "LEVEL_AMERICANA_CASINO"
+	Location = "-459.100,-3.706,-23.396"
+	Radius = "2"
+	Rotation = "0,0,0,1"
+	Vertex1 = "-1,0,1"
+	Vertex2 = "1,0,1"
+	Vertex3 = "1,0,-1"
+	Vertex4 = "-1,0,-1"
+}
+
+cTriggerVolume SaveUrinal4
+{
+	ActionActorRotation = "-0.751"
+	ActionPoint = "-460.359,-4.666,-25.874"
+	ActionType = "4"
+	AnimationChooser = "1"
+	DisplayName = "55094"
+	Height = "2.0"
+	InteractButton = "true"
+	IsStatic = ""
+	ItemName = ""
+	Level = "LEVEL_AMERICANA_CASINO"
+	Location = "-461.019,-3.756,-25.228"
+	Radius = "2"
+	Rotation = "0,0,0,1"
+	Vertex1 = "-1,0,1"
+	Vertex2 = "1,0,1"
+	Vertex3 = "1,0,-1"
+	Vertex4 = "-1,0,-1"
+}
+
+cTriggerVolume SaveUrinal5
+{
+	ActionActorRotation = "2.699"
+	ActionPoint = "-462.252,-4.732,-23.836"
+	ActionType = "4"
+	AnimationChooser = "1"
+	DisplayName = "55094"
+	Height = "2.0"
+	InteractButton = "true"
+	IsStatic = ""
+	ItemName = ""
+	Level = "LEVEL_AMERICANA_CASINO"
+	Location = "-461.767,-3.742,-24.426"
+	Radius = "2"
+	Rotation = "0,0,0,1"
+	Vertex1 = "-1,0,1"
+	Vertex2 = "1,0,1"
+	Vertex3 = "1,0,-1"
+	Vertex4 = "-1,0,-1"
+}
+
+cTriggerVolume SaveUrinal6
+{
+	ActionActorRotation = "2.299"
+	ActionPoint = "-461.494,-4.731,-23.108"
+	ActionType = "4"
+	AnimationChooser = "1"
+	DisplayName = "55094"
+	Height = "2.0"
+	InteractButton = "true"
+	IsStatic = ""
+	ItemName = ""
+	Level = "LEVEL_AMERICANA_CASINO"
+	Location = "-460.881,-3.731,-23.461"
+	Radius = "2"
+	Rotation = "0,0,0,1"
+	Vertex1 = "-1,0,1"
+	Vertex2 = "1,0,1"
+	Vertex3 = "1,0,-1"
+	Vertex4 = "-1,0,-1"
+}
+
+cTriggerVolume SaveUrinal7
+{
+	ActionActorRotation = "2.560"
+	ActionPoint = "-460.558,-4.730,-21.895"
+	ActionType = "4"
+	AnimationChooser = "1"
+	DisplayName = "55094"
+	Height = "2.0"
+	InteractButton = "true"
+	IsStatic = ""
+	ItemName = ""
+	Level = "LEVEL_AMERICANA_CASINO"
+	Location = "-459.926,-3.740,-22.504"
+	Radius = "2"
+	Rotation = "0,0,0,1"
+	Vertex1 = "-1,0,1"
+	Vertex2 = "1,0,1"
+	Vertex3 = "1,0,-1"
+	Vertex4 = "-1,0,-1"
+}
+
+cTriggerVolume SaveUrinal8
+{
+	ActionActorRotation = "2.312"
+	ActionPoint = "-459.412,-4.730,-21.239"
+	ActionType = "4"
+	AnimationChooser = "1"
+	DisplayName = "55094"
+	Height = "2.0"
+	InteractButton = "true"
+	IsStatic = ""
+	ItemName = ""
+	Level = "LEVEL_AMERICANA_CASINO"
+	Location = "-458.947,-3.800,-21.612"
+	Radius = "2"
+	Rotation = "0,0,0,1"
+	Vertex1 = "-1,0,1"
+	Vertex2 = "1,0,1"
+	Vertex3 = "1,0,-1"
+	Vertex4 = "-1,0,-1"
+}
+
+cTriggerVolume SaveUrinal9
+{
+	ActionActorRotation = "2.293"
+	ActionPoint = "-454.332,-4.727,-15.792"
+	ActionType = "4"
+	AnimationChooser = "1"
+	DisplayName = "55094"
+	Height = "2.0"
+	InteractButton = "true"
+	IsStatic = ""
+	ItemName = ""
+	Level = "LEVEL_AMERICANA_CASINO"
+	Location = "-453.791,-3.746,-16.393"
+	Radius = "2"
+	Rotation = "0,0,0,1"
+	Vertex1 = "-1,0,1"
+	Vertex2 = "1,0,1"
+	Vertex3 = "1,0,-1"
+	Vertex4 = "-1,0,-1"
+}
+
+cTriggerVolume SaveUrinal10
+{
+	ActionActorRotation = "2.433"
+	ActionPoint = "-453.320,-4.726,-14.986"
+	ActionType = "4"
+	AnimationChooser = "1"
+	DisplayName = "55094"
+	Height = "2.0"
+	InteractButton = "true"
+	IsStatic = ""
+	Level = "LEVEL_AMERICANA_CASINO"
+	Location = "-452.861,-3.746,-15.441"
+	Radius = "2"
+	Rotation = "0,0,0,1"
+	Vertex1 = "-1,0,1"
+	Vertex2 = "1,0,1"
+	Vertex3 = "1,0,-1"
+	Vertex4 = "-1,0,-1"
+}
+
+cTriggerVolume SaveUrinal11
+{
+	ActionActorRotation = "2.398"
+	ActionPoint = "-452.417,-4.726,-14.054"
+	ActionType = "4"
+	AnimationChooser = "1"
+	DisplayName = "55094"
+	Height = "2.0"
+	InteractButton = "true"
+	IsStatic = ""
+	Level = "LEVEL_AMERICANA_CASINO"
+	Location = "-451.888,-3.746,-14.524"
+	Radius = "2"
+	Rotation = "0,0,0,1"
+	Vertex1 = "-1,0,1"
+	Vertex2 = "1,0,1"
+	Vertex3 = "1,0,-1"
+	Vertex4 = "-1,0,-1"
+}
+
+cTriggerVolume SaveUrinal12
+{
+	ActionActorRotation = "2.336"
+	ActionPoint = "-455.225,-4.726,-16.818"
+	ActionType = "4"
+	AnimationChooser = "1"
+	DisplayName = "55094"
+	Height = "2.0"
+	InteractButton = "true"
+	IsStatic = ""
+	Level = "LEVEL_AMERICANA_CASINO"
+	Location = "-454.683,-3.795,-17.349"
+	Radius = "2"
+	Rotation = "0,0,0,1"
+	Vertex1 = "-1,0,1"
+	Vertex2 = "1,0,1"
+	Vertex3 = "1,0,-1"
+	Vertex4 = "-1,0,-1"
+}
+
+cTriggerVolume SaveUrinal13
+{
+	ActionActorRotation = "-0.758"
+	ActionPoint = "-453.384,-4.725,-18.763"
+	ActionType = "4"
+	AnimationChooser = "1"
+	DisplayName = "55094"
+	Height = "2.0"
+	InteractButton = "true"
+	IsStatic = ""
+	Level = "LEVEL_AMERICANA_CASINO"
+	Location = "-453.942,-3.745,-18.176"
+	Radius = "2"
+	Rotation = "0,0,0,1"
+	Vertex1 = "-1,0,1"
+	Vertex2 = "1,0,1"
+	Vertex3 = "1,0,-1"
+	Vertex4 = "-1,0,-1"
+}
+
+cTriggerVolume SaveUrinal3
+{
+	ActionActorRotation = "-0.843"
+	ActionPoint = "-459.437,-4.733,-24.846"
+	ActionType = "4"
+	AnimationChooser = "1"
+	DisplayName = "55094"
+	Height = "2.0"
+	InteractButton = "true"
+	IsStatic = ""
+	ItemName = ""
+	Level = "LEVEL_AMERICANA_CASINO"
+	Location = "-460.078,-3.773,-24.298"
+	Radius = "2"
+	Rotation = "0,0,0,1"
+	Vertex1 = "-1,0,1"
+	Vertex2 = "1,0,1"
+	Vertex3 = "1,0,-1"
+	Vertex4 = "-1,0,-1"
+}
+
+cTriggerVolume SaveUrinal14
+{
+	ActionActorRotation = "-0.725"
+	ActionPoint = "-452.401,-4.737,-17.781"
+	ActionType = "4"
+	AnimationChooser = "1"
+	DisplayName = "55094"
+	Height = "2.0"
+	InteractButton = "true"
+	IsStatic = ""
+	Level = "LEVEL_AMERICANA_CASINO"
+	Location = "-452.994,-3.710,-17.231"
+	Radius = "2"
+	Rotation = "0,0,0,1"
+	Vertex1 = "-1,0,1"
+	Vertex2 = "1,0,1"
+	Vertex3 = "1,0,-1"
+	Vertex4 = "-1,0,-1"
+}
+
+cTriggerVolume SaveUrinal15
+{
+	ActionActorRotation = "-0.664"
+	ActionPoint = "-451.487,-4.737,-16.859"
+	ActionType = "4"
+	AnimationChooser = "1"
+	DisplayName = "55094"
+	Height = "2.0"
+	InteractButton = "true"
+	IsStatic = ""
+	Level = "LEVEL_AMERICANA_CASINO"
+	Location = "-452.057,-3.648,-16.316"
+	Radius = "2"
+	Rotation = "0,0,0,1"
+	Vertex1 = "-1,0,1"
+	Vertex2 = "1,0,1"
+	Vertex3 = "1,0,-1"
+	Vertex4 = "-1,0,-1"
+}
+
+cTriggerVolume SaveUrinal16
+{
+	ActionActorRotation = "-0.824"
+	ActionPoint = "-450.474,-4.736,-15.849"
+	ActionType = "4"
+	AnimationChooser = "1"
+	DisplayName = "55094"
+	Height = "2.0"
+	InteractButton = "true"
+	IsStatic = ""
+	Level = "LEVEL_AMERICANA_CASINO"
+	Location = "-451.112,-3.757,-15.345"
+	Radius = "2"
+	Rotation = "0,0,0,1"
+	Vertex1 = "-1,0,1"
+	Vertex2 = "1,0,1"
+	Vertex3 = "1,0,-1"
+	Vertex4 = "-1,0,-1"
+}
+
+
+cWaypoint SURV000
+{
+	Location = "-301.64,-5.64,-66.03"
+	Name = "SURV000"
+	Type = "0"
+}
+
+cWaypoint SURV
+{
+	Location = "-315.37,-5.20,-60.87"
+	Name = "SURV"
+	Type = "0"
+}
+
+cWaypoint SURV1
+{
+	Location = "-328.91,-5.20,-82.86"
+	Name = "SURV"
+	Type = "0"
+}
+
+cWaypoint SURV2
+{
+	Location = "-331.32,-5.20,-77.00"
+	Name = "SURV"
+	Type = "0"
+}
+
+cWaypoint SURV3
+{
+	Location = "-345.14,-4.88,-81.75"
+	Name = "SURV"
+	Type = "0"
+}
+
+cWaypoint SURV4
+{
+	Location = "-335.64,-5.20,-83.65"
+	Name = "SURV"
+	Type = "0"
+}
+
+cWaypoint SURV5
+{
+	Location = "-430.49,-4.29,-74.58"
+	Name = "SURV"
+	Type = "0"
+}
+
+cWaypoint SURV6
+{
+	Location = "-435.88,-4.29,-75.25"
+	Name = "SURV"
+	Type = "0"
+}
+
+cWaypoint SURV7
+{
+	Location = "-336.07,-5.20,-78.00"
+	Name = "SURV"
+	Type = "0"
+}
+
+cWaypoint SURV8
+{
+	Location = "-321.17,-5.20,-74.89"
+	Name = "SURV"
+	Type = "0"
+}
+
+cWaypoint SURV9
+{
+	Location = "-352.57,-4.70,-70.92"
+	Name = "SURV"
+	Type = "0"
+}
+
+cWaypoint SURV10
+{
+	Location = "-355.84,-4.20,-75.55"
+	Name = "SURV"
+	Type = "0"
+}
+
+cWaypoint SURV11
+{
+	Location = "-347.84,-4.70,-75.45"
+	Name = "SURV"
+	Type = "0"
+}
+
+cWaypoint SURV12
+{
+	Location = "-416.43,-4.29,-63.19"
+	Name = "SURV"
+	Type = "0"
+}
+
+cWaypoint SURV13
+{
+	Location = "-353.93,-3.25,-77.00"
+	Name = "SURV"
+	Type = "0"
+}
+
+cWaypoint SURV14
+{
+	Location = "-331.84,-5.20,-74.45"
+	Name = "SURV"
+	Type = "0"
+}
+
+cWaypoint SURV15
+{
+	Location = "-339.32,-5.20,-72.83"
+	Name = "SURV"
+	Type = "0"
+}
+
+cWaypoint SURV16
+{
+	Location = "-325.64,-5.20,-73.85"
+	Name = "SURV"
+	Type = "0"
+}
+
+cWaypoint SURV17
+{
+	Location = "-334.24,-5.20,-69.81"
+	Name = "SURV"
+	Type = "0"
+}
+
+cWaypoint SURV18
+{
+	Location = "-345.03,-4.70,-72.18"
+	Name = "SURV"
+	Type = "0"
+}
+
+cWaypoint SURV19
+{
+	Location = "-335.04,-5.20,-73.05"
+	Name = "SURV"
+	Type = "0"
+}
+
+cWaypoint SURV20
+{
+	Location = "-348.10,-4.74,-70.96"
+	Name = "SURV"
+	Type = "0"
+}
+
+cWaypoint SURV21
+{
+	Location = "-342.16,-5.20,-68.42"
+	Name = "SURV"
+	Type = "0"
+}
+
+cWaypoint SURV22
+{
+	Location = "-344.74,-5.20,-67.33"
+	Name = "SURV"
+	Type = "0"
+}
+
+cWaypoint SURV23
+{
+	Location = "-366.03,-0.20,-65.54"
+	Name = "SURV"
+	Type = "0"
+}
+
+cWaypoint SURV24
+{
+	Location = "-339.30,-5.20,-66.44"
+	Name = "SURV"
+	Type = "0"
+}
+
+cWaypoint SURV25
+{
+	Location = "-329.12,-5.20,-69.75"
+	Name = "SURV"
+	Type = "0"
+}
+
+cWaypoint SURV26
+{
+	Location = "-318.03,-5.20,-70.68"
+	Name = "SURV"
+	Type = "0"
+}
+
+cWaypoint SURV27
+{
+	Location = "-314.66,-5.20,-72.50"
+	Name = "SURV"
+	Type = "0"
+}
+
+cWaypoint SURV28
+{
+	Location = "-323.46,-5.20,-67.04"
+	Name = "SURV"
+	Type = "0"
+}
+
+cWaypoint SURV29
+{
+	Location = "-315.84,-5.20,-68.05"
+	Name = "SURV"
+	Type = "0"
+}
+
+cWaypoint SURV30
+{
+	Location = "-307.60,-5.20,-72.54"
+	Name = "SURV"
+	Type = "0"
+}
+
+cWaypoint SURV31
+{
+	Location = "-303.05,-5.20,-69.81"
+	Name = "SURV"
+	Type = "0"
+}
+
+cWaypoint SURV32
+{
+	Location = "-292.99,-5.20,-66.92"
+	Name = "SURV"
+	Type = "0"
+}
+
+cWaypoint SURV33
+{
+	Location = "-311.82,-5.20,-67.42"
+	Name = "SURV"
+	Type = "0"
+}
+
+cWaypoint SURV34
+{
+	Location = "-430.80,-4.29,-65.37"
+	Name = "SURV"
+	Type = "0"
+}
+
+cWaypoint SURV35
+{
+	Location = "-435.93,-4.29,-65.31"
+	Name = "SURV"
+	Type = "0"
+}
+
+cWaypoint SURV36
+{
+	Location = "-358.74,-4.90,-65.50"
+	Name = "SURV"
+	Type = "0"
+}
+
+cWaypoint SURV37
+{
+	Location = "-348.37,-4.70,-67.00"
+	Name = "SURV"
+	Type = "0"
+}
+
+cWaypoint SURV38
+{
+	Location = "-362.43,-5.20,-58.87"
+	Name = "SURV"
+	Type = "0"
+}
+
+cWaypoint SURV39
+{
+	Location = "-373.74,-3.45,-65.08"
+	Name = "SURV"
+	Type = "0"
+}
+
+cWaypoint SURV40
+{
+	Location = "-376.74,-0.20,-63.00"
+	Name = "SURV"
+	Type = "0"
+}
+
+cWaypoint SURV41
+{
+	Location = "-360.87,-0.20,-60.87"
+	Name = "SURV"
+	Type = "0"
+}
+
+cWaypoint SURV42
+{
+	Location = "-347.74,-5.20,-61.05"
+	Name = "SURV"
+	Type = "0"
+}
+
+cWaypoint SURV43
+{
+	Location = "-335.64,-5.20,-65.45"
+	Name = "SURV"
+	Type = "0"
+}
+
+cWaypoint SURV44
+{
+	Location = "-327.74,-5.20,-64.15"
+	Name = "SURV"
+	Type = "0"
+}
+
+cWaypoint SURV45
+{
+	Location = "-324.82,-5.20,-62.17"
+	Name = "SURV"
+	Type = "0"
+}
+
+cWaypoint SURV46
+{
+	Location = "-317.88,-5.20,-64.75"
+	Name = "SURV"
+	Type = "0"
+}
+
+cWaypoint SURV47
+{
+	Location = "-333.57,-5.20,-53.33"
+	Name = "SURV"
+	Type = "0"
+}
+
+cWaypoint SURV48
+{
+	Location = "-371.24,-0.20,-64.45"
+	Name = "SURV"
+	Type = "0"
+}
+
+cWaypoint SURV49
+{
+	Location = "-340.24,-5.20,-64.87"
+	Name = "SURV"
+	Type = "0"
+}
+
+cWaypoint SURV50
+{
+	Location = "-374.94,-5.20,-55.35"
+	Name = "SURV"
+	Type = "0"
+}
+
+cWaypoint SURV51
+{
+	Location = "-379.64,-5.20,-57.15"
+	Name = "SURV"
+	Type = "0"
+}
+
+cWaypoint SURV52
+{
+	Location = "-337.24,-5.20,-61.00"
+	Name = "SURV"
+	Type = "0"
+}
+
+cWaypoint SURV53
+{
+	Location = "-320.74,-5.20,-62.17"
+	Name = "SURV"
+	Type = "0"
+}
+
+cWaypoint SURV54
+{
+	Location = "-432.14,-4.29,-58.35"
+	Name = "SURV"
+	Type = "0"
+}
+
+cWaypoint SURV55
+{
+	Location = "-343.17,-5.20,-45.89"
+	Name = "SURV"
+	Type = "0"
+}
+
+cWaypoint SURV56
+{
+	Location = "-366.74,-4.38,-52.11"
+	Name = "SURV"
+	Type = "0"
+}
+
+cWaypoint SURV57
+{
+	Location = "-426.99,-4.29,-56.37"
+	Name = "SURV"
+	Type = "0"
+}
+
+cWaypoint SURV58
+{
+	Location = "-421.74,-4.29,-56.37"
+	Name = "SURV"
+	Type = "0"
+}
+
+cWaypoint SURV59
+{
+	Location = "-408.49,-3.29,-56.37"
+	Name = "SURV"
+	Type = "0"
+}
+
+cWaypoint SURV60
+{
+	Location = "-357.04,-5.20,-50.45"
+	Name = "SURV"
+	Type = "0"
+}
+
+cWaypoint SURV61
+{
+	Location = "-366.84,-4.38,-59.55"
+	Name = "SURV"
+	Type = "0"
+}
+
+cWaypoint SURV62
+{
+	Location = "-353.07,-5.20,-55.67"
+	Name = "SURV"
+	Type = "0"
+}
+
+cWaypoint SURV63
+{
+	Location = "-435.54,-4.29,-57.35"
+	Name = "SURV"
+	Type = "0"
+}
+
+cWaypoint SURV64
+{
+	Location = "-430.24,-4.29,-55.25"
+	Name = "SURV"
+	Type = "0"
+}
+
+cWaypoint SURV65
+{
+	Location = "-428.57,-4.29,-49.75"
+	Name = "SURV"
+	Type = "0"
+}
+
+cWaypoint SURV66
+{
+	Location = "-378.84,-4.20,-52.25"
+	Name = "SURV"
+	Type = "0"
+}
+
+cWaypoint SURV67
+{
+	Location = "-376.07,-5.20,-47.58"
+	Name = "SURV"
+	Type = "0"
+}
+
+cWaypoint SURV68
+{
+	Location = "-362.99,-5.20,-51.25"
+	Name = "SURV"
+	Type = "0"
+}
+
+cWaypoint SURV69
+{
+	Location = "-343.04,-5.20,-57.05"
+	Name = "SURV"
+	Type = "0"
+}
+
+cWaypoint SURV70
+{
+	Location = "-346.18,-5.20,-53.62"
+	Name = "SURV"
+	Type = "0"
+}
+
+cWaypoint SURV71
+{
+	Location = "-339.41,-5.20,-55.92"
+	Name = "SURV"
+	Type = "0"
+}
+
+cWaypoint SURV72
+{
+	Location = "-339.49,-5.20,-51.75"
+	Name = "SURV"
+	Type = "0"
+}
+
+cWaypoint SURV73
+{
+	Location = "-368.66,-5.20,-47.00"
+	Name = "SURV"
+	Type = "0"
+}
+
+cWaypoint SURV74
+{
+	Location = "-415.10,-4.29,-49.68"
+	Name = "SURV"
+	Type = "0"
+}
+
+cWaypoint SURV75
+{
+	Location = "-376.57,-0.20,-51.25"
+	Name = "SURV"
+	Type = "0"
+}
+
+cWaypoint SURV76
+{
+	Location = "-420.99,-4.29,-50.00"
+	Name = "SURV"
+	Type = "0"
+}
+
+cWaypoint SURV77
+{
+	Location = "-409.74,-4.29,-50.00"
+	Name = "SURV"
+	Type = "0"
+}
+
+cWaypoint SURV78
+{
+	Location = "-372.53,-5.20,-50.82"
+	Name = "SURV"
+	Type = "0"
+}
+
+cWaypoint SURV79
+{
+	Location = "-378.74,-5.20,-49.37"
+	Name = "SURV"
+	Type = "0"
+}
+
+cWaypoint SURV80
+{
+	Location = "-438.99,-4.29,-50.00"
+	Name = "SURV"
+	Type = "0"
+}
+
+cWaypoint SURV81
+{
+	Location = "-366.24,-5.20,-47.75"
+	Name = "SURV"
+	Type = "0"
+}
+
+cWaypoint SURV82
+{
+	Location = "-385.02,-4.29,-34.42"
+	Name = "SURV"
+	Type = "0"
+}
+
+cWaypoint SURV83
+{
+	Location = "-349.38,-5.20,-47.75"
+	Name = "SURV"
+	Type = "0"
+}
+
+cWaypoint SURV84
+{
+	Location = "-361.24,-0.20,-50.05"
+	Name = "SURV"
+	Type = "0"
+}
+
+cWaypoint SURV85
+{
+	Location = "-391.67,-4.29,-19.75"
+	Name = "SURV"
+	Type = "0"
+}
+
+cWaypoint SURV86
+{
+	Location = "-415.30,-4.29,-37.94"
+	Name = "SURV"
+	Type = "0"
+}
+
+cWaypoint SURV87
+{
+	Location = "-422.91,-4.29,-31.36"
+	Name = "SURV"
+	Type = "0"
+}
+
+cWaypoint SURV88
+{
+	Location = "-411.38,-4.29,-31.82"
+	Name = "SURV"
+	Type = "0"
+}
+
+cWaypoint SURV89
+{
+	Location = "-437.34,-3.61,-17.65"
+	Name = "SURV"
+	Type = "0"
+}
+
+cWaypoint SURV90
+{
+	Location = "-443.04,-3.61,-24.45"
+	Name = "SURV"
+	Type = "0"
+}
+
+cWaypoint SURV91
+{
+	Location = "-442.12,-4.29,-19.12"
+	Name = "SURV"
+	Type = "0"
+}
+
+cWaypoint SURV92
+{
+	Location = "-432.41,-4.29,-25.42"
+	Name = "SURV"
+	Type = "0"
+}
+
+cWaypoint SURV93
+{
+	Location = "-390.34,-4.29,-16.15"
+	Name = "SURV"
+	Type = "0"
+}
+
+cWaypoint SURV94
+{
+	Location = "-370.16,-5.20,-31.00"
+	Name = "SURV"
+	Type = "0"
+}
+
+cWaypoint SURV95
+{
+	Location = "-363.07,-5.20,-21.58"
+	Name = "SURV"
+	Type = "0"
+}
+
+cWaypoint SURV96
+{
+	Location = "-362.87,-5.20,-40.69"
+	Name = "SURV"
+	Type = "0"
+}
+
+cWaypoint SURV97
+{
+	Location = "-358.84,-5.20,-19.45"
+	Name = "SURV"
+	Type = "0"
+}
+
+cWaypoint SURV98
+{
+	Location = "-363.60,-5.20,-32.39"
+	Name = "SURV"
+	Type = "0"
+}
+
+cWaypoint SURV99
+{
+	Location = "-355.37,-5.20,-42.87"
+	Name = "SURV"
+	Type = "0"
+}
+
+cWaypoint SURV100
+{
+	Location = "-353.57,-5.20,-33.00"
+	Name = "SURV"
+	Type = "0"
+}
+
+cWaypoint SURV101
+{
+	Location = "-365.31,-5.20,-26.11"
+	Name = "SURV"
+	Type = "0"
+}
+
+cWaypoint SURV102
+{
+	Location = "-355.81,-5.20,-24.89"
+	Name = "SURV"
+	Type = "0"
+}
+
+cWaypoint SURV103
+{
+	Location = "-359.66,-5.20,-13.58"
+	Name = "SURV"
+	Type = "0"
+}
+
+cWaypoint SURV104
+{
+	Location = "-354.04,-5.20,-15.95"
+	Name = "SURV"
+	Type = "0"
+}
+
+cWaypoint SURV105
+{
+	Location = "-354.38,-5.20,-19.61"
+	Name = "SURV"
+	Type = "0"
+}
+
+cWaypoint SURV106
+{
+	Location = "-356.74,-5.20,-11.85"
+	Name = "SURV"
+	Type = "0"
+}
+
+cWaypoint SURV107
+{
+	Location = "-355.49,-5.20,-7.00"
+	Name = "SURV"
+	Type = "0"
+}
+
+cWaypoint SURV108
+{
+	Location = "-357.24,-5.20,-45.75"
+	Name = "SURV"
+	Type = "0"
+}
+
+cWaypoint SURV109
+{
+	Location = "-350.24,-5.20,-2.12"
+	Name = "SURV"
+	Type = "0"
+}
+
+cWaypoint SURV110
+{
+	Location = "-348.81,-5.20,-12.82"
+	Name = "SURV"
+	Type = "0"
+}
+
+cWaypoint SURV111
+{
+	Location = "-350.74,-5.20,-43.54"
+	Name = "SURV"
+	Type = "0"
+}
+
+cWaypoint SURV112
+{
+	Location = "-347.31,-5.20,-40.46"
+	Name = "SURV"
+	Type = "0"
+}
+
+cWaypoint SURV113
+{
+	Location = "-348.82,-5.20,-17.17"
+	Name = "SURV"
+	Type = "0"
+}
+
+cWaypoint SURV114
+{
+	Location = "-345.24,-5.20,0.68"
+	Name = "SURV"
+	Type = "0"
+}
+
+cWaypoint SURV115
+{
+	Location = "-347.41,-5.20,-4.67"
+	Name = "SURV"
+	Type = "0"
+}
+
+cWaypoint SURV116
+{
+	Location = "-344.24,-5.20,-36.00"
+	Name = "SURV"
+	Type = "0"
+}
+
+cWaypoint SURV117
+{
+	Location = "-346.31,-5.20,-27.11"
+	Name = "SURV"
+	Type = "0"
+}
+
+cWaypoint SURV118
+{
+	Location = "-340.24,-5.20,-17.80"
+	Name = "SURV"
+	Type = "0"
+}
+
+cWaypoint SURV119
+{
+	Location = "-337.97,-2.93,-46.34"
+	Name = "SURV"
+	Type = "0"
+}
+
+cWaypoint SURV120
+{
+	Location = "-337.91,-5.20,-29.33"
+	Name = "SURV"
+	Type = "0"
+}
+
+cWaypoint SURV121
+{
+	Location = "-342.12,-5.20,-30.50"
+	Name = "SURV"
+	Type = "0"
+}
+
+cWaypoint SURV122
+{
+	Location = "-342.99,-5.20,-14.62"
+	Name = "SURV"
+	Type = "0"
+}
+
+cWaypoint SURV123
+{
+	Location = "-327.12,-5.20,-22.50"
+	Name = "SURV"
+	Type = "0"
+}
+
+cWaypoint SURV124
+{
+	Location = "-341.54,-5.20,-9.75"
+	Name = "SURV"
+	Type = "0"
+}
+
+cWaypoint SURV125
+{
+	Location = "-342.60,-5.20,-3.39"
+	Name = "SURV"
+	Type = "0"
+}
+
+cWaypoint SURV126
+{
+	Location = "-342.04,-5.20,-40.55"
+	Name = "SURV"
+	Type = "0"
+}
+
+cWaypoint SURV127
+{
+	Location = "-340.84,-5.20,-25.65"
+	Name = "SURV"
+	Type = "0"
+}
+
+cWaypoint SURV128
+{
+	Location = "-338.05,-5.20,1.31"
+	Name = "SURV"
+	Type = "0"
+}
+
+cWaypoint SURV129
+{
+	Location = "-337.57,-5.20,-1.83"
+	Name = "SURV"
+	Type = "0"
+}
+
+cWaypoint SURV130
+{
+	Location = "-340.66,-5.20,1.67"
+	Name = "SURV"
+	Type = "0"
+}
+
+cWaypoint SURV131
+{
+	Location = "-340.44,-2.92,-42.35"
+	Name = "SURV"
+	Type = "0"
+}
+
+cWaypoint SURV132
+{
+	Location = "-338.87,-4.22,-38.19"
+	Name = "SURV"
+	Type = "0"
+}
+
+cWaypoint SURV133
+{
+	Location = "-336.74,-4.22,-36.25"
+	Name = "SURV"
+	Type = "0"
+}
+
+cWaypoint SURV134
+{
+	Location = "-338.16,-5.20,-52.83"
+	Name = "SURV"
+	Type = "0"
+}
+
+cWaypoint SURV135
+{
+	Location = "-336.49,-5.20,-9.87"
+	Name = "SURV"
+	Type = "0"
+}
+
+cWaypoint SURV136
+{
+	Location = "-336.24,-4.22,-44.75"
+	Name = "SURV"
+	Type = "0"
+}
+
+cWaypoint SURV137
+{
+	Location = "-339.24,-5.20,-33.33"
+	Name = "SURV"
+	Type = "0"
+}
+
+cWaypoint SURV138
+{
+	Location = "-333.87,-5.20,-17.19"
+	Name = "SURV"
+	Type = "0"
+}
+
+cWaypoint SURV139
+{
+	Location = "-329.62,-2.92,-49.81"
+	Name = "SURV"
+	Type = "0"
+}
+
+cWaypoint SURV140
+{
+	Location = "-335.60,-2.92,-48.61"
+	Name = "SURV"
+	Type = "0"
+}
+
+cWaypoint SURV141
+{
+	Location = "-337.74,-5.20,-25.25"
+	Name = "SURV"
+	Type = "0"
+}
+
+cWaypoint SURV142
+{
+	Location = "-333.68,-3.21,-37.06"
+	Name = "SURV"
+	Type = "0"
+}
+
+cWaypoint SURV143
+{
+	Location = "-333.41,-4.22,-35.00"
+	Name = "SURV"
+	Type = "0"
+}
+
+cWaypoint SURV144
+{
+	Location = "-334.74,-5.20,-7.45"
+	Name = "SURV"
+	Type = "0"
+}
+
+cWaypoint SURV145
+{
+	Location = "-329.74,-5.20,-1.94"
+	Name = "SURV"
+	Type = "0"
+}
+
+cWaypoint SURV146
+{
+	Location = "-329.82,-5.20,-27.58"
+	Name = "SURV"
+	Type = "0"
+}
+
+cWaypoint SURV147
+{
+	Location = "-330.74,-5.20,-7.62"
+	Name = "SURV"
+	Type = "0"
+}
+
+cWaypoint SURV148
+{
+	Location = "-327.68,-4.95,-57.50"
+	Name = "SURV"
+	Type = "0"
+}
+
+cWaypoint SURV149
+{
+	Location = "-321.96,-5.20,-48.64"
+	Name = "SURV"
+	Type = "0"
+}
+
+cWaypoint SURV150
+{
+	Location = "-319.24,-5.20,-58.25"
+	Name = "SURV"
+	Type = "0"
+}
+
+cWaypoint SURV151
+{
+	Location = "-326.82,-5.20,-52.58"
+	Name = "SURV"
+	Type = "0"
+}
+
+cWaypoint SURV152
+{
+	Location = "-322.82,-4.95,-55.75"
+	Name = "SURV"
+	Type = "0"
+}
+
+cWaypoint SURV153
+{
+	Location = "-330.30,-3.21,-36.25"
+	Name = "SURV"
+	Type = "0"
+}
+
+cWaypoint SURV154
+{
+	Location = "-328.66,-4.22,-46.75"
+	Name = "SURV"
+	Type = "0"
+}
+
+cWaypoint SURV155
+{
+	Location = "-328.67,-5.20,-15.75"
+	Name = "SURV"
+	Type = "0"
+}
+
+cWaypoint SURV156
+{
+	Location = "-329.82,-5.20,-9.92"
+	Name = "SURV"
+	Type = "0"
+}
+
+cWaypoint SURV157
+{
+	Location = "-330.24,-5.20,-24.35"
+	Name = "SURV"
+	Type = "0"
+}
+
+cWaypoint SURV158
+{
+	Location = "-325.74,-5.20,1.18"
+	Name = "SURV"
+	Type = "0"
+}
+
+cWaypoint SURV159
+{
+	Location = "-325.63,-4.22,-35.25"
+	Name = "SURV"
+	Type = "0"
+}
+
+cWaypoint SURV160
+{
+	Location = "-320.37,-5.20,-31.37"
+	Name = "SURV"
+	Type = "0"
+}
+
+cWaypoint SURV161
+{
+	Location = "-324.03,-5.20,-8.96"
+	Name = "SURV"
+	Type = "0"
+}
+
+cWaypoint SURV162
+{
+	Location = "-324.49,-5.20,-31.25"
+	Name = "SURV"
+	Type = "0"
+}
+
+cWaypoint SURV163
+{
+	Location = "-324.87,-5.20,-20.37"
+	Name = "SURV"
+	Type = "0"
+}
+
+cWaypoint SURV164
+{
+	Location = "-324.38,-5.20,-2.46"
+	Name = "SURV"
+	Type = "0"
+}
+
+cWaypoint SURV165
+{
+	Location = "-325.34,-4.46,-32.45"
+	Name = "SURV"
+	Type = "0"
+}
+
+cWaypoint SURV166
+{
+	Location = "-319.10,-5.20,-42.54"
+	Name = "SURV"
+	Type = "0"
+}
+
+cWaypoint SURV167
+{
+	Location = "-324.46,-4.22,-39.96"
+	Name = "SURV"
+	Type = "0"
+}
+
+cWaypoint SURV168
+{
+	Location = "-324.41,-5.20,-15.75"
+	Name = "SURV"
+	Type = "0"
+}
+
+cWaypoint SURV169
+{
+	Location = "-322.32,-5.20,-24.17"
+	Name = "SURV"
+	Type = "0"
+}
+
+cWaypoint SURV170
+{
+	Location = "-321.74,-5.20,-12.75"
+	Name = "SURV"
+	Type = "0"
+}
+
+cWaypoint SURV171
+{
+	Location = "-319.49,-5.20,-16.92"
+	Name = "SURV"
+	Type = "0"
+}
+
+cWaypoint SURV172
+{
+	Location = "-316.03,-5.20,-55.04"
+	Name = "SURV"
+	Type = "0"
+}
+
+cWaypoint SURV173
+{
+	Location = "-315.24,-5.20,-3.55"
+	Name = "SURV"
+	Type = "0"
+}
+
+cWaypoint SURV174
+{
+	Location = "-316.74,-5.20,-8.69"
+	Name = "SURV"
+	Type = "0"
+}
+
+cWaypoint SURV175
+{
+	Location = "-313.87,-5.20,-21.00"
+	Name = "SURV"
+	Type = "0"
+}
+
+cWaypoint SURV176
+{
+	Location = "-314.03,-5.20,-17.89"
+	Name = "SURV"
+	Type = "0"
+}
+
+cWaypoint SURV177
+{
+	Location = "-316.54,-5.20,-46.65"
+	Name = "SURV"
+	Type = "0"
+}
+
+cWaypoint SURV178
+{
+	Location = "-314.82,-5.20,-41.17"
+	Name = "SURV"
+	Type = "0"
+}
+
+cWaypoint SURV179
+{
+	Location = "-313.53,-5.20,-12.11"
+	Name = "SURV"
+	Type = "0"
+}
+
+cWaypoint SURV180
+{
+	Location = "-307.46,-5.20,-60.68"
+	Name = "SURV"
+	Type = "0"
+}
+
+cWaypoint SURV181
+{
+	Location = "-307.94,-5.20,-47.95"
+	Name = "SURV"
+	Type = "0"
+}
+
+cWaypoint SURV182
+{
+	Location = "-309.49,-5.20,-52.50"
+	Name = "SURV"
+	Type = "0"
+}
+
+cWaypoint SURV183
+{
+	Location = "-312.02,-5.20,-33.19"
+	Name = "SURV"
+	Type = "0"
+}
+
+cWaypoint SURV184
+{
+	Location = "-310.24,-5.20,-42.08"
+	Name = "SURV"
+	Type = "0"
+}
+
+cWaypoint SURV185
+{
+	Location = "-313.49,-5.20,-28.00"
+	Name = "SURV"
+	Type = "0"
+}
+
+cWaypoint SURV186
+{
+	Location = "-315.04,-5.20,-25.65"
+	Name = "SURV"
+	Type = "0"
+}
+
+cWaypoint SURV187
+{
+	Location = "-309.24,-5.20,-23.62"
+	Name = "SURV"
+	Type = "0"
+}
+
+cWaypoint SURV188
+{
+	Location = "-306.91,-5.20,-34.83"
+	Name = "SURV"
+	Type = "0"
+}
+
+cWaypoint SURV189
+{
+	Location = "-308.03,-5.20,-26.04"
+	Name = "SURV"
+	Type = "0"
+}
+
+cWaypoint SURV190
+{
+	Location = "-306.99,-5.20,-17.08"
+	Name = "SURV"
+	Type = "0"
+}
+
+cWaypoint SURV191
+{
+	Location = "-306.94,-5.20,-31.25"
+	Name = "SURV"
+	Type = "0"
+}
+
+cWaypoint SURV192
+{
+	Location = "-305.62,-4.20,-3.75"
+	Name = "SURV"
+	Type = "0"
+}
+
+cWaypoint SURV193
+{
+	Location = "-301.66,-5.20,-42.58"
+	Name = "SURV"
+	Type = "0"
+}
+
+cWaypoint SURV194
+{
+	Location = "-303.66,-5.20,-45.00"
+	Name = "SURV"
+	Type = "0"
+}
+
+cWaypoint SURV195
+{
+	Location = "-304.38,-5.20,-54.18"
+	Name = "SURV"
+	Type = "0"
+}
+
+cWaypoint SURV196
+{
+	Location = "-304.38,-5.20,-21.04"
+	Name = "SURV"
+	Type = "0"
+}
+
+cWaypoint SURV197
+{
+	Location = "-302.64,-5.20,-28.15"
+	Name = "SURV"
+	Type = "0"
+}
+
+cWaypoint SURV198
+{
+	Location = "-304.38,-4.20,-8.46"
+	Name = "SURV"
+	Type = "0"
+}
+
+cWaypoint SURV199
+{
+	Location = "-302.54,-4.20,-5.85"
+	Name = "SURV"
+	Type = "0"
+}
+
+cWaypoint SURV200
+{
+	Location = "-301.34,-4.20,1.15"
+	Name = "SURV"
+	Type = "0"
+}
+
+cWaypoint SURV201
+{
+	Location = "-299.74,-5.20,-25.50"
+	Name = "SURV"
+	Type = "0"
+}
+
+cWaypoint SURV202
+{
+	Location = "-299.67,-4.20,-12.54"
+	Name = "SURV"
+	Type = "0"
+}
+
+cWaypoint SURV203
+{
+	Location = "-300.03,-5.20,-23.25"
+	Name = "SURV"
+	Type = "0"
+}
+
+cWaypoint SURV204
+{
+	Location = "-295.43,-4.20,-5.69"
+	Name = "SURV"
+	Type = "0"
+}
+
+cWaypoint SURV205
+{
+	Location = "-299.19,-5.20,-18.03"
+	Name = "SURV"
+	Type = "0"
+}
+
+cWaypoint SURV206
+{
+	Location = "-427.03,-4.61,-33.69"
+	Name = "SURV206"
+	Type = "0"
+}
+
+cWaypoint SURV207
+{
+	Location = "-429.98,-4.61,-35.27"
+	Name = "SURV207"
+	Type = "0"
+}
+
+cWaypoint SURV208
+{
+	Location = "-449.13,-4.61,-16.60"
+	Name = "SURV208"
+	Type = "0"
+}
+
+cWaypoint SURV209
+{
+	Location = "-444.85,-4.61,-11.91"
+	Name = "SURV209"
+	Type = "0"
+}
+
+cWaypoint SURV210
+{
+	Location = "-426.90,-4.61,-29.88"
+	Name = "SURV210"
+	Type = "0"
+}
+
+cWaypoint SURV211
+{
+	Location = "-396.31,-4.61,-42.61"
+	Name = "SURV211"
+	Type = "0"
+}
+
+cWaypoint SURV213
+{
+	Location = "-383.27,-4.61,-22.97"
+	Name = "SURV213"
+	Type = "0"
+}
+
+cWaypoint SURV214
+{
+	Location = "-346.65,-5.51,-9.22"
+	Name = "SURV214"
+	Type = "0"
+}
+
+cWaypoint SURV215
+{
+	Location = "-373.60,-5.51,-60.99"
+	Name = "SURV215"
+	Type = "0"
+}
+
+cWaypoint SURV216
+{
+	Location = "-370.57,-5.51,-61.68"
+	Name = "SURV216"
+	Type = "0"
+}
+
+cWaypoint SURV217
+{
+	Location = "-362.46,-5.51,-61.36"
+	Name = "SURV217"
+	Type = "0"
+}
+
+cWaypoint SURV218
+{
+	Location = "-373.59,-3.51,-67.16"
+	Name = "SURV218"
+	Type = "0"
+}
+
+cWaypoint SURV219
+{
+	Location = "-379.92,-0.51,-67.53"
+	Name = "SURV219"
+	Type = "0"
+}
+
+cWaypoint SURV220
+{
+	Location = "-366.82,-0.51,-67.56"
+	Name = "SURV220"
+	Type = "0"
+}
+
+cWaypoint SURV221
+{
+	Location = "-380.75,-0.51,-64.90"
+	Name = "SURV221"
+	Type = "0"
+}
+
+cWaypoint SURV222
+{
+	Location = "-381.04,-0.51,-67.17"
+	Name = "SURV222"
+	Type = "0"
+}
+
+cWaypoint SURV223
+{
+	Location = "-378.11,-0.51,-58.55"
+	Name = "SURV223"
+	Type = "0"
+}
+
+cWaypoint SURV224
+{
+	Location = "-373.19,-0.51,-47.67"
+	Name = "SURV224"
+	Type = "0"
+}
+
+cWaypoint SURV225
+{
+	Location = "-367.44,-0.51,-46.41"
+	Name = "SURV225"
+	Type = "0"
+}
+
+cWaypoint SURV226
+{
+	Location = "-371.60,-0.51,-46.83"
+	Name = "SURV226"
+	Type = "0"
+}
+
+cWaypoint SURV227
+{
+	Location = "-361.64,-0.51,-48.16"
+	Name = "SURV227"
+	Type = "0"
+}
+
+cWaypoint SURV228
+{
+	Location = "-358.97,-0.51,-53.39"
+	Name = "SURV228"
+	Type = "0"
+}
+
+cWaypoint SURV229
+{
+	Location = "-359.25,-0.51,-58.74"
+	Name = "SURV229"
+	Type = "0"
+}
+
+cWaypoint SURV230
+{
+	Location = "-353.10,-5.01,-65.66"
+	Name = "SURV230"
+	Type = "0"
+}
+
+cWaypoint SURV231
+{
+	Location = "-354.58,-5.01,-68.16"
+	Name = "SURV231"
+	Type = "0"
+}
+
+cWaypoint SURV233
+{
+	ConnectedWaypoint1 = "SURV237"
+	Location = "-379.36,-4.61,-18.90"
+	Name = "SURV233"
+	Type = "0"
+}
+
+cWaypoint SURV237
+{
+	ConnectedWaypoint1 = "SURV233"
+	Location = "-369.96,-2.91,-10.32"
+	Name = "SURV237"
+	Type = "0"
+}
+
+cWaypoint SURV238
+{
+	Location = "-320.96,-5.51,-76.17"
+	Name = "SURV238"
+	Type = "0"
+}
+
+cWaypoint SURV239
+{
+	Location = "-319.04,-5.51,-78.28"
+	Name = "SURV239"
+	Type = "0"
+}
+
+cWaypoint SURV240
+{
+	Location = "-313.52,-5.51,-79.20"
+	Name = "SURV240"
+	Type = "0"
+}
+
+cWaypoint SURV241
+{
+	Location = "-312.66,-5.51,-79.13"
+	Name = "SURV241"
+	Type = "0"
+}
+
+cWaypoint SURV242
+{
+	Location = "-312.64,-5.51,-84.61"
+	Name = "SURV242"
+	Type = "0"
+}
+
+cWaypoint SURV243
+{
+	Location = "-307.72,-5.51,-10.92"
+	Name = "SURV243"
+	Type = "0"
+}
+
+cWaypoint SURV244
+{
+	Location = "-311.10,-5.51,-6.46"
+	Name = "SURV244"
+	Type = "0"
+}
+
+cWaypoint SURV245
+{
+	Location = "-308.17,-4.51,-5.46"
+	Name = "SURV245"
+	Type = "0"
+}
+
+cWaypoint SURV246
+{
+	Location = "-309.45,-5.01,-6.68"
+	Name = "SURV246"
+	Type = "0"
+}
+
+cWaypoint SURV247
+{
+	ConnectedWaypoint1 = "SURV248"
+	Location = "-315.38,-4.48,-15.68"
+	Name = "SURV247"
+	Type = "0"
+}
+
+cWaypoint SURV248
+{
+	ConnectedWaypoint1 = "SURV247"
+	Location = "-315.89,-5.51,-14.67"
+	Name = "SURV248"
+	Type = "0"
+}
+
+cWaypoint SURV249
+{
+	ConnectedWaypoint1 = "SURV250"
+	Location = "-318.54,-4.48,-13.11"
+	Name = "SURV249"
+	Type = "0"
+}
+
+cWaypoint SURV250
+{
+	ConnectedWaypoint1 = "SURV249"
+	Location = "-317.45,-5.51,-13.09"
+	Name = "SURV250"
+	Type = "0"
+}
+
+cWaypoint SURV251
+{
+	ConnectedWaypoint1 = "SURV252"
+	Location = "-318.95,-4.48,-19.60"
+	Name = "SURV251"
+	Type = "0"
+}
+
+cWaypoint SURV252
+{
+	ConnectedWaypoint1 = "SURV251"
+	Location = "-319.80,-5.51,-18.79"
+	Name = "SURV252"
+	Type = "0"
+}
+
+cWaypoint SURV253
+{
+	ConnectedWaypoint1 = "SURV254"
+	Location = "-321.83,-4.48,-17.06"
+	Name = "SURV253"
+	Type = "0"
+}
+
+cWaypoint SURV254
+{
+	ConnectedWaypoint1 = "SURV253"
+	Location = "-321.19,-5.51,-17.62"
+	Name = "SURV254"
+	Type = "0"
+}
+
+cWaypoint SURV255
+{
+	ConnectedWaypoint1 = "SURV256"
+	Location = "-311.50,-4.48,-25.70"
+	Name = "SURV255"
+	Type = "0"
+}
+
+cWaypoint SURV256
+{
+	ConnectedWaypoint1 = "SURV255"
+	Location = "-310.79,-5.51,-26.46"
+	Name = "SURV256"
+	Type = "0"
+}
+
+cWaypoint SURV257
+{
+	ConnectedWaypoint1 = "SURV258"
+	Location = "-307.92,-4.48,-21.67"
+	Name = "SURV257"
+	Type = "0"
+}
+
+cWaypoint SURV258
+{
+	ConnectedWaypoint1 = "SURV257"
+	Location = "-307.15,-5.51,-22.38"
+	Name = "SURV258"
+	Type = "0"
+}
+
+
+cEnvironmentAcoustics Room
+{
+	AcousticMedium = "0"
+	DecayHFRatio = "0.83"
+	DecayTime = "0.4"
+	Density = "100"
+	Diffusion = "100"
+	HFReference = "5000"
+	Reflections = "-1646"
+	ReflectionsDelay = "0.002"
+	Reverb = "53"
+	ReverbDelay = "0.003"
+	Room = "-1900"
+	RoomHF = "-454"
+	RoomRolloffFactor = "0"
+}
+
+cEnvironmentAcoustics CarpetedHallway
+{
+	AcousticMedium = "0"
+	DecayHFRatio = "0.1"
+	DecayTime = "0.3"
+	Density = "100"
+	Diffusion = "100"
+	HFReference = "5000"
+	Reflections = "-1831"
+	ReflectionsDelay = "0.002"
+	Reverb = "-1630"
+	ReverbDelay = "0.03"
+	Room = "-1000"
+	RoomHF = "-4000"
+	RoomRolloffFactor = "0"
+}
+
+cEnvironmentAcoustics Bathroom
+{
+	AcousticMedium = "0"
+	DecayHFRatio = "0.54"
+	DecayTime = "1.49"
+	Density = "60"
+	Diffusion = "100"
+	HFReference = "5000"
+	Location = "-73.781,1.457,-5.801"
+	Reflections = "-370"
+	ReflectionsDelay = "0.007"
+	Reverb = "1030"
+	ReverbDelay = "0.001"
+	Room = "-3000"
+	RoomHF = "-1200"
+	RoomRolloffFactor = "0.0"
+}
+
+cEnvironmentAcoustics Hallway
+{
+	AcousticMedium = "0"
+	DecayHFRatio = "0.59"
+	DecayTime = "1.49"
+	Density = "100"
+	Diffusion = "100"
+	HFReference = "5000"
+	Location = "-73.781,1.457,-5.801"
+	Reflections = "-1219"
+	ReflectionsDelay = "0.007"
+	Reverb = "441"
+	ReverbDelay = "0.011"
+	Room = "-2500"
+	RoomHF = "-300"
+	RoomRolloffFactor = "0.0"
+}
+
+cEnvironmentAcoustics Alley
+{
+	AcousticMedium = "0"
+	DecayHFRatio = "0.86"
+	DecayTime = "1.49"
+	Density = "100"
+	Diffusion = "100"
+	HFReference = "5000"
+	Location = "-73.781,1.457,-5.801"
+	Reflections = "-1204"
+	ReflectionsDelay = "0.007"
+	Reverb = "-4"
+	ReverbDelay = "0.011"
+	Room = "-2000"
+	RoomHF = "-270"
+	RoomRolloffFactor = "0"
+}
+
+cEnvironmentAcoustics Hanger
+{
+	AcousticMedium = "0"
+	DecayHFRatio = "0.23"
+	DecayTime = "10.05"
+	Density = "100"
+	Diffusion = "100"
+	HFReference = "5000"
+	Location = ""
+	Reflections = "-602"
+	ReflectionsDelay = "0.02"
+	Reverb = "198"
+	ReverbDelay = "0.03"
+	Room = "-2200"
+	RoomHF = "-1000"
+	RoomRolloffFactor = "0.0"
+}
+
+cEnvironmentAcoustics LivingRoom
+{
+	AcousticMedium = "0"
+	DecayHFRatio = "0.1"
+	DecayTime = "0.5"
+	Density = "100"
+	Diffusion = "100"
+	HFReference = "5000"
+	Location = ""
+	Reflections = "-1376"
+	ReflectionsDelay = "0.003"
+	Reverb = "-1104"
+	ReverbDelay = "0.004"
+	Room = "-1000"
+	RoomHF = "-6000"
+	RoomRolloffFactor = "0.0"
+}
+
+cEnvironmentAcoustics Auditorium
+{
+	AcousticMedium = "0"
+	DecayHFRatio = "0.59"
+	DecayTime = "3.32"
+	Density = "100"
+	Diffusion = "100"
+	HFReference = "5000"
+	Location = ""
+	Reflections = "-789"
+	ReflectionsDelay = "0.02"
+	Reverb = "-298"
+	ReverbDelay = "0.03"
+	Room = "-2500"
+	RoomHF = "-3000"
+	RoomRolloffFactor = "0.0"
+}
+
+cEnvironmentAcoustics Quarry
+{
+	AcousticMedium = "0"
+	DecayHFRatio = "0.83"
+	DecayTime = "1.49"
+	Density = "100"
+	Diffusion = "100"
+	HFReference = "5000"
+	Location = ""
+	Reflections = "-10000"
+	ReflectionsDelay = "0.061"
+	Reverb = "500"
+	ReverbDelay = "0.025"
+	Room = "-3000"
+	RoomHF = "-1000"
+	RoomRolloffFactor = "0.0"
+}
+
+cEnvironmentAcoustics StoneRoom
+{
+	AcousticMedium = "0"
+	DecayHFRatio = "0.64"
+	DecayTime = "2.31"
+	Density = "100"
+	Diffusion = "100"
+	HFReference = "5000"
+	Location = ""
+	Reflections = "-711"
+	ReflectionsDelay = "0.012"
+	Reverb = "83"
+	ReverbDelay = "0.017"
+	Room = "-2000"
+	RoomHF = "-300"
+	RoomRolloffFactor = "0.0"
+}
+
+cEnvironmentAcoustics Kitchen
+{
+	AcousticMedium = "0"
+	DecayHFRatio = "0.54"
+	DecayTime = "1.49"
+	Density = "60"
+	Diffusion = "100"
+	HFReference = "5000"
+	Location = "-73.781,1.457,-5.801"
+	Reflections = "-370"
+	ReflectionsDelay = "0.007"
+	Reverb = "1030"
+	ReverbDelay = "0.001"
+	Room = "-3600"
+	RoomHF = "-1200"
+	RoomRolloffFactor = "0.0"
+}
+
+cEnvironmentAcoustics BigOpenSpace
+{
+	AcousticMedium = "0"
+	DecayHFRatio = "0.70"
+	DecayTime = "3"
+	Density = "100"
+	Diffusion = "100"
+	HFReference = "5000"
+	Location = "-73.781,1.457,-5.801"
+	Reflections = "-1230"
+	ReflectionsDelay = "0.02"
+	Reverb = "-2"
+	ReverbDelay = "0.029"
+	Room = "-2000"
+	RoomHF = "-500"
+	RoomRolloffFactor = "0.0"
+}
+
+cEnvironmentAcoustics Store
+{
+	AcousticMedium = "0"
+	DecayHFRatio = "0.70"
+	DecayTime = "2"
+	Density = "100"
+	Diffusion = "100"
+	HFReference = "5000"
+	Location = "-73.781,1.457,-5.801"
+	Reflections = "-600"
+	ReflectionsDelay = "0.02"
+	Reverb = "-20"
+	ReverbDelay = "0.029"
+	Room = "-3500"
+	RoomHF = "-500"
+	RoomRolloffFactor = "0.0"
+}
+
+
+cAudioMaterial Concrete
+{
+	AbsorptionRatio = "0.2"
+	ImpactRatio = "0.4"
+	Location = "-14.852,1.274,3.726"
+	LowFreqRatio = "0.8"
+	ReflectionRatio = "0.4"
+}
+
+cAudioMaterial Glass
+{
+	AbsorptionRatio = "0.3"
+	ImpactRatio = "0.3"
+	Location = "-14.852,1.274,3.726"
+	LowFreqRatio = "0.5"
+	ReflectionRatio = "0.3"
+}
+
+cAudioMaterial plastic
+{
+	AbsorptionRatio = "0.4"
+	ImpactRatio = "0.4"
+	Location = "-14.852,1.274,3.726"
+	LowFreqRatio = "0.6"
+	ReflectionRatio = "0.4"
+}
+
+cAudioMaterial PaperScreen
+{
+	AbsorptionRatio = "0.1"
+	ImpactRatio = "0.1"
+	LowFreqRatio = "0"
+	ReflectionRatio = "0.1"
+}
+
+
+cEnvironmentVolume BBq_Upper_C2
+{
+	AcousticsName = "BigOpenSpace"
+	Rotation = "0.000,0.707,0.000,0.707"
+	Scale = "7.972,4.932,4.819"
+	Translation = "-377.432,4.261,-58.155"
+	VolumColor = "0"
+	VolumeType = "1"
+}
+
+cEnvironmentVolume Escalator1
+{
+	Rotation = "0.000,-0.383,0.000,0.924"
+	Scale = "2.588,1.769,17.492"
+	Translation = "-416.623,-3.046,-6.343"
+	VolumColor = "0"
+	VolumeType = "4"
+}
+
+cEnvironmentVolume Vault_Perimeter06
+{
+	AcousticsName = "BigOpenSpace"
+	Rotation = "-0.000,0.089,0.000,0.996"
+	Scale = "1.629,5.321,1.466"
+	Translation = "-298.282,-0.605,-42.884"
+	VolumColor = "0"
+	VolumeType = "1"
+}
+
+cEnvironmentVolume VaultRoom_Front06
+{
+	AcousticsName = "Room"
+	Rotation = "-0.000,0.089,0.000,0.996"
+	Scale = "1.816,2.008,3.387"
+	Translation = "-297.058,-3.652,-37.901"
+	VolumColor = "0"
+	VolumeType = "1"
+}
+
+cEnvironmentVolume Cashout_06
+{
+	AcousticsName = "Room"
+	Rotation = "0.000,-0.426,0.000,0.905"
+	Scale = "0.749,2.509,0.845"
+	Translation = "-319.496,-3.157,-77.736"
+	VolumColor = "0"
+	VolumeType = "1"
+}
+
+cEnvironmentVolume Cashout_Door_MainPlug1
+{
+	AcousticsName = "BigOpenSpace"
+	Rotation = "0.000,-0.426,0.000,0.905"
+	Scale = "1.742,4.384,1.388"
+	Translation = "-320.930,-1.282,-75.844"
+	VolumColor = "0"
+	VolumeType = "1"
+}
+
+cEnvironmentVolume BBq_Kitchen_Blend2
+{
+	AcousticsName = "Store"
+	Rotation = "-0.000,0.707,0.000,0.707"
+	Scale = "4.127,0.556,0.612"
+	Translation = "-382.256,-4.170,-59.121"
+	TransmitRatio = "0.6"
+	VolumColor = "0"
+	VolumeType = "1"
+}
+
+cEnvironmentVolume StarSpangled_Window2
+{
+	AcousticsName = "BigOpenSpace"
+	Rotation = "0.000,-0.382,0.000,0.924"
+	Scale = "1.392,1.495,1.750"
+	Translation = "-394.001,-3.289,-43.660"
+	VolumColor = "0"
+	VolumeType = "8"
+}
+
+cEnvironmentVolume ACasino_02
+{
+	AcousticsName = "BigOpenSpace"
+	Rotation = "0.000,0.000,0.000,1.000"
+	Scale = "10.660,6.851,30.370"
+	Translation = "-353.105,0.266,-44.217"
+	VolumColor = "0"
+	VolumeType = "1"
+}
+
+cEnvironmentVolume Basement_Hall_03
+{
+	AcousticsName = "Hallway"
+	Rotation = "-0.000,0.382,0.000,0.924"
+	Scale = "17.013,2.536,2.027"
+	Translation = "-437.305,-2.248,-13.152"
+	VolumColor = "0"
+	VolumeType = "1"
+}
+
+cEnvironmentVolume Protest_Bathroom_Blend1
+{
+	AcousticsName = "Hallway"
+	Rotation = "-0.000,0.382,0.000,0.924"
+	Scale = "0.871,1.218,0.816"
+	Translation = "-441.940,-3.579,-11.475"
+	VolumColor = "0"
+	VolumeType = "1"
+}
+
+cEnvironmentVolume Protest_Bathroom_Blend2
+{
+	AcousticsName = "Hallway"
+	Rotation = "0.000,-0.380,-0.000,0.925"
+	Scale = "1.056,1.189,0.901"
+	Translation = "-435.577,-3.629,-17.998"
+	VolumColor = "0"
+	VolumeType = "1"
+}
+
+cEnvironmentVolume Protest_Bathroom_Occluder1
+{
+	OccluderOnly = "true"
+	Rotation = "-0.000,0.382,0.000,0.924"
+	Scale = "0.215,1.598,2.963"
+	SurfaceMaterial_X_Neg = "Glass"
+	SurfaceMaterial_X_Pos = "Glass"
+	SurfaceMaterial_Y_Neg = "Glass"
+	SurfaceMaterial_Y_Pos = "Glass"
+	SurfaceMaterial_Z_Neg = "Glass"
+	SurfaceMaterial_Z_Pos = "Glass"
+	Translation = "-452.910,-3.722,-16.342"
+	VolumColor = "0"
+	VolumeType = "2"
+}
+
+cEnvironmentVolume Protest_Bathroom_Occluder2
+{
+	OccluderOnly = "true"
+	Rotation = "-0.000,0.382,0.000,0.924"
+	Scale = "0.215,1.454,2.963"
+	SurfaceMaterial_X_Neg = "Glass"
+	SurfaceMaterial_X_Pos = "Glass"
+	SurfaceMaterial_Y_Neg = "Glass"
+	SurfaceMaterial_Y_Pos = "Glass"
+	SurfaceMaterial_Z_Neg = "Glass"
+	SurfaceMaterial_Z_Pos = "Glass"
+	Translation = "-459.984,-3.580,-23.422"
+	VolumColor = "0"
+	VolumeType = "2"
+}
+
+cEnvironmentVolume Protest_Bathroom_01
+{
+	AcousticsName = "Bathroom"
+	Rotation = "-0.000,0.382,0.000,0.924"
+	Scale = "8.054,2.143,14.037"
+	Translation = "-455.023,-2.699,-18.480"
+	VolumColor = "0"
+	VolumeType = "1"
+}
+
+cEnvironmentVolume Protest_Bathroom_02
+{
+	AcousticsName = "Bathroom"
+	Rotation = "-0.000,0.382,0.000,0.924"
+	Scale = "8.041,2.143,14.018"
+	Translation = "-442.465,-2.699,-31.022"
+	VolumColor = "0"
+	VolumeType = "1"
+}
+
+cEnvironmentVolume Arena_EntrancePlaza_05
+{
+	AcousticsName = "BigOpenSpace"
+	Rotation = "0.000,0.924,0.000,0.383"
+	Scale = "11.266,5.259,15.858"
+	Translation = "-391.270,0.473,-30.396"
+	VolumColor = "0"
+	VolumeType = "1"
+}
+
+cEnvironmentVolume Arena_EntranceHall_02
+{
+	AcousticsName = "BigOpenSpace"
+	Rotation = "0.000,0.925,0.000,0.380"
+	Scale = "5.708,3.991,22.675"
+	Translation = "-418.244,-0.849,-7.036"
+	VolumColor = "0"
+	VolumeType = "1"
+}
+
+cEnvironmentVolume Arena_EntranceHall_03
+{
+	AcousticsName = "BigOpenSpace"
+	Rotation = "0.000,-0.132,-0.000,0.991"
+	Scale = "6.445,3.722,12.562"
+	Translation = "-435.484,-1.103,17.470"
+	VolumColor = "0"
+	VolumeType = "1"
+}
+
+cEnvironmentVolume Basement_Hall_04
+{
+	AcousticsName = "Hallway"
+	Rotation = "-0.000,0.382,0.000,0.924"
+	Scale = "2.024,2.519,6.089"
+	Translation = "-425.835,-2.251,-14.611"
+	VolumColor = "0"
+	VolumeType = "1"
+}
+
+cEnvironmentVolume StarSpangled_01
+{
+	AcousticsName = "Store"
+	Rotation = "0.000,-0.382,0.000,0.924"
+	Scale = "5.143,2.126,8.346"
+	Translation = "-401.570,-2.658,-43.517"
+	VolumColor = "0"
+	VolumeType = "1"
+}
+
+cEnvironmentVolume Arena_EntrancePlaza_01
+{
+	AcousticsName = "BigOpenSpace"
+	Rotation = "0.000,0.000,0.000,1.000"
+	Scale = "7.051,5.381,9.925"
+	Translation = "-367.606,-0.392,-32.163"
+	VolumColor = "0"
+	VolumeType = "1"
+}
+
+cEnvironmentVolume Arena_EntrancePlaza_02
+{
+	AcousticsName = "BigOpenSpace"
+	Rotation = "0.000,-0.383,0.000,0.924"
+	Scale = "5.694,5.585,3.503"
+	Translation = "-381.206,0.831,-43.547"
+	VolumColor = "0"
+	VolumeType = "1"
+}
+
+cEnvironmentVolume Arena_EntrancePlaza_03
+{
+	AcousticsName = "BigOpenSpace"
+	Rotation = "0.000,0.000,0.000,1.000"
+	Scale = "2.911,5.563,5.520"
+	Translation = "-385.385,0.808,-44.492"
+	VolumColor = "0"
+	VolumeType = "1"
+}
+
+cEnvironmentVolume Arena_EntrancePlaza_04
+{
+	AcousticsName = "BigOpenSpace"
+	Rotation = "0.000,-0.706,0.000,0.708"
+	Scale = "13.805,6.091,10.108"
+	Translation = "-381.400,0.341,-28.216"
+	VolumColor = "0"
+	VolumeType = "1"
+}
+
+cEnvironmentVolume BBq_Kitchen_01
+{
+	AcousticsName = "Store"
+	Rotation = "-0.000,-0.001,1.000,0.001"
+	Scale = "2.802,1.986,6.448"
+	Translation = "-385.258,-3.778,-56.594"
+	VolumColor = "0"
+	VolumeType = "1"
+}
+
+cEnvironmentVolume BBq_Kitchen_Blend1
+{
+	AcousticsName = "Store"
+	Rotation = "0.005,-0.001,1.000,0.001"
+	Scale = "0.801,1.162,1.021"
+	Translation = "-382.570,-4.555,-53.665"
+	VolumColor = "0"
+	VolumeType = "1"
+}
+
+cEnvironmentVolume BBq_Lower_L1
+{
+	AcousticsName = "Store"
+	Rotation = "0.000,-0.384,0.000,0.923"
+	Scale = "5.628,2.436,3.409"
+	Translation = "-375.918,-3.254,-48.680"
+	VolumColor = "0"
+	VolumeType = "1"
+}
+
+cEnvironmentVolume BBq_Lower_C1
+{
+	AcousticsName = "Store"
+	Rotation = "1.000,-0.000,0.000,0.000"
+	Scale = "6.122,2.452,10.392"
+	Translation = "-368.266,-3.264,-52.635"
+	VolumColor = "0"
+	VolumeType = "1"
+}
+
+cEnvironmentVolume BBq_Lower_C2
+{
+	AcousticsName = "Store"
+	Rotation = "0.000,0.707,0.000,0.707"
+	Scale = "6.600,2.441,4.841"
+	Translation = "-377.437,-3.270,-56.796"
+	VolumColor = "0"
+	VolumeType = "1"
+}
+
+cEnvironmentVolume BBq_Lower_Stairs1
+{
+	AcousticsName = "Store"
+	Rotation = "0.987,0.000,0.000,-0.169"
+	Scale = "1.677,2.419,3.240"
+	Translation = "-373.630,-2.503,-65.491"
+	VolumColor = "0"
+	VolumeType = "1"
+}
+
+cEnvironmentVolume BBq_Upper_Stairs1
+{
+	AcousticsName = "Store"
+	Rotation = "0.000,-0.707,0.000,0.707"
+	Scale = "1.266,4.049,8.883"
+	Translation = "-373.390,0.379,-67.459"
+	VolumColor = "0"
+	VolumeType = "1"
+}
+
+cEnvironmentVolume BBq_Upper_L1
+{
+	AcousticsName = "BigOpenSpace"
+	Rotation = "0.000,-0.384,0.000,0.923"
+	Scale = "5.628,4.952,3.413"
+	Translation = "-375.921,4.282,-48.677"
+	VolumColor = "0"
+	VolumeType = "1"
+}
+
+cEnvironmentVolume BBq_Upper_C1
+{
+	AcousticsName = "BigOpenSpace"
+	Rotation = "1.000,0.000,-0.000,0.000"
+	Scale = "6.865,4.991,11.888"
+	Translation = "-367.518,4.295,-54.366"
+	VolumColor = "0"
+	VolumeType = "1"
+}
+
+cEnvironmentVolume BBq_Upper_Stairs_Blend1
+{
+	AcousticsName = "BigOpenSpace"
+	Rotation = "0.000,0.000,0.000,1.000"
+	Scale = "8.905,3.606,1.353"
+	Translation = "-373.365,2.919,-66.390"
+	VolumColor = "0"
+	VolumeType = "1"
+}
+
+cEnvironmentVolume BBq_Lower_Upper_Blend1
+{
+	AcousticsName = "BigOpenSpace"
+	Rotation = "0.000,0.000,0.000,1.000"
+	Scale = "5.167,6.450,5.332"
+	Translation = "-369.060,2.779,-56.138"
+	TransmitRatio = "0.5"
+	VolumColor = "0"
+	VolumeType = "1"
+}
+
+cEnvironmentVolume BBq_Lower_R1
+{
+	AcousticsName = "Store"
+	Rotation = "0.000,0.000,0.000,1.000"
+	Scale = "4.357,2.419,1.629"
+	Translation = "-366.507,-3.249,-63.922"
+	VolumColor = "0"
+	VolumeType = "1"
+}
+
+cEnvironmentVolume SouthStrip_Exit_01
+{
+	AcousticsName = "BigOpenSpace"
+	Rotation = "0.000,0.383,0.000,0.924"
+	Scale = "8.020,5.282,10.534"
+	Translation = "-302.261,-0.399,-7.468"
+	VolumColor = "0"
+	VolumeType = "1"
+}
+
+cEnvironmentVolume ValutRoom_01
+{
+	AcousticsName = "Room"
+	Rotation = "-0.000,0.707,0.000,0.707"
+	Scale = "7.074,2.108,6.218"
+	Translation = "-270.483,-3.588,-34.056"
+	VolumColor = "0"
+	VolumeType = "1"
+}
+
+cEnvironmentVolume VaultRoom_Door2
+{
+	AcousticsName = "Room"
+	Rotation = "0.000,-0.707,0.000,0.707"
+	Scale = "1.877,2.032,1.778"
+	Translation = "-277.035,-3.658,-35.717"
+	VolumColor = "0"
+	VolumeType = "8"
+}
+
+cEnvironmentVolume VaultRoom_02
+{
+	AcousticsName = "Room"
+	Rotation = "-0.000,0.707,0.000,0.707"
+	Scale = "7.245,2.034,9.556"
+	Translation = "-286.660,-3.634,-33.904"
+	VolumColor = "0"
+	VolumeType = "1"
+}
+
+cEnvironmentVolume VaultRoom_Front01
+{
+	AcousticsName = "Room"
+	Rotation = "-0.000,0.261,0.000,0.965"
+	Scale = "0.948,2.089,3.677"
+	Translation = "-298.468,-3.601,-37.447"
+	VolumColor = "0"
+	VolumeType = "1"
+}
+
+cEnvironmentVolume VaultRoom_Front02
+{
+	AcousticsName = "Room"
+	Rotation = "0.000,-0.251,0.000,0.968"
+	Scale = "2.701,2.017,2.117"
+	Translation = "-299.884,-3.659,-36.991"
+	VolumColor = "0"
+	VolumeType = "1"
+}
+
+cEnvironmentVolume VaultRoom_Front03
+{
+	AcousticsName = "Room"
+	Rotation = "0.000,0.778,0.000,0.629"
+	Scale = "2.224,2.018,2.927"
+	Translation = "-299.870,-3.655,-34.707"
+	VolumColor = "0"
+	VolumeType = "1"
+}
+
+cEnvironmentVolume VaultRoom_Front04
+{
+	AcousticsName = "Room"
+	Rotation = "0.000,-0.389,0.000,0.921"
+	Scale = "1.650,2.008,2.338"
+	Translation = "-299.856,-3.652,-32.983"
+	VolumColor = "0"
+	VolumeType = "1"
+}
+
+cEnvironmentVolume VaultRoom_Front05
+{
+	AcousticsName = "Room"
+	Rotation = "0.000,-0.128,0.000,0.992"
+	Scale = "2.283,2.017,2.996"
+	Translation = "-297.590,-3.662,-32.680"
+	VolumColor = "0"
+	VolumeType = "1"
+}
+
+cEnvironmentVolume VaultRoom_Door1
+{
+	AcousticsName = "Room"
+	DeactiveTransmitRatio = "0.2"
+	Rotation = "-0.000,0.261,0.000,0.965"
+	Scale = "0.874,1.252,1.159"
+	Translation = "-300.286,-4.452,-40.558"
+	VolumColor = "0"
+	VolumeType = "8"
+}
+
+cEnvironmentVolume RoyalFlush_Entrance_01
+{
+	AcousticsName = "BigOpenSpace"
+	Rotation = "0.000,-0.706,0.000,0.709"
+	Scale = "6.950,2.139,8.205"
+	Translation = "-294.954,-3.616,-64.932"
+	VolumColor = "0"
+	VolumeType = "1"
+}
+
+cEnvironmentVolume Vault_Perimeter01
+{
+	AcousticsName = "BigOpenSpace"
+	Rotation = "0.000,-0.128,0.000,0.992"
+	Scale = "2.254,5.385,1.355"
+	Translation = "-299.220,-0.375,-28.346"
+	VolumColor = "0"
+	VolumeType = "1"
+}
+
+cEnvironmentVolume Vault_Perimeter02
+{
+	AcousticsName = "BigOpenSpace"
+	Rotation = "0.000,-0.374,0.000,0.927"
+	Scale = "3.112,5.509,3.339"
+	Translation = "-303.749,-0.251,-28.605"
+	VolumColor = "0"
+	VolumeType = "1"
+}
+
+cEnvironmentVolume Vault_Perimeter03
+{
+	AcousticsName = "BigOpenSpace"
+	Rotation = "0.000,-0.626,0.000,0.780"
+	Scale = "3.042,5.469,2.161"
+	Translation = "-305.172,-0.291,-33.441"
+	VolumColor = "0"
+	VolumeType = "1"
+}
+
+cEnvironmentVolume Vault_Perimeter04
+{
+	AcousticsName = "BigOpenSpace"
+	Rotation = "0.000,-0.862,0.000,0.507"
+	Scale = "4.344,5.486,3.080"
+	Translation = "-304.605,-0.274,-40.787"
+	VolumColor = "0"
+	VolumeType = "1"
+}
+
+cEnvironmentVolume Vault_Perimeter05
+{
+	AcousticsName = "BigOpenSpace"
+	Rotation = "-0.000,0.261,0.000,0.965"
+	Scale = "3.057,5.218,1.867"
+	Translation = "-299.428,-0.454,-43.395"
+	VolumColor = "0"
+	VolumeType = "1"
+}
+
+cEnvironmentVolume ACasino_Blend_01
+{
+	AcousticsName = "BigOpenSpace"
+	Rotation = "0.000,0.000,0.000,1.000"
+	Scale = "4.739,5.322,6.533"
+	Translation = "-301.949,-0.407,-20.951"
+	VolumColor = "0"
+	VolumeType = "1"
+}
+
+cEnvironmentVolume ACasino_01
+{
+	AcousticsName = "BigOpenSpace"
+	Rotation = "0.000,0.000,0.000,1.000"
+	Scale = "20.738,6.851,30.370"
+	Translation = "-325.105,0.266,-44.217"
+	VolumColor = "0"
+	VolumeType = "1"
+}
+
+cEnvironmentVolume ACasino_Blend_02
+{
+	AcousticsName = "BigOpenSpace"
+	Rotation = "0.000,0.000,0.000,1.000"
+	Scale = "4.089,6.182,16.177"
+	Translation = "-304.640,0.489,-60.089"
+	VolumColor = "0"
+	VolumeType = "1"
+}
+
+cEnvironmentVolume ACasino_Blend_03
+{
+	AcousticsName = "BigOpenSpace"
+	Rotation = "0.000,-0.701,0.000,0.714"
+	Scale = "10.621,5.386,26.681"
+	Translation = "-336.142,-0.368,-5.393"
+	VolumColor = "0"
+	VolumeType = "1"
+}
+
+cEnvironmentVolume ACasino_Blend_04
+{
+	AcousticsName = "BigOpenSpace"
+	Rotation = "0.000,0.200,0.000,0.980"
+	Scale = "1.978,6.169,3.941"
+	Translation = "-362.958,0.494,-20.460"
+	VolumColor = "0"
+	VolumeType = "1"
+}
+
+cEnvironmentVolume Cashout_01
+{
+	AcousticsName = "Room"
+	Rotation = "-0.000,0.707,0.000,0.707"
+	Scale = "3.054,2.090,3.728"
+	Translation = "-312.637,-3.593,-84.745"
+	VolumColor = "0"
+	VolumeType = "1"
+}
+
+cEnvironmentVolume Cashout_Door_01
+{
+	AcousticsName = "Room"
+	DeactiveTransmitRatio = "0.2"
+	Rotation = "-0.000,0.001,0.000,1.000"
+	Scale = "0.819,1.233,0.852"
+	Translation = "-312.637,-4.461,-81.771"
+	VolumColor = "0"
+	VolumeType = "8"
+}
+
+cEnvironmentVolume Cashout_02
+{
+	AcousticsName = "Room"
+	Rotation = "0.000,0.002,0.000,1.000"
+	Scale = "3.044,2.506,3.432"
+	Translation = "-311.956,-3.161,-78.176"
+	VolumColor = "0"
+	VolumeType = "1"
+}
+
+cEnvironmentVolume Cashout_03
+{
+	AcousticsName = "Room"
+	Rotation = "0.000,-0.251,0.000,0.968"
+	Scale = "1.688,2.629,1.541"
+	Translation = "-317.503,-3.283,-77.455"
+	VolumColor = "0"
+	VolumeType = "1"
+}
+
+cEnvironmentVolume StarSpangled_Window1
+{
+	AcousticsName = "BigOpenSpace"
+	OccluderOnly = "true"
+	Rotation = "0.000,-0.382,0.000,0.924"
+	Scale = "1.392,1.426,1.778"
+	Translation = "-402.090,-3.358,-35.549"
+	VolumColor = "0"
+	VolumeType = "8"
+}
+
+cEnvironmentVolume Cashout_Door_02
+{
+	AcousticsName = "BigOpenSpace"
+	DeactiveTransmitRatio = "0.2"
+	Rotation = "0.000,-0.426,0.000,0.905"
+	Scale = "0.872,1.288,1.139"
+	Translation = "-320.049,-4.461,-77.051"
+	VolumColor = "0"
+	VolumeType = "8"
+}
+
+cEnvironmentVolume ACasino_Blend_05
+{
+	AcousticsName = "BigOpenSpace"
+	Rotation = "0.000,-0.248,0.000,0.969"
+	Scale = "2.892,6.047,2.033"
+	Translation = "-317.882,0.371,-73.459"
+	VolumColor = "0"
+	VolumeType = "1"
+}
+
+cEnvironmentVolume ACasino_Blend_06
+{
+	AcousticsName = "BigOpenSpace"
+	Rotation = "-0.000,0.003,0.000,1.000"
+	Scale = "20.387,6.054,9.820"
+	Translation = "-341.243,0.365,-82.283"
+	VolumColor = "0"
+	VolumeType = "1"
+}
+
+cEnvironmentVolume ACasino_Blend_07
+{
+	AcousticsName = "BigOpenSpace"
+	Rotation = "-0.000,1.000,0.000,0.000"
+	Scale = "10.878,3.123,2.796"
+	Translation = "-314.417,3.295,-75.069"
+	VolumColor = "0"
+	VolumeType = "1"
+}
+
+cEnvironmentVolume StarSpangled_Blend_01
+{
+	AcousticsName = "BigOpenSpace"
+	Rotation = "-0.000,0.383,0.000,0.924"
+	Scale = "3.332,1.620,1.159"
+	Translation = "-398.251,-3.193,-39.791"
+	VolumColor = "0"
+	VolumeType = "1"
+}
+
+cEnvironmentVolume BBq_Rear_Blend_01
+{
+	AcousticsName = "BigOpenSpace"
+	Rotation = "0.000,-0.381,0.000,0.924"
+	Scale = "2.681,1.763,1.892"
+	Translation = "-378.473,-3.907,-46.119"
+	VolumColor = "0"
+	VolumeType = "1"
+}
+
+cEnvironmentVolume Cashout_04
+{
+	AcousticsName = "Room"
+	Rotation = "0.000,-0.707,0.000,0.707"
+	Scale = "1.893,2.545,3.421"
+	Translation = "-317.195,-3.143,-79.658"
+	VolumColor = "0"
+	VolumeType = "1"
+}
+
+cEnvironmentVolume ComboRoom1
+{
+	AcousticsName = "Room"
+	Rotation = "0.000,0.000,0.000,1.000"
+	Scale = "3.016,2.568,4.061"
+	Translation = "-388.255,-2.194,-10.243"
+	VolumColor = "0"
+	VolumeType = "1"
+}
+
+cEnvironmentVolume ComboRoom1_Door
+{
+	AcousticsName = "BigOpenSpace"
+	DeactiveTransmitRatio = "0.2"
+	Rotation = "0.000,-1.000,0.000,0.003"
+	Scale = "1.647,1.164,0.901"
+	Translation = "-388.257,-3.592,-14.461"
+	VolumColor = "0"
+	VolumeType = "8"
+}
+
+cEnvironmentVolume ALevelBoundingBox
+{
+	Rotation = "0.0,0.0,0.0,1.0"
+	Scale = "120.0,50.0,70.0"
+	Translation = "-371.146,0.000,-28.129"
+	VolumColor = "4"
+	VolumeType = "16"
+}
+
+cEnvironmentVolume Cashout_05
+{
+	AcousticsName = "Room"
+	Rotation = "0.000,-0.144,0.000,0.990"
+	Scale = "0.922,2.507,1.833"
+	Translation = "-315.346,-3.161,-76.751"
+	VolumColor = "0"
+	VolumeType = "1"
+}
+
+cEnvironmentVolume ACasino_Blend_05_Plug
+{
+	AcousticsName = "BigOpenSpace"
+	Rotation = "0.000,-0.144,0.000,0.990"
+	Scale = "0.922,3.164,0.472"
+	Translation = "-316.027,-2.504,-74.459"
+	VolumColor = "0"
+	VolumeType = "1"
+}
+
+cEnvironmentVolume Arena_EntrancePlaza_05Plug1
+{
+	AcousticsName = "BigOpenSpace"
+	Rotation = "0.000,0.924,0.000,0.383"
+	Scale = "0.498,5.259,2.463"
+	Translation = "-389.536,0.473,-47.554"
+	VolumColor = "0"
+	VolumeType = "1"
+}
+
+cEnvironmentVolume Arena_EntrancePlaza_05Plug2
+{
+	AcousticsName = "BigOpenSpace"
+	Rotation = "0.000,0.924,0.000,0.383"
+	Scale = "0.498,5.008,4.316"
+	Translation = "-406.735,0.222,-30.372"
+	VolumColor = "0"
+	VolumeType = "1"
+}
+
+cEnvironmentVolume BushVol_01
+{
+	Rotation = "-0.000,0.923,0.000,-0.384"
+	Scale = "0.892,0.264,0.562"
+	Translation = "-426.157,-3.834,7.703"
+	VolumColor = "0"
+	VolumeType = "64"
+}
+
+cEnvironmentVolume BushVol_02
+{
+	Rotation = "-0.000,0.923,0.000,-0.384"
+	Scale = "1.678,0.318,0.384"
+	Translation = "-421.980,-3.780,3.560"
+	VolumColor = "0"
+	VolumeType = "64"
+}
+
+cEnvironmentVolume BushVol_03
+{
+	Rotation = "-0.000,0.923,0.000,-0.384"
+	Scale = "0.977,0.318,0.379"
+	Translation = "-418.128,-3.780,-0.309"
+	VolumColor = "0"
+	VolumeType = "64"
+}
+
+cEnvironmentVolume BushVol_04
+{
+	Rotation = "-0.000,0.923,0.000,-0.384"
+	Scale = "0.943,0.318,0.376"
+	Translation = "-415.268,-3.780,-3.183"
+	VolumColor = "0"
+	VolumeType = "64"
+}
+
+cEnvironmentVolume BushVol_05
+{
+	Rotation = "-0.000,0.923,0.000,-0.384"
+	Scale = "1.641,0.318,0.376"
+	Translation = "-412.285,-3.780,-6.184"
+	VolumColor = "0"
+	VolumeType = "64"
+}
+
+cEnvironmentVolume BushVol_06
+{
+	Rotation = "-0.000,0.923,0.000,-0.384"
+	Scale = "1.284,0.318,0.376"
+	Translation = "-409.427,-3.780,-9.060"
+	VolumColor = "0"
+	VolumeType = "64"
+}
+
+cEnvironmentVolume BushVol_07
+{
+	Rotation = "-0.000,0.923,0.000,-0.384"
+	Scale = "3.578,0.361,0.389"
+	Translation = "-404.782,-3.824,-13.716"
+	VolumColor = "0"
+	VolumeType = "64"
+}
+
+cEnvironmentVolume BushVol_08
+{
+	Rotation = "-0.000,1.000,-0.000,0.000"
+	Scale = "2.245,0.424,0.865"
+	Translation = "-397.420,-3.830,-17.722"
+	VolumColor = "0"
+	VolumeType = "64"
+}
+
+cEnvironmentVolume BushVol_09
+{
+	Rotation = "0.000,0.952,0.000,0.306"
+	Scale = "2.006,0.341,0.960"
+	Translation = "-393.653,-3.757,-16.030"
+	VolumColor = "0"
+	VolumeType = "64"
+}
+
+cEnvironmentVolume BushVol_10
+{
+	Rotation = "-0.000,0.925,0.000,-0.379"
+	Scale = "5.755,0.446,0.697"
+	Translation = "-380.221,-3.792,-18.519"
+	VolumColor = "0"
+	VolumeType = "64"
+}
+
+cEnvironmentVolume BushVol_11
+{
+	Rotation = "0.000,-0.076,0.000,0.997"
+	Scale = "2.886,0.594,0.761"
+	Translation = "-384.857,-3.700,-48.779"
+	VolumColor = "0"
+	VolumeType = "64"
+}
+
+cEnvironmentVolume BushVol_12
+{
+	Rotation = "-0.000,0.383,0.000,0.924"
+	Scale = "2.111,0.402,0.739"
+	Translation = "-389.128,-3.696,-47.383"
+	VolumColor = "0"
+	VolumeType = "64"
+}
+
+cEnvironmentVolume BushVol_13
+{
+	Rotation = "0.000,0.382,0.000,0.924"
+	Scale = "2.619,0.405,0.661"
+	Translation = "-406.127,-3.693,-30.337"
+	VolumColor = "0"
+	VolumeType = "64"
+}
+
+cEnvironmentVolume BushVol_14
+{
+	Rotation = "-0.000,0.699,0.000,0.715"
+	Scale = "1.938,0.423,0.644"
+	Translation = "-407.338,-3.675,-27.563"
+	VolumColor = "0"
+}
+
+

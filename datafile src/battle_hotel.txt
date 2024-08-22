@@ -1,0 +1,71 @@
+cZombieLoadSet battle_hotel
+{
+	cZombieLoadSetEntry e0
+	{
+		end = "0"
+		number = "1"
+		start = "0"
+		type0 = "mercenary_tk"
+	}
+
+}
+
+cBossNode Start1
+{
+	Boss = "boss_thug"
+	Location = "-143.0, -6.41, 44.1"
+	Name = "Start1"
+	Rotation = "0, -0.7305, 0"
+	Type = "9"
+}
+
+cBossNode Start2
+{
+	Boss = "boss_thug"
+	Location = "-143.8, -6.41, 42.0"
+	Name = "Start2"
+	Rotation = "0, -0.9987, 0"
+	Type = "9"
+}
+
+cBossNode Enemy1
+{
+	Boss = "boss_thug"
+	Location = "-169.057,-6.397,43.5"
+	Name = "Enemy1"
+	Rotation = "0.0,0.571,0.0"
+	SubID = "2"
+	Type = "5"
+}
+
+cBossNode Enemy2
+{
+	Boss = "boss_thug"
+	Location = "-178.156,-6.397,33.990"
+	Name = "Enemy2"
+	Rotation = "0.0,0.571,0.0"
+	SubID = "2"
+	Type = "5"
+}
+
+cBossNode Enemy3
+{
+	Boss = "boss_thug"
+	Location = "-173.282,-6.397,31.182"
+	Name = "Enemy3"
+	Rotation = "0.0,0.571,0.0"
+	SubID = "2"
+	Type = "5"
+}
+
+cBossNode Enemy4
+{
+	Boss = "boss_thug"
+	Location = "-168.094,-6.397,32.428"
+	Name = "Enemy4"
+	Rotation = "0.0,5.26,0.0"
+	SubID = "2"
+	Type = "5"
+}
+
+

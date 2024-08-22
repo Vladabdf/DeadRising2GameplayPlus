@@ -1,0 +1,193 @@
+cItemPlacement Whiskey
+{
+	ItemName = "Whiskey"
+	Location = "-61.048,12.591,-72.396"
+	Rotation = "-0.518,0.479,-0.481,-0.520"
+}
+
+cItemPlacement Whiskey1
+{
+	ItemName = "Whiskey"
+	Location = "-61.054,12.629,-72.167"
+	Rotation = "-0.001,0.000,-0.000,1.000"
+}
+
+
+cItemPlacement WrenchLarge
+{
+	ItemName = "WrenchLarge"
+	Location = "-56.135,11.521,-65.103"
+	Rotation = "-0.000,0.003,0.000,1.000"
+}
+
+cItemPlacement CardboardBox
+{
+	ItemName = "CardboardBox"
+	Location = "-55.304,11.770,-65.133"
+	Rotation = "0.688,0.164,-0.164,0.687"
+	SpawnPropFromCategory = "60"
+}
+
+cItemPlacement CardboardBox1
+{
+	ItemName = "CardboardBox"
+	Location = "-49.262,11.705,-68.626"
+	Rotation = "-0.738,0.000,-0.675,0.000"
+	SpawnPropFromCategory = "60"
+}
+
+cItemPlacement CardboardBox2
+{
+	ItemName = "CardboardBox"
+	Location = "-48.428,11.706,-68.031"
+	Rotation = "0.996,0.001,-0.085,0.000"
+	SpawnPropFromCategory = "60"
+}
+
+cItemPlacement BeachBall
+{
+	ItemName = "BeachBall"
+	Location = "-57.499,11.733,-64.692"
+	Rotation = "-0.747,-0.137,-0.433,-0.485"
+}
+
+cItemPlacement CardboardBox3
+{
+	ItemName = "CardboardBox"
+	Location = "-47.611,11.766,-67.577"
+	Rotation = "-0.256,-0.660,-0.656,0.263"
+	SpawnPropFromCategory = "60"
+}
+
+cItemPlacement Pylon1
+{
+	ItemName = "Pylon"
+	Location = "-41.946,11.499,-68.342"
+	Rotation = "0.000,0.000,-0.000,1.000"
+}
+
+cItemPlacement RCHeli1
+{
+	ItemName = "RCHelicopter"
+	Location = "-72.802,11.712,-68.696"
+	Rotation = "-0.314,-0.770,0.130,0.540"
+}
+
+cItemPlacement Brick1
+{
+	ItemName = "Brick"
+	Location = "-56.247,11.532,-85.616"
+	Rotation = "0.216,0.216,0.674,0.672"
+}
+
+cItemPlacement Brick2
+{
+	ItemName = "Brick"
+	Location = "-56.453,11.492,-85.468"
+	Rotation = "0.000,0.916,0.000,-0.401"
+}
+
+cItemPlacement Brick3
+{
+	ItemName = "Brick"
+	Location = "-56.269,11.529,-85.355"
+	Rotation = "-0.020,0.020,-0.706,0.708"
+}
+
+cItemPlacement Brick4
+{
+	ItemName = "Brick"
+	Location = "-56.051,11.596,-85.588"
+	Rotation = "0.708,-0.003,-0.000,0.706"
+}
+
+cItemPlacement Crowbar1
+{
+	FixedOnInitialPlacement = "true"
+	ItemName = "Crowbar"
+	Location = "-72.863,12.668,-72.532"
+	Rotation = "0.286,0.278,0.915,0.035"
+}
+
+
+cPolygonLarge L_RoyalRoof
+{
+	Height = "40"
+	NumVertex = "5"
+	Vertex0 = "-19.533,1.001,-61.802"
+	Vertex1 = "-70.660,1.001,-112.392"
+	Vertex2 = "-105.186,1.001,-77.951"
+	Vertex3 = "-104.300,1.001,-38.310"
+	Vertex4 = "-56.071,1.001,-33.125"
+}
+
+cLightContextVolume LC_RoyalRoof
+{
+	ContextFileName = "/fortune_exterior.csv"
+	QuadName = "L_RoyalRoof"
+}
+
+
+cSpawnPoint RoyalRoof
+{
+	CameraHeading = "-98.778"
+	CameraPitch = "-7.834"
+	Location0 = "-45.763,11.500,-66.026"
+	RegionRadius = "3"
+	Rotation0 = "-1.901"
+}
+
+cSpawnPoint Start
+{
+	CameraHeading = "-65.391"
+	CameraPitch = "-7.629"
+	Location0 = "-43.799,11.500,-70.304"
+	Rotation0 = "-1.164"
+}
+
+
+cZombieWarehouse Exterior_View_Royal
+{
+	cPolygonLarge RooftopRoyal_Zoms_1
+	{
+		Height = "2.0"
+		NumVertex = "17"
+		Vertex0 = "-21.122,0.674,-74.826"
+		Vertex1 = "-33.489,0.674,-63.224"
+		Vertex10 = "-14.065,0.524,-58.496"
+		Vertex11 = "-12.104,0.524,-54.486"
+		Vertex12 = "2.569,0.524,-70.090"
+		Vertex13 = "-1.885,0.674,-95.857"
+		Vertex14 = "-11.520,0.674,-85.804"
+		Vertex15 = "-13.053,0.674,-80.048"
+		Vertex16 = "-18.511,0.674,-77.160"
+		Vertex2 = "-26.767,2.468,-61.314"
+		Vertex3 = "-18.626,0.674,-73.024"
+		Vertex4 = "-6.650,0.674,-84.829"
+		Vertex5 = "-3.298,0.524,-82.184"
+		Vertex6 = "-33.773,0.525,-51.024"
+		Vertex7 = "-19.731,0.524,-53.473"
+		Vertex8 = "-7.370,0.524,-72.282"
+		Vertex9 = "-4.883,0.524,-67.586"
+	}
+
+	cPolygonLarge RooftopRoyal_Zoms_2
+	{
+		Height = "2.0"
+		NumVertex = "11"
+		Vertex0 = "-8.951,0.674,-46.625"
+		Vertex1 = "-15.051,0.675,-43.763"
+		Vertex10 = "23.203,0.674,-78.322"
+		Vertex2 = "-5.721,0.675,-57.034"
+		Vertex3 = "-3.743,0.524,-62.547"
+		Vertex4 = "4.571,0.674,-64.213"
+		Vertex5 = "14.969,0.674,-75.963"
+		Vertex6 = "19.609,0.524,-85.833"
+		Vertex7 = "4.686,0.524,-71.942"
+		Vertex8 = "18.615,0.524,-89.973"
+		Vertex9 = "20.980,0.674,-83.774"
+	}
+
+}
+
+

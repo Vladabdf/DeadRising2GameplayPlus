@@ -1,0 +1,33 @@
+cLightContextVolume LightContextVolume
+{
+	ContextFileName = "arena_stadium.csv"
+	Location = "810.430,186.998,246.310"
+	QuadName = "LightContextQuad"
+}
+
+cQuad LightContextQuad
+{
+	BottomRight = "768.469,-103.413,502.987"
+	Location = "810.430,186.998,246.310"
+	TopLeft = "-595.650,298.746,-617.615"
+}
+
+
+cSpawnPoint Start
+{
+	CameraHeading = "-9.505"
+	CameraPitch = "16.887"
+	Location = "30.0, 00.0, 00.0"
+	Location0 = "0.399,5.056,-52.360"
+	Location1 = "-0.245,5.056,-51.831"
+	Location2 = "-0.790,5.056,-51.684"
+	Location3 = "0.886,5.056,-51.752"
+	RegionRadius = "1"
+	Rotation = "90"
+	Rotation0 = "3.003"
+	Rotation1 = "-3.028"
+	Rotation2 = "2.893"
+	Rotation3 = "-2.936"
+}
+
+

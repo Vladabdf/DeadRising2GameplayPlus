@@ -1,0 +1,61 @@
+cZombieLoadSet battle_traina
+{
+	cZombieLoadSetEntry e0
+	{
+		end = "0"
+		number = "1"
+		start = "0"
+		type0 = "mercenary"
+	}
+
+}
+
+cBossNode Start1
+{
+	Boss = "boss_thug"
+	Location = "249.575,-7.529,-143.667"
+	Name = "Start1"
+	Rotation = "249.575,-7.529,-143.667"
+	Type = "9"
+}
+
+cBossNode Start2
+{
+	Boss = "boss_thug"
+	Location = "248.9, -7.5, -163.4"
+	Name = "Start2"
+	Rotation = "0, 0.0, 0"
+	Type = "9"
+}
+
+cBossNode Enemy1
+{
+	Boss = "boss_thug"
+	Location = "270.028,-7.535,-131.601"
+	Name = "Enemy1"
+	Rotation = "269.997,-7.535,-131.583"
+	SubID = "1"
+	Type = "5"
+}
+
+cBossNode Enemy2
+{
+	Boss = "boss_thug"
+	Location = "272.512,-7.535,-144.534"
+	Name = "Enemy2"
+	Rotation = "272.512,-7.535,-144.534"
+	SubID = "1"
+	Type = "5"
+}
+
+cBossNode Enemy3
+{
+	Boss = "boss_thug"
+	Location = "261.667,-7.531,-147.002"
+	Name = "Enemy3"
+	Rotation = "261.662,-7.531,-147.015"
+	SubID = "1"
+	Type = "5"
+}
+
+

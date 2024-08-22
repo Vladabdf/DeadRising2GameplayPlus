@@ -1,0 +1,55 @@
+cPolygonLarge L_Arena
+{
+	Height = "50"
+	NumVertex = "8"
+	Vertex0 = "-93.630,-2.999,94.444"
+	Vertex1 = "-62.356,-2.999,130.415"
+	Vertex2 = "52.363,-2.999,128.838"
+	Vertex3 = "87.449,-2.999,97.758"
+	Vertex4 = "88.708,-2.999,-103.395"
+	Vertex5 = "56.206,-2.999,-136.869"
+	Vertex6 = "-60.088,-2.999,-138.523"
+	Vertex7 = "-93.866,-2.999,-104.083"
+}
+
+cLightContextVolume LC_Arena
+{
+	ContextFileName = "/arena_stadium.csv"
+	QuadName = "L_Arena"
+}
+
+cPolygonLarge L_BikeShop
+{
+	Height = "7.7"
+	NumVertex = "4"
+	Vertex0 = "19.447,-10.000,-76.256"
+	Vertex1 = "-101.226,-10.000,-80.374"
+	Vertex2 = "-101.465,-10.000,37.302"
+	Vertex3 = "24.804,-10.000,21.811"
+}
+
+cLightContextVolume LC_BikeShop
+{
+	ContextFileName = "/bike_shop.csv"
+	QuadName = "L_BikeShop"
+}
+
+
+cSpawnPoint Start
+{
+	CameraHeading = "-9.505"
+	CameraPitch = "16.887"
+	Location = "30.0, 00.0, 00.0"
+	Location0 = "0.399,5.056,-52.360"
+	Location1 = "-0.245,5.056,-51.831"
+	Location2 = "-0.790,5.056,-51.684"
+	Location3 = "0.886,5.056,-51.752"
+	RegionRadius = "1"
+	Rotation = "90"
+	Rotation0 = "3.003"
+	Rotation1 = "-3.028"
+	Rotation2 = "2.893"
+	Rotation3 = "-2.936"
+}
+
+

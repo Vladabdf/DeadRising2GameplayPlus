@@ -1,0 +1,13 @@
+cSpawnPoint Start
+{
+	Location = "-122.0, 3.5, 161.0"
+	Location0 = "-122.0, 3.5, 161.0"
+	Location1 = "-122.0, 3.5, 161.0"
+	Location2 = "-122.0, 3.5, 161.0"
+	Rotation = "6.24"
+	Rotation0 = "6.24"
+	Rotation1 = "6.24"
+	Rotation2 = "6.24"
+}
+
+

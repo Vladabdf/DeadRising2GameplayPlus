@@ -1,0 +1,138 @@
+bossdef boss_boykin
+{
+	statedef Idle
+	{
+		min_time = 0.5
+		max_time = 99999.0
+		min_dist = 0.0
+		max_dist = 0.0
+		min_hits = 0
+		max_hits = 0
+	}
+	statedef Melee
+	{
+		min_time = -1.0
+		max_time = -1.0
+		min_dist = 0.0
+		max_dist = 1.25
+		min_hits = 0
+		max_hits = 0
+	}
+	statedef Chase
+	{
+		min_time = 3.0
+		max_time = 8.0
+		min_dist = 0.0
+		max_dist = 1.25
+		min_hits = 0
+		max_hits = 0
+	}
+	statedef RunToPoint
+	{
+		min_time = -1.0
+		max_time = -1.0
+		min_dist = 0.0
+		max_dist = 0.5
+		min_hits = 0
+		max_hits = 0
+	}
+	statedef GetBetterPosition
+	{
+		min_time = -1.0
+		max_time = -1.0
+		min_dist = 0.0
+		max_dist = 0.75
+		min_hits = 0
+		max_hits = 0
+	}
+	statedef ThrowProp
+	{
+		min_time = -1.0
+		max_time = 10.0
+		min_dist = 3.0
+		max_dist = 80.0
+		min_hits = 0
+		max_hits = 0
+	}
+	statedef Dodge
+	{
+		min_time = 1.0
+		max_time = 4.0
+		min_dist = 0.0
+		max_dist = 1.25
+		min_hits = 0
+		max_hits = 0
+	}
+	statedef Reload
+	{
+		min_time = 1.0
+		max_time = 4.0
+		min_dist = 0.0
+		max_dist = 1.25
+		min_hits = 0
+		max_hits = 0
+	}
+	statedef Shoot
+	{
+		min_time = -1.0
+		max_time = -1.0
+		min_dist = 0.0
+		max_dist = 0.0
+		min_hits = 0
+		max_hits = 0
+	}
+	statedef ShootMadly
+	{
+		min_time = -1.0
+		max_time = -1.0
+		min_dist = 0.0
+		max_dist = 0.0
+		min_hits = 0
+		max_hits = 0
+	}
+	statedef Taunt
+	{
+		min_time = -1.0
+		max_time = -1.0
+		min_dist = 0.0
+		max_dist = 0.0
+		min_hits = 0
+		max_hits = 0
+	}
+	statedef ReactToHit
+	{
+		min_time = -1.0
+		max_time = -1.0
+		min_dist = 0.0
+		max_dist = 0.0
+		min_hits = 0
+		max_hits = 0
+	}
+	statedef Cover
+	{
+		min_time = 0.0
+		max_time = -1.0
+		min_dist = 0.0
+		max_dist = 0.0
+		min_hits = 0
+		max_hits = 0
+	}
+	statedef Dead
+	{
+		min_time = -1.0
+		max_time = -1.0
+		min_dist = 0.0
+		max_dist = 0.0
+		min_hits = 0
+		max_hits = 0
+	}
+	statedef Scripted
+	{
+		min_time = -1.0
+		max_time = -1.0
+		min_dist = 0.0
+		max_dist = 0.0
+		min_hits = 0
+		max_hits = 0
+	}
+}

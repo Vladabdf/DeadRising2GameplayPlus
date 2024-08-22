@@ -1,0 +1,890 @@
+cItemPlacement Vodka1
+{
+	ItemName = "Vodka"
+	Location = "177.449,29.175,-182.245"
+	Rotation = "0.492,-0.287,0.505,-0.649"
+}
+
+cItemPlacement Wine
+{
+	ItemName = "Wine"
+	Location = "157.439,28.969,-171.644"
+	Rotation = "0.565,0.701,0.428,0.074"
+}
+
+cItemPlacement Wine4
+{
+	ItemName = "Wine"
+	Location = "156.170,28.967,-171.638"
+	Rotation = "-0.678,-0.194,-0.212,0.677"
+}
+
+cItemPlacement OrangeJuice
+{
+	ItemName = "OrangeJuice"
+	Location = "176.181,29.191,-183.253"
+	Rotation = "-0.327,0.436,0.628,0.555"
+}
+
+cItemPlacement Vodka3
+{
+	ItemName = "Vodka"
+	Location = "176.649,29.172,-182.537"
+	Rotation = "-0.699,0.362,-0.101,-0.609"
+}
+
+cItemPlacement Lobster
+{
+	ItemName = "Lobster"
+	Location = "172.573,29.118,-199.766"
+	PropState = "-2"
+	Rotation = "-0.036,-0.111,0.006,-0.993"
+}
+
+cItemPlacement Fish
+{
+	ItemName = "Fish"
+	Location = "165.973,29.090,-201.250"
+	PropState = "-2"
+	Rotation = "0.686,-0.696,-0.173,0.142"
+}
+
+cItemPlacement Beer
+{
+	ItemName = "Beer"
+	Location = "156.102,29.118,-176.865"
+	Rotation = "-0.004,-0.010,-0.002,1.000"
+}
+
+cItemPlacement Beer2
+{
+	ItemName = "Beer"
+	Location = "156.630,29.117,-176.913"
+	Rotation = "0.000,-0.001,-0.004,1.000"
+}
+
+cItemPlacement DrinkCocktail
+{
+	ItemName = "DrinkCocktail"
+	Location = "156.175,29.024,-175.712"
+	Rotation = "0.490,0.436,-0.504,0.562"
+}
+
+cItemPlacement DrinkCocktail2
+{
+	ItemName = "DrinkCocktail"
+	Location = "156.892,29.197,-175.862"
+	Rotation = "0.014,0.002,0.010,1.000"
+}
+
+cItemPlacement Fish2
+{
+	ItemName = "Fish"
+	Location = "157.410,30.667,-181.265"
+	PropState = "-2"
+	Rotation = "0.684,-0.694,-0.173,0.142"
+}
+
+cItemPlacement Lobster2
+{
+	ItemName = "Lobster"
+	Location = "162.660,28.948,-170.794"
+	PropState = "-2"
+	Rotation = "-0.032,0.527,-0.016,-0.849"
+}
+
+
+cItemPlacement PatioTable
+{
+	ItemName = "PatioTable"
+	Location = "143.675,35.536,-193.573"
+	Rotation = "0.025,-0.032,-0.042,0.998"
+}
+
+cItemPlacement PatioTable1
+{
+	ItemName = "PatioTable"
+	Location = "148.177,35.513,-188.367"
+	Rotation = "0.000,0.000,0.001,1.001"
+}
+
+cItemPlacement PatioTable2
+{
+	ItemName = "PatioTable"
+	Location = "154.994,35.513,-182.540"
+	Rotation = "-0.000,-0.000,0.001,1.000"
+}
+
+cItemPlacement PatioTable3
+{
+	ItemName = "PatioTable"
+	Location = "158.982,35.512,-177.621"
+	Rotation = "0.001,0.000,0.001,1.000"
+}
+
+cItemPlacement PatioTable4
+{
+	ItemName = "PatioTable"
+	Location = "167.169,35.475,-173.100"
+	Rotation = "0.562,-0.017,0.031,0.826"
+}
+
+cItemPlacement PatioTable5
+{
+	ItemName = "PatioTable"
+	Location = "170.715,35.514,-178.247"
+	Rotation = "-0.000,0.000,-0.000,1.000"
+}
+
+cItemPlacement PatioTable6
+{
+	ItemName = "PatioTable"
+	Location = "174.955,35.513,-183.664"
+	Rotation = "0.001,0.009,0.001,1.000"
+}
+
+cItemPlacement PatioTable7
+{
+	ItemName = "PatioTable"
+	Location = "169.340,35.485,-185.492"
+	Rotation = "-0.554,0.007,-0.031,0.832"
+}
+
+cItemPlacement PatioTable8
+{
+	ItemName = "PatioTable"
+	Location = "164.156,35.512,-181.541"
+	Rotation = "0.000,-0.038,0.000,0.999"
+}
+
+cItemPlacement PatioTable9
+{
+	ItemName = "PatioTable"
+	Location = "158.778,35.514,-198.857"
+	Rotation = "-0.000,0.000,-0.000,1.000"
+}
+
+cItemPlacement PatioTable10
+{
+	ItemName = "PatioTable"
+	Location = "153.911,35.519,-202.652"
+	Rotation = "0.007,0.005,0.010,1.000"
+}
+
+cItemPlacement PatioTable11
+{
+	ItemName = "PatioTable"
+	Location = "148.883,35.520,-197.765"
+	Rotation = "-0.006,0.013,-0.008,1.000"
+}
+
+cItemPlacement PatioTable12
+{
+	ItemName = "PatioTable"
+	Location = "153.980,35.514,-193.524"
+	Rotation = "-0.001,0.000,0.000,1.000"
+}
+
+
+cItemPlacement Lobster4
+{
+	ItemName = "Lobster"
+	Location = "154.884,36.015,-182.589"
+	PropState = "-1"
+	Rotation = "-0.008,-0.634,0.042,-0.772"
+}
+
+cItemPlacement Beer4
+{
+	ItemName = "Beer"
+	Location = "158.456,35.116,-177.836"
+	Rotation = "-0.014,-0.323,0.710,-0.626"
+}
+
+cItemPlacement Sushi2
+{
+	ItemName = "Sushi"
+	Location = "159.101,35.983,-177.912"
+	Rotation = "-0.111,-0.718,-0.070,0.683"
+}
+
+cItemPlacement Fish4
+{
+	ItemName = "Fish"
+	Location = "164.229,35.946,-181.818"
+	PropState = "-1"
+	Rotation = "0.794,-0.556,-0.185,0.162"
+}
+
+cItemPlacement Wine5
+{
+	ItemName = "Wine"
+	Location = "163.256,35.134,-181.767"
+	Rotation = "-0.039,-0.357,0.702,-0.615"
+}
+
+cItemPlacement OrangeJuice2
+{
+	ItemName = "OrangeJuice"
+	Location = "170.619,35.141,-178.935"
+	Rotation = "-0.274,-0.013,-0.651,-0.708"
+}
+
+cItemPlacement DrinkCocktail3
+{
+	ItemName = "DrinkCocktail"
+	Location = "170.881,35.970,-177.692"
+	Rotation = "0.010,0.755,0.655,0.025"
+}
+
+cItemPlacement Fish5
+{
+	ItemName = "Fish"
+	Location = "148.464,36.014,-197.903"
+	PropState = "-1"
+	Rotation = "0.689,-0.708,-0.126,0.087"
+}
+
+cItemPlacement Sushi3
+{
+	ItemName = "Sushi"
+	Location = "149.032,36.015,-198.031"
+	Rotation = "-0.014,-0.614,-0.011,0.789"
+}
+
+cItemPlacement Wine6
+{
+	ItemName = "Wine"
+	Location = "174.589,35.132,-184.167"
+	Rotation = "-0.687,-0.634,0.356,0.021"
+}
+
+cItemPlacement Wine7
+{
+	ItemName = "Wine"
+	Location = "175.026,35.129,-184.451"
+	Rotation = "-0.567,-0.221,0.445,0.657"
+}
+
+cItemPlacement Fish6
+{
+	ItemName = "Fish"
+	Location = "154.022,35.118,-203.597"
+	PropState = "-1"
+	Rotation = "-0.536,-0.471,0.500,0.491"
+}
+
+cItemPlacement Lobster5
+{
+	ItemName = "Lobster"
+	Location = "153.843,35.834,-202.806"
+	PropState = "-1"
+	Rotation = "0.041,-0.649,0.104,-0.752"
+}
+
+cItemPlacement DrinkCocktail4
+{
+	ItemName = "DrinkCocktail"
+	Location = "154.196,36.046,-193.380"
+	Rotation = "-0.728,-0.584,0.023,0.358"
+}
+
+cItemPlacement Vodka5
+{
+	ItemName = "Vodka"
+	Location = "152.835,35.121,-193.250"
+	Rotation = "-0.703,-0.364,0.078,-0.606"
+}
+
+cItemPlacement Wine8
+{
+	ItemName = "Wine"
+	Location = "158.141,35.130,-198.549"
+	Rotation = "-0.706,0.567,-0.062,0.419"
+}
+
+cItemPlacement Fish7
+{
+	ItemName = "Fish"
+	Location = "158.892,35.112,-198.954"
+	PropState = "-1"
+	Rotation = "0.622,-0.667,-0.266,0.313"
+}
+
+cItemPlacement Lobster6
+{
+	ItemName = "Lobster"
+	Location = "169.271,35.167,-186.764"
+	PropState = "-1"
+	Rotation = "-0.010,-0.959,0.054,-0.279"
+}
+
+cItemPlacement OrangeJuice3
+{
+	ItemName = "OrangeJuice"
+	Location = "143.347,35.171,-194.148"
+	Rotation = "0.519,0.248,-0.392,0.718"
+}
+
+cItemPlacement OrangeJuice4
+{
+	ItemName = "OrangeJuice"
+	Location = "144.473,35.139,-193.544"
+	Rotation = "-0.648,-0.012,0.289,-0.705"
+}
+
+cItemPlacement Beer5
+{
+	ItemName = "Beer"
+	Location = "148.161,35.987,-188.202"
+	Rotation = "0.670,0.231,-0.261,0.655"
+}
+
+cItemPlacement Sushi4
+{
+	ItemName = "Sushi"
+	Location = "148.374,36.005,-188.075"
+	Rotation = "0.013,-0.681,0.012,0.732"
+}
+
+
+cDoorPlacement YucElevatorL
+{
+	AudioEnvVolume = "Elevator1_Door1"
+	CustomInteractionText = "50455"
+	InteractionIconLocation = "185.507,29.693,-178.731"
+	IsStatic = ""
+	ItemName = "door_elevator"
+	Location = "178.6613,28.831,-171.4644"
+	MovementStyle = "1"
+	Rotation = "0,0.9239,0,-0.3827"
+	SiblingDoorName = "YucElevatorR"
+	TextureSubType = "2"
+}
+
+cDoorPlacement YucElevatorR
+{
+	AudioEnvVolume = "Elevator1_Door1"
+	CustomInteractionText = "50455"
+	InteractionIconLocation = "185.507,30.203,-178.731"
+	IsStatic = ""
+	ItemName = "door_elevator"
+	Location = "176.6819,28.831,-169.4849"
+	MovementStyle = "1"
+	NonInteractableProp = "true"
+	Rotation = "0,0.3827,0,0.9239"
+	SiblingDoorName = "YucElevatorL"
+	TextureSubType = "2"
+}
+
+cItemPlacement ElevatorPanel
+{
+	ItemName = "ElevatorPanel"
+	Location = "176.342,29.411,-169.654"
+	Rotation = "0.000,0.377,0.000,0.929"
+}
+
+cDoorPlacement RoofDoor1
+{
+	AudioEnvVolume = "Hallway_Exterior_Blend"
+	ItemName = "door_standardknob"
+	Location = "143.1408,35.0702,-207.0505"
+	Rotation = "0,0.924,0,-0.3823"
+	SiblingDoorName = "RoofDoor2"
+}
+
+cDoorPlacement RoofDoor2
+{
+	AudioEnvVolume = "Hallway_Exterior_Blend"
+	ItemName = "door_standardknob"
+	Location = "141.1587,35.0702,-205.0727"
+	Rotation = "0,0.3824,0,0.924"
+	SiblingDoorName = "RoofDoor1"
+}
+
+
+cItemPlacement MeatCleaver
+{
+	ItemName = "MeatCleaver"
+	Location = "171.456,29.077,-200.776"
+	PropState = "-2"
+	Rotation = "0.276,0.326,-0.579,-0.694"
+}
+
+cItemPlacement HandBag
+{
+	ItemName = "HandBag"
+	Location = "141.112,28.242,-184.493"
+	Rotation = "0.348,-0.645,0.448,0.513"
+	SpawnPropFromCategory = "69"
+}
+
+cItemPlacement BeachBall
+{
+	ItemName = "BeachBall"
+	Location = "143.749,28.451,-182.768"
+	Rotation = "0.619,-0.121,0.351,0.692"
+}
+
+cItemPlacement Plates
+{
+	ItemName = "Plates"
+	Location = "162.567,28.890,-171.961"
+	Rotation = "0.000,-0.044,0.001,0.999"
+}
+
+cItemPlacement Keg
+{
+	ItemName = "Keg"
+	Location = "173.823,28.346,-199.056"
+	Rotation = "0.000,-0.182,-0.001,0.983"
+}
+
+cItemPlacement HandBag1
+{
+	ItemName = "HandBag"
+	Location = "174.833,29.498,-168.992"
+	Rotation = "0.439,-0.532,0.622,0.372"
+	SpawnPropFromCategory = "69"
+}
+
+cItemPlacement CookingPot
+{
+	ItemName = "CookingPot"
+	Location = "168.906,29.297,-198.254"
+	PropState = "-2"
+	Rotation = "0,0,0,1"
+}
+
+cItemPlacement Pan
+{
+	ItemName = "Pan"
+	Location = "170.010,29.087,-197.198"
+	PropState = "-2"
+	Rotation = "0,0,0,1"
+}
+
+cItemPlacement ChefKnife
+{
+	ItemName = "ChefKnife"
+	Location = "166.027,29.157,-201.231"
+	PropState = "-2"
+	Rotation = "0.343,-0.597,0.370,0.629"
+}
+
+cItemPlacement CookingOil
+{
+	ItemName = "CookingOil"
+	Location = "167.330,29.064,-199.883"
+	PropState = "-2"
+	Rotation = "0,0,0,1"
+}
+
+cItemPlacement ConstructionHat
+{
+	ItemName = "ConstructionHat"
+	Location = "157.420,30.689,-180.726"
+	Rotation = "0.160,-0.028,0.010,0.987"
+}
+
+cItemPlacement CashRegister
+{
+	ItemName = "CashRegister"
+	Location = "178.542,29.338,-182.059"
+	Rotation = "0.000,-0.059,0.000,0.998"
+}
+
+cItemPlacement Chair_10
+{
+	ItemName = "Chair_10"
+	Location = "177.842,28.448,-183.238"
+	Rotation = "0.001,-0.005,0.000,1.000"
+}
+
+cItemPlacement Plates1
+{
+	ItemName = "Plates"
+	Location = "167.381,29.082,-205.098"
+	PropState = "-2"
+	Rotation = "0.000,-0.052,-0.001,0.999"
+}
+
+cItemPlacement Plates2
+{
+	ItemName = "Plates"
+	Location = "169.097,28.902,-203.282"
+	PropState = "-2"
+	Rotation = "0.000,-0.052,-0.001,0.999"
+}
+
+cItemPlacement Plates3
+{
+	ItemName = "Plates"
+	Location = "169.008,28.862,-203.499"
+	NonInteractableProp = "true"
+	PropState = "-2"
+	Rotation = "0.000,-0.052,-0.001,0.999"
+}
+
+cItemPlacement Plates4
+{
+	ItemName = "Plates"
+	Location = "169.269,28.812,-203.554"
+	NonInteractableProp = "true"
+	PropState = "-2"
+	Rotation = "0.000,-0.052,-0.001,0.999"
+}
+
+cItemPlacement Plates5
+{
+	ItemName = "Plates"
+	Location = "169.294,28.832,-203.280"
+	NonInteractableProp = "true"
+	PropState = "-2"
+	Rotation = "0.000,-0.052,-0.001,0.999"
+}
+
+cItemPlacement FireExtinguisher1
+{
+	ItemName = "FireExtinguisher"
+	Location = "175.734,28.361,-195.624"
+	Rotation = "-0.001,0.636,0.003,0.771"
+}
+
+cItemPlacement Plates6
+{
+	ItemName = "Plates"
+	Location = "168.563,28.902,-203.922"
+	PropState = "-2"
+	Rotation = "0.000,0.152,-0.001,-0.988"
+}
+
+cItemPlacement Plates7
+{
+	ItemName = "Plates"
+	Location = "168.426,28.862,-204.148"
+	NonInteractableProp = "true"
+	PropState = "-2"
+	Rotation = "0.000,0.152,-0.001,-0.988"
+}
+
+cItemPlacement Plates8
+{
+	ItemName = "Plates"
+	Location = "168.342,28.792,-204.094"
+	NonInteractableProp = "true"
+	PropState = "-2"
+	Rotation = "0.000,0.152,-0.001,-0.988"
+}
+
+cItemPlacement Plates9
+{
+	ItemName = "Plates"
+	Location = "168.450,28.842,-203.838"
+	NonInteractableProp = "true"
+	PropState = "-2"
+	Rotation = "0.000,0.152,-0.001,-0.988"
+}
+
+
+cLightContextVolume LC_YucatanRoof
+{
+	ContextFileName = "/yucatan_roof_exterior.csv"
+	QuadName = "L_YucatanRoof"
+}
+
+cPolygonLarge L_YucatanRoof
+{
+	Height = "75"
+	NumVertex = "7"
+	Vertex0 = "223.146,35.001,-162.350"
+	Vertex1 = "189.130,35.001,-125.728"
+	Vertex2 = "147.672,35.001,-120.993"
+	Vertex3 = "56.315,35.001,-196.741"
+	Vertex4 = "53.743,35.001,-239.367"
+	Vertex5 = "96.115,35.001,-287.367"
+	Vertex6 = "142.963,35.001,-288.741"
+}
+
+cPolygonLarge L_YucatanRoof1
+{
+	Height = "25"
+	NumVertex = "7"
+	Vertex0 = "223.146,12.001,-162.350"
+	Vertex1 = "189.130,12.001,-125.728"
+	Vertex2 = "147.672,12.001,-120.993"
+	Vertex3 = "56.315,12.001,-196.741"
+	Vertex4 = "53.743,12.001,-239.367"
+	Vertex5 = "96.115,12.001,-287.367"
+	Vertex6 = "142.963,12.001,-288.741"
+}
+
+cLightContextVolume LC_YucatanRoof1
+{
+	ContextFileName = "/yucatan_roof_interior.csv"
+	QuadName = "L_YucatanRoof1"
+}
+
+
+cSpawnPoint Start
+{
+	CameraHeading = "-134.421"
+	CameraPitch = "-8.442"
+	Location0 = "176.813,28.851,-171.544"
+	RegionRadius = "3"
+	Rotation0 = "-2.422"
+}
+
+cSpawnPoint StartSulliFight
+{
+	CameraHeading = "44.986"
+	CameraHeading1 = "41.798"
+	CameraPitch = "-4.594"
+	CameraPitch1 = "-3.844"
+	Location0 = "147.456,35.090,-200.300"
+	Location1 = "140.558,35.096,-207.841"
+	Rotation0 = "0.744"
+	Rotation1 = "0.762"
+}
+
+
+cItemPlacement PottedPlant_6
+{
+	ItemName = "PottedPlant_6"
+	Location = "163.931,35.728,-175.827"
+	Rotation = "-0.003,0.000,0.001,1.000"
+}
+
+cItemPlacement PottedPlant_7
+{
+	ItemName = "PottedPlant_6"
+	Location = "171.641,35.390,-185.317"
+	Rotation = "-0.687,-0.053,-0.051,0.723"
+}
+
+cItemPlacement PottedPlant_8
+{
+	ItemName = "PottedPlant_6"
+	Location = "169.961,35.724,-182.245"
+	Rotation = "0.000,-0.000,0.000,1.000"
+}
+
+cItemPlacement PottedPlant_9
+{
+	ItemName = "PottedPlant_6"
+	Location = "166.030,35.725,-178.170"
+	Rotation = "-0.001,0.001,0.000,1.000"
+}
+
+cItemPlacement PottedPlant_10
+{
+	ItemName = "PottedPlant_6"
+	Location = "148.106,35.722,-191.684"
+	Rotation = "0.000,0.006,0.000,1.000"
+}
+
+cItemPlacement PottedPlant_11
+{
+	ItemName = "PottedPlant_6"
+	Location = "156.508,35.724,-200.051"
+	Rotation = "0.000,0.008,-0.002,1.000"
+}
+
+cItemPlacement PottedPlant_12
+{
+	ItemName = "PottedPlant_6"
+	Location = "154.291,35.724,-197.907"
+	Rotation = "0.000,0.000,0.000,1.000"
+}
+
+cItemPlacement PottedPlant_13
+{
+	ItemName = "PottedPlant_6"
+	Location = "150.359,35.724,-193.772"
+	Rotation = "-0.001,0.019,-0.001,1.000"
+}
+
+
+cZombieWarehouse TopFloor_Facts
+{
+	cPolygonLarge ZombiePoly2
+	{
+		Height = "2.0"
+		NumVertex = "21"
+		Vertex0 = "163.179,28.140,-175.248"
+		Vertex1 = "166.590,28.140,-178.692"
+		Vertex10 = "153.800,28.141,-190.349"
+		Vertex11 = "162.749,28.141,-189.852"
+		Vertex12 = "165.548,28.141,-188.505"
+		Vertex13 = "170.050,28.141,-184.066"
+		Vertex14 = "167.997,28.141,-181.782"
+		Vertex15 = "169.623,28.141,-180.002"
+		Vertex16 = "173.535,28.141,-176.099"
+		Vertex17 = "170.389,28.141,-173.024"
+		Vertex18 = "170.166,28.141,-168.686"
+		Vertex19 = "164.008,28.141,-168.840"
+		Vertex2 = "161.513,28.140,-183.635"
+		Vertex20 = "164.018,28.141,-172.736"
+		Vertex3 = "152.660,28.141,-183.668"
+		Vertex4 = "148.190,28.141,-178.894"
+		Vertex5 = "137.979,28.141,-191.442"
+		Vertex6 = "146.749,28.141,-201.244"
+		Vertex7 = "149.583,28.141,-198.270"
+		Vertex8 = "143.836,28.141,-192.777"
+		Vertex9 = "149.312,28.141,-187.056"
+	}
+
+	cPolygonLarge ZombiePoly3
+	{
+		Height = "2.0"
+		NumVertex = "25"
+		Vertex0 = "179.290,28.140,-177.824"
+		Vertex1 = "179.390,28.160,-181.239"
+		Vertex10 = "167.284,28.161,-195.440"
+		Vertex11 = "163.575,28.161,-199.147"
+		Vertex12 = "164.517,28.161,-200.035"
+		Vertex13 = "158.355,28.161,-206.218"
+		Vertex14 = "160.662,28.161,-208.575"
+		Vertex15 = "158.153,28.161,-211.530"
+		Vertex16 = "153.846,28.161,-207.493"
+		Vertex17 = "160.248,28.161,-201.122"
+		Vertex18 = "159.768,28.161,-193.882"
+		Vertex19 = "163.984,28.161,-193.863"
+		Vertex2 = "175.782,28.161,-181.947"
+		Vertex20 = "173.069,28.161,-183.968"
+		Vertex21 = "170.526,28.161,-180.267"
+		Vertex22 = "173.205,28.161,-177.534"
+		Vertex23 = "174.654,28.161,-179.102"
+		Vertex24 = "175.882,28.161,-177.793"
+		Vertex3 = "174.313,28.161,-186.353"
+		Vertex4 = "178.892,28.161,-184.868"
+		Vertex5 = "179.106,28.161,-187.932"
+		Vertex6 = "177.308,28.161,-188.017"
+		Vertex7 = "177.710,28.161,-193.312"
+		Vertex8 = "175.774,28.161,-195.433"
+		Vertex9 = "172.127,28.161,-191.925"
+	}
+
+	cPolygonLarge ZombiePoly4
+	{
+		Height = "2.0"
+		NumVertex = "14"
+		Vertex0 = "136.373,28.140,-193.584"
+		Vertex1 = "129.104,28.830,-200.786"
+		Vertex10 = "134.402,30.671,-211.947"
+		Vertex11 = "128.304,30.923,-205.905"
+		Vertex12 = "131.033,28.898,-202.871"
+		Vertex13 = "138.647,28.198,-194.730"
+		Vertex2 = "126.208,30.823,-203.831"
+		Vertex3 = "124.491,30.623,-205.374"
+		Vertex4 = "134.453,30.623,-215.461"
+		Vertex5 = "136.243,30.738,-213.638"
+		Vertex6 = "141.306,35.214,-208.719"
+		Vertex7 = "142.873,35.114,-207.246"
+		Vertex8 = "140.805,35.114,-205.284"
+		Vertex9 = "139.358,35.414,-206.795"
+	}
+
+	cPolygonSmall ZombiePoly1
+	{
+		Height = "2.0"
+		NumVertex = "11"
+		Vertex0 = "159.912,28.140,-178.612"
+		Vertex1 = "162.110,28.141,-173.738"
+		Vertex10 = "154.194,28.141,-181.483"
+		Vertex2 = "159.199,28.141,-170.838"
+		Vertex3 = "157.246,28.141,-172.053"
+		Vertex4 = "153.280,28.141,-172.403"
+		Vertex5 = "148.084,28.141,-178.714"
+		Vertex6 = "150.644,28.141,-181.443"
+		Vertex7 = "155.506,28.141,-175.081"
+		Vertex8 = "158.678,28.141,-175.687"
+		Vertex9 = "157.728,28.141,-178.195"
+	}
+
+}
+
+cZombieWarehouse RooftopScatter
+{
+	cPolygonSmall cluster
+	{
+		Height = "2.0"
+		NumVertex = "6"
+		Vertex0 = "147.627,35.067,-191.591"
+		Vertex1 = "146.664,35.067,-193.969"
+		Vertex2 = "145.410,35.067,-196.953"
+		Vertex3 = "142.329,35.067,-196.118"
+		Vertex4 = "139.893,35.067,-192.569"
+		Vertex5 = "145.158,35.067,-187.032"
+	}
+
+	cPolygonSmall cluster1
+	{
+		Height = "2.0"
+		NumVertex = "8"
+		Vertex0 = "158.893,35.067,-172.852"
+		Vertex1 = "163.439,35.067,-176.453"
+		Vertex2 = "166.209,35.070,-179.826"
+		Vertex3 = "158.741,35.067,-181.822"
+		Vertex4 = "153.462,35.067,-189.092"
+		Vertex5 = "150.332,35.067,-192.581"
+		Vertex6 = "148.112,35.067,-189.935"
+		Vertex7 = "147.275,35.067,-185.888"
+	}
+
+	cPolygonSmall cluster2
+	{
+		Height = "2.0"
+		NumVertex = "8"
+		Vertex0 = "163.887,35.067,-175.313"
+		Vertex1 = "158.943,35.067,-172.177"
+		Vertex2 = "162.355,35.067,-169.429"
+		Vertex3 = "169.490,35.067,-170.760"
+		Vertex4 = "176.751,35.067,-178.204"
+		Vertex5 = "177.627,35.067,-185.170"
+		Vertex6 = "172.860,35.070,-183.190"
+		Vertex7 = "165.607,35.079,-175.775"
+	}
+
+	cPolygonSmall cluster3
+	{
+		Height = "2.0"
+		NumVertex = "8"
+		Vertex0 = "167.782,35.070,-181.536"
+		Vertex1 = "162.975,35.067,-183.728"
+		Vertex2 = "169.391,35.067,-190.327"
+		Vertex3 = "171.837,35.067,-193.921"
+		Vertex4 = "172.545,35.067,-189.693"
+		Vertex5 = "175.510,35.067,-186.808"
+		Vertex6 = "172.900,35.067,-184.360"
+		Vertex7 = "170.795,35.067,-184.581"
+	}
+
+	cPolygonSmall cluster4
+	{
+		Height = "2.0"
+		NumVertex = "8"
+		Vertex0 = "151.981,35.068,-203.517"
+		Vertex1 = "156.707,35.067,-200.734"
+		Vertex2 = "159.739,35.067,-197.482"
+		Vertex3 = "160.328,35.067,-192.120"
+		Vertex4 = "162.243,35.067,-190.834"
+		Vertex5 = "169.429,35.067,-194.233"
+		Vertex6 = "163.646,35.067,-200.831"
+		Vertex7 = "156.134,35.067,-206.938"
+	}
+
+	cPolygonSmall cluster5
+	{
+		Height = "2.0"
+		NumVertex = "5"
+		Vertex0 = "153.977,35.067,-189.475"
+		Vertex1 = "145.937,35.067,-198.209"
+		Vertex2 = "150.670,35.067,-202.280"
+		Vertex3 = "153.967,35.067,-196.720"
+		Vertex4 = "158.325,35.067,-193.268"
+	}
+
+}
+
+

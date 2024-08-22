@@ -1,0 +1,22 @@
+cQuad LightContextQuad_z
+{
+	BottomRight = "4.838,-3.579,-19.699"
+	Location = "1.420,1.442,0.291"
+	TopLeft = "-12.119,8.719,17.132"
+}
+
+cLightContextVolume z
+{
+	ContextFileName = "/z_msheppard_01.csv"
+	Location = "1.962,1.370,-1.373"
+	QuadName = "LightContextQuad_z"
+}
+
+
+cSpawnPoint Start
+{
+	Location = "46.0, 20.0, -131.0"
+	Rotation = "6.24"
+}
+
+

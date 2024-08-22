@@ -1,0 +1,23 @@
+cSpawnPoint Start
+{
+	CameraHeading = "3.834"
+	CameraPitch = "-12.217"
+	Location = "46.0, 20.0, -131.0"
+	Location0 = "-0.3, 0.0, 4.4"
+	Rotation = "6.24"
+}
+
+cZombieWarehouse Level_General
+{
+	cPolygonSmall main_walkways_01
+	{
+		Height = "2.0"
+		NumVertex = "3"
+		Vertex0 = "10,0,10"
+		Vertex1 = "20,0,10"
+		Vertex2 = "10,0,20"
+	}
+
+}
+
+

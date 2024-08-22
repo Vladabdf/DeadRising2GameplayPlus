@@ -1,0 +1,485 @@
+cZombieLoadSet battle_trainc
+{
+	cZombieLoadSetEntry e0
+	{
+		end = "0"
+		number = "1"
+		start = "0"
+		type0 = "mercenary"
+	}
+
+}
+
+cBossNode TrainBBattleSpace
+{
+	Boss = "boss_train"
+	Location = "0.0, -8.5, 0.0"
+	Name = "TrainBBattleSpace"
+	Rotation = "0, 0, 0"
+	Type = "8"
+}
+
+cBossNode TrainBPlayerStart1
+{
+	Boss = "boss_train"
+	Location = "284.3, -7.5, -143.4"
+	Name = "TrainBPlayerStart1"
+	Rotation = "0, 0, 0"
+	Type = "9"
+}
+
+cBossNode TrainBPlayerStart2
+{
+	Boss = "boss_train"
+	Location = "281.3, -7.5, -143.4"
+	Name = "TrainBPlayerStart2"
+	Rotation = "0, 0, 0"
+	Type = "9"
+}
+
+cItemPlacement TrainShooter
+{
+	ItemName = "Train1"
+	Location = "300.0, -11.1, -130.0"
+}
+
+cItemPlacement PreloadTrainThrowTank
+{
+	ItemName = "TrainThrowTank"
+	Location = "300.0, -99.1, -130.0"
+}
+
+cItemPlacement PreloadTrainThrowGarbageBag
+{
+	ItemName = "TrainThrowGarbageBag"
+	Location = "300.0, -99.1, -130.0"
+}
+
+cItemPlacement PreloadTrainThrowPalette
+{
+	ItemName = "TrainThrowPalette"
+	Location = "300.0, -99.1, -130.0"
+}
+
+
+cBossNode Enemy1
+{
+	Boss = "boss_thug"
+	Location = "300.0, -11.1, -130.0"
+	Name = "Enemy1"
+	SubID = "1"
+	Type = "5"
+}
+
+cBossNode Enemy2
+{
+	Boss = "boss_thug"
+	Location = "300.0, -11.1, -130.0"
+	Name = "Enemy2"
+	SubID = "1"
+	Type = "5"
+}
+
+cBossNode Enemy3
+{
+	Boss = "boss_thug"
+	Location = "300.0, -11.1, -130.0"
+	Name = "Enemy3"
+	SubID = "1"
+	Type = "5"
+}
+
+cBossNode Enemy4
+{
+	Boss = "boss_thug"
+	Location = "300.0, -11.1, -130.0"
+	Name = "Enemy4"
+	SubID = "1"
+	Type = "5"
+}
+
+cItemPlacement ThugGun
+{
+	DisablePhysicsOnInitialPlacement = "true"
+	ItemName = "TrainThugMachinegun"
+	Location = "300.0, -12.1, -130.0"
+	Rotation = "0,0,0,1"
+}
+
+cItemPlacement KCTrain01
+{
+	ItemName = "KCTrain01"
+	Location = "304.6,-7.5, -51.0"
+	Rotation = "0,0,0,1"
+}
+
+cItemPlacement KCTrain02
+{
+	ItemName = "KCTrain02"
+	Location = "304.6,-7.5,-79.0"
+	Rotation = "0.000,-0.000,-0.000,1.000"
+}
+
+cItemPlacement KCTrain03
+{
+	ItemName = "KCTrain03"
+	Location = "304.6,-8.5,-107.0"
+	Rotation = "0.000,0.000,0.000,1.000"
+}
+
+cItemPlacement KCTrain04
+{
+	ItemName = "KCTrain04"
+	Location = "304.6,-8.5,-135.0"
+	Rotation = "0.000,0.000,0.000,1.000"
+}
+
+cItemPlacement KCTrain05
+{
+	ItemName = "KCTrain05"
+	Location = "304.6,-8.5,-163.0"
+	Rotation = "0.000,0.000,0.000,1.000"
+}
+
+cBossNode BossNode000
+{
+	Boss = "boss_train"
+	Location = "300.65,-0.03,-125.94"
+	Name = "BossNode000"
+	Type = "4"
+}
+
+cBossNode BossNode001
+{
+	Boss = "boss_train"
+	Location = "288.96,-0.00,-59.64"
+	Name = "BossNode001"
+	Type = "4"
+}
+
+cBossNode BossNode002
+{
+	Boss = "boss_train"
+	Location = "260.67,-0.00,-20.78"
+	Name = "BossNode002"
+	Type = "4"
+}
+
+cBossNode BossNode003
+{
+	Boss = "boss_train"
+	Location = "223.14,-0.00,1.65"
+	Name = "BossNode003"
+	Type = "4"
+}
+
+cBossNode BossNode004
+{
+	Boss = "boss_train"
+	Location = "181.66,-0.00,9.07"
+	Name = "BossNode004"
+	Type = "4"
+}
+
+cBossNode BossNode005
+{
+	Boss = "boss_train"
+	Location = "139.28,-0.03,9.24"
+	Name = "BossNode005"
+	Type = "4"
+	SubID = "1"
+}
+
+cBossNode BossNode006
+{
+	Boss = "boss_train"
+	Location = "90.77,-0.03,10.03"
+	Name = "BossNode006"
+	Type = "4"
+	SubID = "1"
+}
+
+cBossNode BossNode007
+{
+	Boss = "boss_train"
+	Location = "42.20,-0.00,20.02"
+	Name = "BossNode007"
+	Type = "4"
+}
+
+cBossNode BossNode008
+{
+	Boss = "boss_train"
+	Location = "4.77,-0.00,45.72"
+	Name = "BossNode008"
+	Type = "4"
+}
+
+cBossNode BossNode009
+{
+	Boss = "boss_train"
+	Location = "-30.58,-0.00,80.73"
+	Name = "BossNode009"
+	Type = "4"
+	SubID = "1"
+}
+
+cBossNode BossNode010
+{
+	Boss = "boss_train"
+	Location = "-65.70,-0.00,115.92"
+	Name = "BossNode010"
+	Type = "4"
+	SubID = "1"
+}
+
+cBossNode BossNode011
+{
+	Boss = "boss_train"
+	Location = "-101.02,-0.00,150.93"
+	Name = "BossNode011"
+	Type = "4"
+}
+
+cBossNode BossNode012
+{
+	Boss = "boss_train"
+	Location = "-137.03,-0.00,186.34"
+	Name = "BossNode012"
+	Type = "4"
+}
+
+cBossNode BossNode013
+{
+	Boss = "boss_train"
+	Location = "-184.27,-0.00,210.30"
+	Name = "BossNode013"
+	Type = "4"
+}
+
+cBossNode BossNode014
+{
+	Boss = "boss_train"
+	Location = "-230.32,-0.00,213.08"
+	Name = "BossNode014"
+	Type = "4"
+}
+
+cBossNode BossNode015
+{
+	Boss = "boss_train"
+	Location = "-278.75,-0.00,194.96"
+	Name = "BossNode015"
+	Type = "4"
+}
+
+cBossNode BossNode016
+{
+	Boss = "boss_train"
+	Location = "-318.93,-0.00,158.69"
+	Name = "BossNode016"
+	Type = "4"
+}
+
+cBossNode BossNode017
+{
+	Boss = "boss_train"
+	Location = "-358.92,-0.00,119.14"
+	Name = "BossNode017"
+	Type = "4"
+	SubID = "1"
+}
+
+cBossNode BossNode018
+{
+	Boss = "boss_train"
+	Location = "-393.32,-0.00,83.23"
+	Name = "BossNode018"
+	Type = "4"
+}
+
+cBossNode BossNode019
+{
+	Boss = "boss_train"
+	Location = "-415.72,-0.00,35.69"
+	Name = "BossNode019"
+	Type = "4"
+}
+
+cBossNode BossNode020
+{
+	Boss = "boss_train"
+	Location = "-418.45,-0.00,-15.84"
+	Name = "BossNode020"
+	Type = "4"
+	SubID = "1"
+}
+
+cBossNode BossNode021
+{
+	Boss = "boss_train"
+	Location = "-418.25,-0.00,-66.82"
+	Name = "BossNode021"
+	Type = "4"
+	SubID = "1"
+}
+
+cBossNode BossNode022
+{
+	Boss = "boss_train"
+	Location = "-417.82,-0.00,-120.14"
+	Name = "BossNode022"
+	Type = "4"
+}
+
+cBossNode BossNode023
+{
+	Boss = "boss_train"
+	Location = "-404.80,-0.00,-166.08"
+	Name = "BossNode023"
+	Type = "4"
+	SubID = "1"
+}
+
+cBossNode BossNode024
+{
+	Boss = "boss_train"
+	Location = "-370.86,-0.00,-205.55"
+	Name = "BossNode024"
+	Type = "4"
+}
+
+cBossNode BossNode025
+{
+	Boss = "boss_train"
+	Location = "-325.62,-0.00,-226.71"
+	Name = "BossNode025"
+	Type = "4"
+}
+
+cBossNode BossNode026
+{
+	Boss = "boss_train"
+	Location = "-275.92,-0.00,-227.74"
+	Name = "BossNode026"
+	Type = "4"
+}
+
+cBossNode BossNode027
+{
+	Boss = "boss_train"
+	Location = "-231.72,-0.00,-209.55"
+	Name = "BossNode027"
+	Type = "4"
+}
+
+cBossNode BossNode028
+{
+	Boss = "boss_train"
+	Location = "-194.66,-0.03,-172.07"
+	Name = "BossNode028"
+	Type = "4"
+}
+
+cBossNode BossNode029
+{
+	Boss = "boss_train"
+	Location = "-155.69,-0.03,-140.15"
+	Name = "BossNode029"
+	Type = "4"
+}
+
+cBossNode BossNode030
+{
+	Boss = "boss_train"
+	Location = "-98.70,-0.03,-127.57"
+	Name = "BossNode030"
+	Type = "4"
+	SubID = "1"
+}
+
+cBossNode BossNode031
+{
+	Boss = "boss_train"
+	Location = "-47.00,-0.03,-140.38"
+	Name = "BossNode031"
+	Type = "4"
+}
+
+cBossNode BossNode032
+{
+	Boss = "boss_train"
+	Location = "-4.14,-0.03,-175.16"
+	Name = "BossNode032"
+	Type = "4"
+}
+
+cBossNode BossNode033
+{
+	Boss = "boss_train"
+	Location = "34.93,-0.03,-213.89"
+	Name = "BossNode033"
+	Type = "4"
+	SubID = "1"
+}
+
+cBossNode BossNode034
+{
+	Boss = "boss_train"
+	Location = "73.86,-0.03,-252.72"
+	Name = "BossNode034"
+	Type = "4"
+	SubID = "1"
+}
+
+cBossNode BossNode035
+{
+	Boss = "boss_train"
+	Location = "117.71,-0.03,-291.95"
+	Name = "BossNode035"
+	Type = "4"
+}
+
+cBossNode BossNode036
+{
+	Boss = "boss_train"
+	Location = "175.90,-0.03,-309.75"
+	Name = "BossNode036"
+	Type = "4"
+	SubID = "1"
+}
+
+cBossNode BossNode037
+{
+	Boss = "boss_train"
+	Location = "229.24,-0.03,-300.36"
+	Name = "BossNode037"
+	Type = "4"
+	SubID = "1"
+}
+
+cBossNode BossNode038
+{
+	Boss = "boss_train"
+	Location = "274.00,-0.03,-265.86"
+	Name = "BossNode038"
+	Type = "4"
+}
+
+cBossNode BossNode039
+{
+	Boss = "boss_train"
+	Location = "298.56,-0.03,-213.61"
+	Name = "BossNode039"
+	Type = "4"
+}
+
+cBossNode BossNode040
+{
+	Boss = "boss_train"
+	Location = "300.05,-0.03,-166.90"
+	Name = "BossNode040"
+	Type = "4"
+}
+
+

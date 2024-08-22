@@ -1,0 +1,304 @@
+cItemPlacement MidlengthTshirtJeansDispenser
+{
+	ItemName = "MidlengthTshirtJeansDispenser"
+	Location = "263.096,-3.457,-96.162"
+	PropState = "3"
+	Rotation = "0,0,0,1"
+}
+
+
+cItemPlacement Burrito
+{
+	ItemName = "Burrito"
+	Location = "253.291,-3.830,-84.429"
+	PropState = "-2"
+	Rotation = "0.000,0.000,0.000,1.000"
+}
+
+cItemPlacement LargeSoda
+{
+	ItemName = "LargeSoda"
+	Location = "252.870,-3.750,-84.039"
+	PropState = "-2"
+	Rotation = "0,0,0,1"
+}
+
+cItemPlacement Taco
+{
+	ItemName = "Taco"
+	Location = "251.967,-3.790,-87.240"
+	PropState = "-2"
+	Rotation = "-0.046,0.751,0.656,0.055"
+}
+
+cItemPlacement Snack
+{
+	ItemName = "Snack"
+	Location = "246.409,-4.479,-80.377"
+	PropState = "-2"
+	Rotation = "0.398,-0.496,-0.640,-0.430"
+}
+
+cItemPlacement Cookies
+{
+	ItemName = "Cookies"
+	Location = "244.958,-4.550,-80.233"
+	PropState = "-2"
+	Rotation = "0.000,0.000,0.000,1.000"
+}
+
+
+cItemPlacement HandGun
+{
+	ItemName = "HandGun"
+	Location = "257.511,-3.470,-96.862"
+	PropState = "-2"
+	Rotation = "0.328,-0.317,-0.606,0.651"
+}
+
+cItemPlacement BaseballBat
+{
+	ItemName = "BaseballBat"
+	Location = "250.779,-3.488,-87.521"
+	PropState = "-2"
+	Rotation = "0.256,-0.282,0.649,-0.658"
+}
+
+cItemPlacement TIODMannequin
+{
+	FixedOnInitialPlacement = "true"
+	ItemName = "Mannequin_Male"
+	Location = "245.482,-3.673,-73.387"
+	Rotation = "0.000,-0.909,0.001,0.417"
+}
+
+cItemPlacement TIODMannequin1
+{
+	FixedOnInitialPlacement = "true"
+	ItemName = "Mannequin_Male"
+	Location = "254.982,-3.655,-98.385"
+	Rotation = "-0.001,-0.140,-0.000,0.990"
+}
+
+cItemPlacement TIODBeachBall
+{
+	ItemName = "BeachBall"
+	Location = "223.843,-4.257,-68.258"
+	Rotation = "0.000,0.000,0.000,1.000"
+}
+
+cItemPlacement TIODDrill
+{
+	ItemName = "PowerDrill"
+	Location = "250.795,-3.479,-90.614"
+	PropState = "-2"
+	Rotation = "0.012,-0.009,-0.705,0.709"
+}
+
+cItemPlacement TIODPlant
+{
+	ItemName = "PottedPlant_5"
+	Location = "231.067,-4.249,-60.216"
+	Rotation = "0.001,-0.880,0.002,0.474"
+}
+
+cItemPlacement TIODLamp
+{
+	ItemName = "DonkeyLamp"
+	Location = "247.326,-3.460,-87.963"
+	PropState = "-2"
+	Rotation = "-0.001,-0.862,0.001,0.507"
+}
+
+cItemPlacement TIODDrill1
+{
+	ItemName = "PowerDrill"
+	Location = "238.104,-3.470,-74.763"
+	PropState = "-2"
+	Rotation = "0.133,-0.130,-0.692,0.696"
+}
+
+
+cZombieWarehouse Breachin
+{
+	cPolygonSmall Shape1
+	{
+		Height = "2.0"
+		NumVertex = "8"
+		Vertex0 = "237.990,-4.584,-83.815"
+		Vertex1 = "235.288,-4.584,-81.327"
+		Vertex2 = "235.713,-4.584,-80.984"
+		Vertex3 = "235.048,-4.584,-80.386"
+		Vertex4 = "234.739,-4.584,-80.721"
+		Vertex5 = "232.001,-4.584,-78.070"
+		Vertex6 = "236.430,-4.584,-73.824"
+		Vertex7 = "241.301,-4.584,-79.751"
+	}
+
+}
+
+cZombieWarehouse Breachin1
+{
+	cPolygonSmall Shape2
+	{
+		Height = "2.0"
+		NumVertex = "4"
+		Vertex0 = "239.645,-4.584,-75.871"
+		Vertex1 = "236.780,-4.584,-72.875"
+		Vertex2 = "241.276,-4.584,-68.914"
+		Vertex3 = "243.883,-4.584,-71.587"
+	}
+
+}
+
+cZombieWarehouse Breachin2
+{
+	cPolygonSmall Shape3
+	{
+		Height = "2.0"
+		NumVertex = "5"
+		Vertex0 = "244.314,-4.584,-77.272"
+		Vertex1 = "247.772,-4.584,-77.336"
+		Vertex2 = "248.639,-4.554,-76.490"
+		Vertex3 = "245.060,-4.584,-73.939"
+		Vertex4 = "243.597,-4.584,-76.366"
+	}
+
+}
+
+cZombieWarehouse Breachin3
+{
+	cPolygonSmall Shape4
+	{
+		Height = "2.0"
+		NumVertex = "8"
+		Vertex0 = "239.763,-4.584,-83.205"
+		Vertex1 = "242.653,-4.584,-80.442"
+		Vertex2 = "245.453,-4.584,-82.996"
+		Vertex3 = "244.756,-4.584,-83.713"
+		Vertex4 = "245.011,-4.584,-83.975"
+		Vertex5 = "245.761,-4.584,-83.234"
+		Vertex6 = "248.769,-4.584,-86.389"
+		Vertex7 = "244.966,-4.584,-89.541"
+	}
+
+}
+
+cZombieWarehouse Breachin4
+{
+	cPolygonSmall Shape5
+	{
+		Height = "2.0"
+		NumVertex = "5"
+		Vertex0 = "250.533,-4.584,-85.595"
+		Vertex1 = "249.201,-4.584,-85.113"
+		Vertex2 = "247.215,-4.584,-83.194"
+		Vertex3 = "250.488,-4.584,-79.844"
+		Vertex4 = "252.467,-4.584,-82.895"
+	}
+
+}
+
+cZombieWarehouse BreachinTopStairs
+{
+	cPolygonSmall StairsShape
+	{
+		Height = "2.0"
+		NumVertex = "4"
+		Vertex0 = "227.374,-0.584,-87.682"
+		Vertex1 = "229.175,-0.584,-85.650"
+		Vertex2 = "232.273,-0.584,-88.836"
+		Vertex3 = "230.631,-0.584,-90.632"
+	}
+
+}
+
+cZombieWarehouse Breachin5
+{
+	cPolygonSmall Shape6
+	{
+		Height = "2.0"
+		NumVertex = "6"
+		Vertex0 = "244.902,-4.584,-90.859"
+		Vertex1 = "248.110,-4.584,-93.355"
+		Vertex2 = "250.726,-4.584,-96.330"
+		Vertex3 = "253.965,-4.584,-97.473"
+		Vertex4 = "252.996,-4.584,-94.209"
+		Vertex5 = "249.806,-4.584,-91.499"
+	}
+
+}
+
+cZombieWarehouse Breachin6
+{
+	cPolygonSmall Shape7
+	{
+		Height = "2.0"
+		NumVertex = "6"
+		Vertex0 = "253.424,-4.584,-93.620"
+		Vertex1 = "250.934,-4.584,-91.227"
+		Vertex2 = "255.788,-4.584,-86.433"
+		Vertex3 = "258.224,-4.584,-88.844"
+		Vertex4 = "257.995,-4.584,-91.962"
+		Vertex5 = "254.814,-4.584,-91.556"
+	}
+
+}
+
+
+cDoorPlacement TIODDoorOut
+{
+	CustomInteractionText = "1406"
+	InitialState = "1"
+	IsStatic = ""
+	ItemName = "door_standardknob"
+	Level = "PALISADES"
+	LevelSpawnPoint = "TIODExit"
+	Location = "231.885,-0.574,-92.586"
+	NonInteractableProp = "false"
+	Rotation = "0.000,0.380,0.000,0.925"
+	TeleportOnUse = "true"
+}
+
+
+cPolygonSmall TapeItOrDieSet
+{
+	Height = "5.0"
+	LevelRegionText = "713"
+	NumVertex = "5"
+	Vertex0 = "231.460,-5,-58.368"
+	Vertex1 = "221.608,-5,-68.222"
+	Vertex2 = "234.525,-5,-81.342"
+	Vertex3 = "257.247,-5,-103.974"
+	Vertex4 = "267.726,-5,-93.688"
+}
+
+
+cPolygonLarge L_TapeDie
+{
+	Height = "16"
+	NumVertex = "4"
+	Vertex0 = "247.488,-8.999,-115.490"
+	Vertex1 = "206.855,-8.999,-74.827"
+	Vertex2 = "230.438,-8.999,-50.104"
+	Vertex3 = "272.268,-8.999,-92.172"
+}
+
+cLightContextVolume LC_TapeDie
+{
+	ContextFileName = "/tape_die.csv"
+	QuadName = "L_TapeDie"
+}
+
+
+cSpawnPoint Start
+{
+	CameraHeading = "-51.670"
+	CameraPitch = "-2.227"
+	Location = "46.0, 20.0, -131.0"
+	Location0 = "233.359,-0.559,-91.713"
+	Rotation = "6.24"
+	Rotation0 = "-0.225"
+}
+
+

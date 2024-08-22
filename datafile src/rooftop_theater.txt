@@ -1,0 +1,196 @@
+cItemPlacement Pylon1
+{
+	ItemName = "Pylon"
+	Location = "-218.438,4.341,-19.291"
+	Rotation = "0.000,0.000,0.000,1.000"
+}
+
+cItemPlacement Pylon2
+{
+	ItemName = "Pylon"
+	Location = "-216.964,4.341,-15.588"
+	Rotation = "0,0,0,1"
+}
+
+cItemPlacement PArticleBoard1
+{
+	FixedOnInitialPlacement = "true"
+	ItemName = "Particle_Board"
+	Location = "-201.718,4.351,-12.006"
+	Rotation = "-0.001,-0.085,0.015,0.997"
+}
+
+cItemPlacement PArticleBoard2
+{
+	FixedOnInitialPlacement = "true"
+	ItemName = "Particle_Board"
+	Location = "-200.799,4.341,-10.928"
+	Rotation = "0.000,-0.716,0.000,0.697"
+}
+
+cItemPlacement PArticleBoard3
+{
+	FixedOnInitialPlacement = "true"
+	ItemName = "Particle_Board"
+	Location = "-200.553,4.330,-12.714"
+	Rotation = "0.000,-0.000,0.000,1.000"
+}
+
+cItemPlacement PowerDrill1
+{
+	ItemName = "PowerDrill"
+	Location = "-200.963,4.375,-14.310"
+	Rotation = "0.201,-0.178,-0.665,0.697"
+}
+
+cItemPlacement BoxOfNails1
+{
+	ItemName = "BoxOfNails"
+	Location = "-200.714,4.330,-9.773"
+	Rotation = "0.001,-0.905,0.000,-0.426"
+}
+
+cItemPlacement LeadPipe1
+{
+	FixedOnInitialPlacement = "true"
+	ItemName = "LeadPipe"
+	Location = "-205.364,4.366,-16.674"
+	Rotation = "0.683,-0.013,-0.160,0.713"
+}
+
+cItemPlacement TwoByFour1
+{
+	ItemName = "TwoByFour"
+	Location = "-201.717,4.416,-1.435"
+	Rotation = "0.652,0.535,0.416,0.339"
+}
+
+cItemPlacement TwoByFour2
+{
+	ItemName = "TwoByFour"
+	Location = "-201.472,4.362,-1.625"
+	Rotation = "-0.458,0.460,-0.532,0.536"
+}
+
+cItemPlacement TwoByFour3
+{
+	ItemName = "TwoByFour"
+	Location = "-201.842,4.365,-1.280"
+	Rotation = "-0.510,-0.514,0.486,0.489"
+}
+
+
+cPolygonLarge L_TheatreRoof
+{
+	Height = "20"
+	NumVertex = "4"
+	Vertex0 = "-225.528,0.001,-29.383"
+	Vertex1 = "-225.302,0.001,5.060"
+	Vertex2 = "-191.458,0.001,5.336"
+	Vertex3 = "-191.777,0.001,-28.341"
+}
+
+cLightContextVolume LC_TheatreRoof
+{
+	ContextFileName = "/fortune_exterior.csv"
+	QuadName = "L_TheatreRoof"
+}
+
+
+cSpawnPoint TheatreRoof
+{
+	CameraHeading = "65.244"
+	CameraPitch = "-7.510"
+	Location0 = "-216.385,4.346,-16.928"
+	Rotation0 = "1.034"
+}
+
+cSpawnPoint Start
+{
+	CameraHeading = "81.605"
+	CameraPitch = "-15.813"
+	Location0 = "-216.849,4.346,-17.652"
+	Rotation0 = "1.146"
+}
+
+
+cZombieWarehouse Zombies_Exterior_Theatre
+{
+	cPolygonSmall OUter1
+	{
+		Height = "2.0"
+		NumVertex = "10"
+		Vertex0 = "-268.018,-4.259,23.233"
+		Vertex1 = "-261.788,-4.259,37.492"
+		Vertex2 = "-272.918,-4.259,43.830"
+		Vertex3 = "-278.194,-4.259,56.433"
+		Vertex4 = "-303.416,-4.259,57.170"
+		Vertex5 = "-313.871,-4.259,44.469"
+		Vertex6 = "-318.857,-4.259,20.804"
+		Vertex7 = "-295.428,-4.259,27.931"
+		Vertex8 = "-294.815,-4.259,34.351"
+		Vertex9 = "-284.312,-4.259,35.073"
+	}
+
+	cPolygonSmall OUter2
+	{
+		Height = "2.0"
+		NumVertex = "11"
+		Vertex0 = "-241.260,-4.259,23.280"
+		Vertex1 = "-224.443,-4.259,23.245"
+		Vertex10 = "-242.423,-4.259,17.203"
+		Vertex2 = "-200.913,-4.259,26.531"
+		Vertex3 = "-180.439,-4.261,22.554"
+		Vertex4 = "-165.712,-4.263,14.901"
+		Vertex5 = "-171.736,-4.259,8.417"
+		Vertex6 = "-186.730,-4.259,18.953"
+		Vertex7 = "-194.512,-4.259,20.507"
+		Vertex8 = "-206.948,-4.259,16.174"
+		Vertex9 = "-219.083,-4.259,19.097"
+	}
+
+	cPolygonSmall OUter3
+	{
+		Height = "2.0"
+		NumVertex = "8"
+		Vertex0 = "-229.844,-4.259,16.337"
+		Vertex1 = "-232.378,-4.259,6.093"
+		Vertex2 = "-193.394,-4.259,2.487"
+		Vertex3 = "-168.808,-4.260,3.676"
+		Vertex4 = "-169.292,-4.259,10.736"
+		Vertex5 = "-180.390,-4.259,9.902"
+		Vertex6 = "-187.591,-4.259,12.243"
+		Vertex7 = "-206.412,-4.259,8.343"
+	}
+
+	cPolygonSmall OUter4
+	{
+		Height = "2.0"
+		NumVertex = "10"
+		Vertex0 = "-143.061,-1.506,1.485"
+		Vertex1 = "-141.905,-1.506,-5.269"
+		Vertex2 = "-130.604,-1.506,-14.675"
+		Vertex3 = "-105.379,-1.506,-5.905"
+		Vertex4 = "-107.691,-1.506,13.468"
+		Vertex5 = "-107.527,-1.507,40.511"
+		Vertex6 = "-130.592,-1.506,16.886"
+		Vertex7 = "-123.510,-1.506,12.345"
+		Vertex8 = "-122.311,-1.506,3.204"
+		Vertex9 = "-130.599,-1.506,-1.695"
+	}
+
+	cPolygonSmall OUter5
+	{
+		Height = "2.0"
+		NumVertex = "6"
+		Vertex0 = "-92.648,-1.506,41.817"
+		Vertex1 = "-91.683,-1.506,34.659"
+		Vertex2 = "-73.460,-1.497,33.507"
+		Vertex3 = "-67.312,-1.132,43.484"
+		Vertex4 = "-87.143,-1.469,47.600"
+		Vertex5 = "-88.634,-1.506,41.345"
+	}
+
+}
+
+

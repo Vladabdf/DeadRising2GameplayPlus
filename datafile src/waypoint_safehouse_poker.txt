@@ -1,0 +1,826 @@
+cWaypoint SURV65
+{
+	Location = "0.24,-0.65,9.42"
+	Name = "SURV"
+	Type = "0"
+}
+
+cWaypoint SURV54
+{
+	Location = "-17.35,-0.66,31.17"
+	Name = "SURV"
+	Type = "0"
+}
+
+cWaypoint SURV43
+{
+	Location = "-22.97,-0.65,12.09"
+	Name = "SURV"
+	Type = "0"
+}
+
+cWaypoint SURV32
+{
+	Location = "-41.88,4.54,19.37"
+	Name = "SURV"
+	Type = "0"
+}
+
+cWaypoint SURV21
+{
+	Location = "0.02,-0.65,-4.23"
+	Name = "SURV"
+	Type = "0"
+}
+
+cWaypoint SURV10
+{
+	Location = "-25.93,-5.09,0.29"
+	Name = "SURV"
+	Type = "0"
+}
+
+cWaypoint SURV66
+{
+	Location = "-0.10,-0.65,0.30"
+	Name = "SURV"
+	Type = "0"
+}
+
+cWaypoint SURV64
+{
+	Location = "0.07,-0.65,28.29"
+	Name = "SURV"
+	Type = "0"
+}
+
+cWaypoint SURV63
+{
+	Location = "0.03,-0.65,18.95"
+	Name = "SURV"
+	Type = "0"
+}
+
+cWaypoint SURV62
+{
+	Location = "1.32,-0.65,7.54"
+	Name = "SURV"
+	Type = "0"
+}
+
+cWaypoint SURV61
+{
+	Location = "-0.35,-0.65,4.00"
+	Name = "SURV"
+	Type = "0"
+}
+
+cWaypoint SURV041
+{
+	Location = "-3.52,-0.97,32.72"
+	Name = "SURV041"
+	Type = "0"
+}
+
+cWaypoint SURV59
+{
+	Location = "-4.076,-3.795,38.447"
+	Name = "SURV"
+	Type = "0"
+}
+
+cWaypoint SURV57
+{
+	Location = "-6.56,-5.08,6.42"
+	Name = "SURV"
+	Type = "0"
+}
+
+cWaypoint SURV56
+{
+	Location = "-1.35,-0.65,2.67"
+	Name = "SURV"
+	Type = "0"
+}
+
+cWaypoint SURV55
+{
+	Location = "-6.04,-0.66,28.95"
+	Name = "SURV"
+	Type = "0"
+}
+
+cWaypoint SURV53
+{
+	Location = "-20.76,-5.09,14.75"
+	Name = "SURV"
+	Type = "0"
+}
+
+cWaypoint SURV52
+{
+	Location = "-18.08,-0.66,28.97"
+	Name = "SURV"
+	Type = "0"
+}
+
+cWaypoint SURV51
+{
+	Location = "-20.43,-0.66,32.58"
+	Name = "SURV"
+	Type = "0"
+}
+
+cWaypoint SURV043
+{
+	ConnectedWaypoint1 = "SURV042"
+	Location = "-4.38,-3.67,37.25"
+	Name = "SURV043"
+	Type = "0"
+}
+
+cWaypoint SURV49
+{
+	Location = "-26.60,-0.66,38.50"
+	Name = "SURV"
+	Type = "0"
+}
+
+cWaypoint SURV48
+{
+	Location = "-24.01,-5.10,20.08"
+	Name = "SURV"
+	Type = "0"
+}
+
+cWaypoint SURV47
+{
+	Location = "-22.40,-0.66,31.52"
+	Name = "SURV"
+	Type = "0"
+}
+
+cWaypoint SURV46
+{
+	Location = "-23.93,-4.51,14.42"
+	Name = "SURV"
+	Type = "0"
+}
+
+cWaypoint SURV45
+{
+	Location = "-21.85,0.29,13.67"
+	Name = "SURV"
+	Type = "0"
+}
+
+cWaypoint SURV44
+{
+	Location = "-26.78,0.26,13.27"
+	Name = "SURV"
+	Type = "0"
+}
+
+cWaypoint SURV42
+{
+	Location = "-8.98,-5.08,11.37"
+	Name = "SURV"
+	Type = "0"
+}
+
+cWaypoint SURV41
+{
+	Location = "-19.18,-0.65,10.00"
+	Name = "SURV"
+	Type = "0"
+}
+
+cWaypoint SURV40
+{
+	Location = "-26.90,-5.10,24.09"
+	Name = "SURV"
+	Type = "0"
+}
+
+cWaypoint SURV39
+{
+	Location = "-27.78,-5.10,27.07"
+	Name = "SURV"
+	Type = "0"
+}
+
+cWaypoint SURV38
+{
+	Location = "-40.43,-0.61,33.92"
+	Name = "SURV"
+	Type = "0"
+}
+
+cWaypoint SURV37
+{
+	Location = "-30.48,-0.66,31.92"
+	Name = "SURV"
+	Type = "0"
+}
+
+cWaypoint SURV36
+{
+	Location = "-38.88,-0.63,31.77"
+	Name = "SURV"
+	Type = "0"
+}
+
+cWaypoint SURV35
+{
+	Location = "-29.01,-5.10,19.58"
+	Name = "SURV"
+	Type = "0"
+}
+
+cWaypoint SURV046
+{
+	ConnectedWaypoint1 = "SURV045"
+	Location = "-32.56,-5.41,20.09"
+	Name = "SURV046"
+	Type = "0"
+}
+
+cWaypoint SURV33
+{
+	Location = "-41.93,3.34,23.33"
+	Name = "SURV"
+	Type = "0"
+}
+
+cWaypoint SURV31
+{
+	Location = "-40.56,4.94,16.79"
+	Name = "SURV"
+	Type = "0"
+}
+
+cWaypoint SURV30
+{
+	Location = "-41.58,0.74,27.27"
+	Name = "SURV"
+	Type = "0"
+}
+
+cWaypoint SURV29
+{
+	Location = "-38.58,4.94,14.87"
+	Name = "SURV"
+	Type = "0"
+}
+
+cWaypoint SURV28
+{
+	Location = "-31.54,-5.10,12.24"
+	Name = "SURV"
+	Type = "0"
+}
+
+cWaypoint SURV27
+{
+	Location = "-11.43,-5.08,6.17"
+	Name = "SURV"
+	Type = "0"
+}
+
+cWaypoint SURV26
+{
+	Location = "-24.78,-5.09,10.87"
+	Name = "SURV"
+	Type = "0"
+}
+
+cWaypoint SURV25
+{
+	Location = "-20.18,0.19,2.77"
+	Name = "SURV"
+	Type = "0"
+}
+
+cWaypoint SURV24
+{
+	Location = "-20.08,-5.08,3.57"
+	Name = "SURV"
+	Type = "0"
+}
+
+cWaypoint SURV23
+{
+	Location = "-34.18,-4.05,1.27"
+	Name = "SURV"
+	Type = "0"
+}
+
+cWaypoint SURV22
+{
+	Location = "-0.68,-0.65,-11.83"
+	Name = "SURV"
+	Type = "0"
+}
+
+cWaypoint SURV20
+{
+	Location = "-3.18,-2.05,-1.43"
+	Name = "SURV"
+	Type = "0"
+}
+
+cWaypoint SURV19
+{
+	Location = "0.39,-0.65,-15.19"
+	Name = "SURV"
+	Type = "0"
+}
+
+cWaypoint SURV18
+{
+	Location = "-2.58,-0.65,-10.03"
+	Name = "SURV"
+	Type = "0"
+}
+
+cWaypoint SURV17
+{
+	Location = "-7.90,-5.08,0.31"
+	Name = "SURV"
+	Type = "0"
+}
+
+cWaypoint SURV16
+{
+	Location = "-6.43,-5.08,-5.46"
+	Name = "SURV"
+	Type = "0"
+}
+
+cWaypoint SURV15
+{
+	Location = "-2.68,-4.18,-15.33"
+	Name = "SURV"
+	Type = "0"
+}
+
+cWaypoint SURV14
+{
+	Location = "-3.35,-5.09,-11.83"
+	Name = "SURV"
+	Type = "0"
+}
+
+cWaypoint SURV13
+{
+	Location = "-8.60,-5.08,-11.00"
+	Name = "SURV"
+	Type = "0"
+}
+
+cWaypoint SURV12
+{
+	Location = "-19.28,-2.65,-0.23"
+	Name = "SURV"
+	Type = "0"
+}
+
+cWaypoint SURV11
+{
+	Location = "-9.93,-5.08,-6.75"
+	Name = "SURV"
+	Type = "0"
+}
+
+cWaypoint SURV9
+{
+	Location = "-31.76,-5.09,-3.92"
+	Name = "SURV"
+	Type = "0"
+}
+
+cWaypoint SURV8
+{
+	Location = "-37.31,-5.86,1.48"
+	Name = "SURV"
+	Type = "0"
+}
+
+cWaypoint SURV7
+{
+	Location = "-29.81,-5.08,-10.46"
+	Name = "SURV"
+	Type = "0"
+}
+
+cWaypoint SURV6
+{
+	Location = "-39.07,-5.86,-8.78"
+	Name = "SURV"
+	Type = "0"
+}
+
+cWaypoint SURV5
+{
+	Location = "-21.43,-5.08,-11.79"
+	Name = "SURV"
+	Type = "0"
+}
+
+cWaypoint SURV4
+{
+	Location = "-21.18,-5.08,-21.33"
+	Name = "SURV"
+	Type = "0"
+}
+
+cWaypoint SURV3
+{
+	Location = "-4.68,-0.65,-15.03"
+	Name = "SURV"
+	Type = "0"
+}
+
+cWaypoint SURV2
+{
+	Location = "-6.18,-0.06,-16.83"
+	Name = "SURV"
+	Type = "0"
+}
+
+cWaypoint SURV1
+{
+	Location = "-3.18,-5.10,-18.83"
+	Name = "SURV"
+	Type = "0"
+}
+
+cWaypoint SURV
+{
+	Location = "-25.87,-4.09,-18.58"
+	Name = "SURV"
+	Type = "0"
+}
+
+cWaypoint SURV001
+{
+	ConnectedWaypoint1 = "SURV006"
+	Location = "-4.74,-0.99,12.78"
+	Name = "SURV001"
+	Type = "0"
+}
+
+cWaypoint SURV002
+{
+	Location = "-4.42,-0.99,8.87"
+	Name = "SURV002"
+	Type = "0"
+}
+
+cWaypoint SURV003
+{
+	Location = "-7.17,-0.99,8.25"
+	Name = "SURV003"
+	Type = "0"
+}
+
+cWaypoint SURV004
+{
+	Location = "-9.53,-0.99,8.29"
+	Name = "SURV004"
+	Type = "0"
+}
+
+cWaypoint SURV005
+{
+	Location = "-9.54,-0.99,12.05"
+	Name = "SURV005"
+	Type = "0"
+}
+
+cWaypoint SURV006
+{
+	ConnectedWaypoint1 = "SURV001"
+	Location = "0.15,-0.96,12.93"
+	Name = "SURV006"
+	Type = "0"
+}
+
+cWaypoint SURV007
+{
+	Location = "4.42,-0.96,10.63"
+	Name = "SURV007"
+	Type = "0"
+}
+
+cWaypoint SURV008
+{
+	Location = "11.13,-0.96,13.87"
+	Name = "SURV008"
+	Type = "0"
+}
+
+cWaypoint SURV009
+{
+	Location = "-21.38,-5.41,9.08"
+	Name = "SURV009"
+	Type = "0"
+}
+
+cWaypoint SURV010
+{
+	ConnectedWaypoint1 = "SURV012"
+	Location = "-27.68,-5.41,11.99"
+	Name = "SURV010"
+	Type = "0"
+}
+
+cWaypoint SURV011
+{
+	Location = "-27.52,-5.41,7.94"
+	Name = "SURV011"
+	Type = "0"
+}
+
+cWaypoint SURV012
+{
+	ConnectedWaypoint1 = "SURV010"
+	Location = "-29.82,-5.41,12.14"
+	Name = "SURV012"
+	Type = "0"
+}
+
+cWaypoint SURV013
+{
+	Location = "-25.24,-0.97,8.29"
+	Name = "SURV013"
+	Type = "0"
+}
+
+cWaypoint SURV014
+{
+	Location = "-24.81,-0.97,13.06"
+	Name = "SURV014"
+	Type = "0"
+}
+
+cWaypoint SURV015
+{
+	Location = "-19.48,-0.97,13.26"
+	Name = "SURV015"
+	Type = "0"
+}
+
+cWaypoint SURV016
+{
+	ConnectedWaypoint1 = "SURV017"
+	Location = "-17.90,-0.97,8.26"
+	Name = "SURV016"
+	Type = "0"
+}
+
+cWaypoint SURV017
+{
+	ConnectedWaypoint1 = "SURV016"
+	Location = "-17.93,-0.97,5.25"
+	Name = "SURV017"
+	Type = "0"
+}
+
+cWaypoint SURV018
+{
+	Location = "-18.22,-0.97,3.99"
+	Name = "SURV018"
+	Type = "0"
+}
+
+cWaypoint SURV019
+{
+	Location = "-24.47,-5.41,-0.77"
+	Name = "SURV019"
+	Type = "0"
+}
+
+cWaypoint SURV020
+{
+	Location = "-30.59,-5.41,2.14"
+	Name = "SURV020"
+	Type = "0"
+}
+
+cWaypoint SURV021
+{
+	Location = "-33.01,-5.41,5.06"
+	Name = "SURV021"
+	Type = "0"
+}
+
+cWaypoint SURV022
+{
+	Location = "-38.19,-6.17,-11.59"
+	Name = "SURV022"
+	Type = "0"
+}
+
+cWaypoint SURV023
+{
+	ConnectedWaypoint1 = "SURV025"
+	Location = "-38.51,-6.17,-5.37"
+	Name = "SURV023"
+	Type = "0"
+}
+
+cWaypoint SURV024
+{
+	Location = "-41.60,-6.17,-8.46"
+	Name = "SURV024"
+	Type = "0"
+}
+
+cWaypoint SURV025
+{
+	ConnectedWaypoint1 = "SURV023"
+	Location = "-37.96,-6.17,-1.89"
+	Name = "SURV025"
+	Type = "0"
+}
+
+cWaypoint SURV026
+{
+	Location = "-36.93,-6.17,4.93"
+	Name = "SURV026"
+	Type = "0"
+}
+
+cWaypoint SURV027
+{
+	ConnectedWaypoint1 = "SURV028"
+	Location = "-25.38,-0.97,33.69"
+	Name = "SURV027"
+	Type = "0"
+}
+
+cWaypoint SURV028
+{
+	ConnectedWaypoint1 = "SURV027"
+	Location = "-24.78,-0.97,36.50"
+	Name = "SURV028"
+	Type = "0"
+}
+
+cWaypoint SURV029
+{
+	Location = "-29.74,-0.97,37.12"
+	Name = "SURV029"
+	Type = "0"
+}
+
+cWaypoint SURV030
+{
+	Location = "-29.74,-0.97,41.69"
+	Name = "SURV030"
+	Type = "0"
+}
+
+cWaypoint SURV031
+{
+	Location = "-25.11,-0.97,41.56"
+	Name = "SURV031"
+	Type = "0"
+}
+
+cWaypoint SURV032
+{
+	Location = "-28.98,-0.97,39.18"
+	Name = "SURV032"
+	Type = "0"
+}
+
+cWaypoint SURV033
+{
+	Location = "-32.50,-0.97,28.45"
+	Name = "SURV033"
+	Type = "0"
+}
+
+cWaypoint SURV034
+{
+	Location = "-32.50,-5.41,18.80"
+	Name = "SURV034"
+	Type = "0"
+}
+
+cWaypoint SURV035
+{
+	Location = "-6.86,-3.80,38.59"
+	Name = "SURV035"
+	Type = "0"
+}
+
+cWaypoint SURV042
+{
+	ConnectedWaypoint1 = "SURV043"
+	Location = "-4.41,-0.97,32.74"
+	Name = "SURV042"
+	Type = "0"
+}
+
+cWaypoint SURV037
+{
+	Location = "-3.51,-1.08,29.43"
+	Name = "SURV037"
+	Type = "0"
+}
+
+cWaypoint SURV038
+{
+	ConnectedWaypoint1 = "SURV039"
+	Location = "0.39,-0.96,13.10"
+	Name = "SURV038"
+	Type = "0"
+}
+
+cWaypoint SURV039
+{
+	ConnectedWaypoint1 = "SURV038"
+	Location = "-3.47,-0.99,13.11"
+	Name = "SURV039"
+	Type = "0"
+}
+
+cWaypoint SURV040
+{
+	Location = "-0.37,-0.96,13.26"
+	Name = "SURV040"
+	Type = "0"
+}
+
+cWaypoint SURV044
+{
+	Location = "-3.14,-3.67,37.34"
+	Name = "SURV044"
+	Type = "0"
+}
+
+cWaypoint SURV045
+{
+	ConnectedWaypoint1 = "SURV046"
+	Location = "-32.55,-0.97,27.35"
+	Name = "SURV045"
+	Type = "0"
+}
+
+cWaypoint SURV047
+{
+	Location = "-8.51,-3.67,39.14"
+	Name = "SURV047"
+	Type = "0"
+}
+
+cWaypoint SURV048
+{
+	Location = "-7.21,-3.67,35.10"
+	Name = "SURV048"
+	Type = "0"
+}
+
+cWaypoint SURV049
+{
+	Location = "-41.95,4.63,16.93"
+	Name = "SURV049"
+	Type = "0"
+}
+
+cWaypoint SURV050
+{
+	ConnectedWaypoint1 = "SURV051"
+	Location = "-41.93,4.63,17.75"
+	Name = "SURV050"
+	Type = "0"
+}
+
+cWaypoint SURV051
+{
+	ConnectedWaypoint1 = "SURV050"
+	Location = "-41.81,3.43,20.65"
+	Name = "SURV051"
+	Type = "0"
+}
+
+cWaypoint SURV052
+{
+	ConnectedWaypoint1 = "SURV053"
+	Location = "-41.80,3.43,21.80"
+	Name = "SURV052"
+	Type = "0"
+}
+
+cWaypoint SURV053
+{
+	ConnectedWaypoint1 = "SURV052"
+	Location = "-41.76,-0.96,29.59"
+	Name = "SURV053"
+	Type = "0"
+}
+
+

@@ -1,0 +1,13 @@
+BassGuitar
+BobsToy
+Crowbar
+ElectricGuitar
+Grenade
+HandGun
+HunkOfMeat
+M16
+MoneyCase
+NightStick
+ProtesterSign
+Shotgun
+WheelChair

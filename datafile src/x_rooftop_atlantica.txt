@@ -1,0 +1,162 @@
+cItemPlacement Whiskey
+{
+	ItemName = "Whiskey"
+	Location = "-13.991,19.582,10.949"
+	Rotation = "0.000,0.000,0.000,1.000"
+}
+
+cItemPlacement Whiskey1
+{
+	ItemName = "Whiskey"
+	Location = "-14.183,19.582,11.291"
+	Rotation = "0.001,-0.476,0.004,-0.879"
+}
+
+cItemPlacement Whiskey2
+{
+	ItemName = "Whiskey"
+	Location = "-26.147,19.548,24.970"
+	Rotation = "0.000,0.716,-0.001,0.697"
+}
+
+cItemPlacement Whiskey3
+{
+	ItemName = "Whiskey"
+	Location = "-26.398,19.548,24.696"
+	Rotation = "0.000,0.962,-0.001,-0.275"
+}
+
+
+cItemPlacement CardboardBox
+{
+	ItemName = "CardboardBox"
+	Location = "-13.328,19.689,9.199"
+	Rotation = "0.001,0.000,0.001,1.000"
+	SpawnPropFromCategory = "60"
+}
+
+cItemPlacement Crowbar
+{
+	ItemName = "Crowbar"
+	Location = "-13.760,19.497,10.294"
+	Rotation = "0.504,-0.503,-0.496,0.497"
+}
+
+cItemPlacement CardboardBox1
+{
+	ItemName = "CardboardBox"
+	Location = "-12.418,19.692,9.254"
+	Rotation = "-0.001,-0.115,0.000,0.993"
+	SpawnPropFromCategory = "60"
+}
+
+cItemPlacement CardboardBox2
+{
+	ItemName = "CardboardBox"
+	Location = "-18.635,19.693,25.502"
+	Rotation = "-0.000,0.000,-0.000,1.000"
+	SpawnPropFromCategory = "60"
+}
+
+cItemPlacement CardboardBox3
+{
+	ItemName = "CardboardBox"
+	Location = "-17.724,19.691,25.557"
+	Rotation = "-0.002,-0.115,-0.004,0.993"
+	SpawnPropFromCategory = "60"
+}
+
+cItemPlacement CardboardBox4
+{
+	ItemName = "CardboardBox"
+	Location = "-21.637,18.693,35.700"
+	Rotation = "0.000,-0.005,-0.000,1.000"
+	SpawnPropFromCategory = "60"
+}
+
+cItemPlacement CardboardBox5
+{
+	ItemName = "CardboardBox"
+	Location = "-20.674,19.691,35.710"
+	Rotation = "0.002,-0.117,0.000,0.993"
+	SpawnPropFromCategory = "60"
+}
+
+cItemPlacement WrenchLarge
+{
+	ItemName = "WrenchLarge"
+	Location = "-21.906,20.011,17.556"
+	Rotation = "0.000,0.390,-0.000,0.921"
+}
+
+cItemPlacement Pylon
+{
+	ItemName = "Pylon"
+	Location = "-21.683,19.989,16.408"
+	Rotation = "0.001,-0.000,-0.000,1.000"
+}
+
+cItemPlacement Pylon1
+{
+	ItemName = "Pylon"
+	Location = "-24.225,19.488,50.410"
+	Rotation = "-0.003,-0.000,0.001,1.000"
+}
+
+cItemPlacement AcousticGuitar
+{
+	ItemName = "AcousticGuitar"
+	Location = "-25.988,19.506,25.729"
+	Rotation = "0.363,-0.608,-0.608,-0.363"
+}
+
+cItemPlacement CardboardBox6
+{
+	ItemName = "CardboardBox"
+	Location = "-22.774,20.190,17.298"
+	Rotation = "-0.000,-0.000,0.000,1.000"
+	SpawnPropFromCategory = "60"
+}
+
+cItemPlacement CardboardBox7
+{
+	ItemName = "CardboardBox"
+	Location = "-19.874,19.689,35.865"
+	Rotation = "-0.000,-0.000,-0.000,1.000"
+	SpawnPropFromCategory = "60"
+}
+
+cItemPlacement CardboardBox8
+{
+	ItemName = "CardboardBox"
+	Location = "-20.246,20.129,35.768"
+	Rotation = "-0.000,-0.000,-0.000,1.000"
+	SpawnPropFromCategory = "60"
+}
+
+cItemPlacement CardboardBox9
+{
+	ItemName = "CardboardBox"
+	Location = "-23.538,19.690,50.596"
+	Rotation = "-0.000,-0.000,0.000,1.000"
+	SpawnPropFromCategory = "60"
+}
+
+
+cSpawnPoint AtlanticaRoof
+{
+	CameraHeading = "-32.455"
+	CameraPitch = "-4.266"
+	Location0 = "-7.649,17.493,-2.266"
+	Rotation0 = "-0.557"
+}
+
+cSpawnPoint Start
+{
+	CameraHeading = "-32.455"
+	CameraPitch = "-4.266"
+	Location0 = "-7.646,17.493,-2.272"
+	Rotation0 = "-0.557"
+}
+
+

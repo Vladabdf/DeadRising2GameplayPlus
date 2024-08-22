@@ -1,0 +1,300 @@
+cDoorPlacement SafehouseElevator1
+{
+	InitialState = "1"
+	IsStatic = ""
+	ItemName = "door_elevator"
+	Location = "-258.372,15.2657,-141.1047"
+	MovementStyle = "1"
+	NonInteractableProp = "true"
+	Rotation = "0,0.3827,0,0.9239"
+	SiblingDoorName = "SafehouseElevator2"
+}
+
+cDoorPlacement SafehouseElevator2
+{
+	CustomInteractionText = "50455"
+	InitialState = "1"
+	InteractionIconLocation = "-254.172,16.443,-140.950"
+	IsStatic = ""
+	ItemName = "door_elevator"
+	Location = "-256.3921,15.2657,-143.0847"
+	MovementStyle = "1"
+	NonInteractableProp = "true"
+	Rotation = "0,0.9239,0,-0.3827"
+	SiblingDoorName = "SafehouseElevator1"
+}
+
+
+cItemPlacement Pylon
+{
+	ItemName = "Pylon"
+	Location = "-236.751,15.653,-117.679"
+	Rotation = "0.000,-0.392,0.000,0.920"
+}
+
+cItemPlacement Pylon1
+{
+	ItemName = "Pylon"
+	Location = "-240.356,15.653,-114.084"
+	Rotation = "0.000,-0.378,0.000,0.926"
+}
+
+cItemPlacement MetalBarricade
+{
+	ItemName = "MetalBarricade"
+	Location = "-234.048,16.658,-103.919"
+	Rotation = "-0.001,0.725,-0.002,0.696"
+}
+
+cItemPlacement MetalBarricade1
+{
+	ItemName = "MetalBarricade"
+	Location = "-232.561,16.657,-107.710"
+	Rotation = "-0.001,0.387,-0.001,0.922"
+}
+
+cItemPlacement CardboardBox
+{
+	ItemName = "CardboardBox"
+	Location = "-242.131,15.854,-124.576"
+	Rotation = "0.000,0.522,-0.000,0.853"
+	SpawnPropFromCategory = "60"
+}
+
+cItemPlacement CardboardBox1
+{
+	ItemName = "CardboardBox"
+	Location = "-242.737,15.851,-124.012"
+	Rotation = "0.002,0.146,-0.000,0.989"
+	SpawnPropFromCategory = "60"
+}
+
+cItemPlacement CardboardBox2
+{
+	ItemName = "CardboardBox"
+	Location = "-240.972,16.854,-124.425"
+	Rotation = "0.001,0.146,-0.004,0.989"
+	SpawnPropFromCategory = "60"
+}
+
+cItemPlacement MetalBarricade2
+{
+	ItemName = "MetalBarricade"
+	Location = "-238.814,16.359,-110.987"
+	Rotation = "0.805,0.039,-0.053,0.589"
+}
+
+cItemPlacement MetalBarricade3
+{
+	ItemName = "MetalBarricade"
+	Location = "-232.935,16.664,-116.100"
+	Rotation = "0.000,0.374,-0.002,0.927"
+}
+
+cItemPlacement MetalBarricade4
+{
+	ItemName = "MetalBarricade"
+	Location = "-227.766,16.660,-112.395"
+	Rotation = "0.000,0.375,-0.001,0.927"
+}
+
+cItemPlacement MetalBarricade5
+{
+	ItemName = "MetalBarricade"
+	Location = "-225.119,16.664,-114.958"
+	Rotation = "0.000,0.374,-0.002,0.927"
+}
+
+cItemPlacement SpotLight
+{
+	ItemName = "SpotLight"
+	Location = "-227.453,17.644,-111.664"
+	PropState = "-2"
+	Rotation = "0.000,-0.931,0.000,0.364"
+}
+
+cItemPlacement CardboardBox3
+{
+	ItemName = "CardboardBox"
+	Location = "-221.243,17.441,-126.565"
+	Rotation = "0.161,0.161,0.689,0.689"
+	SpawnPropFromCategory = "60"
+}
+
+cItemPlacement CardboardBox4
+{
+	ItemName = "CardboardBox"
+	Location = "-222.176,16.345,-125.668"
+	Rotation = "-0.000,-0.131,-0.002,-0.991"
+	SpawnPropFromCategory = "60"
+}
+
+cItemPlacement CardboardBox5
+{
+	ItemName = "CardboardBox"
+	Location = "-221.335,16.421,-125.589"
+	Rotation = "0.698,0.114,0.114,-0.698"
+	SpawnPropFromCategory = "60"
+}
+
+cItemPlacement SpotLight1
+{
+	ItemName = "SpotLight"
+	Location = "-224.005,17.644,-115.297"
+	PropState = "-2"
+	Rotation = "0.000,-0.931,0.000,0.364"
+}
+
+cItemPlacement SpotLight2
+{
+	ItemName = "SpotLight"
+	Location = "-219.470,17.644,-117.735"
+	PropState = "-2"
+	Rotation = "0.000,-0.996,0.000,0.048"
+}
+
+cItemPlacement SpotLight3
+{
+	ItemName = "SpotLight"
+	Location = "-215.544,17.644,-115.218"
+	PropState = "-2"
+	Rotation = "0.000,-0.899,0.000,-0.434"
+}
+
+cItemPlacement SpotLight4
+{
+	ItemName = "SpotLight"
+	Location = "-212.007,17.644,-111.684"
+	PropState = "-2"
+	Rotation = "0.000,-0.899,0.000,-0.434"
+}
+
+cItemPlacement SpotLight5
+{
+	ItemName = "SpotLight"
+	Location = "-208.476,17.644,-108.156"
+	PropState = "-2"
+	Rotation = "0.000,-0.899,0.000,-0.434"
+}
+
+cItemPlacement SpotLight6
+{
+	ItemName = "SpotLight"
+	Location = "-205.180,17.644,-104.401"
+	PropState = "-2"
+	Rotation = "0.000,-0.752,0.000,-0.658"
+}
+
+cItemPlacement SpotLight7
+{
+	ItemName = "SpotLight"
+	Location = "-207.046,17.644,-99.722"
+	PropState = "-2"
+	Rotation = "0.000,-0.283,0.000,-0.961"
+}
+
+cItemPlacement SpotLight8
+{
+	ItemName = "SpotLight"
+	Location = "-210.587,17.644,-96.178"
+	PropState = "-2"
+	Rotation = "0.000,-0.283,0.000,-0.961"
+}
+
+cItemPlacement SpotLight9
+{
+	ItemName = "SpotLight"
+	Location = "-217.852,17.644,-89.323"
+	PropState = "-2"
+	Rotation = "0.000,-0.135,0.000,-0.992"
+}
+
+cItemPlacement SpotLight10
+{
+	ItemName = "SpotLight"
+	Location = "-214.141,17.644,-92.658"
+	PropState = "-2"
+	Rotation = "0.000,-0.283,0.000,-0.961"
+}
+
+cItemPlacement SpotLight11
+{
+	ItemName = "SpotLight"
+	Location = "-222.572,17.644,-91.219"
+	PropState = "-2"
+	Rotation = "0.000,0.542,0.000,-0.843"
+}
+
+cItemPlacement SpotLight12
+{
+	ItemName = "SpotLight"
+	Location = "-222.572,17.644,-91.219"
+	PropState = "-2"
+	Rotation = "0.000,0.542,0.000,-0.843"
+}
+
+cItemPlacement SpotLight13
+{
+	ItemName = "SpotLight"
+	Location = "-226.123,17.644,-94.737"
+	PropState = "-2"
+	Rotation = "0.000,0.542,0.000,-0.843"
+}
+
+cItemPlacement SpotLight14
+{
+	ItemName = "SpotLight"
+	Location = "-233.191,17.644,-101.803"
+	PropState = "-2"
+	Rotation = "0.000,0.542,0.000,-0.843"
+}
+
+cItemPlacement SpotLight15
+{
+	ItemName = "SpotLight"
+	Location = "-229.640,17.644,-98.285"
+	PropState = "-2"
+	Rotation = "0.000,0.542,0.000,-0.843"
+}
+
+cItemPlacement SpotLight16
+{
+	ItemName = "SpotLight"
+	Location = "-231.737,17.644,-107.421"
+	PropState = "-2"
+	Rotation = "0.000,0.939,0.000,-0.347"
+}
+
+cItemPlacement MetalBarricade6
+{
+	ItemName = "MetalBarricade"
+	Location = "-221.861,16.356,-118.244"
+	Rotation = "0.163,-0.578,0.791,0.119"
+}
+
+
+cSpawnPoint Start
+{
+	CameraHeading = "43.469"
+	CameraPitch = "-11.387"
+	Location0 = "-252.135,15.153,-136.533"
+	Rotation0 = "0.745"
+}
+
+cSpawnPoint SafeHouseRoof
+{
+	CameraHeading = "43.469"
+	CameraPitch = "-11.387"
+	Location0 = "-252.135,15.153,-136.533"
+	Rotation0 = "0.745"
+}
+
+cSpawnPoint Case5
+{
+	CameraHeading = "19.309"
+	CameraPitch = "2.153"
+	Location0 = "-218.566,17.659,-91.864"
+	Rotation0 = "0.308"
+}
+
+

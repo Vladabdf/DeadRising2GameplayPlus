@@ -1,0 +1,133 @@
+Vertices
+{
+	"-24.950,0.460,24.910"
+	"-24.950,0.460,-25.090"
+	"-10.450,0.460,-1.090"
+	"-8.410,0.460,-0.700"
+	"11.250,0.460,-0.660"
+	"25.050,0.460,24.910"
+	"-10.410,0.460,1.050"
+	"-8.660,0.460,1.050"
+	"13.340,0.460,-0.950"
+	"13.250,0.460,1.090"
+	"25.090,0.460,-24.950"
+	"11.500,0.460,1.090"
+}
+
+Polyhedrons
+{
+	PolyhedronEdges
+	{
+		"7"
+		"6"
+		"0"
+		"5"
+		"9"
+		"11"
+	}
+	PolyhedronEdges
+	{
+		"1"
+		"0"
+		"6"
+		"2"
+	}
+	PolyhedronEdges
+	{
+		"8"
+		"9"
+		"5"
+		"10"
+	}
+	PolyhedronEdges
+	{
+		"3"
+		"7"
+		"11"
+		"4"
+	}
+	PolyhedronEdges
+	{
+		"1"
+		"2"
+		"3"
+		"4"
+		"8"
+		"10"
+	}
+}
+
+Connections
+{
+	Connection
+	{
+		From = "0"
+		To = "5"
+		EdgeA = "5"
+		EdgeB = "9"
+	}
+	Connection
+	{
+		From = "0"
+		To = "1"
+		EdgeA = "6"
+		EdgeB = "0"
+	}
+	Connection
+	{
+		From = "0"
+		To = "3"
+		EdgeA = "11"
+		EdgeB = "7"
+	}
+	Connection
+	{
+		From = "1"
+		To = "2"
+		EdgeA = "2"
+		EdgeB = "1"
+	}
+	Connection
+	{
+		From = "1"
+		To = "0"
+		EdgeA = "0"
+		EdgeB = "6"
+	}
+	Connection
+	{
+		From = "2"
+		To = "5"
+		EdgeA = "8"
+		EdgeB = "10"
+	}
+	Connection
+	{
+		From = "2"
+		To = "1"
+		EdgeA = "1"
+		EdgeB = "2"
+	}
+	Connection
+	{
+		From = "2"
+		To = "4"
+		EdgeA = "3"
+		EdgeB = "8"
+	}
+	Connection
+	{
+		From = "3"
+		To = "4"
+		EdgeA = "4"
+		EdgeB = "3"
+	}
+	Connection
+	{
+		From = "3"
+		To = "0"
+		EdgeA = "7"
+		EdgeB = "11"
+	}
+}
+

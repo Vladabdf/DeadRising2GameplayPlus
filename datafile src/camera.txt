@@ -1,0 +1,2201 @@
+cThirdPersonCam OverShoulderCam
+{
+	Anticipate_CastRadius = "0.05"
+	Anticipate_ClosestPoleLengthOffset = "0.05"
+	Anticipate_HitPercentBias = "0.7"
+	Anticipate_InfluenceDampeningRate = "0.15"
+	Anticipate_PlayerSpeedSaturation = "6.0"
+	Collide_CastRadius = "0.3"
+	Collide_NearPlaneGrow = "0.5"
+	Drive_MaxSpeedTrackingSaturation = "4"
+	Drive_MaxTrackingRate = "0.04"
+	Drive_MinSpeedToStartTracking = "2"
+	Drive_Speed_LERP = "0.03"
+	Drive_TrackingRateHermite_0 = "0"
+	Drive_TrackingRateHermite_1 = "2"
+	FOV = "60"
+	PoleLength_Base = "3.8"
+	PoleLength_Dampening = "0.9"
+	PoleLength_LengthWhenRunningTowardsCam = "6.8"
+	Stick_Dampening = "0.8"
+	Stick_MaxPitch = "50.0"
+	Stick_MinPitch = "-20.0"
+	Stick_Sensitivity = "140.0"
+	Stick_SensitivityHermite_0 = "1.0"
+	Stick_SensitivityHermite_1 = "1.0"
+	Tracking_RayCastLength = "1.5"
+	Tracking_VerticalDampening = "0.8"
+	Tracking_VerticalOffset = "1.3"
+	Tracking_VerticalOffsetAtCloseRange = "1.65"
+}
+
+cThirdPersonCam OverShoulderCamNoGround
+{
+	Anticipate_CastRadius = "0.05"
+	Anticipate_ClosestPoleLengthOffset = "0.05"
+	Anticipate_HitPercentBias = "0.7"
+	Anticipate_InfluenceDampeningRate = "0.15"
+	Anticipate_PlayerSpeedSaturation = "6.0"
+	Collide_CastRadius = "0.3"
+	Collide_NearPlaneGrow = "0.5"
+	Drive_MaxSpeedTrackingSaturation = "4"
+	Drive_MaxTrackingRate = "0.04"
+	Drive_MinSpeedToStartTracking = "2"
+	Drive_Speed_LERP = "0.03"
+	Drive_TrackingRateHermite_0 = "0"
+	Drive_TrackingRateHermite_1 = "2"
+	FOV = "60"
+	PoleLength_Base = "3.8"
+	PoleLength_Dampening = "0.9"
+	PoleLength_LengthWhenRunningTowardsCam = "6.8"
+	Stick_Dampening = "0.8"
+	Stick_MaxPitch = "50.0"
+	Stick_MinPitch = "-20.0"
+	Stick_Sensitivity = "140.0"
+	Stick_SensitivityHermite_0 = "1.0"
+	Stick_SensitivityHermite_1 = "1.0"
+	Tracking_RayCastLength = "0.0"
+	Tracking_VerticalDampening = "0.8"
+	Tracking_VerticalOffset = "0.0"
+	Tracking_VerticalOffsetAtCloseRange = "0.35"
+}
+
+cWeaponThrowCamData WeaponOverrideCam
+{
+	FOV26 = "0"
+	PositionOffset10 = "0.0,2.000,2.9"
+	PositionOffset20 = "0.600,1.150,2.850"
+	PositionOffset25 = "0.600,1.150,2.850"
+	PositionOffset26 = "0.600,1.150,2.850"
+	PositionOffset27 = "0.800,1.100,3.600"
+	PositionOffset30 = "0.50000,1.4500,2.0"
+	PositionOffset38 = "0.500,1.55000,1.25"
+	PositionOffset42 = "0.300,1.450,1.550"
+	PositionOffset43 = "0.300,1.450,1.550"
+	PositionOffsetG01 = "0.500,1.55000,1.25"
+	PositionOffsetG02 = "0.500,1.55000,1.25"
+	PositionOffsetG03 = "0.500,1.55000,1.25"
+}
+
+cRangeModeCam AlternateWeaponViewCam
+{
+	FOV = "35"
+	Placement_Distance = "3"
+	Placement_X = ".4"
+	Placement_Y = "1.65"
+	Stick_Dampening = "0.025"
+	Stick_MaxPitch = "60.0"
+	Stick_MinPitch = "-50.0"
+	Stick_PostDampening = "0.7"
+	Stick_Sensitivity = "70"
+	Stick_SensitivityHermite_0 = "1"
+	Stick_SensitivityHermite_1 = "1"
+}
+
+cRangeModeCam BallBustersCam
+{
+	FOV = "35"
+	Placement_Distance = "3"
+	Placement_X = ".4"
+	Placement_Y = "1.65"
+	Stick_Dampening = ".35"
+	Stick_MaxPitch = "60.0"
+	Stick_MinPitch = "-50.0"
+	Stick_PostDampening = "0.9"
+	Stick_Sensitivity = "60"
+	Stick_SensitivityHermite_0 = "0"
+	Stick_SensitivityHermite_1 = "2"
+}
+
+cVehicleBehaviorCam StandardMotorcycleCam
+{
+	Drive_MaxSpeedTrackingSaturation = "15"
+	Drive_MaxTrackingRate = "0.5"
+	Drive_MinSpeedToStartTracking = "1"
+	Drive_SlyciclesStyle = "false"
+	Drive_Speed_LERP = "0.03"
+	Drive_TrackingRateHermite_0 = "0.0"
+	Drive_TrackingRateHermite_1 = "1.0"
+	FOV = "60"
+	Speed_BasePoleLength = "5"
+	Speed_CameraRollScaleAtMaxSpeed = ".4"
+	Speed_CameraShakeAtMaxSpeed = "0.00"
+	Speed_FOVOffsetAtMaxSpeed = "-7"
+	Speed_MaxPitchAtMaxSpeed = "5"
+	Speed_MinPitchAtMaxSpeed = "3"
+	Speed_MinSpeedForCameraShakeToKickIn = "18"
+	Speed_MinSpeedForEffectsToKickIn = "10"
+	Speed_OffsetAtMaxSpeed = "0.000,1,0.000"
+	Speed_PoleLengthAtMaxSpeed = "4.6"
+	Speed_SpeedInfluenceHermite_0 = "1.0"
+	Speed_SpeedInfluenceHermite_1 = "1.0"
+	Speed_SpeedSaturation = "20"
+	Stick_Dampening = "0.8"
+	Stick_MaxPitch = "50.0"
+	Stick_MinPitch = "-10.0"
+	Stick_Sensitivity = "120.0"
+	Stick_SensitivityHermite_0 = "1.0"
+	Stick_SensitivityHermite_1 = "1.0"
+	Tracking_RayCastLength = "0"
+	Tracking_VerticalDampening = "0.1"
+	Tracking_VerticalOffset = "0.2"
+	Tracking_VerticalOffsetAtCloseRange = "0.9"
+}
+
+cVehicleBehaviorCam MotorcycleCamUnderground
+{
+	Drive_MaxSpeedTrackingSaturation = "15"
+	Drive_MaxTrackingRate = "0.5"
+	Drive_MinSpeedToStartTracking = "1"
+	Drive_SlyciclesStyle = "false"
+	Drive_Speed_LERP = "0.03"
+	Drive_TrackingRateHermite_0 = "0.0"
+	Drive_TrackingRateHermite_1 = "1.0"
+	FOV = "60"
+	Speed_BasePoleLength = "5"
+	Speed_CameraRollScaleAtMaxSpeed = ".4"
+	Speed_CameraShakeAtMaxSpeed = "0.00"
+	Speed_FOVOffsetAtMaxSpeed = "-7"
+	Speed_MaxPitchAtMaxSpeed = "5"
+	Speed_MinPitchAtMaxSpeed = "3"
+	Speed_MinSpeedForCameraShakeToKickIn = "18"
+	Speed_MinSpeedForEffectsToKickIn = "10"
+	Speed_OffsetAtMaxSpeed = "0.000,0,0.000"
+	Speed_PoleLengthAtMaxSpeed = "3"
+	Speed_SpeedInfluenceHermite_0 = "1.0"
+	Speed_SpeedInfluenceHermite_1 = "1.0"
+	Speed_SpeedSaturation = "20"
+	Stick_Dampening = "0.8"
+	Stick_MaxPitch = "50.0"
+	Stick_MinPitch = "-10.0"
+	Stick_Sensitivity = "120.0"
+	Stick_SensitivityHermite_0 = "1.0"
+	Stick_SensitivityHermite_1 = "1.0"
+	Tracking_RayCastLength = "0"
+	Tracking_VerticalDampening = "0.1"
+	Tracking_VerticalOffset = "0.2"
+	Tracking_VerticalOffsetAtCloseRange = "0.2"
+}
+
+cVehicleBehaviorCam VehicleCam
+{
+	Drive_MaxSpeedTrackingSaturation = "15"
+	Drive_MaxTrackingRate = "0.5"
+	Drive_MinSpeedToStartTracking = "1"
+	Drive_Speed_LERP = "0.03"
+	Drive_TrackingRateHermite_0 = "0.0"
+	Drive_TrackingRateHermite_1 = "1.0"
+	FOV = "60"
+	Speed_BasePoleLength = "6.5"
+	Speed_CameraRollScaleAtMaxSpeed = ".4"
+	Speed_CameraShakeAtMaxSpeed = "0.00"
+	Speed_FOVOffsetAtMaxSpeed = "-7"
+	Speed_MaxPitchAtMaxSpeed = "5"
+	Speed_MinPitchAtMaxSpeed = "3"
+	Speed_MinSpeedForCameraShakeToKickIn = "18"
+	Speed_MinSpeedForEffectsToKickIn = "10"
+	Speed_OffsetAtMaxSpeed = "0.000,1,0.000"
+	Speed_PoleLengthAtMaxSpeed = "5.5"
+	Speed_SpeedInfluenceHermite_0 = "1.0"
+	Speed_SpeedInfluenceHermite_1 = "1.0"
+	Speed_SpeedSaturation = "20"
+	Stick_Dampening = "0.8"
+	Stick_MaxPitch = "50.0"
+	Stick_MinPitch = "-10.0"
+	Stick_Sensitivity = "120.0"
+	Stick_SensitivityHermite_0 = "1.0"
+	Stick_SensitivityHermite_1 = "1.0"
+	Tracking_RayCastLength = "0"
+	Tracking_VerticalDampening = "0.1"
+	Tracking_VerticalOffset = "0.2"
+	Tracking_VerticalOffsetAtCloseRange = "0.2"
+}
+
+cVehicleBehaviorCam inGameRollableCam
+{
+	Drive_MaxSpeedTrackingSaturation = "20"
+	Drive_MaxTrackingRate = "0.325"
+	Drive_MinSpeedToStartTracking = "1"
+	Drive_Speed_LERP = "0.03"
+	Drive_TrackingRateHermite_0 = "0.0"
+	Drive_TrackingRateHermite_1 = "1.0"
+	FOV = "48"
+	Speed_BasePoleLength = "8.5"
+	Speed_CameraRollScaleAtMaxSpeed = "-0.025"
+	Speed_CameraShakeAtMaxSpeed = "0.0"
+	Speed_FOVOffsetAtMaxSpeed = "-4"
+	Speed_MaxPitchAtMaxSpeed = "10"
+	Speed_MinPitchAtMaxSpeed = "0.2"
+	Speed_MinSpeedForCameraShakeToKickIn = "100"
+	Speed_MinSpeedForEffectsToKickIn = "3"
+	Speed_OffsetAtMaxSpeed = "0.000,1.000,0.000"
+	Speed_PoleLengthAtMaxSpeed = "8.5"
+	Speed_SpeedInfluenceHermite_0 = "0.0"
+	Speed_SpeedInfluenceHermite_1 = "1.0"
+	Speed_SpeedSaturation = "12.5"
+	Stick_Dampening = "0.8"
+	Stick_MaxPitch = "50.0"
+	Stick_MinPitch = "-10.0"
+	Stick_Sensitivity = "120.0"
+	Stick_SensitivityHermite_0 = "1.0"
+	Stick_SensitivityHermite_1 = "1.0"
+	Tracking_RayCastLength = "1.5"
+	Tracking_VerticalDampening = "0.4"
+	Tracking_VerticalOffset = "1.3"
+	Tracking_VerticalOffsetAtCloseRange = "1.6"
+}
+
+cOverShoulderCam OldOverShoulderCam
+{
+	BoomLengthDamp = "0.2"
+	BoomRotationDamp = "0.2"
+	FOV = "60"
+	Heading = "0.0"
+	MaxUserPitch = "50.0"
+	MinUserPitch = "-20.0"
+	Pitch = "-0.5"
+	PoleLength = "3.8"
+	PoleLengthTowardsCam = "4.8"
+	PosDamp = "0.5"
+	ReticleScreenHeading = "0.0"
+	ReticleScreenPitch = "0.0"
+	Roll = "0"
+	TargetDamp = "1.0"
+	TargetOffsetX = "0.0"
+	TargetOffsetY = "-0.15"
+	TargetOffsetZ = "0.0"
+}
+
+cThirdPersonCam OverShoulderCamMiniGame
+{
+	FOV = "60"
+	PoleLength_Base = "7.8"
+	PoleLength_Dampening = "0.9"
+	PoleLength_LengthWhenRunningTowardsCam = "7.8"
+	Stick_Dampening = "0.8"
+	Stick_MaxPitch = "50.0"
+	Stick_MinPitch = "-20.0"
+	Stick_Sensitivity = "120.0"
+	Stick_SensitivityHermite_0 = "1.0"
+	Stick_SensitivityHermite_1 = "1.0"
+	Tracking_RayCastLength = "1.5"
+	Tracking_VerticalDampening = "0.8"
+	Tracking_VerticalOffset = "1.3"
+	Tracking_VerticalOffsetAtCloseRange = "1.6"
+}
+
+cOverShoulderCam PoundOfFleshCam
+{
+	BoomLengthDamp = "0.2"
+	BoomRotationDamp = "0.2"
+	FOV = "65"
+	Heading = "0.0"
+	MaxUserPitch = "35.0"
+	MinUserPitch = "-13.5"
+	Pitch = "-0.5"
+	PoleLength = "3.6"
+	PoleLengthTowardsCam = "4.8"
+	PosDamp = "0.5"
+	ReticleScreenHeading = "0.0"
+	ReticleScreenPitch = "0.0"
+	Roll = "0"
+	TargetDamp = "1.0"
+	TargetOffsetX = "0.0"
+	TargetOffsetY = "-0.252"
+	TargetOffsetZ = "0.0"
+}
+
+cThirdPersonCam HatTrickCam
+{
+	Anticipate_CastRadius = "0.05"
+	Anticipate_ClosestPoleLengthOffset = "0.05"
+	Anticipate_HitPercentBias = "0.7"
+	Anticipate_InfluenceDampeningRate = "0.15"
+	Anticipate_PlayerSpeedSaturation = "6.0"
+	Collide_CastRadius = "0.3"
+	Collide_NearPlaneGrow = "0.5"
+	Drive_MaxSpeedTrackingSaturation = "4"
+	Drive_MaxTrackingRate = "0.04"
+	Drive_MinSpeedToStartTracking = "2"
+	Drive_Speed_LERP = "0.03"
+	Drive_TrackingRateHermite_0 = "0"
+	Drive_TrackingRateHermite_1 = "2"
+	FOV = "40"
+	PoleLength_Base = "10.5"
+	PoleLength_Dampening = "0.9"
+	PoleLength_LengthWhenRunningTowardsCam = "10.5"
+	Stick_Dampening = "0.8"
+	Stick_MaxPitch = "50.0"
+	Stick_MinPitch = "5.0"
+	Stick_Sensitivity = "140.0"
+	Stick_SensitivityHermite_0 = "1.0"
+	Stick_SensitivityHermite_1 = "1.0"
+	Tracking_RayCastLength = "1.5"
+	Tracking_VerticalDampening = "0.8"
+	Tracking_VerticalOffset = "1.3"
+	Tracking_VerticalOffsetAtCloseRange = "1.65"
+}
+
+cVehicleBehaviorCam TankCam
+{
+	ClipPrevention_TriggerDistance = "1"
+	Drive_MaxSpeedTrackingSaturation = "10"
+	Drive_MaxTrackingRate = "0.325"
+	Drive_MinSpeedToStartTracking = "0"
+	Drive_TrackingRateHermite_0 = "0.0"
+	Drive_TrackingRateHermite_1 = "1.0"
+	FOV = "48"
+	Speed_BasePoleLength = "10"
+	Speed_CameraRollScaleAtMaxSpeed = "0"
+	Speed_CameraShakeAtMaxSpeed = "0"
+	Speed_FOVOffsetAtMaxSpeed = "0"
+	Speed_MaxPitchAtMaxSpeed = "40"
+	Speed_MinPitchAtMaxSpeed = "10.0"
+	Speed_MinSpeedForCameraShakeToKickIn = "0"
+	Speed_MinSpeedForEffectsToKickIn = "0"
+	Speed_OffsetAtMaxSpeed = "0.0,0.04,0.000"
+	Speed_PoleLengthAtMaxSpeed = "10"
+	Speed_SpeedInfluenceHermite_0 = "0.0"
+	Speed_SpeedInfluenceHermite_1 = "1"
+	Speed_SpeedSaturation = "0"
+	Stick_Dampening = "0.5"
+	Stick_MaxPitch = "40"
+	Stick_MinPitch = "5"
+	Stick_Sensitivity = "120.0"
+	Stick_SensitivityHermite_0 = "0"
+	Stick_SensitivityHermite_1 = "1.0"
+	Tracking_RayCastLength = "1.5"
+	Tracking_VerticalDampening = "0.4"
+	Tracking_VerticalOffset = "2"
+	Tracking_VerticalOffsetAtCloseRange = "2"
+}
+
+cThirdPersonCam StickItCam
+{
+	Anticipate_CastRadius = "0.05"
+	Anticipate_ClosestPoleLengthOffset = "0.05"
+	Anticipate_HitPercentBias = "0.7"
+	Anticipate_InfluenceDampeningRate = "0.15"
+	Anticipate_PlayerSpeedSaturation = "6.0"
+	Collide_CastRadius = "0.3"
+	Collide_NearPlaneGrow = "0.5"
+	Drive_MaxSpeedTrackingSaturation = "4"
+	Drive_MaxTrackingRate = "0.04"
+	Drive_MinSpeedToStartTracking = "2"
+	Drive_Speed_LERP = "0.03"
+	Drive_TrackingRateHermite_0 = "0"
+	Drive_TrackingRateHermite_1 = "2"
+	FOV = "40"
+	PoleLength_Base = "10.5"
+	PoleLength_Dampening = "0.9"
+	PoleLength_LengthWhenRunningTowardsCam = "10.5"
+	Stick_Dampening = "0.8"
+	Stick_MaxPitch = "50.0"
+	Stick_MinPitch = "5.0"
+	Stick_Sensitivity = "140.0"
+	Stick_SensitivityHermite_0 = "1.0"
+	Stick_SensitivityHermite_1 = "1.0"
+	Tracking_RayCastLength = "1.5"
+	Tracking_VerticalDampening = "0.8"
+	Tracking_VerticalOffset = "1.3"
+	Tracking_VerticalOffsetAtCloseRange = "1.65"
+}
+
+cVehicleBehaviorCam SclicyclesCam
+{
+	Drive_MaxSpeedTrackingSaturation = "20"
+	Drive_MaxTrackingRate = "0.325"
+	Drive_MinSpeedToStartTracking = "1"
+	Drive_SlyciclesStyle = "true"
+	Drive_Speed_LERP = "0.03"
+	Drive_TrackingRateHermite_0 = "0.0"
+	Drive_TrackingRateHermite_1 = "1.0"
+	FOV = "48"
+	Speed_BasePoleLength = "4.5"
+	Speed_CameraRollScaleAtMaxSpeed = "-0.025"
+	Speed_CameraShakeAtMaxSpeed = "0.0"
+	Speed_FOVOffsetAtMaxSpeed = "-4"
+	Speed_MaxPitchAtMaxSpeed = "50.0"
+	Speed_MinPitchAtMaxSpeed = "2.0"
+	Speed_MinSpeedForCameraShakeToKickIn = "100"
+	Speed_MinSpeedForEffectsToKickIn = "1"
+	Speed_OffsetAtMaxSpeed = "0.000,0.000,0.000"
+	Speed_PoleLengthAtMaxSpeed = "8.5"
+	Speed_SpeedInfluenceHermite_0 = "0.0"
+	Speed_SpeedInfluenceHermite_1 = "1.0"
+	Speed_SpeedSaturation = "12.5"
+	Stick_Dampening = "0.8"
+	Stick_MaxPitch = "50.0"
+	Stick_MinPitch = "2.0"
+	Stick_Sensitivity = "120.0"
+	Stick_SensitivityHermite_0 = "1.0"
+	Stick_SensitivityHermite_1 = "1.0"
+	Tracking_RayCastLength = "1.5"
+	Tracking_TargetPitch = "0.5"
+	Tracking_VerticalDampening = "0.4"
+	Tracking_VerticalOffset = "1.3"
+	Tracking_VerticalOffsetAtCloseRange = "1.6"
+}
+
+cOverShoulderCam ShootingGalleryCam
+{
+	BoomLengthDamp = "0.2"
+	BoomRotationDamp = "0.2"
+	FOV = "65"
+	Heading = "0.0"
+	MaxUserPitch = "35.0"
+	MinUserPitch = "-13.5"
+	Pitch = "-0.5"
+	PoleLength = "3.6"
+	PoleLengthTowardsCam = "4.8"
+	PosDamp = "0.5"
+	ReticleScreenHeading = "0.0"
+	ReticleScreenPitch = "0.0"
+	Roll = "0"
+	TargetDamp = "1.0"
+	TargetOffsetX = "0.0"
+	TargetOffsetY = "-0.252"
+	TargetOffsetZ = "0.0"
+}
+
+cThirdPersonCam PikeCam
+{
+	FOV = "60"
+	PoleLength_Base = "6"
+	PoleLength_Dampening = "0.9"
+	PoleLength_LengthWhenRunningTowardsCam = "8"
+	Stick_Dampening = "0.8"
+	Stick_MaxPitch = "50.0"
+	Stick_MinPitch = "11.0"
+	Stick_Sensitivity = "120.0"
+	Stick_SensitivityHermite_0 = "1.0"
+	Stick_SensitivityHermite_1 = "1.0"
+	Tracking_RayCastLength = "1.5"
+	Tracking_VerticalDampening = "0.8"
+	Tracking_VerticalOffset = "1.3"
+	Tracking_VerticalOffsetAtCloseRange = "1.6"
+}
+
+cVehicleBehaviorCam WheelBarrowCam
+{
+	Drive_MaxSpeedTrackingSaturation = "20"
+	Drive_MaxTrackingRate = "0.5"
+	Drive_MinSpeedToStartTracking = "0.1"
+	Drive_TrackingRateHermite_0 = "0.0"
+	Drive_TrackingRateHermite_1 = "1.0"
+	FOV = "65"
+	Speed_BasePoleLength = "8"
+	Speed_CameraRollScaleAtMaxSpeed = "0"
+	Speed_CameraShakeAtMaxSpeed = "0"
+	Speed_FOVOffsetAtMaxSpeed = "-2"
+	Speed_MaxPitchAtMaxSpeed = "15"
+	Speed_MinPitchAtMaxSpeed = "10.0"
+	Speed_MinSpeedForCameraShakeToKickIn = "0"
+	Speed_MinSpeedForEffectsToKickIn = "0"
+	Speed_OffsetAtMaxSpeed = "0.0,0.04,0.000"
+	Speed_PoleLengthAtMaxSpeed = "8"
+	Speed_SpeedInfluenceHermite_0 = "0.0"
+	Speed_SpeedInfluenceHermite_1 = "1"
+	Speed_SpeedSaturation = "23"
+	Stick_Dampening = "0.5"
+	Stick_MaxPitch = "30"
+	Stick_MinPitch = "10"
+	Stick_Sensitivity = "120.0"
+	Stick_SensitivityHermite_0 = "1.0"
+	Stick_SensitivityHermite_1 = "1.0"
+	Tracking_RayCastLength = "1.5"
+	Tracking_VerticalDampening = "0.1"
+	Tracking_VerticalOffset = "1.3"
+	Tracking_VerticalOffsetAtCloseRange = "1.6"
+}
+
+cVehicleBehaviorCam PushableCam
+{
+	Drive_MaxSpeedTrackingSaturation = "20"
+	Drive_MaxTrackingRate = "0.5"
+	Drive_MinSpeedToStartTracking = "0.1"
+	Drive_TrackingRateHermite_0 = "0.0"
+	Drive_TrackingRateHermite_1 = "1.0"
+	FOV = "65"
+	Speed_BasePoleLength = "4"
+	Speed_CameraRollScaleAtMaxSpeed = "0"
+	Speed_CameraShakeAtMaxSpeed = "0"
+	Speed_FOVOffsetAtMaxSpeed = "-2"
+	Speed_MaxPitchAtMaxSpeed = "15"
+	Speed_MinPitchAtMaxSpeed = "10.0"
+	Speed_MinSpeedForCameraShakeToKickIn = "0"
+	Speed_MinSpeedForEffectsToKickIn = "0"
+	Speed_OffsetAtMaxSpeed = "0.0,0.04,0.000"
+	Speed_PoleLengthAtMaxSpeed = "4"
+	Speed_SpeedInfluenceHermite_0 = "0.0"
+	Speed_SpeedInfluenceHermite_1 = "1"
+	Speed_SpeedSaturation = "23"
+	Stick_Dampening = "0.5"
+	Stick_MaxPitch = "30"
+	Stick_MinPitch = "10"
+	Stick_Sensitivity = "120.0"
+	Stick_SensitivityHermite_0 = "1.0"
+	Stick_SensitivityHermite_1 = "1.0"
+	Tracking_RayCastLength = "1.5"
+	Tracking_VerticalDampening = "0.1"
+	Tracking_VerticalOffset = "1.3"
+	Tracking_VerticalOffsetAtCloseRange = "1.6"
+}
+
+cWeaponViewCam BowlingCam
+{
+	BoomLengthDamp = "0.2"
+	BoomRotationDamp = "0.2"
+	FOV = "35"
+	Heading = "0.0"
+	MaxUserPitch = "38"
+	MinUserPitch = "-30.0"
+	Pitch = "-0.5"
+	PoleLength = "3.5"
+	PosDamp = "0.5"
+	PosHeadingOffset = "5.0"
+	PosPitchOffset = "1.5"
+	ReticleScreenHeading = "0.0"
+	ReticleScreenPitch = "0.0"
+	Roll = "0"
+	TargetDamp = "1.0"
+}
+
+cWeaponViewCam GolfingCam
+{
+	BoomLengthDamp = "0.2"
+	BoomRotationDamp = "0.2"
+	FOV = "35"
+	Heading = "0.0"
+	MaxUserPitch = "38"
+	MinUserPitch = "-30.0"
+	Pitch = "-0.5"
+	PoleLength = "4"
+	PosDamp = "0.5"
+	PosHeadingOffset = "15.0"
+	PosPitchOffset = "2.5"
+	ReticleScreenHeading = "0.0"
+	ReticleScreenPitch = "0.0"
+	Roll = "0"
+	TargetDamp = "1.0"
+}
+
+cWeaponViewCam LargeBoxThrow
+{
+	BoomLengthDamp = "0.2"
+	BoomRotationDamp = "0.2"
+	FOV = "35"
+	Heading = "0.0"
+	MaxUserPitch = "38"
+	MinUserPitch = "-30.0"
+	Pitch = "-0.5"
+	PoleLength = "2.0"
+	PosDamp = "0.5"
+	PosHeadingOffset = "5.0"
+	PosPitchOffset = "1.5"
+	ReticleScreenHeading = "0.0"
+	ReticleScreenPitch = "0.0"
+	Roll = "0"
+	TargetDamp = "1.0"
+}
+
+cSniperModeCam SniperCam
+{
+	EnableFocusPointProjection = "true"
+	FOV_Dampen = ".7"
+	FOV_Default = "30"
+	FOV_Max = "30"
+	FOV_Min = "20"
+	FOV_Rate = "2"
+	Hide_Distance = "1.2"
+	Placement_Distance = "0.01"
+	Placement_X = ".25"
+	Placement_Y = "1.52"
+	Stick_Dampening = "0.500"
+	Stick_MaxPitch = "60.0"
+	Stick_MinPitch = "-50.0"
+	Stick_Sensitivity = "28.000"
+	Stick_SensitivityHermite_0 = ".2"
+	Stick_SensitivityHermite_1 = "1"
+}
+
+cSniperModeCam MinigameSniperCam
+{
+	EnableFocusPointProjection = "true"
+	FOV_Dampen = "0.7"
+	FOV_Default = "15.0"
+	FOV_Max = "40"
+	FOV_Min = "15.000"
+	FOV_Rate = "2"
+	Hide_Distance = "1.2"
+	Placement_Distance = "0.01"
+	Placement_X = ".5"
+	Placement_Y = "1.52"
+	Stick_Dampening = "0.500"
+	Stick_MaxPitch = "60.0"
+	Stick_MinPitch = "-50.0"
+	Stick_Sensitivity = "28.000"
+	Stick_SensitivityHermite_0 = ".2"
+	Stick_SensitivityHermite_1 = "1"
+}
+
+cCannonCam CannonCam
+{
+	DistanceFromPlayer = "0.75"
+	MaxUserPitch = "0"
+	MinUserPitch = "-30.0"
+	Pitch = "0"
+	PoleLength = "1.5"
+	PosHeightOffset = "1.5"
+	PosRightOffset = "-0.5"
+}
+
+cVehicleCam OldStandardMotorcycleCam
+{
+	BoomLengthDamp = ".2"
+	BoomRotationDamp = "0.5"
+	DefaultAimPitch = "22.5"
+	FOV = "50"
+	Heading = "0"
+	MaxSpeedForCalcs = "43.5"
+	MaxUserPitch = "30"
+	MinUserPitch = "22.5"
+	Pitch = "10"
+	PoleLength = "5"
+	PoleLengthAtSpeed = "3"
+	PoleLengthTowardsCam = "6.6"
+	PosDamp = "1"
+	Roll = "0"
+	RotationDampingAtSpeed = "0.25"
+	RotationDampingAtStop = "0.0"
+	TargetDamp = "1.0"
+	TargetOffsetX = "0.0"
+	TargetOffsetY = "0.0"
+	TargetOffsetZ = "0.0"
+}
+
+cVehicleBehaviorCam WheelchairTank
+{
+	ClipPrevention_TriggerDistance = "0.5"
+	Drive_MaxSpeedTrackingSaturation = "5"
+	Drive_MaxTrackingRate = "0.325"
+	Drive_MinSpeedToStartTracking = "0.5"
+	Drive_TrackingRateHermite_0 = "0.0"
+	Drive_TrackingRateHermite_1 = "1.0"
+	FOV = "65"
+	Speed_BasePoleLength = "4.0"
+	Speed_CameraRollScaleAtMaxSpeed = "-0.025"
+	Speed_CameraShakeAtMaxSpeed = "0.0"
+	Speed_FOVOffsetAtMaxSpeed = "0"
+	Speed_MaxPitchAtMaxSpeed = "20"
+	Speed_MinPitchAtMaxSpeed = "10.0"
+	Speed_MinSpeedForCameraShakeToKickIn = "100"
+	Speed_MinSpeedForEffectsToKickIn = "1"
+	Speed_OffsetAtMaxSpeed = "0.000,0.000,0.000"
+	Speed_PoleLengthAtMaxSpeed = "8.5"
+	Speed_SpeedInfluenceHermite_0 = "0.0"
+	Speed_SpeedInfluenceHermite_1 = "1.0"
+	Speed_SpeedSaturation = "12.5"
+	Stick_Dampening = "0.8"
+	Stick_MaxPitch = "50.0"
+	Stick_MinPitch = "-20.0"
+	Stick_Sensitivity = "120.0"
+	Stick_SensitivityHermite_0 = "1.0"
+	Stick_SensitivityHermite_1 = "1.0"
+	Tracking_RayCastLength = "1.5"
+	Tracking_VerticalDampening = "0.4"
+	Tracking_VerticalOffset = "1.2"
+	Tracking_VerticalOffsetAtCloseRange = "1.6"
+}
+
+cRollableCam RamsterBallCam_Chase
+{
+	BoomLengthDamp = "0.2"
+	BoomRotationDamp = "0.2"
+	FOV = "40"
+	Heading = "0.0"
+	MaxUserPitch = "30"
+	MinUserPitch = "0"
+	Pitch = "3"
+	PoleLength = "9.0"
+	PoleLengthTowardsCam = "12.0"
+	PosDamp = "1.0"
+	Roll = "0"
+	TargetDamp = "1.0"
+	TargetOffsetY = "0.6"
+}
+
+cRollableCam RamsterBallCam
+{
+	BoomLengthDamp = "0.2"
+	BoomRotationDamp = "0.2"
+	FOV = "32"
+	Heading = "0.0"
+	MaxUserPitch = "50"
+	MinUserPitch = "10"
+	Pitch = "3"
+	PoleLength = "15.0"
+	PoleLengthTowardsCam = "20.0"
+	PosDamp = "1.0"
+	Roll = "0"
+	TargetDamp = "1.0"
+}
+
+cRollableCam RollableCam
+{
+	BoomLengthDamp = "0.2"
+	BoomRotationDamp = "0.2"
+	FOV = "24"
+	Heading = "0.0"
+	MaxUserPitch = "50"
+	MinUserPitch = "10"
+	Pitch = "3"
+	PoleLength = "20.0"
+	PoleLengthTowardsCam = "30.0"
+	PosDamp = "1.0"
+	Roll = "0"
+	TargetDamp = "1.0"
+}
+
+cAxisCam AxisCamX
+{
+	XAxis = "1.0"
+	YAxis = "0.0"
+	ZAxis = "0.0"
+}
+
+cAxisCam AxisCamY
+{
+	XAxis = "0.0"
+	YAxis = "1.0"
+	ZAxis = "0.0"
+}
+
+cAxisCam AxisCamZ
+{
+	XAxis = "0.0"
+	YAxis = "0.0"
+	ZAxis = "1.0"
+}
+
+cAnimViewCam AnimViewCam
+{
+	BoomLengthDamp = "0.2"
+	BoomRotationDamp = "0.2"
+	FOV = "65"
+	Heading = "0.0"
+	MaxUserPitch = "30"
+	MinUserPitch = "-15"
+	Pitch = "-0.5"
+	PoleLength = "4.33"
+	PoleLengthTowardsCam = "6.66"
+	PosDamp = "1.0"
+	Roll = "0"
+	TargetDamp = "1.0"
+}
+
+cPosterCam PosterCam
+{
+	BoomLengthDamp = "0.2"
+	BoomRotationDamp = "0.2"
+	PosDamp = ".2"
+	TargetDamp = ".2"
+}
+
+cFirstPersonCam FirstPersonCam
+{
+	BoomLengthDamp = "0.2"
+	BoomRotationDamp = "0.2"
+	PosDamp = ".4"
+	TargetDamp = ".2"
+}
+
+cMiniGameHatTrickCam MiniGameHatTrickCam0
+{
+	CameraHeight = "3.0"
+	FOV = "64"
+	Heading = "-180.000"
+	Pitch = "-21.000"
+	PosX = "0.000"
+	PosY = "2.723"
+	PosZ = "17.950"
+	TVPosX = "15.0"
+	TVPosY = "3.0"
+	TVPosZ = "28.0"
+}
+
+cMiniGameHatTrickCam MiniGameHatTrickCam1
+{
+	CameraHeight = "3.0"
+	FOV = "64"
+	Heading = "0.000"
+	Pitch = "-21.080"
+	PosX = "0.000"
+	PosY = "2.723"
+	PosZ = "-17.950"
+	TVPosX = "15.0"
+	TVPosY = "3.0"
+	TVPosZ = "28.0"
+}
+
+cMiniGamePikeCam PikeOrbitCam
+{
+	FOV = "60"
+	OrbitHeight = "2.5"
+	OrbitRadius = "4.5"
+	OrbitSpeed = "0.015"
+}
+
+cOverShoulderCam BossThrowCam
+{
+	BoomLengthDamp = "0.2"
+	BoomRotationDamp = "0.2"
+	FOV = "60"
+	Heading = "0.0"
+	MaxUserPitch = "70"
+	MinUserPitch = "-30.0"
+	Pitch = "-0.5"
+	PoleLength = "4.5"
+	PoleLengthTowardsCam = "7.0"
+	PosDamp = "1.0"
+	Roll = "0"
+	TargetDamp = "1.0"
+}
+
+cStationaryCam StationaryCam
+{
+	BoomLengthDamp = "1.0"
+	BoomRotationDamp = "1.0"
+}
+
+cWeaponAttackCam WeaponAngle1
+{
+	CameraDistanceFromPlayer = "1.8"
+	CameraHeight = "1.6"
+	CameraRotationAroundPlayer = "3.80"
+	TargetDistanceFromPlayer = "1.4"
+	TargetHeight = "0.9"
+	TargetRotationAroundPlayer = "0.1"
+}
+
+cWeaponAttackCam WeaponAngle2
+{
+	CameraDistanceFromPlayer = "3.8"
+	CameraHeight = "0.5"
+	CameraRotationAroundPlayer = "5.7"
+	TargetDistanceFromPlayer = "1.3"
+	TargetHeight = "1.1"
+	TargetRotationAroundPlayer = "-0.3"
+}
+
+cWeaponAttackCam WeaponAngle3
+{
+	CameraDistanceFromPlayer = "3.0"
+	CameraHeight = "1.9"
+	CameraRotationAroundPlayer = "6.6"
+	TargetDistanceFromPlayer = "0.8"
+	TargetHeight = "1.1"
+	TargetRotationAroundPlayer = "0.0"
+}
+
+cWeaponAttackCam WeaponAngle4
+{
+	CameraDistanceFromPlayer = "1.8"
+	CameraHeight = "1.8"
+	CameraRotationAroundPlayer = "1.6"
+	TargetDistanceFromPlayer = "1.0"
+	TargetHeight = "0.90"
+	TargetRotationAroundPlayer = "5.075"
+}
+
+cWeaponAttackCam WeaponAngle5
+{
+	CameraDistanceFromPlayer = "2.2"
+	CameraHeight = "3.3"
+	CameraRotationAroundPlayer = "4.2"
+	TargetDistanceFromPlayer = "0.3"
+	TargetHeight = "1.4"
+	TargetRotationAroundPlayer = "0.0"
+}
+
+cWeaponAttackCam WeaponAngle6
+{
+	CameraDistanceFromPlayer = "3.5"
+	CameraHeight = "0.8"
+	CameraRotationAroundPlayer = "4.9"
+	TargetDistanceFromPlayer = "0.5"
+	TargetHeight = "1.350"
+	TargetRotationAroundPlayer = "0.0"
+}
+
+cStandardCam minigame_transition_1
+{
+	FOV = "40.000"
+	Heading = "-129.527"
+	Pitch = "27.041"
+	PosX = "17.988"
+	PosY = "11.203"
+	PosZ = "9.142"
+	Roll = "0.000"
+}
+
+cStandardCam minigame_transition_2
+{
+	FOV = "40.000"
+	Heading = "140"
+	Pitch = "27.041"
+	PosX = "-10.520"
+	PosY = "11.203"
+	PosZ = "17.925"
+	Roll = "0.000"
+}
+
+cStandardCam minigame_transition_3
+{
+	FOV = "40.000"
+	Heading = "51.487"
+	Pitch = "27.041"
+	PosX = "-19.520"
+	PosY = "11.203"
+	PosZ = "-10.525"
+	Roll = "0.000"
+}
+
+cStandardCam minigame_transition_4
+{
+	FOV = "40.000"
+	Heading = "-40"
+	Pitch = "27.041"
+	PosX = "10"
+	PosY = "11.203"
+	PosZ = "-18"
+	Roll = "0.000"
+}
+
+cStandardCam minigame_pregame_1
+{
+	FOV = "40.000"
+	Heading = "164.894"
+	Pitch = "-15.030"
+	PosX = "-21.136"
+	PosY = "22.402"
+	PosZ = "76.834"
+	Roll = "0.000"
+}
+
+cStandardPoleCam minigame_intro_ramsterball1
+{
+	FOV = "45.000"
+	Heading = "0"
+	Pitch = "0"
+	PoleHeading = "-0.6"
+	PoleLength = "39.7"
+	PolePitch = "0.116"
+	PosX = "0.0"
+	PosY = "2.6"
+	PosZ = "0.0"
+	Roll = "0.000"
+	TargetX = "0"
+	TargetY = "2.6"
+	TargetZ = "0"
+}
+
+cStandardPoleCam minigame_intro_ramsterball2
+{
+	FOV = "45.000"
+	Heading = "0"
+	Pitch = "0"
+	PoleHeading = "0.4"
+	PoleLength = "39.7"
+	PolePitch = "0.316"
+	PosX = "0.0"
+	PosY = "2.6"
+	PosZ = "0.0"
+	Roll = "0.000"
+	TargetX = "0"
+	TargetY = "2.6"
+	TargetZ = "0"
+}
+
+cStandardPoleCam minigame_intro_headache1
+{
+	FOV = "45.000"
+	Heading = "-7.8"
+	Pitch = "0.5"
+	PoleHeading = "-0.5"
+	PoleLength = "24"
+	PolePitch = "0.056"
+	PosX = "0.0"
+	PosY = "2.6"
+	PosZ = "0.0"
+	Roll = "0.000"
+	TargetX = "0"
+	TargetY = "0"
+	TargetZ = "0"
+}
+
+cStandardPoleCam minigame_intro_headache2
+{
+	FOV = "45.000"
+	Heading = "-8.3"
+	Pitch = "0.5"
+	PoleHeading = "-0.5"
+	PoleLength = "24"
+	PolePitch = "0.056"
+	PosX = "0.0"
+	PosY = "2.6"
+	PosZ = "0.0"
+	Roll = "0.000"
+	TargetX = "0"
+	TargetY = "0"
+	TargetZ = "0"
+}
+
+cStandardCam minigame_intro_hattrick
+{
+	FOV = "40.000"
+	Heading = "164.894"
+	Pitch = "-15.030"
+	PosX = "-21.136"
+	PosY = "22.402"
+	PosZ = "76.834"
+	Roll = "0.000"
+}
+
+cStandardCam minigame_intro_moosehead
+{
+	FOV = "40.000"
+	Heading = "164.894"
+	Pitch = "-15.030"
+	PosX = "-21.136"
+	PosY = "22.402"
+	PosZ = "76.834"
+	Roll = "0.000"
+}
+
+cStandardCam minigame_intro_lawnmower
+{
+	FOV = "40.000"
+	Heading = "164.894"
+	Pitch = "-15.030"
+	PosX = "-21.136"
+	PosY = "22.402"
+	PosZ = "76.834"
+	Roll = "0.000"
+}
+
+cStandardCam minigame_lockerroom_cam
+{
+	FOV = "30.455"
+	Heading = "-4.447"
+	Pitch = "15.661"
+	PosX = "0.347"
+	PosY = "5.813"
+	PosZ = "-54.810"
+	Roll = "0.000"
+}
+
+cGrappleCam grapple_front
+{
+	Chuck_Target_Bone = "BONE_HEAD"
+	Desired_FOV_Offset = "15.000"
+	Grapple_Type = "0"
+	Max_Distance = "100.0"
+	Max_Yaw = "360.0"
+	Min_Distance = "7.0"
+	Min_Yaw = "-360.0"
+	Pole_Length = "1.5"
+	Transition_Time = "0.25"
+	Zombie_Bone_influence = "0.2"
+	Zombie_Target_Bone = "BONE_HEAD"
+}
+
+cGrappleCam grapple_back
+{
+	Chuck_Target_Bone = "BONE_JAW"
+	Desired_FOV_Offset = "-35.000"
+	Grapple_Type = "1"
+	Max_Distance = "100.0"
+	Max_Yaw = "360.0"
+	Min_Distance = "7.0"
+	Min_Yaw = "-360.0"
+	Pole_Length = "1.5"
+	Transition_Time = "0.25"
+	Zombie_Bone_influence = "0.2"
+	Zombie_Target_Bone = "BONE_JAW"
+}
+
+cGrappleCam grapple_crotch
+{
+	Chuck_Target_Bone = "BONE_HEAD"
+	Desired_FOV_Offset = "-35.000"
+	Grapple_Type = "2"
+	Max_Distance = "100.0"
+	Max_Yaw = "360.0"
+	Min_Distance = "7.0"
+	Min_Yaw = "-360.0"
+	Pole_Length = "1.5"
+	Transition_Time = "0.25"
+	Zombie_Bone_influence = "0.2"
+	Zombie_Target_Bone = "BONE_HEAD"
+}
+
+cGrappleCam grapple_ground_on_face
+{
+	Chuck_Target_Bone = "BONE_NECK"
+	Desired_FOV_Offset = "-35.000"
+	Grapple_Type = "3"
+	Max_Distance = "100.0"
+	Max_Yaw = "360.0"
+	Min_Distance = "7.0"
+	Min_Yaw = "-360.0"
+	Pole_Length = "1.5"
+	Transition_Time = "0.25"
+	Zombie_Bone_influence = "0.2"
+	Zombie_Target_Bone = "BONE_NECK"
+}
+
+cGrappleCam grapple_ground_on_back
+{
+	Chuck_Target_Bone = "BONE_LEFT_HAND"
+	Desired_FOV_Offset = "-35.000"
+	Grapple_Type = "4"
+	Max_Distance = "100.0"
+	Max_Yaw = "360.0"
+	Min_Distance = "7.0"
+	Min_Yaw = "-360.0"
+	Pole_Length = "1.5"
+	Transition_Time = "0.25"
+	Zombie_Bone_influence = "0.2"
+	Zombie_Target_Bone = "BONE_NECK"
+}
+
+cGrappleCam grapple_gas_front
+{
+	Chuck_Target_Bone = "BONE_NECK"
+	Cinematic_Camera_Influence = "0.5"
+	Cinematic_Camera_Override = "gnd_gpl_back_right"
+	Desired_FOV_Offset = "-35.000"
+	Grapple_Type = "5"
+	Max_Distance = "100.0"
+	Max_Yaw = "360.0"
+	Min_Distance = "7.0"
+	Min_Yaw = "-360.0"
+	Pole_Length = "1.5"
+	Transition_Time = "0.25"
+	Zombie_Bone_influence = "0.2"
+	Zombie_Target_Bone = "BONE_NECK"
+}
+
+cGrappleCam grapple_gas_back
+{
+	Chuck_Target_Bone = "BONE_NECK"
+	Cinematic_Camera_Influence = "0.5"
+	Cinematic_Camera_Override = "gnd_gpl_back_right"
+	Desired_FOV_Offset = "-35.000"
+	Grapple_Type = "6"
+	Max_Distance = "100.0"
+	Max_Yaw = "360.0"
+	Min_Distance = "7.0"
+	Min_Yaw = "-360.0"
+	Pole_Length = "1.5"
+	Transition_Time = "0.25"
+	Zombie_Bone_influence = "0.2"
+	Zombie_Target_Bone = "BONE_NECK"
+}
+
+cGrappleCam grapple_gas_ground_on_face
+{
+	Chuck_Target_Bone = "BONE_NECK"
+	Cinematic_Camera_Influence = "0.5"
+	Cinematic_Camera_Override = "gnd_gpl_back_right"
+	Desired_FOV_Offset = "-35.000"
+	Grapple_Type = "7"
+	Max_Distance = "100.0"
+	Max_Yaw = "360.0"
+	Min_Distance = "7.0"
+	Min_Yaw = "-360.0"
+	Pole_Length = "1.5"
+	Transition_Time = "0.25"
+	Zombie_Bone_influence = "0.2"
+	Zombie_Target_Bone = "BONE_NECK"
+}
+
+cGrappleCam grapple_gas_ground_on_back
+{
+	Chuck_Target_Bone = "BONE_NECK"
+	Cinematic_Camera_Influence = "0.5"
+	Cinematic_Camera_Override = "gnd_gpl_back_right"
+	Desired_FOV_Offset = "-35.000"
+	Grapple_Type = "8"
+	Max_Distance = "100.0"
+	Max_Yaw = "360.0"
+	Min_Distance = "7.0"
+	Min_Yaw = "-360.0"
+	Pole_Length = "1.5"
+	Transition_Time = "0.25"
+	Zombie_Bone_influence = "0.2"
+	Zombie_Target_Bone = "BONE_NECK"
+}
+
+cPropRelativeCam slotmachine_stand_camera
+{
+	CameraOffsetX = "1.090"
+	CameraOffsetY = "1.020"
+	CameraOffsetZ = "-0.850"
+	FOV = "60"
+	Roll = "3"
+	TargetOffsetX = "-0.020"
+	TargetOffsetY = "0.790"
+	TargetOffsetZ = "-0.310"
+}
+
+cPropRelativeCam moneybooth_camera
+{
+	CameraOffsetX = "0.000"
+	CameraOffsetY = "2.500"
+	CameraOffsetZ = "3.200"
+	FOV = "60"
+	TargetOffsetX = "0.000"
+	TargetOffsetY = "1.500"
+	TargetOffsetZ = "-.050"
+}
+
+cStandardCam peepshow_camera
+{
+	FOV = "60"
+	Heading = "2"
+	Pitch = "-0.16549"
+	PosX = "25.0224"
+	PosY = "2.89466"
+	PosZ = "-79.95574"
+	Roll = "0"
+}
+
+cPropRelativeCam standee_camera
+{
+	CameraOffsetX = "0.120"
+	CameraOffsetY = "1.720"
+	CameraOffsetZ = "2.570"
+	FOV = "25.000"
+	Roll = "0"
+	TargetOffsetX = "0.030"
+	TargetOffsetY = "0.740"
+	TargetOffsetZ = "-3.920"
+}
+
+cRootRelativePoleCam mechanicalbull_camera
+{
+	FOV = "65"
+	Placement_Distance = "3.0"
+	Placement_X = "0.0"
+	Placement_Y = "1.5"
+}
+
+cPropRelativeCam golfbooth_camera
+{
+	CameraOffsetX = "-0.270"
+	CameraOffsetY = "1.200"
+	CameraOffsetZ = "-2.160"
+	EffectiveDepthOfField = "3"
+	FOV = "64"
+	TargetOffsetX = "-0.080"
+	TargetOffsetY = "0.740"
+	TargetOffsetZ = "-0.070"
+}
+
+cPropRelativeCam gyroscope_camera
+{
+	CameraOffsetX = "-0.330"
+	CameraOffsetY = "0.980"
+	CameraOffsetZ = "1.680"
+	FOV = "60"
+	TargetOffsetX = "23.610"
+	TargetOffsetY = "-0.460"
+	TargetOffsetZ = "-9.760"
+}
+
+cPropRelativeCam pokercamera_5
+{
+	CameraOffsetX = "0.080"
+	CameraOffsetY = "1.25"
+	CameraOffsetZ = "-2.660"
+	FOV = "40"
+	TargetOffsetX = "0.360"
+	TargetOffsetY = "-1.15"
+	TargetOffsetZ = "9.020"
+}
+
+cPropRelativeCam pokercamera_4
+{
+	CameraOffsetX = "0.470"
+	CameraOffsetY = "1.01"
+	CameraOffsetZ = "-1.720"
+	FOV = "40"
+	TargetOffsetX = "0.750"
+	TargetOffsetY = "-0.84"
+	TargetOffsetZ = "6.800"
+}
+
+cPropRelativeCam pokercamera_3
+{
+	CameraOffsetX = "0.230"
+	CameraOffsetY = "0.99"
+	CameraOffsetZ = "-1.320"
+	FOV = "65"
+	Roll = "0.000"
+	TargetOffsetX = "1.410"
+	TargetOffsetY = "0.33"
+	TargetOffsetZ = "1"
+}
+
+cPropRelativeCam pokercamera_2
+{
+	CameraOffsetX = "-0.780"
+	CameraOffsetY = "1.20"
+	CameraOffsetZ = "-0.070"
+	FOV = "40"
+	TargetOffsetX = "3.290"
+	TargetOffsetY = "-0.18"
+	TargetOffsetZ = "-0.020"
+}
+
+cPropRelativeCam pokercamera_other
+{
+	CameraOffsetX = "1.390"
+	CameraOffsetY = "-0.1"
+	CameraOffsetZ = "1.200"
+	FOV = "60"
+	TargetOffsetX = "0.010"
+	TargetOffsetY = "0.47"
+	TargetOffsetZ = "-9.760"
+}
+
+cPropRelativeCam pokercamera_Chuck1
+{
+	CameraOffsetX = "0.360"
+	CameraOffsetY = "0.78"
+	CameraOffsetZ = "2.030"
+	FOV = "20"
+	TargetOffsetX = "2.780"
+	TargetOffsetY = "0.33"
+	TargetOffsetZ = "-9.860"
+}
+
+cPropRelativeCam pokercamera_closeup1
+{
+	CameraOffsetX = "0.360"
+	CameraOffsetY = "0.88"
+	CameraOffsetZ = "2.030"
+	FOV = "15"
+	TargetOffsetX = "2.780"
+	TargetOffsetY = "0.33"
+	TargetOffsetZ = "-9.860"
+}
+
+cPropRelativeCam pokercamera_closeup2
+{
+	CameraOffsetX = "-0.260"
+	CameraOffsetY = "0.85"
+	CameraOffsetZ = "-1.640"
+	FOV = "15"
+	TargetOffsetX = "3.730"
+	TargetOffsetY = "0.53"
+	TargetOffsetZ = "5"
+}
+
+cPropRelativeCam pokercamera_closeup3
+{
+	CameraOffsetX = "0.280"
+	CameraOffsetY = "0.85"
+	CameraOffsetZ = "-2.050"
+	FOV = "15"
+	TargetOffsetX = "-0.02"
+	TargetOffsetY = "0.72"
+	TargetOffsetZ = "5"
+}
+
+cPropRelativeCam pokercamera_closeup4
+{
+	CameraOffsetX = "0.110"
+	CameraOffsetY = "0.99"
+	CameraOffsetZ = "-2.070"
+	DOFEnabled = "false"
+	FOV = "15"
+	TargetOffsetX = "-1.51"
+	TargetOffsetY = "0.56"
+	TargetOffsetZ = "5"
+}
+
+cPropRelativeCam pokercamera_closeup5
+{
+	CameraOffsetX = "-0.590"
+	CameraOffsetY = "0.81"
+	CameraOffsetZ = "-0.340"
+	FOV = "60"
+	TargetOffsetX = "-4.07"
+	TargetOffsetY = "0.86"
+	TargetOffsetZ = "5"
+}
+
+cPropRelativeCam pokercamera_quitecloseup1
+{
+	CameraOffsetX = "0.360"
+	CameraOffsetY = "0.95"
+	CameraOffsetZ = "2.030"
+	FOV = "10"
+	TargetOffsetX = "2.780"
+	TargetOffsetY = "0.33"
+	TargetOffsetZ = "-9.860"
+}
+
+cPropRelativeCam pokercamera_quitecloseup2
+{
+	CameraOffsetX = "-0.26"
+	CameraOffsetY = "0.95"
+	CameraOffsetZ = "-1.64"
+	FOV = "12"
+	TargetOffsetX = "3.73"
+	TargetOffsetY = "0.47"
+	TargetOffsetZ = "5"
+}
+
+cPropRelativeCam pokercamera_quitecloseup3
+{
+	CameraOffsetX = "0.280"
+	CameraOffsetY = "0.7"
+	CameraOffsetZ = "-1.230"
+	FOV = "12"
+	TargetOffsetX = "0.070"
+	TargetOffsetY = "1.23"
+	TargetOffsetZ = "5"
+}
+
+cPropRelativeCam pokercamera_quitecloseup4
+{
+	CameraOffsetX = "0.050"
+	CameraOffsetY = "0.85"
+	CameraOffsetZ = "-1.480"
+	FOV = "12"
+	TargetOffsetX = "-1.520"
+	TargetOffsetY = "0.68"
+	TargetOffsetZ = "5"
+}
+
+cPropRelativeCam pokercamera_quitecloseup5
+{
+	CameraOffsetX = "-0.590"
+	CameraOffsetY = "0.81"
+	CameraOffsetZ = "-0.340"
+	FOV = "60"
+	TargetOffsetX = "-3.980"
+	TargetOffsetY = "0.77"
+	TargetOffsetZ = "5"
+}
+
+cPropRelativeCam pokercamera_extremecloseup1
+{
+	CameraOffsetX = "0.360"
+	CameraOffsetY = "0.72"
+	CameraOffsetZ = "2.030"
+	FOV = "7"
+	TargetOffsetX = "2.780"
+	TargetOffsetY = "1.25"
+	TargetOffsetZ = "-9.860"
+}
+
+cPropRelativeCam pokercamera_extremecloseup2
+{
+	CameraOffsetX = "-0.200"
+	CameraOffsetY = "0.56"
+	CameraOffsetZ = "-1.700"
+	FOV = "8"
+	TargetOffsetX = "3.510"
+	TargetOffsetY = "1.33"
+	TargetOffsetZ = "5"
+}
+
+cPropRelativeCam pokercamera_extremecloseup3
+{
+	CameraOffsetX = "0.280"
+	CameraOffsetY = "0.48"
+	CameraOffsetZ = "-1.970"
+	FOV = "7"
+	TargetOffsetX = "0.130"
+	TargetOffsetY = "1.49"
+	TargetOffsetZ = "5"
+}
+
+cPropRelativeCam pokercamera_extremecloseup4
+{
+	CameraOffsetX = "0.080"
+	CameraOffsetY = "0.46"
+	CameraOffsetZ = "-1.920"
+	FOV = "8"
+	TargetOffsetX = "-1.520"
+	TargetOffsetY = "1.54"
+	TargetOffsetZ = "5"
+}
+
+cPropRelativeCam pokercamera_extremecloseup5
+{
+	CameraOffsetX = "-0.590"
+	CameraOffsetY = "0.81"
+	CameraOffsetZ = "-0.340"
+	FOV = "60"
+	TargetOffsetX = "-3.980"
+	TargetOffsetY = "0.77"
+	TargetOffsetZ = "5"
+}
+
+cPropRelativeCam pokercamera_stripregular
+{
+	CameraOffsetX = "3.020"
+	CameraOffsetY = "1.12"
+	CameraOffsetZ = "-0.750"
+	FOV = "60"
+	TargetOffsetX = "3.010"
+	TargetOffsetY = "-0.11"
+	TargetOffsetZ = "5.000"
+}
+
+cPropRelativeCam pokercamera_striphead
+{
+	CameraOffsetX = "3.020"
+	CameraOffsetY = "1.12"
+	CameraOffsetZ = "-0.750"
+	FOV = "60"
+	TargetOffsetX = "3.010"
+	TargetOffsetY = "-0.11"
+	TargetOffsetZ = "5.000"
+}
+
+cPropRelativeCam pokercamera_stripfeet
+{
+	CameraOffsetX = "3.000"
+	CameraOffsetY = "0.62"
+	CameraOffsetZ = "-0.180"
+	FOV = "60"
+	TargetOffsetX = "3.020"
+	TargetOffsetY = "-3.22"
+	TargetOffsetZ = "5"
+}
+
+cPropRelativeCam pokercamera_striplowerbody
+{
+	CameraOffsetX = "3.020"
+	CameraOffsetY = "1.12"
+	CameraOffsetZ = "-0.400"
+	FOV = "60"
+	TargetOffsetX = "3.010"
+	TargetOffsetY = "-0.54"
+	TargetOffsetZ = "5.000"
+}
+
+cPropRelativeCam pokercamera_stripupperbody
+{
+	CameraOffsetX = "3.020"
+	CameraOffsetY = "1.12"
+	CameraOffsetZ = "-0.400"
+	FOV = "60"
+	TargetOffsetX = "3.010"
+	TargetOffsetY = "0.21"
+	TargetOffsetZ = "5.000"
+}
+
+cPropRelativeCam pokercamera_overhead
+{
+	CameraOffsetX = "0.2"
+	CameraOffsetY = "3.03"
+	CameraOffsetZ = "-0.230"
+	FOV = "52"
+	TargetOffsetX = "0.2"
+	TargetOffsetY = "-2.61"
+	TargetOffsetZ = "0.060"
+}
+
+cPropRelativeCam pokercamera_highrolleroutside
+{
+	CameraOffsetX = "1.330"
+	CameraOffsetY = "2.29"
+	CameraOffsetZ = "21.480"
+	FOV = "60"
+	TargetOffsetX = "0.270"
+	TargetOffsetY = "0.07"
+	TargetOffsetZ = "6.8"
+}
+
+cPropRelativeCam pokercamera_highrolleroutside2
+{
+	CameraOffsetX = "0.470"
+	CameraOffsetY = "1.63"
+	CameraOffsetZ = "33.030"
+	FOV = "20"
+	TargetOffsetX = "-3.180"
+	TargetOffsetY = "1.38"
+	TargetOffsetZ = "30.600"
+}
+
+cPropRelativeCam pokercamera_highrolleroutside3
+{
+	CameraOffsetX = "-0.050"
+	CameraOffsetY = "1.12"
+	CameraOffsetZ = "4.090"
+	FOV = "24"
+	TargetOffsetX = "-0.710"
+	TargetOffsetY = "0.86"
+	TargetOffsetZ = "16"
+}
+
+cPropRelativeCam pokercamera_safehouseoutside
+{
+	CameraOffsetX = "-11.730"
+	CameraOffsetY = "-1.44"
+	CameraOffsetZ = "0"
+	FOV = "65"
+	TargetOffsetX = "-0.150"
+	TargetOffsetY = "-3.02"
+	TargetOffsetZ = "-15"
+}
+
+cPropRelativeCam pokercamera_outerview1
+{
+	CameraOffsetX = "2.850"
+	CameraOffsetY = "1.11"
+	CameraOffsetZ = "-0.610"
+	FOV = "40"
+	TargetOffsetX = "-4.060"
+	TargetOffsetY = "-0.84"
+	TargetOffsetZ = "1.400"
+}
+
+cPropRelativeCam pokercamera_outerview2
+{
+	CameraOffsetX = "1.930"
+	CameraOffsetY = "1.02"
+	CameraOffsetZ = "1.960"
+	FOV = "30"
+	TargetOffsetX = "-9.580"
+	TargetOffsetY = "-0.66"
+	TargetOffsetZ = "-14.410"
+}
+
+cPropRelativeCam pokercamera_outerview3
+{
+	CameraOffsetX = "-2.520"
+	CameraOffsetY = "1.22"
+	CameraOffsetZ = "-1.550"
+	FOV = "35"
+	TargetOffsetX = "5.180"
+	TargetOffsetY = "-0.66"
+	TargetOffsetZ = "3.330"
+}
+
+cPropRelativeCam pokercamera_outerview4
+{
+	CameraOffsetX = "0.130"
+	CameraOffsetY = "1.56"
+	CameraOffsetZ = "-1.820"
+	FOV = "40"
+	TargetOffsetX = "1.990"
+	TargetOffsetY = "-2.92"
+	TargetOffsetZ = "5.970"
+}
+
+cPropRelativeCam pokercamera_outerview5
+{
+	CameraOffsetX = "-2.130"
+	CameraOffsetY = "0.750"
+	CameraOffsetZ = "0.200"
+	FOV = "25"
+	TargetOffsetX = "2.120"
+	TargetOffsetY = "0.770"
+	TargetOffsetZ = "0.130"
+}
+
+cPropRelativeCam slotmachine_sit_camera
+{
+	CameraOffsetX = "0.570"
+	CameraOffsetY = "2.100"
+	CameraOffsetZ = "-0.460"
+	FOV = "42.000"
+	Roll = "5.340"
+	TargetOffsetX = "-0.160"
+	TargetOffsetY = "1.280"
+	TargetOffsetZ = "-0.350"
+}
+
+cPropRelativeCam VendingMachineCamera
+{
+	CameraOffsetX = "1.8"
+	CameraOffsetY = "2"
+	CameraOffsetZ = "3"
+	FOV = "60"
+	TargetOffsetX = ".4"
+	TargetOffsetY = ".8"
+	TargetOffsetZ = ".05"
+}
+
+cPropRelativeCam GateHackCamera
+{
+	CameraOffsetX = "-3.5"
+	CameraOffsetY = "1"
+	CameraOffsetZ = "-0.2"
+	FOV = "60"
+	TargetOffsetX = "-1.0"
+	TargetOffsetY = "1"
+	TargetOffsetZ = "1.5"
+}
+
+cStandardPoleCam minigame_intro_pan_1
+{
+	FOV = "45.000"
+	Heading = "0"
+	Pitch = "0"
+	PoleHeading = "-0.6"
+	PoleLength = "39.7"
+	PolePitch = "0.116"
+	PosX = "0.0"
+	PosY = "2.6"
+	PosZ = "0.0"
+	Roll = "0.000"
+	TargetX = "0"
+	TargetY = "2.6"
+	TargetZ = "0"
+}
+
+cStandardPoleCam minigame_intro_pan_2
+{
+	FOV = "45.000"
+	Heading = "0"
+	Pitch = "0"
+	PoleHeading = "0.4"
+	PoleLength = "39.7"
+	PolePitch = "0.316"
+	PosX = "0.0"
+	PosY = "2.6"
+	PosZ = "0.0"
+	Roll = "0.000"
+	TargetX = "0"
+	TargetY = "2.6"
+	TargetZ = "0"
+}
+
+cStandardPoleCam minigame_bb_intro_pan_1
+{
+	FOV = "45.000"
+	Heading = "0"
+	Pitch = "0"
+	PoleHeading = "2.54"
+	PoleLength = "39.7"
+	PolePitch = "0.116"
+	PosX = "0.0"
+	PosY = "2.6"
+	PosZ = "0.0"
+	Roll = "0.000"
+	TargetX = "0"
+	TargetY = "2.6"
+	TargetZ = "0"
+}
+
+cStandardPoleCam minigame_bb_intro_pan_2
+{
+	FOV = "45.000"
+	Heading = "0"
+	Pitch = "0"
+	PoleHeading = "-2.74"
+	PoleLength = "39.7"
+	PolePitch = "0.316"
+	PosX = "0.0"
+	PosY = "2.6"
+	PosZ = "0.0"
+	Roll = "0.000"
+	TargetX = "0"
+	TargetY = "2.6"
+	TargetZ = "0"
+}
+
+cStandardCam ramsterball_random_sequence_1
+{
+	FOV = "24.000"
+	Heading = "-14.674"
+	Pitch = "14.579"
+	PosX = "11.868"
+	PosY = "9.953"
+	PosZ = "-33.124"
+	Roll = "0.000"
+}
+
+cStandardCam ramsterball_random_sequence_2
+{
+	FOV = "24.000"
+	Heading = "26.610"
+	Pitch = "14.579"
+	PosX = "-11.830"
+	PosY = "9.953"
+	PosZ = "-31.074"
+	Roll = "0.000"
+}
+
+cStandardCam ramsterball_random_sequence_3
+{
+	FOV = "32.000"
+	Heading = "-179.223"
+	Pitch = "-14.364"
+	PosY = "14.980"
+	PosZ = "76.756"
+	Roll = "0.000"
+}
+
+cStandardCam ramsterball_random_sequence_end_red
+{
+	FOV = "32.000"
+	Heading = "-179.223"
+	Pitch = "-14.364"
+	PosX = "-0.546"
+	PosY = "13.719"
+	PosZ = "71.832"
+	Roll = "0.000"
+}
+
+cStandardCam ramsterball_random_sequence_end_blue
+{
+	FOV = "24.000"
+	Heading = "-4.258"
+	Pitch = "-7.947"
+	PosX = "-9.218"
+	PosY = "7.886"
+	PosZ = "33.080"
+	Roll = "0.000"
+}
+
+cStandardCam ramsterball_random_sequence_end_green
+{
+	FOV = "24.000"
+	Heading = "-4.258"
+	Pitch = "-7.947"
+	PosX = "-9.218"
+	PosY = "7.886"
+	PosZ = "33.080"
+	Roll = "0.000"
+}
+
+cStandardCam ramsterball_random_sequence_end_yellow
+{
+	FOV = "24.000"
+	Heading = "-4.258"
+	Pitch = "-7.947"
+	PosX = "-9.218"
+	PosY = "7.886"
+	PosZ = "33.080"
+	Roll = "0.000"
+}
+
+cWeaponAttackCam SkillMoveAngle1
+{
+	CameraDistanceFromPlayer = "1.8"
+	CameraHeight = "1.6"
+	CameraRotationAroundPlayer = "3.80"
+	TargetDistanceFromPlayer = "1.4"
+	TargetHeight = "0.9"
+	TargetRotationAroundPlayer = "0.1"
+}
+
+cWeaponAttackCam SkillMoveAngle2
+{
+	CameraDistanceFromPlayer = "3.8"
+	CameraHeight = "0.5"
+	CameraRotationAroundPlayer = "5.7"
+	TargetDistanceFromPlayer = "1.3"
+	TargetHeight = "1.1"
+	TargetRotationAroundPlayer = "-0.3"
+}
+
+cWeaponAttackCam SkillMoveAngle3
+{
+	CameraDistanceFromPlayer = "3.0"
+	CameraHeight = "1.9"
+	CameraRotationAroundPlayer = "6.6"
+	TargetDistanceFromPlayer = "0.8"
+	TargetHeight = "1.1"
+	TargetRotationAroundPlayer = "0.0"
+}
+
+cWeaponAttackCam SkillMoveAngle4
+{
+	CameraDistanceFromPlayer = "1.8"
+	CameraHeight = "1.8"
+	CameraRotationAroundPlayer = "1.6"
+	TargetDistanceFromPlayer = "1.0"
+	TargetHeight = "0.90"
+	TargetRotationAroundPlayer = "5.075"
+}
+
+cWeaponAttackCam SkillMoveAngle5
+{
+	CameraDistanceFromPlayer = "2.2"
+	CameraHeight = "3.3"
+	CameraRotationAroundPlayer = "4.2"
+	TargetDistanceFromPlayer = "0.3"
+	TargetHeight = "1.4"
+	TargetRotationAroundPlayer = "0.0"
+}
+
+cWeaponAttackCam SkillMoveAngle6
+{
+	CameraDistanceFromPlayer = "3.5"
+	CameraHeight = "0.8"
+	CameraRotationAroundPlayer = "4.9"
+	TargetDistanceFromPlayer = "0.5"
+	TargetHeight = "1.350"
+	TargetRotationAroundPlayer = "0.0"
+}
+
+cPokerCam PokerCameraStrip
+{
+	FOV = "20"
+	Position_Pos = "-22.679,-0.0500,9.395"
+	Tracking_RayCastLength = "1.5"
+	Tracking_TargetBone = "1"
+	Tracking_VerticalDampening = "0.8"
+	Tracking_VerticalDampeningAppliesToAllAxises = "true"
+	Tracking_VerticalOffset = "1.15"
+	Tracking_VerticalOffsetAtCloseRange = "1.15"
+}
+
+cPokerCam PokerCameraStripQuiteClose
+{
+	FOV = "15"
+	Position_Pos = "-22.679,-0.0500,9.395"
+	Tracking_RayCastLength = "0"
+	Tracking_TargetBone = "7"
+	Tracking_VerticalDampening = "0.8"
+	Tracking_VerticalDampeningAppliesToAllAxises = "true"
+	Tracking_VerticalOffset = "-0.2"
+	Tracking_VerticalOffsetAtCloseRange = "-0.2"
+}
+
+cPokerCam PokerCameraStripVeryClose
+{
+	FOV = "11"
+	Position_Pos = "-22.679,-0.0500,9.395"
+	Tracking_RayCastLength = "0"
+	Tracking_TargetBone = "7"
+	Tracking_VerticalDampening = "0.8"
+	Tracking_VerticalDampeningAppliesToAllAxises = "true"
+	Tracking_VerticalOffset = "-0.15"
+	Tracking_VerticalOffsetAtCloseRange = "-0.15"
+}
+
+cPokerCam PokerCameraStripExtremeClose
+{
+	FOV = "8"
+	Position_Pos = "-22.679,-0.0500,9.395"
+	Tracking_RayCastLength = "0"
+	Tracking_TargetBone = "7"
+	Tracking_VerticalDampening = "0.8"
+	Tracking_VerticalDampeningAppliesToAllAxises = "true"
+	Tracking_VerticalOffset = "-0.15"
+	Tracking_VerticalOffsetAtCloseRange = "-0.15"
+}
+
+cPokerCam PokerCameraStripSeat1
+{
+	FOV = "20"
+	Position_Pos = "-22.300,0.250,12.993"
+	Tracking_RayCastLength = "1.5"
+	Tracking_TargetBone = "1"
+	Tracking_VerticalDampening = "0.8"
+	Tracking_VerticalDampeningAppliesToAllAxises = "true"
+	Tracking_VerticalOffset = "1.15"
+	Tracking_VerticalOffsetAtCloseRange = "1.15"
+}
+
+cPokerCam PokerCameraStripQuiteCloseSeat1
+{
+	FOV = "15"
+	Position_Pos = "-22.300,0.250,12.993"
+	Tracking_RayCastLength = "0"
+	Tracking_TargetBone = "7"
+	Tracking_VerticalDampening = "0.8"
+	Tracking_VerticalDampeningAppliesToAllAxises = "true"
+	Tracking_VerticalOffset = "-0.25"
+	Tracking_VerticalOffsetAtCloseRange = "-0.25"
+}
+
+cPokerCam PokerCameraStripVeryCloseSeat1
+{
+	FOV = "11"
+	Position_Pos = "-22.300,0.250,12.993"
+	Tracking_RayCastLength = "0"
+	Tracking_TargetBone = "7"
+	Tracking_VerticalDampening = "0.8"
+	Tracking_VerticalDampeningAppliesToAllAxises = "true"
+	Tracking_VerticalOffset = "-0.15"
+	Tracking_VerticalOffsetAtCloseRange = "-0.15"
+}
+
+cPokerCam PokerCameraStripExtremeCloseSeat1
+{
+	FOV = "7"
+	Position_Pos = "-22.300,0.250,12.993"
+	Tracking_RayCastLength = "0"
+	Tracking_TargetBone = "7"
+	Tracking_VerticalDampening = "0.8"
+	Tracking_VerticalDampeningAppliesToAllAxises = "true"
+	Tracking_VerticalOffset = "-0.1"
+	Tracking_VerticalOffsetAtCloseRange = "-0.1"
+}
+
+cPokerCam PokerCameraHighRollers
+{
+	FOV = "20"
+	Position_Pos = "36.238,3.05,1.255"
+	Tracking_RayCastLength = "1.5"
+	Tracking_TargetBone = "1"
+	Tracking_VerticalDampening = "0.8"
+	Tracking_VerticalDampeningAppliesToAllAxises = "true"
+	Tracking_VerticalOffset = "1.15"
+	Tracking_VerticalOffsetAtCloseRange = "1.15"
+}
+
+cPokerCam PokerCameraHighRollersQuiteClose
+{
+	FOV = "15"
+	Position_Pos = "36.238,3.05,1.255"
+	Tracking_RayCastLength = "0"
+	Tracking_TargetBone = "7"
+	Tracking_VerticalDampening = "0.8"
+	Tracking_VerticalDampeningAppliesToAllAxises = "true"
+	Tracking_VerticalOffset = "-0.15"
+	Tracking_VerticalOffsetAtCloseRange = "-0.15"
+}
+
+cPokerCam PokerCameraHighRollersVeryClose
+{
+	FOV = "11"
+	Position_Pos = "36.238,3.0500,1.255"
+	Tracking_RayCastLength = "0"
+	Tracking_TargetBone = "7"
+	Tracking_VerticalDampening = "0.8"
+	Tracking_VerticalDampeningAppliesToAllAxises = "true"
+	Tracking_VerticalOffset = "-0.15"
+	Tracking_VerticalOffsetAtCloseRange = "-0.15"
+}
+
+cPokerCam PokerCameraHighRollersExtremeClose
+{
+	FOV = "7"
+	Position_Pos = "36.238,3.0500,1.255"
+	Tracking_RayCastLength = "0"
+	Tracking_TargetBone = "7"
+	Tracking_VerticalDampening = "0.8"
+	Tracking_VerticalDampeningAppliesToAllAxises = "true"
+	Tracking_VerticalOffset = "-0.08"
+	Tracking_VerticalOffsetAtCloseRange = "-0.08"
+}
+
+cPokerCam PokerCameraHighRollersSeat1
+{
+	FOV = "20"
+	Position_Pos = "36.980,3.050,5.152"
+	Tracking_RayCastLength = "1.5"
+	Tracking_TargetBone = "1"
+	Tracking_VerticalDampening = "0.8"
+	Tracking_VerticalDampeningAppliesToAllAxises = "true"
+	Tracking_VerticalOffset = "1.1"
+	Tracking_VerticalOffsetAtCloseRange = "1.1"
+}
+
+cPokerCam PokerCameraHighRollersQuiteCloseSeat1
+{
+	FOV = "15"
+	Position_Pos = "36.980,3.050,5.152"
+	Tracking_RayCastLength = "0"
+	Tracking_TargetBone = "7"
+	Tracking_VerticalDampening = "0.8"
+	Tracking_VerticalDampeningAppliesToAllAxises = "true"
+	Tracking_VerticalOffset = "-0.22"
+	Tracking_VerticalOffsetAtCloseRange = "-0.22"
+}
+
+cPokerCam PokerCameraHighRollersVeryCloseSeat1
+{
+	FOV = "11"
+	Position_Pos = "36.980,3.050,5.152"
+	Tracking_RayCastLength = "0"
+	Tracking_TargetBone = "7"
+	Tracking_VerticalDampening = "0.8"
+	Tracking_VerticalDampeningAppliesToAllAxises = "true"
+	Tracking_VerticalOffset = "-0.15"
+	Tracking_VerticalOffsetAtCloseRange = "-0.15"
+}
+
+cPokerCam PokerCameraHighRollersExtremeCloseSeat1
+{
+	FOV = "8"
+	Position_Pos = "36.980,3.050,5.152"
+	Tracking_RayCastLength = "0"
+	Tracking_TargetBone = "7"
+	Tracking_VerticalDampening = "0.8"
+	Tracking_VerticalDampeningAppliesToAllAxises = "true"
+	Tracking_VerticalOffset = "-0.1"
+	Tracking_VerticalOffsetAtCloseRange = "-0.1"
+}
+
+cWatchCam WatchCam
+{
+	FOV = "30"
+	Position_X = "1.1"
+	Position_Y = "0.3"
+	Position_Z = "4.0"
+	Target_X = "1.75"
+	Target_Y = "0.0"
+	Target_Z = "0.0"
+}
+
+cStandardCam RescueCam
+{
+	FOV = "38"
+	Heading = "-178.076"
+	Pitch = "-8.617"
+	PosX = "-7.335"
+	PosY = "-2.185"
+	PosZ = "38.050"
+	Roll = "0.000"
+}
+
+cStandardCam RescueCam_Tiger
+{
+	FOV = "38"
+	Heading = "-178.076"
+	Pitch = "-10.91.0"
+	PosX = "-7.335"
+	PosY = "-2.185"
+	PosZ = "40.750"
+	Roll = "0.000"
+}
+
+cStandardCam RescueCam_Prologue
+{
+	FOV = "48"
+	Heading = "-151.744"
+	Pitch = "-4.812"
+	PosX = "-287.619"
+	PosY = "4.722"
+	PosZ = "-44.785"
+	Roll = "0.000"
+}
+
+cStandardCam MainMenuCam
+{
+	FOV = "48"
+	Heading = "-151.744"
+	Pitch = "-4.812"
+	PosX = "-287.619"
+	PosY = "4.722"
+	PosZ = "-44.785"
+	Roll = "0.000"
+}
+
+

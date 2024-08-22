@@ -1,0 +1,833 @@
+cItemPlacement FireworksPot
+{
+	IsStatic = "true"
+	ItemName = "FireworksPotSm"
+	Location = "-22.584,13.025,-24.318"
+	NonInteractableProp = "true"
+	PropState = "4"
+	Rotation = "0.000,0.000,0.000,1.000"
+}
+
+cItemPlacement FireworksPot1
+{
+	IsStatic = "true"
+	ItemName = "FireworksPotSm"
+	Location = "-18.0,12.53,-16.55"
+	NonInteractableProp = "true"
+	PropState = "4"
+	Rotation = "0.000,-0.914,-0.001,-0.407"
+}
+
+cItemPlacement FireworksPot2
+{
+	IsStatic = "true"
+	ItemName = "FireworksPotSm"
+	Location = "-14.6,12.53,-14.5"
+	NonInteractableProp = "true"
+	PropState = "4"
+	Rotation = "-0.000,0.995,0.000,0.098"
+}
+
+cItemPlacement FireworksPot3
+{
+	IsStatic = "true"
+	ItemName = "FireworksPotSm"
+	Location = "-10.374,12.312,-15.813"
+	NonInteractableProp = "true"
+	PropState = "4"
+	Rotation = "-0.001,0.029,0.002,1.000"
+}
+
+cItemPlacement FireworksPot4
+{
+	IsStatic = "true"
+	ItemName = "FireworksPotSm"
+	Location = "-8.286,12.562,-19.802"
+	NonInteractableProp = "true"
+	PropState = "4"
+	Rotation = "0.005,0.019,-0.002,1.000"
+}
+
+cItemPlacement FireworksPot5
+{
+	IsStatic = "true"
+	ItemName = "FireworksPotSm"
+	Location = "-18.589,12.825,-27.495"
+	NonInteractableProp = "true"
+	PropState = "4"
+	Rotation = "0.000,0.010,0.000,1.000"
+}
+
+cItemPlacement FireworksPot6
+{
+	IsStatic = "true"
+	ItemName = "FireworksPotSm"
+	Location = "-14.782,12.562,-30.507"
+	NonInteractableProp = "true"
+	PropState = "4"
+	Rotation = "-0.001,0.019,0.000,1.000"
+}
+
+cItemPlacement FireworksPot7
+{
+	IsStatic = "true"
+	ItemName = "FireworksPotSm"
+	Location = "-11.413,12.561,-28.124"
+	NonInteractableProp = "true"
+	PropState = "4"
+	Rotation = "0.002,0.091,-0.001,0.996"
+}
+
+cItemPlacement FireworksPot8
+{
+	IsStatic = "true"
+	ItemName = "FireworksPotSm"
+	Location = "-9.809,12.562,-23.870"
+	NonInteractableProp = "true"
+	PropState = "4"
+	Rotation = "-0.000,-0.047,-0.000,0.999"
+}
+
+cItemPlacement FireworksPot15
+{
+	IsStatic = "true"
+	ItemName = "FireworksPotSm"
+	Location = "10.3, 12.6, -26.8"
+	NonInteractableProp = "true"
+	PropState = "4"
+	Rotation = "0.000,0.010,0.000,1.000"
+}
+
+cItemPlacement FireworksPot16
+{
+	IsStatic = "true"
+	ItemName = "FireworksPotSm"
+	Location = "17.45, 12.5, -28.6"
+	NonInteractableProp = "true"
+	PropState = "4"
+	Rotation = "0.000,0.010,0.000,1.000"
+}
+
+cItemPlacement FireworksPot17
+{
+	IsStatic = "true"
+	ItemName = "FireworksPotSm"
+	Location = "22.3, 12.5, -24.5"
+	NonInteractableProp = "true"
+	PropState = "4"
+	Rotation = "0.000,0.010,0.000,1.000"
+}
+
+cItemPlacement FireworksPot18
+{
+	IsStatic = "true"
+	ItemName = "FireworksPotSm"
+	Location = "19.6, 12.55, -17.7"
+	NonInteractableProp = "true"
+	PropState = "4"
+	Rotation = "0.000,0.010,0.000,1.000"
+}
+
+cItemPlacement FireworksPot19
+{
+	IsStatic = "true"
+	ItemName = "FireworksPotSm"
+	Location = "15.1, 12.8, -15.0"
+	NonInteractableProp = "true"
+	PropState = "4"
+	Rotation = "0.000,0.010,0.000,1.000"
+}
+
+cItemPlacement FireworksPot20
+{
+	IsStatic = "true"
+	ItemName = "FireworksPotSm"
+	Location = "9.35, 12.8, -16.3"
+	NonInteractableProp = "true"
+	PropState = "4"
+	Rotation = "0.000,0.010,0.000,1.000"
+}
+
+cItemPlacement FireworksPot21
+{
+	IsStatic = "true"
+	ItemName = "FireworksPotSm"
+	Location = "8.6, 12.5, -21.8"
+	NonInteractableProp = "true"
+	PropState = "4"
+	Rotation = "0.000,0.010,0.000,1.000"
+}
+
+cItemPlacement FireworksPot22
+{
+	IsStatic = "true"
+	ItemName = "FireworksPotSm"
+	Location = "-22.65,12.8,-19.55"
+	NonInteractableProp = "true"
+	PropState = "4"
+	Rotation = "0.000,0.010,0.000,1.000"
+}
+
+cItemPlacement FireworksPot23
+{
+	IsStatic = "true"
+	ItemName = "FireworksPotSm"
+	Location = "-8.9, 12.3, -17.3"
+	NonInteractableProp = "true"
+	PropState = "4"
+	Rotation = "0.000,0.010,0.000,1.000"
+}
+
+cItemPlacement FireworksPot24
+{
+	IsStatic = "true"
+	ItemName = "FireworksPotSm"
+	Location = "-13.2, 12.5, -13.5"
+	NonInteractableProp = "true"
+	PropState = "4"
+	Rotation = "0.000,0.010,0.000,1.000"
+}
+
+cItemPlacement FireworksPot25
+{
+	IsStatic = "true"
+	ItemName = "FireworksPotSm"
+	Location = "-16.25,12.5,-15.5"
+	NonInteractableProp = "true"
+	PropState = "4"
+	Rotation = "0.000,0.010,0.000,1.000"
+}
+
+cItemPlacement FireworksPot26
+{
+	IsStatic = "true"
+	ItemName = "FireworksPotSm"
+	Location = "-20.5,12.8,-18.0"
+	NonInteractableProp = "true"
+	PropState = "4"
+	Rotation = "0.000,0.010,0.000,1.000"
+}
+
+cItemPlacement FireworksPot27
+{
+	IsStatic = "true"
+	ItemName = "FireworksPotSm"
+	Location = "-24.7,13.05,-21.7"
+	NonInteractableProp = "true"
+	PropState = "4"
+	Rotation = "0.000,0.010,0.000,1.000"
+}
+
+cItemPlacement FireworksPot28
+{
+	IsStatic = "true"
+	ItemName = "FireworksPotSm"
+	Location = "-20.8, 13.05, -26.0"
+	NonInteractableProp = "true"
+	PropState = "4"
+	Rotation = "0.000,0.010,0.000,1.000"
+}
+
+cItemPlacement FireworksPot29
+{
+	IsStatic = "true"
+	ItemName = "FireworksPotSm"
+	Location = "-16.8, 12.8, -29.4"
+	NonInteractableProp = "true"
+	PropState = "4"
+	Rotation = "0.000,0.010,0.000,1.000"
+}
+
+cItemPlacement FireworksPot30
+{
+	IsStatic = "true"
+	ItemName = "FireworksPotSm"
+	Location = "-12.4, 12.5, -31.4"
+	NonInteractableProp = "true"
+	PropState = "4"
+	Rotation = "0.000,0.010,0.000,1.000"
+}
+
+cItemPlacement FireworksPot31
+{
+	IsStatic = "true"
+	ItemName = "FireworksPotSm"
+	Location = "-10.8, 12.5, -26.0"
+	NonInteractableProp = "true"
+	PropState = "4"
+	Rotation = "0.000,0.010,0.000,1.000"
+}
+
+
+cItemPlacement FireworksPot32
+{
+	IsStatic = "true"
+	ItemName = "FireworksPotSm"
+	Location = "-9.2, 12.5, -21.8"
+	NonInteractableProp = "true"
+	PropState = "4"
+	Rotation = "0.000,0.010,0.000,1.000"
+}
+
+cItemPlacement FireworksPot33
+{
+	IsStatic = "true"
+	ItemName = "FireworksPotSm"
+	Location = "14.8, 12.5, -30.5"
+	NonInteractableProp = "true"
+	PropState = "4"
+	Rotation = "0.000,0.010,0.000,1.000"
+}
+
+cItemPlacement FireworksPot34
+{
+	IsStatic = "true"
+	ItemName = "FireworksPotSm"
+	Location = "11.3, 12.5, -29.7"
+	NonInteractableProp = "true"
+	PropState = "4"
+	Rotation = "0.000,0.010,0.000,1.000"
+}
+
+cItemPlacement FireworksPot35
+{
+	IsStatic = "true"
+	ItemName = "FireworksPotSm"
+	Location = "20.0, 12.5, -26.5"
+	NonInteractableProp = "true"
+	PropState = "4"
+	Rotation = "0.000,0.010,0.000,1.000"
+}
+
+cItemPlacement FireworksPot36
+{
+	IsStatic = "true"
+	ItemName = "FireworksPotSm"
+	Location = "24.9, 12.5, -21.1"
+	NonInteractableProp = "true"
+	PropState = "4"
+	Rotation = "0.000,0.010,0.000,1.000"
+}
+
+cItemPlacement FireworksPot37
+{
+	IsStatic = "true"
+	ItemName = "FireworksPotSm"
+	Location = "22.0, 12.5, -19.3"
+	NonInteractableProp = "true"
+	PropState = "4"
+	Rotation = "0.000,0.010,0.000,1.000"
+}
+
+cItemPlacement FireworksPot38
+{
+	IsStatic = "true"
+	ItemName = "FireworksPotSm"
+	Location = "17.6, 12.8, -16.6"
+	NonInteractableProp = "true"
+	PropState = "4"
+	Rotation = "0.000,0.010,0.000,1.000"
+}
+
+cItemPlacement FireworksPot39
+{
+	IsStatic = "true"
+	ItemName = "FireworksPotSm"
+	Location = "12.2, 12.8, -13.5"
+	NonInteractableProp = "true"
+	PropState = "4"
+	Rotation = "0.000,0.010,0.000,1.000"
+}
+
+cItemPlacement FireworksPot40
+{
+	IsStatic = "true"
+	ItemName = "FireworksPotSm"
+	Location = "7.5, 12.8, -18.3"
+	NonInteractableProp = "true"
+	PropState = "4"
+	Rotation = "0.000,0.010,0.000,1.000"
+}
+
+cItemPlacement FireworksPot41
+{
+	IsStatic = "true"
+	ItemName = "FireworksPotSm"
+	Location = "9.2, 12.5, -24.3"
+	NonInteractableProp = "true"
+	PropState = "4"
+	Rotation = "0.000,0.010,0.000,1.000"
+}
+
+cItemPlacement FireworksPotHz1
+{
+	IsStatic = "true"
+	ItemName = "FireworksPotHz"
+	Location = "-8.000,13.050,-25.170"
+	NonInteractableProp = "true"
+	PropState = "4"
+	Rotation = "0.000,0.200,0.000,0.981"
+}
+
+cItemPlacement FireworksPotHz2
+{
+	IsStatic = "true"
+	ItemName = "FireworksPotHz"
+	Location = "9.350,13.040,-30.140"
+	NonInteractableProp = "true"
+	PropState = "4"
+	Rotation = "0.000,0.982,0.000,0.183"
+}
+
+
+cItemPlacement KCMooseHead
+{
+	ItemName = "KCMooseHead"
+	Location = "-11.595,12.744,-14.039"
+	Rotation = "-0.510,-0.241,0.498,-0.659"
+}
+
+cItemPlacement CardboardBox
+{
+	FixedOnInitialPlacement = "true"
+	ItemName = "CardboardBox"
+	Location = "25.509,12.819,-20.110"
+	Rotation = "-0.221,0.126,-0.030,0.967"
+	SpawnPropFromCategory = "50"
+}
+
+cItemPlacement CardboardBox1
+{
+	ItemName = "CardboardBox"
+	Location = "26.306,12.732,-20.692"
+	Rotation = "0.000,0.467,0.000,0.884"
+	SpawnPropFromCategory = "50"
+}
+
+cItemPlacement Flashlight
+{
+	ItemName = "Flashlight"
+	Location = "-24.296,13.044,-19.257"
+	Rotation = "-0.816,-0.019,0.578,-0.001"
+}
+
+cItemPlacement SpotLight
+{
+	ItemName = "SpotLight"
+	Location = "-12.271,12.563,-33.060"
+	Rotation = "0.378,0.099,0.534,0.750"
+}
+
+cItemPlacement SpotLight1
+{
+	ItemName = "SpotLight"
+	Location = "19.233,12.551,-16.096"
+	Rotation = "-0.498,0.550,-0.331,0.583"
+}
+
+cItemPlacement Pylon
+{
+	ItemName = "Pylon"
+	Location = "17.454,12.774,-17.219"
+	Rotation = "0.000,-0.002,-0.004,1.000"
+}
+
+cItemPlacement Pylon1
+{
+	ItemName = "Pylon"
+	Location = "18.202,12.779,-15.919"
+	Rotation = "-0.001,0.987,0.001,0.160"
+}
+
+cItemPlacement Pylon2
+{
+	ItemName = "Pylon"
+	Location = "-22.216,13.043,-23.465"
+	Rotation = "0.000,-0.018,0.000,1.000"
+}
+
+cItemPlacement Pylon3
+{
+	ItemName = "Pylon"
+	Location = "-23.764,13.016,-24.457"
+	Rotation = "0.004,-0.272,-0.002,0.962"
+}
+
+cItemPlacement Pylon4
+{
+	ItemName = "Pylon"
+	Location = "-19.515,12.773,-16.324"
+	Rotation = "-0.003,-0.292,-0.000,0.956"
+}
+
+cItemPlacement Pylon5
+{
+	ItemName = "Pylon"
+	Location = "-18.621,12.773,-18.021"
+	Rotation = "0.002,-0.245,0.001,0.970"
+}
+
+cItemPlacement PushBroom
+{
+	ItemName = "PushBroom"
+	Location = "16.867,13.259,-15.095"
+	Rotation = "-0.154,0.833,-0.443,-0.295"
+}
+
+cItemPlacement Bucket
+{
+	ItemName = "Bucket"
+	Location = "17.333,12.963,-15.247"
+	Rotation = "0.001,0.022,0.001,1.000"
+}
+
+cItemPlacement PowerDrill
+{
+	ItemName = "PowerDrill"
+	Location = "5.065,14.980,-18.871"
+	Rotation = "0.252,0.267,0.643,0.672"
+}
+
+cItemPlacement Pallet
+{
+	ItemName = "Pallet"
+	Location = "6.385,12.805,-17.569"
+	Rotation = "-0.001,-0.923,-0.002,0.384"
+}
+
+cItemPlacement SawBlade
+{
+	ItemName = "SawBlade"
+	Location = "11.414,12.755,-13.033"
+	Rotation = "0.003,0.999,0.001,0.043"
+}
+
+cItemPlacement SawBlade1
+{
+	ItemName = "SawBlade"
+	Location = "11.801,12.756,-12.925"
+	Rotation = "-0.000,-0.002,-0.001,1.000"
+}
+
+cItemPlacement TwoByFour
+{
+	ItemName = "TwoByFour"
+	Location = "-25.785,13.041,-22.298"
+	Rotation = "0.067,0.067,0.703,0.705"
+}
+
+cItemPlacement TwoByFour1
+{
+	ItemName = "TwoByFour"
+	Location = "-25.586,13.041,-22.439"
+	Rotation = "0.110,0.110,0.701,0.696"
+}
+
+cItemPlacement BoxOfNails
+{
+	ItemName = "BoxOfNails"
+	Location = "26.059,13.011,-20.643"
+	Rotation = "-0.001,-0.997,-0.001,-0.078"
+}
+
+cItemPlacement CementSaw
+{
+	ItemName = "CementSaw"
+	Location = "12.165,12.824,-12.464"
+	Rotation = "0.705,0.021,-0.027,0.708"
+}
+
+cItemPlacement CardboardBox2
+{
+	FixedOnInitialPlacement = "false"
+	ItemName = "CardboardBox"
+	Location = "7.202,12.953,-16.861"
+	Rotation = "0.000,-0.359,-0.000,0.933"
+	SpawnPropFromCategory = "50"
+}
+
+cItemPlacement Beer
+{
+	ItemName = "Beer"
+	Location = "-24.864,13.049,-19.674"
+	Rotation = "0.624,-0.370,-0.331,0.603"
+}
+
+cItemPlacement Donuts
+{
+	FixedOnInitialPlacement = "false"
+	ItemName = "Donuts"
+	Location = "6.865,12.758,-18.132"
+	Rotation = "0.013,0.654,0.012,-0.756"
+}
+
+cItemPlacement Snack
+{
+	ItemName = "Snack"
+	Location = "-12.996,12.562,-12.938"
+	Rotation = "0.676,0.099,0.085,0.725"
+}
+
+cItemPlacement HotDog
+{
+	ItemName = "HotDog"
+	Location = "-24.565,13.034,-19.489"
+	Rotation = "-0.053,-0.053,-0.704,-0.706"
+}
+
+cItemPlacement Snack1
+{
+	ItemName = "Snack"
+	Location = "-3.693,12.561,-19.095"
+	Rotation = "0.432,-0.482,0.601,0.468"
+}
+
+cItemPlacement CardboardBox3
+{
+	ItemName = "CardboardBox"
+	Location = "10.681,12.953,-13.853"
+	Rotation = "-0.002,-0.086,0.000,0.996"
+	SpawnPropFromCategory = "50"
+}
+
+cItemPlacement CardboardBox4
+{
+	ItemName = "CardboardBox"
+	Location = "3.691,12.731,-18.360"
+	Rotation = "-0.001,-0.198,0.001,0.980"
+	SpawnPropFromCategory = "50"
+}
+
+cItemPlacement CardboardBox5
+{
+	ItemName = "CardboardBox"
+	Location = "2.902,12.732,-18.471"
+	Rotation = "-0.075,0.391,0.836,0.376"
+	SpawnPropFromCategory = "50"
+}
+
+cItemPlacement CardboardBox6
+{
+	ItemName = "CardboardBox"
+	Location = "3.696,12.531,-19.427"
+	Rotation = "-0.000,0.706,-0.000,0.708"
+	SpawnPropFromCategory = "50"
+}
+
+cItemPlacement CardboardBox7
+{
+	ItemName = "CardboardBox"
+	Location = "-4.120,12.731,-18.490"
+	Rotation = "-0.001,0.814,0.000,0.581"
+	SpawnPropFromCategory = "50"
+}
+
+cItemPlacement CardboardBox8
+{
+	ItemName = "CardboardBox"
+	Location = "-4.326,12.731,-19.158"
+	Rotation = "0.000,-0.992,-0.000,-0.125"
+	SpawnPropFromCategory = "50"
+}
+
+cItemPlacement CardboardBox9
+{
+	ItemName = "CardboardBox"
+	Location = "-12.619,12.746,-12.442"
+	Rotation = "0.019,0.278,0.033,0.960"
+	SpawnPropFromCategory = "50"
+}
+
+cItemPlacement CardboardBox10
+{
+	ItemName = "CardboardBox"
+	Location = "-12.568,13.167,-12.473"
+	Rotation = "0.012,0.011,-1.000,0.001"
+	SpawnPropFromCategory = "50"
+}
+
+cItemPlacement CardboardBox11
+{
+	FixedOnInitialPlacement = "false"
+	ItemName = "CardboardBox"
+	Location = "-26.484,13.218,-21.132"
+	Rotation = "-0.000,-0.231,0.000,0.973"
+	SpawnPropFromCategory = "50"
+}
+
+cItemPlacement CardboardBox12
+{
+	FixedOnInitialPlacement = "false"
+	ItemName = "CardboardBox"
+	Location = "-25.769,13.218,-20.873"
+	Rotation = "0.000,-0.263,-0.000,0.965"
+	SpawnPropFromCategory = "50"
+}
+
+cItemPlacement CardboardBox13
+{
+	FixedOnInitialPlacement = "false"
+	ItemName = "CardboardBox"
+	Location = "-25.907,13.654,-20.939"
+	Rotation = "0.001,-0.220,0.003,0.975"
+	SpawnPropFromCategory = "50"
+}
+
+cItemPlacement LeadPipe
+{
+	ItemName = "LeadPipe"
+	Location = "-10.734,14.952,-32.790"
+	Rotation = "-0.684,-0.592,-0.072,0.421"
+}
+
+cItemPlacement SpotLight2
+{
+	ItemName = "SpotLight"
+	Location = "-8.692,14.955,-26.786"
+	Rotation = "-0.230,-0.773,-0.463,0.369"
+}
+
+cItemPlacement SpotLight3
+{
+	ItemName = "SpotLight"
+	Location = "5.039,15.050,-18.111"
+	Rotation = "-0.211,0.581,-0.622,0.481"
+}
+
+cItemPlacement ConstructionHat
+{
+	ItemName = "ConstructionHat"
+	Location = "24.548,12.549,-24.187"
+	Rotation = "0.001,0.944,-0.165,0.285"
+}
+
+cItemPlacement SpotLight4
+{
+	ItemName = "SpotLight"
+	Location = "4.649,15.209,-17.451"
+	Rotation = "-0.821,0.171,0.430,0.334"
+}
+
+cItemPlacement SpotLight5
+{
+	ItemName = "SpotLight"
+	Location = "8.079,14.987,-26.506"
+	Rotation = "-0.611,0.744,-0.242,-0.123"
+}
+
+cItemPlacement LeadPipe1
+{
+	ItemName = "LeadPipe"
+	Location = "18.928,12.530,-16.534"
+	Rotation = "-0.387,-0.650,-0.585,0.294"
+}
+
+cItemPlacement WrenchLarge
+{
+	ItemName = "WrenchLarge"
+	Location = "6.521,12.763,-18.783"
+	Rotation = "-0.987,-0.000,-0.162,0.001"
+}
+
+cItemPlacement WrenchLarge1
+{
+	ItemName = "WrenchLarge"
+	Location = "-24.639,13.055,-24.083"
+	Rotation = "0.184,0.002,0.983,-0.000"
+}
+
+cItemPlacement LeadPipe2
+{
+	ItemName = "LeadPipe"
+	Location = "5.438,14.993,-20.606"
+	Rotation = "-0.524,-0.724,-0.449,0.025"
+}
+
+cItemPlacement OrangeJuice
+{
+	ItemName = "OrangeJuice"
+	Location = "25.200,12.559,-20.607"
+	Rotation = "-0.432,0.331,0.560,0.624"
+}
+
+cItemPlacement OrangeJuice1
+{
+	ItemName = "OrangeJuice"
+	Location = "2.731,12.556,-19.533"
+	Rotation = "-0.531,0.233,0.460,0.672"
+}
+
+
+cZombieWarehouse TKOT_Zombie
+{
+	cPolygonSmall TKOT_Zombie_Arena
+	{
+		Height = "2.0"
+		NumVertex = "7"
+		Vertex0 = "-20.940,-0.426,-37.424"
+		Vertex1 = "-13.472,-0.373,-44.608"
+		Vertex2 = "12.765,-0.605,-44.098"
+		Vertex3 = "19.818,-0.295,-39.403"
+		Vertex4 = "22.387,-0.268,-31.864"
+		Vertex5 = "21.531,-0.515,27.997"
+		Vertex6 = "-21.672,-0.475,26.965"
+	}
+
+}
+
+
+cPolygonLarge L_Arena
+{
+	Height = "100"
+	NumVertex = "8"
+	Vertex0 = "-93.630,-2.999,94.444"
+	Vertex1 = "-62.356,-2.999,130.415"
+	Vertex2 = "52.363,-2.999,128.838"
+	Vertex3 = "87.449,-2.999,97.758"
+	Vertex4 = "88.708,-2.999,-103.395"
+	Vertex5 = "56.206,-2.999,-136.869"
+	Vertex6 = "-60.088,-2.999,-138.523"
+	Vertex7 = "-93.866,-2.999,-104.083"
+}
+
+cLightContextVolume LC_Arena
+{
+	ContextFileName = "/arena_battle.csv"
+	QuadName = "L_Arena"
+}
+
+
+
+cSpawnPoint Start
+{
+	CameraHeading = "-56.316"
+	CameraPitch = "-17.384"
+	Location = "30.0, 00.0, 00.0"
+	Location0 = "6.334,12.506,-32.731"
+	Location1 = "-0.245,5.056,-51.831"
+	Location2 = "-0.790,5.056,-51.684"
+	Location3 = "0.886,5.056,-51.752"
+	RegionRadius = "1"
+	Rotation = "90"
+	Rotation0 = "-1.121"
+	Rotation1 = "-3.028"
+	Rotation2 = "2.893"
+	Rotation3 = "-2.936"
+}
+
+cSpawnPoint TKOTStart
+{
+	CameraHeading = "-76.189"
+	CameraHeading1 = "-80.527"
+	CameraPitch = "-16.878"
+	CameraPitch1 = "-12.920"
+	Location = "30.0, 00.0, 00.0"
+	Location0 = "7.453,12.531,-32.215"
+	Location1 = "9.702,12.531,-31.454"
+	RegionRadius = "2"
+	Rotation = "90"
+	Rotation0 = "-1.256"
+	Rotation1 = "-1.503"
+}
+
+

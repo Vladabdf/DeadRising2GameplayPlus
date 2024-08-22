@@ -1,0 +1,85 @@
+cEnvironmentAcoustics Arena
+{
+	DecayHFRatio = "0.590"
+	DecayTime = "4.300"
+	Density = "100.0"
+	Diffusion = "100.0"
+	HFReference = "5000.0"
+	Location = ""
+	Reflections = "-789"
+	ReflectionsDelay = "0.020"
+	Reverb = "-289"
+	ReverbDelay = "0.030"
+	Room = "-1000"
+	RoomHF = "-476"
+	RoomRolloffFactor = "0.000"
+}
+
+cEnvironmentVolume MainArena
+{
+	AcousticsName = "Arena"
+	Location = ""
+	RelativePriority = "0"
+	ReverbDirectionalBias = "0.01"
+	ReverbSendLevelMax = "0.15"
+	ReverbSendLevelMin = "0.02"
+	Rotation = "0,0,0,1"
+	Scale = "120,40,120"
+	Translation = "0,0,0"
+	VolumColor = "0"
+	VolumeType = "1"
+}
+
+
+cTriggerVolume button_press1
+{
+	ActionType = "7"
+	Color = "1694433280"
+	DisplayName = "55136"
+	DontRenderSphere = "false"
+	Height = "2.0"
+	InteractButton = "true"
+	Location = "0,1.5,15"
+	Radius = "2"
+	Region = "Region_button_press1"
+	Rotation = "0,0,0,1"
+	Vertex1 = "-1,0,1"
+	Vertex2 = "1,0,1"
+	Vertex3 = "1,0,-1"
+	Vertex4 = "-1,0,-1"
+}
+
+cTriggerVolume button_press2
+{
+	ActionType = "7"
+	Color = "1694433280"
+	DisplayName = "55136"
+	DontRenderSphere = "false"
+	Height = "2.0"
+	InteractButton = "true"
+	Location = "0,1.5,-15"
+	Radius = "2"
+	Region = "Region_button_press2"
+	Rotation = "0,0,0,1"
+	Vertex1 = "-1,0,1"
+	Vertex2 = "1,0,1"
+	Vertex3 = "1,0,-1"
+	Vertex4 = "-1,0,-1"
+}
+
+
+cWaypoint Start1
+{
+	Location = "0.0,0.0,0.0"
+	Name = "Start"
+	Type = "1"
+}
+
+cWaypoint Destination
+{
+	Location = "0.0,0.0,0.0"
+	Name = "Destination"
+	Type = "1"
+}
+
+

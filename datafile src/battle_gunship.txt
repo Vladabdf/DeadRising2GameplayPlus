@@ -1,0 +1,308 @@
+cBossNode SullivanBattleSpace
+{
+	Boss = "cast_sullivan_boss"
+	Location = "143.3,35.1,-204.6"
+	Name = "DeviantBattleSpace"
+	Rotation = "0, 0.7817, 0"
+	Type = "8"
+}
+
+cBossNode SullivanBattleRelocation0
+{
+	Boss = "cast_sullivan_boss"
+	Location = "0.0, 0.00, 5.0"
+	Name = "SullivanBattleRelocation0"
+	Type = "10"
+}
+
+cBossNode SullivanBattleRelocation1
+{
+	Boss = "cast_sullivan_boss"
+	Location = "0.0, 0.00, 10.0"
+	Name = "SullivanBattleRelocation1"
+	Type = "10"
+}
+
+cBossNode SullivanBattleRelocation2
+{
+	Boss = "cast_sullivan_boss"
+	Location = "5.0, 0.00, 10.0"
+	Name = "SullivanBattleRelocation2"
+	Type = "10"
+}
+
+cItemPlacement Sullivan
+{
+	ItemName = "cast_sullivan_boss"
+	Location = "160.0,40.5,-187.0"
+	Rotation = "0, 0, 0, 1"
+}
+
+cItemPlacement SullivanHandGun
+{
+	ItemName = "SullivanHandGun"
+	Location = "160.0,40.5,-187.0"
+	Rotation = "0, 0, 0, 1"
+}
+
+cItemPlacement SullivanFlare
+{
+	ItemName = "SullivanFlare"
+	Location = "160.0,40.5,-187.0"
+	Rotation = "0, 0, 0, 1"
+}
+
+cItemPlacement SullivanPreloadMajorExplosive
+{
+	ItemName = "GunshipMajorExplosion"
+	Location = "160.0,-50.0,-187.0"
+	Rotation = "0, 0, 0, 1"
+}
+
+
+cItemPlacement SullivanPreloadMinorExplosive
+{
+	ItemName = "GunshipMinorExplosion"
+	Location = "160.0,-50.0,-187.0"
+	Rotation = "0, 0, 0, 1"
+}
+
+cItemPlacement SullivanPreloadDebrisA
+{
+	ItemName = "debris_a"
+	Location = "160.0,-50.0,-187.0"
+	Rotation = "0, 0, 0, 1"
+}
+
+cItemPlacement SullivanPreloadDebrisB
+{
+	ItemName = "debris_b"
+	Location = "160.0,-50.0,-187.0"
+	Rotation = "0, 0, 0, 1"
+}
+
+cItemPlacement SullivanPreloadDebrisC
+{
+	ItemName = "debris_c"
+	Location = "160.0,-50.0,-187.0"
+	Rotation = "0, 0, 0, 1"
+}
+
+cItemPlacement SullivanGunship
+{
+	DisablePhysicsOnInitialPlacement = "true"
+	ItemName = "GunshipAsFirearm"
+	Location = "0.0, 0.0, 0.0"
+	PropState = "4"
+}
+
+cBossNode GunshipPlayerStart
+{
+	Boss = "cast_sullivan_boss"
+	Location = "141.3,35.1,-207.0"
+	Name = "GunshipPlayerStart"
+	Rotation = "0, 1.57, 0"
+	Type = "9"
+}
+
+cMarkedZone SullivanMeleeZone
+{
+	Boss = "cast_sullivan_boss"
+	Height = "10.0"
+	Name = "SullivanMeleeZone"
+	Point0 = "3.5,2.500,18.600"
+	Point1 = "-4.5,2.500,18.765"
+	Point2 = "-4.5,2.500,27.5"
+	Point3 = "3.5,2.500,27.480"
+	Type = "0"
+}
+
+cMarkedZone SullivanNoExplosionZone
+{
+	Boss = "cast_sullivan_boss"
+	Height = "10.0"
+	Name = "SullivanNoExplosionZone"
+	Point0 = "2.2,-1.0,18.5"
+	Point1 = "-3.3,-1.0,18.5"
+	Point2 = "-3.3,-1.0,27.7"
+	Point3 = "2.2,-1.0,27.7"
+	Type = "4"
+}
+
+cMarkedZone SullivanAllowableZone
+{
+	Boss = "cast_sullivan_boss"
+	Height = "10.0"
+	Name = "SullivanAllowableZone"
+	Point0 = "1.7,2.9,19.2"
+	Point1 = "-2.8,2.900,19.2"
+	Point2 = "-2.8,2.9,27.2"
+	Point3 = "1.7,2.9,27.2"
+	Type = "1"
+}
+
+cMarkedZone SullivanRoofZone
+{
+	Boss = "cast_sullivan_boss"
+	Height = "10.0"
+	Name = "SullivanRoofZone"
+	Point0 = "18.0,-1.5,-4.0"
+	Point1 = "18.0,-1.5,50.0"
+	Point2 = "-16.0,-1.5,50.0"
+	Point3 = "-16.0,-1.5,-4.0"
+	Type = "2"
+}
+
+cMarkedZone SullivanFlareZone
+{
+	Boss = "cast_sullivan_boss"
+	CircleRadius = "5.5"
+	Height = "10.0"
+	Name = "SullivanFlareZone"
+	Point0 = "-4.114,0.000,12.157"
+	Type = "3"
+}
+
+cMarkedZone SullivanFlareZone1
+{
+	Boss = "cast_sullivan_boss"
+	CircleRadius = "5.5"
+	Height = "10.0"
+	Name = "SullivanFlareZone1"
+	Point0 = "4.573,0.000,12.247"
+	Type = "3"
+}
+
+cMarkedZone SullivanFlareZone2
+{
+	Boss = "cast_sullivan_boss"
+	CircleRadius = "5.5"
+	Height = "10.0"
+	Name = "SullivanFlareZone2"
+	Point0 = "4.380,0.000,34.938"
+	Type = "3"
+}
+
+cMarkedZone SullivanFlareZone3
+{
+	Boss = "cast_sullivan_boss"
+	CircleRadius = "5.5"
+	Height = "10.0"
+	Name = "SullivanFlareZone3"
+	Point0 = "-4.128,0.000,35.150"
+	Type = "3"
+}
+
+cMarkedZone SullivanFlareZone4
+{
+	Boss = "cast_sullivan_boss"
+	CircleRadius = "5.5"
+	Height = "10.0"
+	Name = "SullivanFlareZone4"
+	Point0 = "10.152,0.000,22.952"
+	Type = "3"
+}
+
+cMarkedZone SullivanFlareZone5
+{
+	Boss = "cast_sullivan_boss"
+	CircleRadius = "5.5"
+	Height = "10.0"
+	Name = "SullivanFlareZone5"
+	Point0 = "-8.805,0.000,23.976"
+	Type = "3"
+}
+
+cMarkedZone SullivanNoFlareZone0
+{
+	Boss = "cast_sullivan_boss"
+	Height = "10.0"
+	Name = "SullivanNoFlareZone0"
+	Point0 = "10.44,-1.500,29.8"
+	Point1 = "1.939,-1.500,29.8"
+	Point2 = "1.939,-1.500,22.639"
+	Point3 = "10.440,-1.500,22.639"
+	Type = "5"
+}
+
+cMarkedZone SullivanNoFlareZone1
+{
+	Boss = "cast_sullivan_boss"
+	Height = "10.0"
+	Name = "SullivanNoFlareZone1"
+	Point0 = "-5.0,2.500,29.5"
+	Point1 = "-5.0,2.500,16.755"
+	Point2 = "6.089,2.500,16.755"
+	Point3 = "6.089,2.500,29.5"
+	Type = "5"
+}
+
+cMarkedZone SullivanOverthrowZone0
+{
+	Boss = "cast_sullivan_boss"
+	Height = "10.0"
+	Name = "SullivanOverthrowZone0"
+	Point0 = "-5.0,-1.500,29.5"
+	Point1 = "-5.0,-1.500,16.755"
+	Point2 = "6.089,-1.500,16.755"
+	Point3 = "6.089,-1.500,29.5"
+	Type = "6"
+}
+
+cBossNode SullivanLevelInfo
+{
+	Boss = "cast_sullivan_boss"
+	Location = "0,5,0"
+	Name = "SullivanLevelInfo"
+	Radius = "1.0"
+	TargetLocation = "0,0,0"
+	Type = "11"
+}
+
+cBossNode SullivanGunshipOrbitCentre
+{
+	Boss = "cast_sullivan_boss"
+	Location = "0,3.0,24.55"
+	Name = "SullivanGunshipOrbitCentre"
+	Radius = "1.0"
+	TargetLocation = "0,-0.57,0"
+	Type = "1"
+}
+
+cBossNode SullivanShoot0
+{
+	Boss = "cast_sullivan_boss"
+	Location = "-1.0,5,19.6"
+	Name = "SullivanShoot0"
+	Radius = "1.0"
+	Type = "0"
+}
+
+cBossNode SullivanShoot1
+{
+	Boss = "cast_sullivan_boss"
+	Location = "1.84,5,26.6"
+	Name = "SullivanShoot1"
+	Radius = "1.0"
+	Type = "0"
+}
+
+cBossNode SullivanShoot2
+{
+	Boss = "cast_sullivan_boss"
+	Location = "-1.0,5,27.0"
+	Name = "SullivanShoot2"
+	Radius = "1.0"
+	Type = "0"
+}
+
+cBossNode SullivanShoot3
+{
+	Boss = "cast_sullivan_boss"
+	Location = "-2.2,5,23.9"
+	Name = "SullivanShoot3"
+	Radius = "1.0"
+	Type = "0"
+}
+
+

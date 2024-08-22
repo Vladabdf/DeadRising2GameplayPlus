@@ -1,0 +1,13 @@
+cWaypoint Start
+{
+	Location = "-84.604,-1.486,57.795"
+	Type = "0"
+}
+
+cWaypoint Destination
+{
+	Location = "-84.686,-1.486,57.833"
+	Type = "0"
+}
+
+

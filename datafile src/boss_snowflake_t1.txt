@@ -1,0 +1,300 @@
+bossdef boss_snowflake_t1
+{
+	statedef Scripted
+	{
+		max_time  = 10.0
+		min_delay = 8.0
+	}
+
+	statedef Melee
+	{
+		min_dist = 0.0
+		max_dist = 5.0
+		max_time = 8.0
+	}
+
+	statedef MeleePounce
+	{
+		min_dist = 4.0
+		max_dist = 12.0
+		max_time = 4.0
+		min_delay = 5.0
+	}
+	
+	statedef ReactToHit
+	{
+		min_time  = 1.8
+		min_delay = 4.0
+	}
+
+	statedef Relent
+	{
+		min_delay = 10.0
+		max_time = 8.0
+		min_time = 4.0
+	}
+	
+	statedef Charge
+	{
+		min_delay = 8.0
+	}
+
+	locodef
+	{
+		name       = "tiger_idle"
+		id         = 0
+		in_speed   = 0.0
+		in_angle   = 0.0
+		out_speed  = 0.0
+		out_angle  = 0.0
+		turn_angle = 0.0
+	}
+
+	locodef
+	{
+		name       = "tiger_run"
+		id         = 1
+		in_speed   = 2.0
+		in_angle   = 0.0
+		out_speed  = 2.0
+		out_angle  = 0.0 
+		turn_angle = 0.0
+	}
+
+	locodef
+	{
+		name       = "tiger_pivot90"
+		id         = 4
+		in_speed   = 0.0
+		in_angle   = 0.0
+		out_speed  = 0.0
+		out_angle  = 0.0 
+		turn_angle = -90.0
+		speed_warp = 1.5
+	}
+
+	locodef
+	{
+		name       = "tiger_pivot90neg"
+		id         = 5
+		in_speed   = 0.0
+		in_angle   = 0.0
+		out_speed  = 0.0
+		out_angle  = 0.0 
+		turn_angle = 90.0
+		speed_warp = 1.5
+	}
+	
+	locodef
+	{
+		name       = "tiger_pivot180"
+		id         = 6
+		in_speed   = 0.0
+		in_angle   = 0.0
+		out_speed  = 0.0
+		out_angle  = 0.0 
+		turn_angle = -179.0
+		speed_warp = 1.5
+	}
+
+	locodef
+	{
+		name       = "tiger_pivot180neg"
+		id         = 7
+		in_speed   = 0.0
+		in_angle   = 0.0
+		out_speed  = 0.0
+		out_angle  = 0.0 
+		turn_angle = 179.0
+		speed_warp = 1.5
+	}
+
+	locodef
+	{
+		name       = "tiger_walk"
+		id         = 8
+		in_speed   = 0.6
+		in_angle   = 0.0
+		out_speed  = 0.6
+		out_angle  = 0.0 
+		turn_angle = 0.0
+		speed_warp = 1.3
+	}
+
+	locodef
+	{
+		name       = "tiger_idle_to_walk"
+		id         = 9
+		in_speed   = 0.0
+		in_angle   = 0.0
+		out_speed  = 0.6
+		out_angle  = 0.0 
+		turn_angle = 0.0
+		speed_warp = 1.3
+	}
+
+	locodef
+	{
+		name       = "tiger_walk_to_idle"
+		id         = 10
+		in_speed   = 0.6
+		in_angle   = 0.0
+		out_speed  = 0.0
+		out_angle  = 0.0 
+		turn_angle = 0.0
+		speed_warp = 1.3
+	}
+	
+	locodef
+	{
+		name       = "tiger_idle_to_run"
+		id         = 11
+		in_speed   = 0.0
+		in_angle   = 0.0
+		out_speed  = 2.0
+		out_angle  = 0.0 
+		turn_angle = 0.0
+		speed_warp = 1.3
+	}
+
+	locodef
+	{
+		name       = "tiger_run_to_idle"
+		id         = 12
+		in_speed   = 2.0
+		in_angle   = 0.0
+		out_speed  = 0.0
+		out_angle  = 0.0 
+		turn_angle = 0.0
+		speed_warp = 1.3
+	}
+	
+	locodef
+	{
+		name       = "tiger_run_turn90neg"
+		id         = 13
+		in_speed   = 2.0
+		in_angle   = 0.0
+		out_speed  = 2.0
+		out_angle  = 0.0 
+		turn_angle = 90.0
+		speed_warp = 1.3
+	}
+
+	locodef
+	{
+		name       = "tiger_run_turn90"
+		id         = 14
+		in_speed   = 2.0
+		in_angle   = 0.0
+		out_speed  = 2.0
+		out_angle  = 0.0 
+		turn_angle = -90.0
+		speed_warp = 1.3
+	}
+	
+	locodef
+	{
+		name       = "tiger_run_turn45neg"
+		id         = 15
+		in_speed   = 2.0
+		in_angle   = 0.0
+		out_speed  = 2.0
+		out_angle  = 0.0 
+		turn_angle = 45.0
+		speed_warp = 1.3
+	}
+
+	locodef
+	{
+		name       = "tiger_run_turn45"
+		id         = 16
+		in_speed   = 2.0
+		in_angle   = 0.0
+		out_speed  = 2.0
+		out_angle  = 0.0 
+		turn_angle = -45.0
+		speed_warp = 1.3
+	}
+
+	locodef
+	{
+		name       = "tiger_trot"
+		id         = 17
+		in_speed   = 1.0
+		in_angle   = 0.0
+		out_speed  = 1.0
+		out_angle  = 0.0 
+		turn_angle = 0.0
+	}
+
+	locodef
+	{
+		name       = "tiger_idle_to_trot"
+		id         = 17
+		in_speed   = 0.0
+		in_angle   = 0.0
+		out_speed  = 1.0
+		out_angle  = 0.0 
+		turn_angle = 0.0
+	}
+
+	locodef
+	{
+		name       = "tiger_trot_to_idle"
+		id         = 17
+		in_speed   = 1.0
+		in_angle   = 0.0
+		out_speed  = 0.0
+		out_angle  = 0.0 
+		turn_angle = 0.0
+	}
+
+	locodef
+	{
+		name       = "tiger_pivot90_to_run"
+		id         = 18
+		in_speed   = 0.0
+		in_angle   = 0.0
+		out_speed  = 1.0
+		out_angle  = 0.0 
+		turn_angle = -90.0
+		speed_warp = 1.0
+	}
+
+	locodef
+	{
+		name       = "tiger_pivot90neg_to_run"
+		id         = 19
+		in_speed   = 0.0
+		in_angle   = 0.0
+		out_speed  = 1.0
+		out_angle  = 0.0 
+		turn_angle = 90.0
+		speed_warp = 1.0
+	}
+	
+	locodef
+	{
+		name       = "tiger_pivot180_to_run"
+		id         = 20
+		in_speed   = 0.0
+		in_angle   = 0.0
+		out_speed  = 1.0
+		out_angle  = 0.0 
+		turn_angle = -179.0
+		speed_warp = 1.0
+	}
+
+	locodef
+	{
+		name       = "tiger_pivot180neg_to_run"
+		id         = 21
+		in_speed   = 0.0
+		in_angle   = 0.0
+		out_speed  = 1.0
+		out_angle  = 0.0 
+		turn_angle = 179.0
+		speed_warp = 1.0
+	}
+}

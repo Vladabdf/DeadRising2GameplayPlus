@@ -1,0 +1,127 @@
+cItemPlacement zombie_launcher00
+{
+	ItemName = "PikeZombieLauncher"
+	Location = "14.700,-2.290,-7.600"
+	Rotation = "0.000,0.707,0.000,-0.707"
+}
+
+cItemPlacement zombie_launcher01
+{
+	ItemName = "PikeZombieLauncher"
+	Location = "14.700,-2.290,3.430"
+	Rotation = "0.000,0.707,0.000,-0.707"
+}
+
+cItemPlacement zombie_launcher02
+{
+	ItemName = "PikeZombieLauncher"
+	Location = "14.700,-2.290,14.300"
+	Rotation = "0.000,0.707,0.000,-0.707"
+}
+
+cItemPlacement zombie_launcher03
+{
+	ItemName = "PikeZombieLauncher"
+	Location = "5.500,-2.290,25.900"
+	Rotation = "0,1,0,0"
+}
+
+cItemPlacement zombie_launcher04
+{
+	ItemName = "PikeZombieLauncher"
+	Location = "-3.600,-2.290,25.900"
+	Rotation = "0,1,0,0"
+}
+
+cItemPlacement zombie_launcher05
+{
+	ItemName = "PikeZombieLauncher"
+	Location = "-14.070,-2.290,14.300"
+	Rotation = "0.000,0.707,0.000,0.707"
+}
+
+cItemPlacement zombie_launcher06
+{
+	ItemName = "PikeZombieLauncher"
+	Location = "-14.070,-2.290,3.430"
+	Rotation = "0.000,0.707,0.000,0.707"
+}
+
+cItemPlacement zombie_launcher07
+{
+	ItemName = "PikeZombieLauncher"
+	Location = "-14.070,-2.290,-7.600"
+	Rotation = "0.000,0.707,0.000,0.707"
+}
+
+cItemPlacement zombie_launcher08
+{
+	ItemName = "PikeZombieLauncher"
+	Location = "-3.600,-2.290,-21.200"
+	Rotation = "0,0,0,1"
+}
+
+cItemPlacement zombie_launcher09
+{
+	ItemName = "PikeZombieLauncher"
+	Location = "5.500,-2.290,-21.200"
+	Rotation = "0,0,0,1"
+}
+
+
+cPolygonLarge L_Arena
+{
+	Height = "50"
+	NumVertex = "8"
+	Vertex0 = "-93.630,-4.999,94.444"
+	Vertex1 = "-62.356,-4.999,130.415"
+	Vertex2 = "52.363,-4.999,128.838"
+	Vertex3 = "87.449,-4.999,97.758"
+	Vertex4 = "88.708,-4.999,-103.395"
+	Vertex5 = "56.206,-4.999,-136.869"
+	Vertex6 = "-60.088,-4.999,-138.523"
+	Vertex7 = "-93.866,-4.999,-104.083"
+}
+
+cLightContextVolume LC_Arena
+{
+	ContextFileName = "/arena_stadium.csv"
+	QuadName = "L_Arena"
+}
+
+
+cLineSegment zombiescenter
+{
+	Location = "10.513,0.918,48.198"
+	Vertex1 = "-37.226,0.000,-9.374"
+	Vertex2 = "-37.173,0.100,-6.930"
+	Vertex3 = "-35.173,0.100,-6.974"
+	Vertex4 = "-35.226,0.000,-9.418"
+	Vertex5 = "-37.226,1.000,-9.374"
+	Vertex6 = "-37.173,1.100,-6.930"
+	Vertex7 = "-35.173,1.100,-6.974"
+	Vertex8 = "-35.226,1.000,-9.418"
+}
+
+
+cSpawnPoint Start
+{
+	CameraHeading = "-29.615"
+	CameraHeading1 = "26.893"
+	CameraHeading2 = "-153.772"
+	CameraHeading3 = "150.413"
+	CameraPitch = "-15.000"
+	CameraPitch1 = "-15.000"
+	CameraPitch2 = "-15.000"
+	CameraPitch3 = "-15.000"
+	Location0 = "7.910,-2.360,-12.014"
+	Location1 = "-7.976,-2.360,-12.014"
+	Location2 = "7.910,-2.360,19.632"
+	Location3 = "-7.976,-2.360,19.632"
+	Rotation0 = "-0.446"
+	Rotation1 = "0.720"
+	Rotation2 = "-2.382"
+	Rotation3 = "2.625"
+}
+
+

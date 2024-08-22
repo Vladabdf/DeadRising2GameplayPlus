@@ -1,0 +1,41 @@
+cLightContextVolume LC_Shader_Zoo
+{
+	ContextFileName = "/shader_zoo.csv"
+	QuadName = "L_Shader_Zoo"
+}
+
+cPolygonLarge L_Shader_Zoo
+{
+	Height = "36"
+	NumVertex = "4"
+	Vertex0 = "57.064,-17.999,-44.667"
+	Vertex1 = "58.656,-17.999,43.417"
+	Vertex2 = "-48.904,-17.999,45.003"
+	Vertex3 = "-46.745,-17.999,-48.456"
+}
+
+
+cSpawnPoint Start
+{
+	CameraHeading = "3.834"
+	CameraPitch = "-12.217"
+	Location = "46.0, 20.0, -131.0"
+	Location0 = "-0.3, 0.0, 4.4"
+	Rotation = "6.24"
+}
+
+cItemPlacement HandGun
+{
+	ItemName = "HandGun"
+	Location = "29.002,-8.705,-20.447"
+	Rotation = "0,0,0,1"
+}
+
+cItemPlacement BaseballBat
+{
+	ItemName = "BaseballBat"
+	Location = "26.762,-8.707,-19.578"
+	Rotation = "0,0,0,1"
+}
+
+
