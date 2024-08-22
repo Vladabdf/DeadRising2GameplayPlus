@@ -4,6 +4,8 @@
 
 #### Place `datafile.big` in `Dead Rising 2/data` folder. Overwrite when asked.
 
+---
+
 ## Visual changes made
 
 | Effect | Disabled | Enabled | Altered | Description |
@@ -15,12 +17,16 @@
 | Luminence variation | :heavy_check_mark: | - | - | This game is notorious for wildly shifting luminence coverage depending on exactly which spot Chuck is standing at. |
 | Field of View | - | - | :heavy_check_mark: | Default FOV is narrow. Now it's not. |
 
-Additional gameplay changes
+---
+
+## Additional gameplay changes
 
 | Change | Implemented? | Description |
 |--------|--------------|-------------|
 | Combo weapon magazines | - | Combo weapons now have magazine assignments. |
 | TBD | - | - |
+
+---
 
 ## Credit to:
 * Gibbed Dead Rising 2 Tools
