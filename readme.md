@@ -1,5 +1,9 @@
 # Vladabdf's Visual Edits to Dead Rising 2
 
+### Download [here](https://github.com/Vladabdf/DeadRising2VisualEdits/releases).
+
+#### Place `datafile.big` in `Dead Rising 2/data` folder. Overwrite when asked.
+
 ## Changes made
 
 | Effect | Disabled | Enabled | Altered | Description |
