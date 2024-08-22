@@ -31,3 +31,11 @@ Furthermore, the only guide online to disabling some of the slightly intensive (
 I began posting edits to the PCGW page for DR2 on how people can alter those effects themselves, but they were long and likely would be confusing for the average user. While a couple of my changes still remain on that wiki right now, I will not be posting further changes, as it would honestly be easier to just simply download a file and plop it in your game folder. So, that's what you can do.
 
 ## Yay.
+
+---
+
+### Note to PCGamingWiki
+
+I love PCGW. I go to it immediately any time I install a game, new or old, to see what fixes or changes I can make to improve my gaming experience. However, I also notice a lot of binaries are shared directly to PCGW with no link, info, or knowledge on who the creator of said binaries are. Please do not do that with me. If you want to share the binary in question (`datafile.big`) from my `Releases` page, just link people here. Don't upload the thing to your server with no info.
+
+Thanks.
