@@ -16,6 +16,7 @@
 | Game blur fx | :heavy_check_mark: | - | - | Even with the in-game toggle off, many blur effects remain. | 
 | Luminence variation | :heavy_check_mark: | - | - | This game is notorious for wildly shifting luminence coverage depending on exactly which spot Chuck is standing at. |
 | Field of View | - | - | :heavy_check_mark: | Default FOV is narrow. Now it's not. |
+| TBD | - | - | - | - |
 
 ---
 
