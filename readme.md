@@ -6,13 +6,9 @@
 
 ### Visual changes made
 
-#### Download [here](https://github.com/Vladabdf/DeadRising2VisualEdits/releases).
+#### Download [here](https://github.com/Vladabdf/DeadRising2GameplayPlus/releases/tag/visualOnly).
 
-> Place <svg xmlns="http://www.w3.org/2000/svg" height="1em" fill="currentColor" viewBox="0 0 512 512">
-  <path d="M 64 64 Q 65 37 83 19 L 83 19 L 83 19 Q 101 1 128 0 L 288 0 L 288 0 L 288 128 L 288 128 Q 288 142 297 151 Q 306 160 320 160 L 448 160 L 448 160 L 448 448 L 448 448 Q 447 475 429 493 Q 411 511 384 512 L 128 512 L 128 512 Q 101 511 83 493 Q 65 475 64 448 L 64 64 L 64 64 Z M 448 128 L 320 128 L 448 128 L 320 128 L 320 0 L 320 0 L 448 128 L 448 128 Z" />
-</svg>`datafile.big` inside your `Dead Rising 2/data` <svg xmlns="http://www.w3.org/2000/svg" height="1em" fill="currentColor" viewBox="0 0 512 512">
-  <path d="M 64 480 L 448 480 L 64 480 L 448 480 Q 475 479 493 461 Q 511 443 512 416 L 512 160 L 512 160 Q 511 133 493 115 Q 475 97 448 96 L 288 96 L 288 96 Q 272 96 262 83 L 243 58 L 243 58 Q 224 33 192 32 L 64 32 L 64 32 Q 37 33 19 51 Q 1 69 0 96 L 0 416 L 0 416 Q 1 443 19 461 Q 37 479 64 480 L 64 480 Z" />
-</svg> folder. Overwrite when asked.
+> Place <svg xmlns="http://www.w3.org/2000/svg" height="1em" fill="currentColor" viewBox="0 0 512 512"> <path d="M 64 64 Q 65 37 83 19 L 83 19 L 83 19 Q 101 1 128 0 L 288 0 L 288 0 L 288 128 L 288 128 Q 288 142 297 151 Q 306 160 320 160 L 448 160 L 448 160 L 448 448 L 448 448 Q 447 475 429 493 Q 411 511 384 512 L 128 512 L 128 512 Q 101 511 83 493 Q 65 475 64 448 L 64 64 L 64 64 Z M 448 128 L 320 128 L 448 128 L 320 128 L 320 0 L 320 0 L 448 128 L 448 128 Z" /> </svg> `datafile.big` inside your `Dead Rising 2/data` <svg xmlns="http://www.w3.org/2000/svg" height="1em" fill="currentColor" viewBox="0 0 512 512"> <path d="M 64 480 L 448 480 L 64 480 L 448 480 Q 475 479 493 461 Q 511 443 512 416 L 512 160 L 512 160 Q 511 133 493 115 Q 475 97 448 96 L 288 96 L 288 96 Q 272 96 262 83 L 243 58 L 243 58 Q 224 33 192 32 L 64 32 L 64 32 Q 37 33 19 51 Q 1 69 0 96 L 0 416 L 0 416 Q 1 443 19 461 Q 37 479 64 480 L 64 480 Z" /> </svg> folder. Overwrite when asked.
 
 | Effect | Disabled | Enabled | Altered | Description |
 |--------|----------|---------|---------|-------------|
@@ -31,14 +27,10 @@
 
 ### Additional gameplay changes
 
-#### Download [here](https://github.com/Vladabdf/DeadRising2VisualEdits/releases).
+#### Download [here](https://github.com/Vladabdf/DeadRising2GameplayPlus/releases/tag/gameplayPlus).
 
-> Place <svg xmlns="http://www.w3.org/2000/svg" height="1em" fill="currentColor" viewBox="0 0 512 512">
-  <path d="M 64 64 Q 65 37 83 19 L 83 19 L 83 19 Q 101 1 128 0 L 288 0 L 288 0 L 288 128 L 288 128 Q 288 142 297 151 Q 306 160 320 160 L 448 160 L 448 160 L 448 448 L 448 448 Q 447 475 429 493 Q 411 511 384 512 L 128 512 L 128 512 Q 101 511 83 493 Q 65 475 64 448 L 64 64 L 64 64 Z M 448 128 L 320 128 L 448 128 L 320 128 L 320 0 L 320 0 L 448 128 L 448 128 Z" />
-</svg>`datafile.big` inside your `Dead Rising 2/data` <svg xmlns="http://www.w3.org/2000/svg" height="1em" fill="currentColor" viewBox="0 0 512 512">
-  <path d="M 64 480 L 448 480 L 64 480 L 448 480 Q 475 479 493 461 Q 511 443 512 416 L 512 160 L 512 160 Q 511 133 493 115 Q 475 97 448 96 L 288 96 L 288 96 Q 272 96 262 83 L 243 58 L 243 58 Q 224 33 192 32 L 64 32 L 64 32 Q 37 33 19 51 Q 1 69 0 96 L 0 416 L 0 416 Q 1 443 19 461 Q 37 479 64 480 L 64 480 Z" />
-</svg> folder. Overwrite when asked.
-> > *Includes all graphical changes mentioned above*
+> Place <svg xmlns="http://www.w3.org/2000/svg" height="1em" fill="currentColor" viewBox="0 0 512 512"> <path d="M 64 64 Q 65 37 83 19 L 83 19 L 83 19 Q 101 1 128 0 L 288 0 L 288 0 L 288 128 L 288 128 Q 288 142 297 151 Q 306 160 320 160 L 448 160 L 448 160 L 448 448 L 448 448 Q 447 475 429 493 Q 411 511 384 512 L 128 512 L 128 512 Q 101 511 83 493 Q 65 475 64 448 L 64 64 L 64 64 Z M 448 128 L 320 128 L 448 128 L 320 128 L 320 0 L 320 0 L 448 128 L 448 128 Z" /> </svg> `datafile.big` inside your `Dead Rising 2/data` <svg xmlns="http://www.w3.org/2000/svg" height="1em" fill="currentColor" viewBox="0 0 512 512"> <path d="M 64 480 L 448 480 L 64 480 L 448 480 Q 475 479 493 461 Q 511 443 512 416 L 512 160 L 512 160 Q 511 133 493 115 Q 475 97 448 96 L 288 96 L 288 96 Q 272 96 262 83 L 243 58 L 243 58 Q 224 33 192 32 L 64 32 L 64 32 Q 37 33 19 51 Q 1 69 0 96 L 0 416 L 0 416 Q 1 443 19 461 Q 37 479 64 480 L 64 480 Z" /> </svg> folder. Overwrite when asked.
+>> *Includes all graphical changes mentioned above*
 
 | Change | Implemented? | Description |
 |--------|--------------|-------------|
