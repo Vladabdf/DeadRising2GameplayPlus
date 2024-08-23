@@ -37,6 +37,7 @@
 | Combo weapon magazines | :heavy_check_mark: | Combo weapons now have magazine assignments. |
 | TBD | - | - |
 
+#### View the changes to combo weapons [here](./notes/combo.md).
 ---
 
 ## Credit to:
