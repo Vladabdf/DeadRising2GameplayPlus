@@ -70,7 +70,7 @@ mBlurWidth,1
 mBlurDeviation,1
 mExposureMinimum,0.6
 mExposureMaximum,1.4
-xDesiredLuminance,0.128
+mDesiredLuminance,0.128
 mTransitionRate,0.02
 mShadowDepthBiases.x,0.001
 mShadowDepthBiases.y,0.002
